@@ -50,7 +50,7 @@
     });
 
     // Вставляем список фильмов в интерфейс Lampa
-    Lampa.Menu.render().find('[data-component="menu"]').append(movieList);
+    $('body').append(movieList); // Вставляем на страницу
   };
 
   // Функция для добавления кнопки в меню Lampa
