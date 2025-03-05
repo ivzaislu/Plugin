@@ -1,4 +1,4 @@
-"use strict";
+
 
 (function() {
   var apiKey = '9cdde3c5';  // Ваш API ключ для OMDb
