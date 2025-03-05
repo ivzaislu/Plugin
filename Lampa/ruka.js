@@ -1,12 +1,12 @@
-(function(){
+(function() {
     function addHandsButton() {
-        let menu = document.querySelector('.menu__list');
-        if (menu) {
-            let btn = document.createElement('li');
-            btn.classList.add('menu__item');
-            btn.innerHTML = '<a class="menu__link" href="#">🖐 Руки</a>';
+        let menu = document.querySelector('.head__body'); // Основное меню
+        if (menu && !document.querySelector('.menu-item-hands')) {
+            let btn = document.createElement('div');
+            btn.classList.add('head__body-item', 'menu-item-hands');
+            btn.innerHTML = '<span>🖐 Руки</span>';
             btn.addEventListener('click', function() {
-                Lampa.Noty.show('Вы нажали кнопку "Руки"!');
+                Lampa.Noty.show('Вы нажали кнопку "Руки"!'); // Уведомление
             });
 
             menu.appendChild(btn);
