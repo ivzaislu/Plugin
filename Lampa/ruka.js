@@ -60,12 +60,13 @@
       '<div class="menu__text">Фильмы по жанрам</div>' +
     '</li>');
 
+    // Добавляем кнопку в меню
+    Lampa.Menu.render().find('[data-component="menu"]').append(button);
+
+    // Добавляем обработчик события для кнопки
     button.on("hover:enter", function() {
       fetchMoviesByGenre();  // При нажатии выполняется запрос
     });
-
-    // Добавляем кнопку в меню
-    Lampa.Menu.render().find('[data-component="menu"]').append(button);
   };
 
   // Запускаем добавление кнопки в меню после загрузки Lampa
