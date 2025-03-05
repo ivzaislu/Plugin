@@ -1,6 +1,8 @@
 "use strict";
 
 (function () {
+    var apiKey = '9cdde3c5';  // Ваш API ключ для OMDb
+
     var addPyatiletkaToMenu = function () {
         var menuItem = $("<li class='menu__item selector' data-action='mad_pyatiletka'>" +
             "<div class='menu__ico'>" +
@@ -19,9 +21,9 @@
         });
     };
 
-    // Функция для запроса фильмов по пятилеткам через Lampa API (с источником TMDb)
+    // Функция для запроса фильмов по пятилеткам через OMDb API
     var loadMoviesByPeriod = function () {
-        console.log("Запрос к Lampa API...");
+        console.log("Запрос к OMDb API...");
 
         var currentDate = new Date();
         var currentYear = currentDate.getFullYear();
@@ -39,27 +41,16 @@
         var groupedMovies = {};
 
         yearRanges.forEach(function (range) {
-            var query = {
-                source: 'tmdb', // Указываем источник TMDb
-                param: {
-                    primary_release_date_gte: `${range.minYear}-01-01`,
-                    primary_release_date_lte: `${range.maxYear}-12-31`,
-                    sort_by: 'popularity.desc',
-                    language: 'ru,en'
-                }
-            };
+            // Строим URL запроса к OMDb API
+            var url = `http://www.omdbapi.com/?apikey=${apiKey}&type=movie&y=${range.minYear}&y=${range.maxYear}&plot=short&r=json`;
 
-            console.log(`Запрос к источнику TMDb для ${range.period}`);
+            console.log(`Запрос к OMDb API для периода ${range.period}: ${url}`);
 
-            // Запрос к API Lampa для получения фильмов
-            Lampa.Api.request({
-                method: 'discover',
-                source: query.source,
-                param: query.param
-            }, function (data) {
-                if (data && data.results && data.results.length) {
-                    console.log(`Получено ${data.results.length} фильмов для периода ${range.period}`);
-                    groupedMovies[range.period] = data.results;
+            // Выполняем запрос
+            $.get(url, function (data) {
+                if (data.Response === "True") {
+                    console.log(`Получено ${data.Search.length} фильмов для периода ${range.period}`);
+                    groupedMovies[range.period] = data.Search;
                 } else {
                     console.log(`Нет фильмов для периода ${range.period}`);
                 }
@@ -68,8 +59,8 @@
                 if (Object.keys(groupedMovies).length === yearRanges.length) {
                     openPyatiletkaScreen(groupedMovies);
                 }
-            }, function (error) {
-                console.error("Ошибка при запросе к Lampa API:", error);
+            }).fail(function (error) {
+                console.error("Ошибка при запросе к OMDb API:", error);
                 Lampa.Noty.show("Ошибка загрузки данных.");
             });
         });
