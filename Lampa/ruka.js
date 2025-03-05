@@ -1,82 +1,48 @@
-(function() {
-  var apiKey = '9cdde3c5'; // Ваш API ключ для OMDb
-  var genre = 'Action';   // Вы можете изменить на любой другой жанр
+// Ваш API ключ для OMDb API
+const apiKey = 'YOUR_OMDB_API_KEY'; // Замените на ваш ключ API
 
-  // Функция для выполнения запроса
-  var fetchMoviesByGenre = function() {
-    var url = `http://www.omdbapi.com/?apikey=${apiKey}&type=movie&plot=short&r=json`;
+// Функция для запроса данных о фильме из OMDb API
+async function fetchMovieInfo(movieName) {
+    const url = `http://www.omdbapi.com/?t=${encodeURIComponent(movieName)}&apikey=${apiKey}`;
+    try {
+        const response = await fetch(url);
+        const data = await response.json();
 
-    fetch(url)
-      .then(function(response) {
-        return response.json();
-      })
-      .then(function(data) {
         if (data.Response === "True") {
-          var filteredMovies = data.Search.filter(function(movie) {
-            return movie.Genre && movie.Genre.includes(genre);
-          });
-
-          if (filteredMovies.length > 0) {
-            displayMovies(filteredMovies);  // Отображаем фильмы
-          } else {
-            alert("Нет фильмов для жанра: " + genre);
-          }
+            return data;
         } else {
-          alert("Ошибка при получении данных.");
+            throw new Error(data.Error);
         }
-      })
-      .catch(function(error) {
-        alert("Ошибка при выполнении запроса.");
-      });
-  };
+    } catch (error) {
+        alert('Ошибка: ' + error.message);
+        return null;
+    }
+}
 
-  // Функция для отображения фильмов
-  var displayMovies = function(movies) {
-    var movieList = $('<div class="movie-list"></div>');
+// Добавление кнопки в меню Lampa
+lampa.addMenu('search_movie', 'Поиск фильма', () => {
+    // Ожидаем ввода названия фильма
+    const movieName = prompt('Введите название фильма:');
 
-    movies.forEach(function(movie) {
-      var movieItem = $(
-        '<div class="movie-item">' +
-          '<h3>' + movie.Title + ' (' + movie.Year + ')</h3>' +
-          '<p>' + movie.Genre + '</p>' +
-          '<img src="' + movie.Poster + '" alt="' + movie.Title + '" />' +
-        '</div>'
-      );
-      movieList.append(movieItem);
+    if (!movieName) {
+        alert('Название фильма не может быть пустым');
+        return;
+    }
+
+    // Запрос данных о фильме через OMDb API
+    fetchMovieInfo(movieName).then(movieData => {
+        if (movieData) {
+            // Выводим информацию о фильме
+            const movieInfo = `
+                <h2>${movieData.Title} (${movieData.Year})</h2>
+                <p><strong>Режиссёр:</strong> ${movieData.Director}</p>
+                <p><strong>Актёры:</strong> ${movieData.Actors}</p>
+                <p><strong>Описание:</strong> ${movieData.Plot}</p>
+                <img src="${movieData.Poster}" alt="Постер фильма">
+            `;
+            
+            // Выводим результат в UI
+            lampa.showAlert('Информация о фильме', movieInfo);
+        }
     });
-
-    // Вставляем список фильмов в интерфейс
-    $('body').append(movieList);  // Выводим фильмы на странице
-  };
-
-  // Функция для добавления кнопки в меню
-  var addButtonToMenu = function() {
-    var button = $('<li class="menu__item selector" data-action="show_movies_genre">' +
-      '<div class="menu__ico">' +
-        '<svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">' +
-          '<path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM12 20C7.03 20 4 16.97 4 12C4 7.03 7.03 4 12 4C16.97 4 20 7.03 20 12C20 16.97 16.97 20 12 20Z" stroke="currentColor" stroke-width="2.5"></path>' +
-        '</svg>' +
-      '</div>' +
-      '<div class="menu__text">Фильмы по жанрам</div>' +
-    '</li>');
-
-    // Добавляем кнопку в меню
-    Lampa.Menu.render().find('[data-component="menu"]').append(button);
-
-    // Добавляем обработчик события для кнопки
-    button.on("hover:enter", function() {
-      fetchMoviesByGenre();  // При нажатии выполняется запрос
-    });
-  };
-
-  // Запускаем добавление кнопки в меню после загрузки Lampa
-  if (window.appready) {
-    addButtonToMenu();
-  } else {
-    Lampa.Listener.follow("app", function(b) {
-      if (b.type === "ready") {
-        addButtonToMenu();
-      }
-    });
-  }
-})();
+});
