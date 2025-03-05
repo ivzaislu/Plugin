@@ -30,39 +30,42 @@
         
         // Пример запроса для фильмов 2020-2024 года
         var yearRanges = [
-            { period: "2020-2024", minYear: 2020, maxYear: 2024 },
-            { period: "2015-2019", minYear: 2015, maxYear: 2019 },
-            { period: "2010-2014", minYear: 2010, maxYear: 2014 },
-            { period: "2005-2009", minYear: 2005, maxYear: 2009 },
-            { period: "2000-2004", minYear: 2000, maxYear: 2004 }
+            { period: "2020", year: 2020 },
+            { period: "2021", year: 2021 },
+            { period: "2022", year: 2022 },
+            { period: "2023", year: 2023 },
+            { period: "2024", year: 2024 }
         ];
 
-        // Мы будем запрашивать фильмы для каждого периода
+        // Мы будем запрашивать фильмы для каждого года
         var groupedMovies = {};
 
         yearRanges.forEach(function (range) {
-            // Строим URL запроса к OMDb API
-            var url = `http://www.omdbapi.com/?apikey=${apiKey}&type=movie&y=${range.minYear}&y=${range.maxYear}&plot=short&r=json`;
+            // Строим URL запроса к OMDb API для одного года
+            var url = `http://www.omdbapi.com/?apikey=${apiKey}&type=movie&y=${range.year}&plot=short&r=json`;
 
-            console.log(`Запрос к OMDb API для периода ${range.period}: ${url}`);
+            console.log(`Запрос к OMDb API для года ${range.year}: ${url}`);
 
             // Выполняем запрос
-            $.get(url, function (data) {
-                if (data.Response === "True") {
-                    console.log(`Получено ${data.Search.length} фильмов для периода ${range.period}`);
-                    groupedMovies[range.period] = data.Search;
-                } else {
-                    console.log(`Нет фильмов для периода ${range.period}`);
-                }
-
-                // После всех запросов, откроем экран
-                if (Object.keys(groupedMovies).length === yearRanges.length) {
-                    openPyatiletkaScreen(groupedMovies);
-                }
-            }).fail(function (error) {
-                console.error("Ошибка при запросе к OMDb API:", error);
-                Lampa.Noty.show("Ошибка загрузки данных.");
-            });
+            $.get(url)
+                .done(function (data) {
+                    if (data.Response === "True") {
+                        console.log(`Получено ${data.Search.length} фильмов для года ${range.year}`);
+                        groupedMovies[range.period] = data.Search;
+                    } else {
+                        console.log(`Нет фильмов для года ${range.year}`);
+                    }
+                })
+                .fail(function (error) {
+                    console.error(`Ошибка при запросе для года ${range.year}:`, error);
+                    Lampa.Noty.show("Ошибка загрузки данных.");
+                })
+                .always(function () {
+                    // После всех запросов, откроем экран
+                    if (Object.keys(groupedMovies).length === yearRanges.length) {
+                        openPyatiletkaScreen(groupedMovies);
+                    }
+                });
         });
     };
 
@@ -73,7 +76,7 @@
         Object.keys(groupedMovies).forEach(function (period) {
             if (groupedMovies[period].length) {
                 items.push({
-                    title: period,
+                    title: `Фильмы ${period} года`,
                     results: groupedMovies[period]
                 });
             }
