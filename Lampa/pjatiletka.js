@@ -20,6 +20,9 @@
     };
 
     var loadMoviesByPeriod = function () {
+        console.log("Запрос к API..."); // Логирование запроса для дебага
+
+        // Проверяем корректность параметров запроса
         Lampa.Api.request({
             method: 'discover',
             source: 'tmdb',
@@ -30,14 +33,16 @@
                 with_original_language: 'ru,en'
             }
         }, function (data) {
+            console.log("Получены данные:", data); // Логирование полученных данных
             if (data.results && data.results.length) {
                 var groupedMovies = groupMoviesByPeriod(data.results);
                 openPyatiletkaScreen(groupedMovies);
             } else {
-                Lampa.Noty.show("Фильмы не найдены");
+                Lampa.Noty.show("Фильмы не найдены.");
             }
         }, function (error) {
-            Lampa.Noty.show("Ошибка загрузки данных");
+            console.error("Ошибка при запросе:", error); // Логирование ошибки
+            Lampa.Noty.show("Ошибка загрузки данных.");
         });
     };
 
@@ -74,6 +79,11 @@
                 });
             }
         });
+
+        if (items.length === 0) {
+            Lampa.Noty.show("Нет фильмов для отображения.");
+            return;
+        }
 
         Lampa.Activity.push({
             url: "",
