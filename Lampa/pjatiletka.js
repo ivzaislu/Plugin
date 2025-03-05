@@ -14,9 +14,13 @@
             "<div class='menu__text'>Пятилетка</div>" +
             "</li>");
 
+        console.log("Кнопка добавлена в меню");
+
+        // Убедимся, что кнопка добавлена
         Lampa.Menu.render().find("[data-action='catalog']").before(menuItem);
 
         menuItem.on("hover:enter", function () {
+            console.log("Нажата кнопка Пятилетка");
             loadMoviesByPeriod();
         });
     };
