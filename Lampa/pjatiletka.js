@@ -19,55 +19,63 @@
         });
     };
 
+    // Функция для запроса фильмов по пятилеткам через Lampa API (с источником TMDb)
     var loadMoviesByPeriod = function () {
-        console.log("Запрос к API..."); // Логирование запроса для дебага
+        console.log("Запрос к Lampa API...");
 
-        // Проверяем корректность параметров запроса
-        Lampa.Api.request({
-            method: 'discover',
-            source: 'tmdb',
-            param: {
-                sort_by: 'popularity.desc',
-                primary_release_date_gte: '2000-01-01', // Отфильтруем фильмы, начиная с 2000 года
-                primary_release_date_lte: '2024-12-31',
-                with_original_language: 'ru,en'
-            }
-        }, function (data) {
-            console.log("Получены данные:", data); // Логирование полученных данных
-            if (data.results && data.results.length) {
-                var groupedMovies = groupMoviesByPeriod(data.results);
-                openPyatiletkaScreen(groupedMovies);
-            } else {
-                Lampa.Noty.show("Фильмы не найдены.");
-            }
-        }, function (error) {
-            console.error("Ошибка при запросе:", error); // Логирование ошибки
-            Lampa.Noty.show("Ошибка загрузки данных.");
+        var currentDate = new Date();
+        var currentYear = currentDate.getFullYear();
+        
+        // Пример запроса для фильмов 2020-2024 года
+        var yearRanges = [
+            { period: "2020-2024", minYear: 2020, maxYear: 2024 },
+            { period: "2015-2019", minYear: 2015, maxYear: 2019 },
+            { period: "2010-2014", minYear: 2010, maxYear: 2014 },
+            { period: "2005-2009", minYear: 2005, maxYear: 2009 },
+            { period: "2000-2004", minYear: 2000, maxYear: 2004 }
+        ];
+
+        // Мы будем запрашивать фильмы для каждого периода
+        var groupedMovies = {};
+
+        yearRanges.forEach(function (range) {
+            var query = {
+                source: 'tmdb', // Указываем источник TMDb
+                param: {
+                    primary_release_date_gte: `${range.minYear}-01-01`,
+                    primary_release_date_lte: `${range.maxYear}-12-31`,
+                    sort_by: 'popularity.desc',
+                    language: 'ru,en'
+                }
+            };
+
+            console.log(`Запрос к источнику TMDb для ${range.period}`);
+
+            // Запрос к API Lampa для получения фильмов
+            Lampa.Api.request({
+                method: 'discover',
+                source: query.source,
+                param: query.param
+            }, function (data) {
+                if (data && data.results && data.results.length) {
+                    console.log(`Получено ${data.results.length} фильмов для периода ${range.period}`);
+                    groupedMovies[range.period] = data.results;
+                } else {
+                    console.log(`Нет фильмов для периода ${range.period}`);
+                }
+
+                // После всех запросов, откроем экран
+                if (Object.keys(groupedMovies).length === yearRanges.length) {
+                    openPyatiletkaScreen(groupedMovies);
+                }
+            }, function (error) {
+                console.error("Ошибка при запросе к Lampa API:", error);
+                Lampa.Noty.show("Ошибка загрузки данных.");
+            });
         });
     };
 
-    var groupMoviesByPeriod = function (movies) {
-        var periods = {
-            "2020-2024": [],
-            "2015-2019": [],
-            "2010-2014": [],
-            "2005-2009": [],
-            "2000-2004": []
-        };
-
-        movies.forEach(function (movie) {
-            var year = parseInt(movie.release_date ? movie.release_date.substring(0, 4) : "2000");
-
-            if (year >= 2020) periods["2020-2024"].push(movie);
-            else if (year >= 2015) periods["2015-2019"].push(movie);
-            else if (year >= 2010) periods["2010-2014"].push(movie);
-            else if (year >= 2005) periods["2005-2009"].push(movie);
-            else periods["2000-2004"].push(movie);
-        });
-
-        return periods;
-    };
-
+    // Функция группировки фильмов по пятилеткам
     var openPyatiletkaScreen = function (groupedMovies) {
         var items = [];
 
@@ -85,6 +93,7 @@
             return;
         }
 
+        // Открытие экрана с фильмами по пятилеткам
         Lampa.Activity.push({
             url: "",
             title: "Фильмы по пятилеткам",
@@ -94,6 +103,7 @@
         });
     };
 
+    // Добавление кнопки в меню
     window.appready ? addPyatiletkaToMenu() : Lampa.Listener.follow("app", function (event) {
         if (event.type === "ready") addPyatiletkaToMenu();
     });
