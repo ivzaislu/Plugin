@@ -1,6 +1,6 @@
 (function () {
     const API_KEY = "9cdde3c5";
-    const cache = new Map(); // Локальный кэш для хранения рейтингов
+    const cache = new Map();
 
     async function fetchIMDbRating(title) {
         if (cache.has(title)) return cache.get(title);
@@ -18,14 +18,15 @@
     }
 
     async function addIMDbRatings() {
-        document.querySelectorAll('.card__title').forEach(async (card) => {
-            let title = card.innerText.trim(); // Используем innerText для точности
-            let parent = card.closest('.card'); // Ищем контейнер карточки
+        document.querySelectorAll('.card').forEach(async (card) => {
+            let titleElement = card.querySelector('.card__title');
+            if (!titleElement) return;
 
-            if (!parent) return;
+            let title = titleElement.innerText.trim();
+            if (!title) return;
 
-            // Удаляем старые дубли перед добавлением нового рейтинга
-            parent.querySelectorAll('.imdb-rating').forEach(el => el.remove());
+            // Проверяем, нет ли уже блока с рейтингом внутри этой конкретной карточки
+            if (card.querySelector('.imdb-rating')) return;
 
             let rating = await fetchIMDbRating(title);
 
@@ -36,13 +37,12 @@
             ratingElement.style.marginTop = '5px';
             ratingElement.innerText = `IMDb: ${rating}`;
 
-            parent.appendChild(ratingElement);
+            card.appendChild(ratingElement);
         });
     }
 
     document.addEventListener("DOMContentLoaded", addIMDbRatings);
 
-    // Отслеживание новых карточек (динамическая подгрузка)
     let observer = new MutationObserver(addIMDbRatings);
     observer.observe(document.body, { childList: true, subtree: true });
 })();
