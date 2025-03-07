@@ -3,11 +3,16 @@
         console.log("[IPTV Plugin] " + message);
     }
 
+    if (!window.Lampa || !Lampa.Player) {
+        console.error("❌ Ошибка: Lampa или Lampa.Player не найдены!");
+        return;
+    }
+
     let playlists = JSON.parse(localStorage.getItem('my_iptv_playlists') || "[]");
 
     function savePlaylists() {
         localStorage.setItem('my_iptv_playlists', JSON.stringify(playlists));
-        log("Плейлисты сохранены.");
+        log("✅ Плейлисты сохранены.");
     }
 
     function openIPTVMenu() {
@@ -57,6 +62,12 @@
     }
 
     function playIPTV(url) {
+        if (!Lampa.Player || !Lampa.Player.play) {
+            console.error("❌ Ошибка: Встроенный плеер не найден!");
+            Lampa.Noty.show("⚠️ Ошибка: встроенный плеер не поддерживается.");
+            return;
+        }
+
         Lampa.Noty.show("🎬 Открываем IPTV: " + url);
 
         Lampa.Player.play({
@@ -70,7 +81,12 @@
 
     Lampa.Listener.follow('app', (event) => {
         if (event.type === "ready") {
-            log("Lampa загружена, добавляем меню.");
+            if (!Lampa.Menu || !Lampa.Menu.addItem) {
+                console.error("❌ Ошибка: Lampa.Menu.addItem не найден!");
+                return;
+            }
+
+            log("✅ Lampa загружена, добавляем меню.");
             Lampa.Menu.addItem({
                 title: "📺 Мой IPTV",
                 icon: "icon iptv",
@@ -79,5 +95,5 @@
         }
     });
 
-    log("IPTV-плагин загружен.");
+    log("✅ IPTV-плагин загружен.");
 })();
