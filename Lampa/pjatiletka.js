@@ -1,10 +1,4 @@
 function iptvPlugin() {
-    let plugin = {};
-
-    plugin.id = "auto_iptv";
-    plugin.name = "Авто-IPTV";
-    plugin.version = "1.8.0";
-
     // Список бесплатных плейлистов
     let playlists = [
         "https://iptv.axenov.dev/ru.m3u",
@@ -36,28 +30,28 @@ function iptvPlugin() {
         });
     }
 
-    // Функция обновления настроек IPTV в Lampa
+    // Функция обновления настроек IPTV
     function updateIPTVSettings(playlistUrl) {
-        let iptvSettings = Lampa.Storage.get("iptv_list", []);
+        let iptvList = Lampa.Storage.get("iptv_list", []);
 
         // Проверяем, есть ли уже наш плейлист
         let updated = false;
-        for (let i = 0; i < iptvSettings.length; i++) {
-            if (iptvSettings[i].title === "Авто-IPTV") {
-                iptvSettings[i].url = playlistUrl;
+        for (let i = 0; i < iptvList.length; i++) {
+            if (iptvList[i].title === "Авто-IPTV") {
+                iptvList[i].url = playlistUrl;
                 updated = true;
                 break;
             }
         }
         if (!updated) {
-            iptvSettings.push({ title: "Авто-IPTV", url: playlistUrl });
+            iptvList.push({ title: "Авто-IPTV", url: playlistUrl });
         }
 
-        Lampa.Storage.set("iptv_list", iptvSettings);
+        Lampa.Storage.set("iptv_list", iptvList);
         console.log("IPTV-список обновлён:", playlistUrl);
         Lampa.Noty.show("IPTV-список обновлён!");
 
-        // Обновляем встроенный IPTV в Lampa
+        // Перезагружаем IPTV-раздел
         Lampa.Listener.send('iptv', { type: 'update' });
     }
 
@@ -77,19 +71,15 @@ function iptvPlugin() {
         }
     }
 
-    plugin.run = function () {
-        // Следим за открытием настроек IPTV и добавляем кнопку
-        Lampa.Listener.follow('settings', function (event) {
-            if (event.name === 'open' && event.component === 'iptv') {
-                addIPTVSettingsButton();
-            }
-        });
+    // Следим за открытием настроек IPTV и добавляем кнопку
+    Lampa.Listener.follow('settings', function (event) {
+        if (event.name === 'open' && event.component === 'iptv') {
+            addIPTVSettingsButton();
+        }
+    });
 
-        fetchAndUpdateIPTV(); // Автообновление при запуске плагина
-    };
-
-    return plugin;
+    fetchAndUpdateIPTV(); // Автообновление при запуске
 }
 
-// Добавляем плагин в Lampa, но НЕ отображаем его в списке плагинов
-Lampa.Plugins.add(iptvPlugin());
+// Просто выполняем код, БЕЗ ДОБАВЛЕНИЯ В СПИСОК ПЛАГИНОВ
+iptvPlugin();
