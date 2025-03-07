@@ -3,7 +3,7 @@ function iptvPlugin() {
 
     plugin.id = "auto_iptv";
     plugin.name = "Авто-IPTV";
-    plugin.version = "1.7.0";
+    plugin.version = "1.8.0";
 
     // Список бесплатных плейлистов
     let playlists = [
@@ -40,7 +40,7 @@ function iptvPlugin() {
     function updateIPTVSettings(playlistUrl) {
         let iptvSettings = Lampa.Storage.get("iptv_list", []);
 
-        // Добавляем или обновляем плейлист
+        // Проверяем, есть ли уже наш плейлист
         let updated = false;
         for (let i = 0; i < iptvSettings.length; i++) {
             if (iptvSettings[i].title === "Авто-IPTV") {
@@ -91,5 +91,5 @@ function iptvPlugin() {
     return plugin;
 }
 
-// Добавляем плагин в Lampa, но он не будет отображаться в "Плагины"
-Lampa.Plugins.add(iptvPlugin(), false);
+// Добавляем плагин в Lampa, но НЕ отображаем его в списке плагинов
+Lampa.Plugins.add(iptvPlugin());
