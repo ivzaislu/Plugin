@@ -3,7 +3,7 @@ function iptvPlugin() {
 
     plugin.id = "iptv_auto";
     plugin.name = "Авто-IPTV";
-    plugin.version = "1.0.0";
+    plugin.version = "1.1.0";
 
     // URL-адреса с плейлистами
     let playlists = [
@@ -17,7 +17,7 @@ function iptvPlugin() {
             .then(response => response.text())
             .then(data => {
                 let channels = parseM3U(data);
-                addToLampa(channels);
+                saveToLampa(channels);
             })
             .catch(err => console.error("Ошибка загрузки IPTV:", err));
     }
@@ -37,15 +37,42 @@ function iptvPlugin() {
         return channels;
     }
 
-    // Добавляем каналы в Lampa
-    function addToLampa(channels) {
+    // Сохраняем каналы в локальное хранилище Lampa
+    function saveToLampa(channels) {
         Lampa.Storage.set("iptv_channels", channels);
-        console.log("Добавлено " + channels.length + " каналов в Lampa");
+        console.log("Добавлено " + channels.length + " IPTV-каналов в Lampa");
     }
 
-    // Функция запуска обновления
+    // Добавляем раздел IPTV в меню Lampa
+    function addMenu() {
+        Lampa.Listener.follow("app", function (event) {
+            if (event.type === "ready") {
+                let channels = Lampa.Storage.get("iptv_channels", []);
+                
+                if (channels.length > 0) {
+                    let menu_item = {
+                        title: "IPTV Каналы",
+                        icon: "tv",
+                        callback: function () {
+                            Lampa.Activity.push({
+                                url: "",
+                                title: "IPTV Каналы",
+                                component: "iptv_component"
+                            });
+                        }
+                    };
+
+                    Lampa.Menu.append(menu_item);
+                    console.log("Раздел 'IPTV Каналы' добавлен в меню Lampa");
+                }
+            }
+        });
+    }
+
+    // Запускаем обновление IPTV
     plugin.run = function () {
         playlists.forEach(fetchPlaylist);
+        addMenu();
     };
 
     return plugin;
