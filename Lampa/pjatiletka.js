@@ -3,7 +3,7 @@ function iptvPlugin() {
 
     plugin.id = "auto_iptv";
     plugin.name = "Авто-IPTV";
-    plugin.version = "1.6.0";
+    plugin.version = "1.7.0";
 
     // Список бесплатных плейлистов
     let playlists = [
@@ -40,10 +40,20 @@ function iptvPlugin() {
     function updateIPTVSettings(playlistUrl) {
         let iptvSettings = Lampa.Storage.get("iptv_list", []);
 
-        // Удаляем старые плейлисты и добавляем новый
-        iptvSettings = [{ title: "Авто-IPTV", url: playlistUrl }];
-        Lampa.Storage.set("iptv_list", iptvSettings);
+        // Добавляем или обновляем плейлист
+        let updated = false;
+        for (let i = 0; i < iptvSettings.length; i++) {
+            if (iptvSettings[i].title === "Авто-IPTV") {
+                iptvSettings[i].url = playlistUrl;
+                updated = true;
+                break;
+            }
+        }
+        if (!updated) {
+            iptvSettings.push({ title: "Авто-IPTV", url: playlistUrl });
+        }
 
+        Lampa.Storage.set("iptv_list", iptvSettings);
         console.log("IPTV-список обновлён:", playlistUrl);
         Lampa.Noty.show("IPTV-список обновлён!");
 
@@ -51,21 +61,24 @@ function iptvPlugin() {
         Lampa.Listener.send('iptv', { type: 'update' });
     }
 
-    // Добавляем кнопку "Обновить IPTV" в меню настроек IPTV
+    // Добавляем кнопку "Обновить IPTV" в настройки IPTV
     function addIPTVSettingsButton() {
-        Lampa.Settings.main().find('[data-component="iptv"]').append(`
-            <div class="settings-param selector" id="update_iptv">
-                <div class="settings-param__name">Обновить IPTV</div>
-                <div class="settings-param__descr">Обновить список бесплатных IPTV-каналов</div>
-            </div>
-        `);
+        let settingsPage = Lampa.Settings.main().find('[data-component="iptv"]');
+        if (!settingsPage.find("#update_iptv").length) {
+            settingsPage.append(`
+                <div class="settings-param selector" id="update_iptv">
+                    <div class="settings-param__name">Обновить IPTV</div>
+                    <div class="settings-param__descr">Загрузить новый список каналов</div>
+                </div>
+            `);
 
-        // Назначаем действие на кнопку
-        $("#update_iptv").on("hover:enter", fetchAndUpdateIPTV);
-        console.log("Кнопка 'Обновить IPTV' добавлена в настройки IPTV");
+            $("#update_iptv").on("hover:enter", fetchAndUpdateIPTV);
+            console.log("Кнопка 'Обновить IPTV' добавлена в настройки IPTV");
+        }
     }
 
     plugin.run = function () {
+        // Следим за открытием настроек IPTV и добавляем кнопку
         Lampa.Listener.follow('settings', function (event) {
             if (event.name === 'open' && event.component === 'iptv') {
                 addIPTVSettingsButton();
@@ -78,4 +91,5 @@ function iptvPlugin() {
     return plugin;
 }
 
-Lampa.Plugins.add(iptvPlugin());
+// Добавляем плагин в Lampa, но он не будет отображаться в "Плагины"
+Lampa.Plugins.add(iptvPlugin(), false);
