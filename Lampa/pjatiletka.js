@@ -57,26 +57,15 @@
     }
 
     function playIPTV(url) {
-        Lampa.Noty.show("🎬 Открываем через VLC: " + url);
+        Lampa.Noty.show("🎬 Открываем IPTV: " + url);
 
-        let vlcIntent = {
-            action: "android.intent.action.VIEW",
-            data: url,
-            type: "video/x-mpegurl",
-            package: "org.videolan.vlc"
-        };
+        Lampa.Player.play({
+            title: "📺 IPTV Плеер",
+            url: url,
+            method: "play"
+        });
 
-        if (Lampa.Utils && Lampa.Utils.openIntent) {
-            try {
-                Lampa.Utils.openIntent(vlcIntent);
-                log("✅ Поток отправлен в VLC.");
-            } catch (e) {
-                Lampa.Noty.show("❌ Ошибка: VLC не найден!");
-                log("Ошибка VLC: " + e.message);
-            }
-        } else {
-            Lampa.Noty.show("⚠️ Ошибка: Lampa.Utils не поддерживает openIntent.");
-        }
+        log("✅ Поток запущен через встроенный плеер.");
     }
 
     Lampa.Listener.follow('app', (event) => {
