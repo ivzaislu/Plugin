@@ -1,84 +1,55 @@
-(function () {
-    const API_KEY = "9cdde3c5";
-    const cache = new Map();
+function iptvPlugin() {
+    let plugin = {};
 
-    async function fetchMovieDetails(title) {
-        if (cache.has(title)) return cache.get(title);
+    plugin.id = "iptv_auto";
+    plugin.name = "Авто-IPTV";
+    plugin.version = "1.0.0";
 
-        try {
-            let response = await fetch(`https://www.omdbapi.com/?t=${encodeURIComponent(title)}&apikey=${API_KEY}`);
-            let data = await response.json();
+    // URL-адреса с плейлистами
+    let playlists = [
+        "https://iptv.axenov.dev/ru.m3u",
+        "https://github.com/smolnp/IPTVru/raw/main/iptv.m3u"
+    ];
 
-            if (data.Response === "True" && data.Actors) {
-                let actors = data.Actors.split(", ");
-                cache.set(title, actors);
-                return actors;
+    // Функция загрузки и обработки плейлиста
+    function fetchPlaylist(url) {
+        return fetch(url)
+            .then(response => response.text())
+            .then(data => {
+                let channels = parseM3U(data);
+                addToLampa(channels);
+            })
+            .catch(err => console.error("Ошибка загрузки IPTV:", err));
+    }
+
+    // Разбираем плейлист M3U
+    function parseM3U(data) {
+        let lines = data.split("\n");
+        let channels = [];
+
+        for (let i = 0; i < lines.length; i++) {
+            if (lines[i].startsWith("#EXTINF")) {
+                let name = lines[i].split(",")[1].trim();
+                let url = lines[i + 1].trim();
+                channels.push({ name, url });
             }
-        } catch (error) {
-            console.error("Ошибка IMDb API:", error);
         }
-        return [];
+        return channels;
     }
 
-    async function addActorLinksInMovieCard() {
-        let titleElement = document.querySelector('.full-start__title');
-        if (!titleElement) return;
-
-        let title = titleElement.innerText.trim();
-        if (!title) return;
-
-        let detailsBlock = document.querySelector('.full-start__info'); // Где будут имена актёров
-        if (!detailsBlock || detailsBlock.querySelector('.actor-links')) return;
-
-        let actors = await fetchMovieDetails(title);
-        if (actors.length === 0) return;
-
-        let container = document.createElement('div');
-        container.className = "actor-links";
-        container.style.marginTop = "10px";
-        container.style.fontSize = "16px";
-        container.style.color = "lightblue";
-
-        let label = document.createElement('div');
-        label.innerText = "Актёры:";
-        label.style.fontWeight = "bold";
-        container.appendChild(label);
-
-        actors.forEach(actor => {
-            let link = document.createElement('span');
-            link.innerText = actor;
-            link.style.cursor = "pointer";
-            link.style.marginRight = "10px";
-            link.style.textDecoration = "underline";
-
-            // Добавляем обработчик клика
-            link.onclick = () => openActorCollection(actor);
-
-            container.appendChild(link);
-        });
-
-        detailsBlock.appendChild(container);
+    // Добавляем каналы в Lampa
+    function addToLampa(channels) {
+        Lampa.Storage.set("iptv_channels", channels);
+        console.log("Добавлено " + channels.length + " каналов в Lampa");
     }
 
-    function openActorCollection(actor) {
-        Lampa.Activity.push({
-            url: '',
-            title: `Фильмы с ${actor}`,
-            component: 'category',
-            page: 1,
-            genres: [],
-            search: actor
-        });
-    }
+    // Функция запуска обновления
+    plugin.run = function () {
+        playlists.forEach(fetchPlaylist);
+    };
 
-    function checkMovieCard() {
-        if (document.querySelector('.full-start')) {
-            addActorLinksInMovieCard();
-        }
-    }
+    return plugin;
+}
 
-    document.addEventListener("DOMContentLoaded", checkMovieCard);
-
-    let observer = new MutationObserver(checkMovieCard);
-    observer.observe(document.body, { childList: true, subtree: true });
-})();
+// Регистрируем плагин в Lampa
+Lampa.Plugins.add(iptvPlugin());
