@@ -1,12 +1,12 @@
 function iptvPlugin() {
-    // Ссылка на M3U плейлист
-    let playlistUrl = "https://cub.red/iptv_list.m3u"; // Замените на актуальную ссылку
+    // Пример URL плейлиста с GitHub и Aksenov
+    let playlistUrlGitHub = "https://raw.githubusercontent.com/username/repository/master/iptv.m3u";  // Замените на актуальную ссылку
+    let playlistUrlAksenov = "https://aksenov.com/iptv.m3u"; // Замените на актуальную ссылку
 
     // Функция для добавления пункта в меню IPTV
     function addIPTVMenuOption() {
-        // Получаем меню IPTV
         let menu = Lampa.Menu.active();
-        
+
         // Проверяем, что мы находимся в разделе IPTV
         if (menu && menu === "iptv") {
             // Проверяем, есть ли уже наш пункт в меню
@@ -15,37 +15,51 @@ function iptvPlugin() {
                 $("#iptv .settings").append(`
                     <div class="settings-param selector" id="add_iptv_playlist">
                         <div class="settings-param__name">Добавить IPTV плейлист</div>
-                        <div class="settings-param__descr">Добавьте плейлист с cub.red</div>
+                        <div class="settings-param__descr">Добавьте плейлист с GitHub или Aksenov</div>
                     </div>
                 `);
 
                 // Добавляем обработчик нажатия на новый пункт меню
                 $("#add_iptv_playlist").on("hover:enter", function() {
-                    addPlaylistToIPTV();
+                    // Сохраняем ссылку на плейлист в localStorage (с GitHub или Aksenov)
+                    let selectedUrl = playlistUrlGitHub; // По умолчанию выбираем GitHub
+                    savePlaylistToLocalStorage(selectedUrl);
+                    Lampa.Noty.show("Плейлист сохранен в localStorage.");
                 });
             }
         }
     }
 
-    // Функция для добавления ссылки в IPTV
-    function addPlaylistToIPTV() {
-        // Здесь мы будем взаимодействовать с полем ввода и добавлять URL плейлиста
-        let inputField = $(".iptv-link-input"); // Поиск поля для ввода ссылки (проверьте селектор)
-        
-        if (inputField.length) {
-            // Вставляем URL плейлиста в поле ввода
-            inputField.val(playlistUrl);
+    // Функция для сохранения плейлиста в localStorage
+    function savePlaylistToLocalStorage(url) {
+        localStorage.setItem('iptvPlaylistUrl', url);
+    }
 
-            // Нажимаем кнопку "Добавить" (проверьте селектор кнопки)
-            let addButton = $(".iptv-add-button"); 
-            if (addButton.length) {
-                addButton[0].click();
-                Lampa.Noty.show("Плейлист с cub.red был добавлен!");
+    // Функция для добавления плейлиста из localStorage в IPTV
+    function addPlaylistToIPTV() {
+        // Получаем URL из localStorage
+        let storedUrl = localStorage.getItem('iptvPlaylistUrl');
+
+        if (storedUrl) {
+            // Здесь мы будем взаимодействовать с полем ввода и добавлять URL плейлиста
+            let inputField = $(".iptv-link-input"); // Подсказка: проверьте селектор для поля ввода
+            if (inputField.length) {
+                // Вставляем URL плейлиста в поле ввода
+                inputField.val(storedUrl);
+
+                // Нажимаем кнопку "Добавить" (подсказка: проверьте селектор кнопки)
+                let addButton = $(".iptv-add-button");
+                if (addButton.length) {
+                    addButton[0].click();
+                    Lampa.Noty.show("Плейлист был добавлен!");
+                } else {
+                    Lampa.Noty.show("Не удалось найти кнопку 'Добавить'.");
+                }
             } else {
-                Lampa.Noty.show("Не удалось найти кнопку 'Добавить'.");
+                Lampa.Noty.show("Не удалось найти поле для ввода ссылки.");
             }
         } else {
-            Lampa.Noty.show("Не удалось найти поле для ввода ссылки.");
+            Lampa.Noty.show("Ссылка на плейлист не найдена в localStorage.");
         }
     }
 
@@ -55,6 +69,9 @@ function iptvPlugin() {
             addIPTVMenuOption();
         }
     });
+
+    // Запуск функции для добавления плейлиста (например, через кнопку в интерфейсе)
+    addPlaylistToIPTV();
 }
 
 // Запуск плагина
