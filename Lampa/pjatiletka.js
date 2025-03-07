@@ -10,8 +10,9 @@
             let data = await response.json();
 
             if (data.Response === "True" && data.Actors) {
-                cache.set(title, data.Actors);
-                return data.Actors.split(", ");
+                let actors = data.Actors.split(", ");
+                cache.set(title, actors);
+                return actors;
             }
         } catch (error) {
             console.error("Ошибка IMDb API:", error);
@@ -19,41 +20,44 @@
         return [];
     }
 
-    async function addActorLinks() {
-        document.querySelectorAll('.card').forEach(async (card) => {
-            let titleElement = card.querySelector('.card__title');
-            if (!titleElement) return;
+    async function addActorLinksInMovieCard() {
+        let titleElement = document.querySelector('.full-start__title');
+        if (!titleElement) return;
 
-            let title = titleElement.innerText.trim();
-            if (!title) return;
+        let title = titleElement.innerText.trim();
+        if (!title) return;
 
-            // Убираем дубли
-            if (card.querySelector('.actor-links')) return;
+        let detailsBlock = document.querySelector('.full-start__info'); // Где будут имена актёров
+        if (!detailsBlock || detailsBlock.querySelector('.actor-links')) return;
 
-            let actors = await fetchMovieDetails(title);
-            if (actors.length === 0) return;
+        let actors = await fetchMovieDetails(title);
+        if (actors.length === 0) return;
 
-            let container = document.createElement('div');
-            container.className = "actor-links";
-            container.style.marginTop = "5px";
-            container.style.fontSize = "14px";
-            container.style.color = "lightblue";
+        let container = document.createElement('div');
+        container.className = "actor-links";
+        container.style.marginTop = "10px";
+        container.style.fontSize = "16px";
+        container.style.color = "lightblue";
 
-            actors.forEach(actor => {
-                let link = document.createElement('span');
-                link.innerText = actor;
-                link.style.cursor = "pointer";
-                link.style.marginRight = "10px";
-                link.style.textDecoration = "underline";
+        let label = document.createElement('div');
+        label.innerText = "Актёры:";
+        label.style.fontWeight = "bold";
+        container.appendChild(label);
 
-                // Добавляем обработчик клика
-                link.onclick = () => openActorCollection(actor);
+        actors.forEach(actor => {
+            let link = document.createElement('span');
+            link.innerText = actor;
+            link.style.cursor = "pointer";
+            link.style.marginRight = "10px";
+            link.style.textDecoration = "underline";
 
-                container.appendChild(link);
-            });
+            // Добавляем обработчик клика
+            link.onclick = () => openActorCollection(actor);
 
-            card.appendChild(container);
+            container.appendChild(link);
         });
+
+        detailsBlock.appendChild(container);
     }
 
     function openActorCollection(actor) {
@@ -67,8 +71,14 @@
         });
     }
 
-    document.addEventListener("DOMContentLoaded", addActorLinks);
+    function checkMovieCard() {
+        if (document.querySelector('.full-start')) {
+            addActorLinksInMovieCard();
+        }
+    }
 
-    let observer = new MutationObserver(addActorLinks);
+    document.addEventListener("DOMContentLoaded", checkMovieCard);
+
+    let observer = new MutationObserver(checkMovieCard);
     observer.observe(document.body, { childList: true, subtree: true });
 })();
