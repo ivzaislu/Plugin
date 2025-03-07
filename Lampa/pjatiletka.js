@@ -9,7 +9,13 @@
         let list = playlists.map((url, index) => ({
             title: "Плейлист " + (index + 1),
             subtitle: url,
-            action: () => playIPTV(url)
+            action: () => playIPTV(url),
+            deleteAction: () => {
+                playlists.splice(index, 1);
+                savePlaylists();
+                Lampa.Noty.show("Плейлист удален");
+                openIPTVMenu();
+            }
         }));
 
         list.push({
@@ -47,8 +53,20 @@
     }
 
     function playIPTV(url) {
-        Lampa.Noty.show("Загружаем IPTV: " + url);
-        // Здесь можно интегрировать плеер для воспроизведения плейлиста
+        Lampa.Noty.show("Открываем плейлист через VLC: " + url);
+        
+        let vlcIntent = {
+            action: "android.intent.action.VIEW",
+            data: url,
+            type: "video/x-mpegurl",
+            package: "org.videolan.vlc"
+        };
+
+        try {
+            Lampa.Utils.openIntent(vlcIntent);
+        } catch (e) {
+            Lampa.Noty.show("Ошибка: VLC не найден!");
+        }
     }
 
     Lampa.Listener.follow('app', (event) => {
