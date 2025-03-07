@@ -1,71 +1,63 @@
-function manualIPTVPlugin() {
-    function addIPTVMenuOption() {
-        let menu = Lampa.Menu.active();
+(function () {
+    let playlists = JSON.parse(localStorage.getItem('my_iptv_playlists')) || [];
 
-        if (menu && menu === "iptv") {
-            if ($("#manual_iptv_playlist").length === 0) {
-                $("#iptv .settings").append(`
-                    <div class="settings-param selector" id="manual_iptv_playlist">
-                        <div class="settings-param__name">Добавить IPTV-плейлист вручную</div>
-                        <div class="settings-param__descr">Введите ссылку на M3U</div>
-                    </div>
-                `);
-
-                $("#manual_iptv_playlist").on("hover:enter", function() {
-                    Lampa.Settings.show({
-                        title: "Введите ссылку",
-                        input: true,
-                        nohide: false,
-                        value: "",
-                        onBack: () => {
-                            Lampa.Settings.back();
-                        },
-                        onSelect: (value) => {
-                            if (value.trim() !== "") {
-                                localStorage.setItem('iptvPlaylistUrl', value.trim());
-                                Lampa.Noty.show("Ссылка сохранена!");
-                            } else {
-                                Lampa.Noty.show("Ссылка не может быть пустой!");
-                            }
-                        }
-                    });
-                });
-            }
-        }
+    function savePlaylists() {
+        localStorage.setItem('my_iptv_playlists', JSON.stringify(playlists));
     }
 
-    function addPlaylistToIPTV() {
-        let storedUrl = localStorage.getItem('iptvPlaylistUrl');
+    function openIPTVMenu() {
+        let list = playlists.map((url, index) => ({
+            title: "Плейлист " + (index + 1),
+            subtitle: url,
+            action: () => playIPTV(url)
+        }));
 
-        if (storedUrl) {
-            Lampa.Noty.show("Загружаем плейлист: " + storedUrl);
-            
-            let inputField = $(".iptv-link-input");
-            if (inputField.length) {
-                inputField.val(storedUrl);
+        list.push({
+            title: "➕ Добавить новый плейлист",
+            action: addNewPlaylist
+        });
 
-                let addButton = $(".iptv-add-button");
-                if (addButton.length) {
-                    addButton[0].click();
-                    Lampa.Noty.show("Плейлист успешно добавлен!");
+        Lampa.Select.show({
+            title: "Мой IPTV",
+            items: list,
+            onBack: () => {
+                Lampa.Menu.show();
+            }
+        });
+    }
+
+    function addNewPlaylist() {
+        Lampa.Settings.show({
+            title: "Введите M3U-ссылку",
+            input: true,
+            nohide: false,
+            value: "",
+            onBack: openIPTVMenu,
+            onSelect: (value) => {
+                if (value.trim()) {
+                    playlists.push(value.trim());
+                    savePlaylists();
+                    Lampa.Noty.show("Плейлист добавлен!");
+                    openIPTVMenu();
                 } else {
-                    Lampa.Noty.show("Не найдена кнопка 'Добавить'.");
+                    Lampa.Noty.show("Ошибка: ссылка пустая.");
                 }
-            } else {
-                Lampa.Noty.show("Поле ввода ссылки не найдено.");
             }
-        } else {
-            Lampa.Noty.show("Плейлист не найден в localStorage. Добавьте его вручную.");
-        }
+        });
     }
 
-    Lampa.Listener.follow('settings', function(event) {
-        if (event.name === 'open') {
-            addIPTVMenuOption();
+    function playIPTV(url) {
+        Lampa.Noty.show("Загружаем IPTV: " + url);
+        // Здесь можно интегрировать плеер для воспроизведения плейлиста
+    }
+
+    Lampa.Listener.follow('app', (event) => {
+        if (event.type === "ready") {
+            Lampa.Menu.addItem({
+                title: "Мой IPTV",
+                icon: "icon iptv",
+                action: openIPTVMenu
+            });
         }
     });
-
-    addPlaylistToIPTV();
-}
-
-manualIPTVPlugin();
+})();
