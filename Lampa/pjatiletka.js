@@ -1,43 +1,7 @@
 function iptvPlugin() {
-    let playlists = [
-        "https://iptv.axenov.dev/ru.m3u",
-        "https://github.com/smolnp/IPTVru/raw/main/iptv.m3u"
-    ];
+    let playlistUrl = "https://iptv.axenov.dev/ru.m3u"; // Твой IPTV-плейлист
 
-    function fetchAndUpdateIPTV() {
-        console.log("Начинаем обновление IPTV...");
-        let validPlaylist = null;
-
-        let fetchPromises = playlists.map(url =>
-            fetch(url)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error("Ошибка загрузки: " + response.status);
-                    }
-                    return response.text();
-                })
-                .then(data => {
-                    if (data.includes("#EXTM3U")) {
-                        validPlaylist = url;
-                    } else {
-                        console.warn("Файл не похож на M3U:", url);
-                    }
-                })
-                .catch(err => console.error("Ошибка загрузки плейлиста:", err))
-        );
-
-        Promise.all(fetchPromises).then(() => {
-            if (validPlaylist) {
-                console.log("Рабочий плейлист найден:", validPlaylist);
-                updateIPTVSettings(validPlaylist);
-            } else {
-                console.error("Не удалось найти рабочий IPTV-плейлист!");
-                Lampa.Noty.show("Ошибка обновления IPTV! Нет рабочих ссылок.");
-            }
-        });
-    }
-
-    function updateIPTVSettings(playlistUrl) {
+    function updateIPTVSettings() {
         let iptvList = Lampa.Storage.get("iptv_list", []);
 
         let updated = false;
@@ -53,8 +17,8 @@ function iptvPlugin() {
         }
 
         Lampa.Storage.set("iptv_list", iptvList);
-        console.log("IPTV-список обновлён:", playlistUrl);
-        Lampa.Noty.show("IPTV-список обновлён!");
+        console.log("Ссылка на IPTV добавлена:", playlistUrl);
+        Lampa.Noty.show("Ссылка на IPTV обновлена!");
 
         Lampa.Listener.send('iptv', { type: 'update' });
     }
@@ -65,11 +29,11 @@ function iptvPlugin() {
             settingsPage.append(`
                 <div class="settings-param selector" id="update_iptv">
                     <div class="settings-param__name">Обновить IPTV</div>
-                    <div class="settings-param__descr">Загрузить новый список каналов</div>
+                    <div class="settings-param__descr">Добавить новую ссылку на плейлист</div>
                 </div>
             `);
 
-            $("#update_iptv").on("hover:enter", fetchAndUpdateIPTV);
+            $("#update_iptv").on("hover:enter", updateIPTVSettings);
             console.log("Кнопка 'Обновить IPTV' добавлена в настройки IPTV");
         }
     }
@@ -80,7 +44,7 @@ function iptvPlugin() {
         }
     });
 
-    fetchAndUpdateIPTV();
+    updateIPTVSettings(); // Автоматически добавляем ссылку при запуске
 }
 
 iptvPlugin();
