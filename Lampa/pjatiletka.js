@@ -1,5 +1,5 @@
 function iptvPlugin() {
-    let playlistUrl = "https://iptv.axenov.dev/ru.m3u"; // Твой IPTV-плейлист
+    let playlistUrl = "https://iptv.axenov.dev/ru.m3u"; // Ваша ссылка на плейлист
 
     function updateIPTVSettings() {
         let iptvList = Lampa.Storage.get("iptv_list", []);
@@ -24,9 +24,10 @@ function iptvPlugin() {
     }
 
     function addIPTVSettingsButton() {
-        let settingsPage = Lampa.Settings.main().find('[data-component="iptv"]');
-        if (!settingsPage.find("#update_iptv").length) {
-            settingsPage.append(`
+        let settingsMenu = Lampa.Settings.main();
+
+        if (!settingsMenu.find("#update_iptv").length) {
+            settingsMenu.append(`
                 <div class="settings-param selector" id="update_iptv">
                     <div class="settings-param__name">Обновить IPTV</div>
                     <div class="settings-param__descr">Добавить новую ссылку на плейлист</div>
@@ -34,12 +35,12 @@ function iptvPlugin() {
             `);
 
             $("#update_iptv").on("hover:enter", updateIPTVSettings);
-            console.log("Кнопка 'Обновить IPTV' добавлена в настройки IPTV");
+            console.log("Кнопка 'Обновить IPTV' добавлена в настройки");
         }
     }
 
     Lampa.Listener.follow('settings', function (event) {
-        if (event.name === 'open' && event.component === 'iptv') {
+        if (event.name === 'open') {
             addIPTVSettingsButton();
         }
     });
