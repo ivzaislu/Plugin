@@ -1,51 +1,50 @@
 function iptvPlugin() {
-    let playlistUrl = "https://iptv.axenov.dev/ru.m3u"; // Ваша ссылка на плейлист
+    // Ссылка на новый M3U плейлист
+    let playlistUrl = "https://cub.red/iptv_list.m3u"; // Пример URL (заменить на актуальный)
 
-    function updateIPTVSettings() {
-        let iptvList = Lampa.Storage.get("iptv_list", []);
+    // Функция для добавления плейлиста в IPTV
+    function addPlaylistToIPTV() {
+        // Проверяем, открыт ли уже плагин IPTV
+        let iptvSection = Lampa.Menu.active();
 
-        let updated = false;
-        for (let i = 0; i < iptvList.length; i++) {
-            if (iptvList[i].title === "Авто-IPTV") {
-                iptvList[i].url = playlistUrl;
-                updated = true;
-                break;
-            }
-        }
-        if (!updated) {
-            iptvList.push({ title: "Авто-IPTV", url: playlistUrl });
+        // Если мы не находимся в разделе IPTV, переходим туда
+        if (iptvSection && iptvSection !== "iptv") {
+            Lampa.Menu.toggle("iptv"); // Открываем IPTV плагин
+            setTimeout(addPlaylistToIPTV, 500); // Ждем, пока откроется меню, и повторяем попытку
+            return;
         }
 
-        Lampa.Storage.set("iptv_list", iptvList);
-        console.log("Ссылка на IPTV добавлена:", playlistUrl);
-        Lampa.Noty.show("Ссылка на IPTV обновлена!");
+        // Ждем, пока откроется нужная панель в IPTV
+        let addPlaylistButton = $("#iptv .settings-param__name:contains('Добавить плейлист')");
 
-        Lampa.Listener.send('iptv', { type: 'update' });
+        if (addPlaylistButton.length) {
+            // Кликаем по кнопке "Добавить плейлист"
+            addPlaylistButton[0].click();
+
+            setTimeout(function() {
+                // После открытия окна для добавления, находим поле для ввода ссылки
+                let inputField = $("#iptv .iptv-link-input");
+                if (inputField.length) {
+                    // Вставляем URL плейлиста
+                    inputField.val(playlistUrl);
+
+                    // Нажимаем кнопку "Добавить"
+                    let addButton = $("#iptv .iptv-add-button");
+                    if (addButton.length) {
+                        addButton[0].click();
+                        Lampa.Noty.show("Плейлист с cub.red добавлен успешно!");
+                    }
+                }
+            }, 500);
+        } else {
+            console.log("Кнопка 'Добавить плейлист' не найдена, повторяем попытку...");
+            setTimeout(addPlaylistToIPTV, 500); // Повторяем попытку через 500 мс
+        }
     }
 
-    function addIPTVSettingsButton() {
-        let settingsMenu = Lampa.Settings.main();
-
-        if (!settingsMenu.find("#update_iptv").length) {
-            settingsMenu.append(`
-                <div class="settings-param selector" id="update_iptv">
-                    <div class="settings-param__name">Обновить IPTV</div>
-                    <div class="settings-param__descr">Добавить новую ссылку на плейлист</div>
-                </div>
-            `);
-
-            $("#update_iptv").on("hover:enter", updateIPTVSettings);
-            console.log("Кнопка 'Обновить IPTV' добавлена в настройки");
-        }
-    }
-
-    Lampa.Listener.follow('settings', function (event) {
-        if (event.name === 'open') {
-            addIPTVSettingsButton();
-        }
-    });
-
-    updateIPTVSettings(); // Автоматически добавляем ссылку при запуске
+    // Запуск функции
+    addPlaylistToIPTV();
 }
 
+// Запускаем плагин
 iptvPlugin();
