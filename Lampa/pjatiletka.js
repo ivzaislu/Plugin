@@ -1,6 +1,6 @@
 (function () {
     const API_KEY = "9cdde3c5";
-    const cache = new Map(); // Хранение рейтингов для предотвращения лишних запросов
+    const cache = new Map(); // Локальный кэш для хранения рейтингов
 
     async function fetchIMDbRating(title) {
         if (cache.has(title)) return cache.get(title);
@@ -12,17 +12,20 @@
             cache.set(title, rating);
             return rating;
         } catch (error) {
-            console.error("Ошибка запроса к IMDb:", error);
+            console.error("Ошибка IMDb API:", error);
             return "N/A";
         }
     }
 
     async function addIMDbRatings() {
         document.querySelectorAll('.card__title').forEach(async (card) => {
-            let title = card.textContent.trim();
-            let parent = card.closest('.card'); // Получаем контейнер карточки фильма
+            let title = card.innerText.trim(); // Используем innerText для точности
+            let parent = card.closest('.card'); // Ищем контейнер карточки
 
-            if (!parent || parent.querySelector('.imdb-rating')) return; // Если рейтинг уже добавлен — выходим
+            if (!parent) return;
+
+            // Удаляем старые дубли перед добавлением нового рейтинга
+            parent.querySelectorAll('.imdb-rating').forEach(el => el.remove());
 
             let rating = await fetchIMDbRating(title);
 
@@ -31,7 +34,7 @@
             ratingElement.style.color = 'yellow';
             ratingElement.style.fontSize = '14px';
             ratingElement.style.marginTop = '5px';
-            ratingElement.textContent = `IMDb: ${rating}`;
+            ratingElement.innerText = `IMDb: ${rating}`;
 
             parent.appendChild(ratingElement);
         });
@@ -39,7 +42,7 @@
 
     document.addEventListener("DOMContentLoaded", addIMDbRatings);
 
-    // Отслеживание новых карточек (динамическая загрузка)
+    // Отслеживание новых карточек (динамическая подгрузка)
     let observer = new MutationObserver(addIMDbRatings);
     observer.observe(document.body, { childList: true, subtree: true });
 })();
