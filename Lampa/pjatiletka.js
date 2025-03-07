@@ -2,22 +2,24 @@
     const API_KEY = "9cdde3c5";
     const cache = new Map();
 
-    async function fetchIMDbRating(title) {
+    async function fetchMovieDetails(title) {
         if (cache.has(title)) return cache.get(title);
 
         try {
             let response = await fetch(`https://www.omdbapi.com/?t=${encodeURIComponent(title)}&apikey=${API_KEY}`);
             let data = await response.json();
-            let rating = data.imdbRating && data.imdbRating !== "N/A" ? data.imdbRating : "N/A";
-            cache.set(title, rating);
-            return rating;
+
+            if (data.Response === "True" && data.Actors) {
+                cache.set(title, data.Actors);
+                return data.Actors.split(", ");
+            }
         } catch (error) {
             console.error("Ошибка IMDb API:", error);
-            return "N/A";
         }
+        return [];
     }
 
-    async function addIMDbRatings() {
+    async function addActorLinks() {
         document.querySelectorAll('.card').forEach(async (card) => {
             let titleElement = card.querySelector('.card__title');
             if (!titleElement) return;
@@ -25,24 +27,48 @@
             let title = titleElement.innerText.trim();
             if (!title) return;
 
-            // Проверяем, нет ли уже блока с рейтингом внутри этой конкретной карточки
-            if (card.querySelector('.imdb-rating')) return;
+            // Убираем дубли
+            if (card.querySelector('.actor-links')) return;
 
-            let rating = await fetchIMDbRating(title);
+            let actors = await fetchMovieDetails(title);
+            if (actors.length === 0) return;
 
-            let ratingElement = document.createElement('div');
-            ratingElement.className = "imdb-rating";
-            ratingElement.style.color = 'yellow';
-            ratingElement.style.fontSize = '14px';
-            ratingElement.style.marginTop = '5px';
-            ratingElement.innerText = `IMDb: ${rating}`;
+            let container = document.createElement('div');
+            container.className = "actor-links";
+            container.style.marginTop = "5px";
+            container.style.fontSize = "14px";
+            container.style.color = "lightblue";
 
-            card.appendChild(ratingElement);
+            actors.forEach(actor => {
+                let link = document.createElement('span');
+                link.innerText = actor;
+                link.style.cursor = "pointer";
+                link.style.marginRight = "10px";
+                link.style.textDecoration = "underline";
+
+                // Добавляем обработчик клика
+                link.onclick = () => openActorCollection(actor);
+
+                container.appendChild(link);
+            });
+
+            card.appendChild(container);
         });
     }
 
-    document.addEventListener("DOMContentLoaded", addIMDbRatings);
+    function openActorCollection(actor) {
+        Lampa.Activity.push({
+            url: '',
+            title: `Фильмы с ${actor}`,
+            component: 'category',
+            page: 1,
+            genres: [],
+            search: actor
+        });
+    }
 
-    let observer = new MutationObserver(addIMDbRatings);
+    document.addEventListener("DOMContentLoaded", addActorLinks);
+
+    let observer = new MutationObserver(addActorLinks);
     observer.observe(document.body, { childList: true, subtree: true });
 })();
