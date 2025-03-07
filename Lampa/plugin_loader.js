@@ -2,25 +2,24 @@
     // URL плагина на GitHub
     const pluginUrl = 'https://raw.githubusercontent.com/ivzaislu/Plugin/main/Lampa/main.js';
 
-    // Функция для загрузки плагина
+    // Функция для загрузки плагина через тег <script>
     function loadPlugin(url) {
-        fetch(url)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Не удалось загрузить плагин');
-                }
-                return response.text();
-            })
-            .then(script => {
-                // Создаем новый тег <script> для выполнения плагина
-                const scriptElement = document.createElement('script');
-                scriptElement.textContent = script;
-                document.body.appendChild(scriptElement);
-                console.log('Плагин успешно загружен и подключен');
-            })
-            .catch(error => {
-                console.error('Ошибка при загрузке плагина:', error);
-            });
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = url;
+
+        // После загрузки скрипта, мы можем выполнить действия
+        script.onload = function() {
+            console.log('Плагин успешно загружен и подключен');
+        };
+
+        // В случае ошибки загрузки
+        script.onerror = function() {
+            console.error('Ошибка при загрузке плагина');
+        };
+
+        // Добавляем скрипт в <head> документа
+        document.head.appendChild(script);
     }
 
     // Инициализация плагина после того, как Lampa будет готова
