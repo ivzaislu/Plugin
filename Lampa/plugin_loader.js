@@ -25,3 +25,11 @@
 
     checkLampa();
 })();
+
+let checkInterval = setInterval(() => {
+    console.log("🔍 Проверяем Lampa:", window.Lampa);
+    if (typeof window.Lampa !== "undefined" && window.Lampa?.API) {
+        clearInterval(checkInterval);
+        console.log("✅ Lampa загружена!");
+    }
+}, 1000);
