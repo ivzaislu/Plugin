@@ -15,16 +15,27 @@
     }
 
     function waitForLampa() {
-        if (typeof window.Lampa !== "undefined" && window.Lampa?.API) {
+        if (typeof window.Lampa !== "undefined" && window.Lampa.API) {
             console.log("✅ Lampa загружена, подключаем плагин...");
             window.Lampa.API.on('ready', function() {
                 loadPlugin(pluginUrl);
             });
         } else {
             console.log("⏳ Ожидание загрузки Lampa...");
-            setTimeout(waitForLampa, 1000); // Проверяем каждые 1000 мс (1 сек)
+            setTimeout(waitForLampa, 1000);
         }
     }
 
-    waitForLampa(); // Запускаем проверку загрузки Lampa
+    // Новый способ: следим за изменениями в window
+    const observer = new MutationObserver(() => {
+        if (typeof window.Lampa !== "undefined" && window.Lampa.API) {
+            console.log("✅ Lampa найдена через MutationObserver!");
+            observer.disconnect();
+            waitForLampa();
+        }
+    });
+
+    observer.observe(document.documentElement, { childList: true, subtree: true });
+
+    waitForLampa();
 })();
