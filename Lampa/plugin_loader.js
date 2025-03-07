@@ -1,41 +1,23 @@
 (function() {
-    const pluginUrl = 'https://raw.githubusercontent.com/ivzaislu/Plugin/main/Lampa/main.js';
+    console.log("⏳ Проверяем загрузку Lampa...");
 
-    function loadPlugin(url) {
-        var script = document.createElement('script');
-        script.type = 'text/javascript';
-        script.src = url;
-        script.onload = function() {
-            console.log('✅ Плагин успешно загружен:', url);
-        };
-        script.onerror = function() {
-            console.error('❌ Ошибка при загрузке плагина:', url);
-        };
+    function loadPlugin() {
+        console.log("✅ Lampa загружена! Загружаем плагин...");
+        const script = document.createElement('script');
+        script.src = 'https://ivzaislu.github.io/Plugin/Lampa/main.js';
+        script.onload = () => console.log('✅ Плагин загружен!');
+        script.onerror = () => console.error('❌ Ошибка загрузки плагина!');
         document.head.appendChild(script);
     }
 
-    function waitForLampa() {
-        if (typeof window.Lampa !== "undefined" && window.Lampa.API) {
-            console.log("✅ Lampa загружена, подключаем плагин...");
-            window.Lampa.API.on('ready', function() {
-                loadPlugin(pluginUrl);
-            });
+    function checkLampa() {
+        if (window.Lampa && window.Lampa.API) {
+            loadPlugin();
         } else {
-            console.log("⏳ Ожидание загрузки Lampa...");
-            setTimeout(waitForLampa, 1000);
+            console.log("⏳ Lampa ещё не загружена, ждём...");
+            setTimeout(checkLampa, 1000);
         }
     }
 
-    // Новый способ: следим за изменениями в window
-    const observer = new MutationObserver(() => {
-        if (typeof window.Lampa !== "undefined" && window.Lampa.API) {
-            console.log("✅ Lampa найдена через MutationObserver!");
-            observer.disconnect();
-            waitForLampa();
-        }
-    });
-
-    observer.observe(document.documentElement, { childList: true, subtree: true });
-
-    waitForLampa();
+    document.addEventListener("DOMContentLoaded", checkLampa);
 })();
