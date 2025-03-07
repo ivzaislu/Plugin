@@ -1,5 +1,5 @@
 (function () {
-    console.log("⏳ Проверяем загрузку Lampa...");
+    console.log("⏳ Ждём загрузку Lampa...");
 
     function loadPlugin() {
         console.log("✅ Lampa загружена! Подключаем плагин...");
@@ -13,15 +13,15 @@
     function checkLampa() {
         if (typeof window.Lampa !== "undefined" && window.Lampa?.API) {
             loadPlugin();
-        } else {
-            console.log("⏳ Lampa ещё не готова, ждём...");
-            setTimeout(checkLampa, 1000);
         }
     }
 
-    if (document.readyState === "complete") {
+    const observer = new MutationObserver(() => {
+        console.log("🔍 Изменение в `window`");
         checkLampa();
-    } else {
-        window.addEventListener("load", checkLampa);
-    }
+    });
+
+    observer.observe(document.documentElement, { childList: true, subtree: true });
+
+    checkLampa();
 })();
