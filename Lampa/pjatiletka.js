@@ -3,33 +3,32 @@ function iptvPlugin() {
 
     plugin.id = "auto_iptv";
     plugin.name = "Авто-IPTV";
-    plugin.version = "1.4.0";
+    plugin.version = "1.5.0";
 
-    // Список плейлистов для загрузки
+    // Список бесплатных плейлистов
     let playlists = [
         "https://iptv.axenov.dev/ru.m3u",
         "https://github.com/smolnp/IPTVru/raw/main/iptv.m3u"
     ];
 
+    // Загружаем плейлист и обновляем настройки IPTV
     function fetchAndUpdateIPTV() {
-        let validPlaylists = [];
+        let validPlaylist = null;
 
         let fetchPromises = playlists.map(url =>
             fetch(url)
                 .then(response => response.text())
                 .then(data => {
                     if (data.includes("#EXTM3U")) {
-                        validPlaylists.push(url);
+                        validPlaylist = url;
                     }
                 })
                 .catch(err => console.error("Ошибка загрузки:", err))
         );
 
         Promise.all(fetchPromises).then(() => {
-            if (validPlaylists.length > 0) {
-                Lampa.Storage.set("iptv_playlist", validPlaylists[0]);
-                console.log("IPTV-список обновлён:", validPlaylists[0]);
-                Lampa.Noty.show("IPTV-список обновлён!");
+            if (validPlaylist) {
+                updateIPTVSettings(validPlaylist);
             } else {
                 console.warn("Нет рабочих IPTV-плейлистов");
                 Lampa.Noty.show("Ошибка обновления IPTV!");
@@ -37,8 +36,22 @@ function iptvPlugin() {
         });
     }
 
-    // Добавляем кнопку обновления IPTV в меню Lampa
-    function addIPTVSettings() {
+    // Функция обновления настроек IPTV в Lampa
+    function updateIPTVSettings(playlistUrl) {
+        let userSettings = Lampa.Storage.get("iptv_settings", {});
+
+        userSettings.playlist = playlistUrl; // Записываем новый плейлист
+        Lampa.Storage.set("iptv_settings", userSettings); // Сохраняем изменения
+
+        console.log("IPTV-список обновлён:", playlistUrl);
+        Lampa.Noty.show("IPTV-список обновлён!");
+
+        // Принудительно перезагружаем IPTV, чтобы он взял новый список
+        Lampa.Listener.send('iptv', { type: 'update' });
+    }
+
+    // Добавляем кнопку "Обновить IPTV" в настройки Lampa
+    function addIPTVSettingsButton() {
         Lampa.Settings.addParam({
             component: "iptv",
             param: {
@@ -52,8 +65,8 @@ function iptvPlugin() {
     }
 
     plugin.run = function () {
-        addIPTVSettings();
-        fetchAndUpdateIPTV();
+        addIPTVSettingsButton();
+        fetchAndUpdateIPTV(); // Автообновление при запуске плагина
     };
 
     return plugin;
