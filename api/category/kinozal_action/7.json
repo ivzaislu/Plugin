@@ -9,31 +9,130 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/lBVW4XPcdVuJVOrjiDyjHanD0Mm.jpg",
+      "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
       "genre_ids": [
+        10752,
         18,
-        28,
-        35,
-        80
+        36
       ],
-      "id": 208869,
+      "id": 857,
       "original_language": "en",
-      "original_title": "Plastic",
-      "overview": "Фильм основан на реальной истории. Банде друзей удалось проникнуть в одну из самых больших в мире компаний, которая работает с кредитными картами. Им удается провернуть одну из самых дерзких краж в британской истории.",
-      "popularity": 0.5755,
-      "poster_path": "/1vouFIqlUMcAHbsWn52GvxR7RQe.jpg",
-      "release_date": "2014-04-30",
-      "title": "Пластик",
+      "original_title": "Saving Private Ryan",
+      "overview": "Капитан Джон Миллер получает тяжелое задание. Вместе с отрядом из восьми человек Миллер должен отправиться в тыл врага на поиски рядового Джеймса Райана, три родных брата которого почти одновременно погибли на полях сражений. Командование приняло решение демобилизовать Райана и отправить его на родину к безутешной матери. Но для того, чтобы найти и спасти солдата, крошечному отряду придется пройти через все круги ада...",
+      "popularity": 12.366,
+      "poster_path": "/vhIwsqsMmdv6uwup4V6HJSMcQxI.jpg",
+      "release_date": "1998-07-24",
+      "title": "Спасти рядового Райана",
       "video": false,
-      "vote_average": 5.962,
-      "vote_count": 199,
+      "vote_average": 8.22,
+      "vote_count": 16781,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 70000000,
       "genres": [
+        {
+          "id": 10752,
+          "name": "военный"
+        },
         {
           "id": 18,
           "name": "драма"
         },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0120815",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 7,
+          "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+          "name": "DreamWorks Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 56,
+          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+          "name": "Amblin Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 762,
+          "logo_path": "/3T7EpKcS13viHu3WzRtQGvi9sTY.png",
+          "name": "Mutual Film Company",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 481840909,
+      "runtime": 169,
+      "spoken_languages": [
+        {
+          "english_name": "Czech",
+          "iso_639_1": "cs",
+          "name": "Český"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eLqQ6RleEKUBbqsxQvfJK2iOuVy.jpg",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "id": 457332,
+      "original_language": "en",
+      "original_title": "Hidden Strike",
+      "overview": "В будущем битвы за нефть захватили весь мир. Когда команда международных преступников захватывает заложников, чтобы провернуть крупнейшее ограбление, только два человека оказываются в силах остановить их. Это два наёмника по разные стороны конфликта, их план совершенно безумен, но они должны прорваться через град пуль и песчаные бури. Даже если терпеть друг друга не могут...",
+      "popularity": 3.4954,
+      "poster_path": "/9myFraU9m9Tj7461c9fXNqt892Z.jpg",
+      "release_date": "2023-07-06",
+      "title": "Круче некуда",
+      "video": false,
+      "vote_average": 6.902,
+      "vote_count": 1041,
+      "belongs_to_collection": null,
+      "budget": 80000000,
+      "genres": [
         {
           "id": 28,
           "name": "боевик"
@@ -43,115 +142,78 @@
           "name": "комедия"
         },
         {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2556874",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 7353,
-          "logo_path": "/yV5sxmYy4nBptmedJbsUKpr6W4M.png",
-          "name": "Gateway Films",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Всё до пенни»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
-      "genre_ids": [
-        28,
-        12,
-        53
-      ],
-      "id": 9802,
-      "original_language": "en",
-      "original_title": "The Rock",
-      "overview": "Генерал элитных диверсионных спецсил США, за плечами которого опыт чуть ли не всех войн планеты, похищает со своими лучшими подчиненными ракеты со смертоносным газом и захватывает в заложники туристов в бывшей тюрьме «Алькатрас», находящейся на острове в бухте Сан-Франциско.Они требуют по миллиону долларов семьям погибших и кругленькую сумму себе. Для того, чтобы обезвредить группу, из «Алькатраса» вытаскивают британского шпиона, когда-то совершившего побег из этой тюрьмы.",
-      "popularity": 6.1605,
-      "poster_path": "/1tPym9E4YtnbUFWgU1qn3Ad1RjN.jpg",
-      "release_date": "1996-06-07",
-      "title": "Скала",
-      "video": false,
-      "vote_average": 7.139,
-      "vote_count": 5021,
-      "belongs_to_collection": null,
-      "budget": 75000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
           "id": 53,
           "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0117500",
+      "imdb_id": "tt6879446",
       "origin_country": [
-        "US"
+        "US",
+        "CN"
       ],
       "production_companies": [
         {
-          "id": 10288,
-          "logo_path": "/Aszf09kIVXR6cwG9lwjZIawbYVS.png",
-          "name": "Don Simpson/Jerry Bruckheimer Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 915,
-          "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
-          "name": "Hollywood Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 32,
+          "id": 79732,
           "logo_path": null,
-          "name": "Buena Vista Pictures",
+          "name": "Talent International Media",
           "origin_country": ""
+        },
+        {
+          "id": 12142,
+          "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+          "name": "XYZ Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 48805,
+          "logo_path": null,
+          "name": "Changchun Film Studio",
+          "origin_country": "CN"
+        },
+        {
+          "id": 25660,
+          "logo_path": null,
+          "name": "Huaxia Film Distribution",
+          "origin_country": "CN"
+        },
+        {
+          "id": 232656,
+          "logo_path": null,
+          "name": "Flame Pictures Company",
+          "origin_country": ""
+        },
+        {
+          "id": 110797,
+          "logo_path": null,
+          "name": "Epitome Capital",
+          "origin_country": "CN"
+        },
+        {
+          "id": 20555,
+          "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+          "name": "Taurus Film",
+          "origin_country": "DE"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 335062621,
-      "runtime": 137,
+      "revenue": 0,
+      "runtime": 103,
       "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -159,7 +221,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Алькатрас. Только один человек когда-либо вырвался наружу. Теперь пять миллионов жизней зависят от двух человек, которые ворвались сюда.»",
+      "tagline": "План есть. Просто они не знают, какой именно.",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
