@@ -5,65 +5,76 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 122,
+  "total": 124,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/efQIfpxegsg6KHfTcVngrPO09cs.jpg",
+      "backdrop_path": "/w8cDlGoR9quGKAie5YU1cVHCj9.jpg",
       "genre_ids": [
-        12,
         28,
-        27
+        35,
+        80
       ],
-      "id": 1511789,
+      "id": 13154,
       "original_language": "en",
-      "original_title": "Captain Hook: The Cursed Tides",
-      "overview": "Гроза морей, капитан Джеймс вступает в неравную схватку с заклятым врагом Сми, который однажды его предал и перешёл на службу к королю. Битва заканчивается сокрушительным поражением Джеймса, потерявшего и команду, и руку. Но ему чудом удаётся избежать казни. Скрываясь от преследования, он набредает на дом угрюмого кузнеца Сайласа Блэквезера. Тот делает для раненого капитана металлический крюк вместо отрубленной руки. Новых знакомых объединяет нечто важное - ненависть к адмиралу Сми, убившему сестру Сайласа. Шансы на месть повышаются, когда всплывает мистическое проклятие этих приморских земель.",
-      "popularity": 38.2625,
-      "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
-      "release_date": "2025-07-11",
-      "title": "Капитан Крюк: Проклятые берега",
+      "original_title": "Showdown in Little Tokyo",
+      "overview": "Они — лос-анджелесские полицейские, которые перемежают удары с попаданием в газетные заголовки, во время Разборки в маленьком Токио. Герой Дольфа Лундгрена — мускулистый американский самурай, сведущий в восточных традициях. Герой Брэндона Ли — «деревенский увалень», которому предстоит немало драк. Им двоим придется круто на войне против японской наркомафии Лос-Анджелеса.",
+      "popularity": 2.6357,
+      "poster_path": "/nbVirGeeaGnFIJl7qs2lyUOxoYg.jpg",
+      "release_date": "1991-08-23",
+      "title": "Разборки в маленьком Токио",
       "video": false,
-      "vote_average": 4.864,
-      "vote_count": 44,
+      "vote_average": 6.372,
+      "vote_count": 506,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 8000000,
       "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 27,
-          "name": "ужасы"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33458086",
+      "imdb_id": "tt0102915",
       "origin_country": [
-        "GB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 117111,
+          "id": 4234,
           "logo_path": null,
-          "name": "Rêvasser Films",
+          "name": "Original Pictures",
+          "origin_country": "CA"
+        },
+        {
+          "id": 195865,
+          "logo_path": null,
+          "name": "Little Tokyo Productions",
           "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 90,
+      "revenue": 2275557,
+      "runtime": 79,
       "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -72,7 +83,89 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gV31rejG3kVpwH5T7HG8G99eLy.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        18
+      ],
+      "id": 852046,
+      "original_language": "fr",
+      "original_title": "Athena",
+      "overview": "Многодетная французская семья, братьев и сестер, которые проживают на территории провинции под названием Афина. Когда сотрудники правопорядка расправляются физически с одним из братьев, начнутся массовые беспорядки, которые по большому счету не устраивают других близких по крови родственников. Один хочет всё по справедливости, а другой не желает терять криминальный бизнес.",
+      "popularity": 3.2169,
+      "poster_path": "/1u7xeEW5g636IRMIFA4SD8WVH8C.jpg",
+      "release_date": "2022-09-09",
+      "title": "Афина",
+      "video": false,
+      "vote_average": 6.603,
+      "vote_count": 799,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt15445056",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 78780,
+          "logo_path": "/3niMKWcBpqOh4C1PHAG4FSubsgp.png",
+          "name": "Iconoclast",
+          "origin_country": "FR"
+        },
+        {
+          "id": 128621,
+          "logo_path": null,
+          "name": "Lyly Films",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 99,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_action"
@@ -150,6 +243,77 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/efQIfpxegsg6KHfTcVngrPO09cs.jpg",
+      "genre_ids": [
+        12,
+        28,
+        27
+      ],
+      "id": 1511789,
+      "original_language": "en",
+      "original_title": "Captain Hook: The Cursed Tides",
+      "overview": "Гроза морей, капитан Джеймс вступает в неравную схватку с заклятым врагом Сми, который однажды его предал и перешёл на службу к королю. Битва заканчивается сокрушительным поражением Джеймса, потерявшего и команду, и руку. Но ему чудом удаётся избежать казни. Скрываясь от преследования, он набредает на дом угрюмого кузнеца Сайласа Блэквезера. Тот делает для раненого капитана металлический крюк вместо отрубленной руки. Новых знакомых объединяет нечто важное - ненависть к адмиралу Сми, убившему сестру Сайласа. Шансы на месть повышаются, когда всплывает мистическое проклятие этих приморских земель.",
+      "popularity": 38.2625,
+      "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
+      "release_date": "2025-07-11",
+      "title": "Капитан Крюк: Проклятые берега",
+      "video": false,
+      "vote_average": 4.864,
+      "vote_count": 44,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33458086",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 117111,
+          "logo_path": null,
+          "name": "Rêvasser Films",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_action"
@@ -1071,6 +1235,77 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/8IFCWQ0fQEukqNY7LAljl7DuFZf.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 9772,
+      "original_language": "en",
+      "original_title": "Air Force One",
+      "overview": "Самолёт президента - самый охраняемый объект ВВС США. Президент возвращается с переговоров в Москве вместе с семьей и администрацией. Но едва самолёт поднимается в воздух, его захватывает группа террористов, которыми руководит непримиримый коммунист Коршунов. Он угрожает убить заложников, если их лидер, генерал Радек, заключённый в тюрьму, не будет освобождён. Президенту приходится бороться за жизнь близких ему людей и за будущее человечества.",
+      "popularity": 3.8031,
+      "poster_path": "/otK2EimY56CTdUHhp11IjiY4DA8.jpg",
+      "release_date": "1997-07-25",
+      "title": "Самолёт президента",
+      "video": false,
+      "vote_average": 6.476,
+      "vote_count": 3199,
+      "belongs_to_collection": null,
+      "budget": 85000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0118571",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 18990,
+          "logo_path": null,
+          "name": "Radiant Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 315200000,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Судьба нации зависит от мужества одного человека.»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/7TsA9t4iy3lcYHBHPT9o2FOkZ0.jpg",
       "genre_ids": [
         28,
@@ -1513,296 +1748,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1leYKN0DPNffpldGnCWnbXaiWoD.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1305717,
-      "original_language": "en",
-      "original_title": "Hunting Grounds",
-      "overview": "В надежде обезопасить своих детей, отчаявшаяся Хлоя решает скрыться от мужа-бандита. Приспешники разъярённого супруга сидят на хвосте у беглянки, а в один день она знакомится с Джейком, который становится её спасителем. Парень — бывший военный — предлагает девушке временный кров и защиту. Но чем ближе Хлоя узнаёт нового знакомого, тем больше задумывается, что Джейк гораздо опаснее, чем тот, кто открыл на неё охоту.",
-      "popularity": 16.2695,
-      "poster_path": "/gbrgn7Gs461U55j4V3Dake9sX4h.jpg",
-      "release_date": "2025-05-16",
-      "title": "Охотник и охотница",
-      "video": false,
-      "vote_average": 6.591,
-      "vote_count": 66,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt28293853",
-      "origin_country": [
-        "CA"
-      ],
-      "production_companies": [
-        {
-          "id": 197962,
-          "logo_path": "/2Uv1Pj28zVg2LWKw6ScQ0tPwLoI.png",
-          "name": "Kemodo Entertainment",
-          "origin_country": "CA"
-        },
-        {
-          "id": 36016,
-          "logo_path": "/7NLUO06yn9Q18nejc2fcMFbqfuo.png",
-          "name": "High Star Entertainment",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 89,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pyTDtQCn5sG8gi2zkM5ZylSNmtJ.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 681,
-      "original_language": "en",
-      "original_title": "Diamonds Are Forever",
-      "overview": "На этот раз Джеймс Бонд получает миссию расследовать похищение огромной партии южно-африканских бриллиантов. Распутывая это непростое дело, Бонд выходит на след своего заклятого врага Блюфельда. Оказывается, что бриллианты нужны ему для увеличения мощности своего гигантского космического лазера, используя который он заставит детонировать все атомные боеголовки, ракеты и подводные лодки.",
-      "popularity": 4.8063,
-      "poster_path": "/8Irb9WSzwfSRuganS35p7ReHR4p.jpg",
-      "release_date": "1971-12-14",
-      "title": "007: Бриллианты навсегда",
-      "video": false,
-      "vote_average": 6.409,
-      "vote_count": 2274,
-      "belongs_to_collection": {
-        "id": 645,
-        "name": "Джеймс Бонд (Коллекция)",
-        "poster_path": "/p2fMtkZBd3Vs4IN1Kl9QM4TJEBC.jpg",
-        "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
-      },
-      "budget": 7200000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0066995",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 7576,
-          "logo_path": "/oYcUi1byZ312Z3xiz5ojz9RQLND.png",
-          "name": "EON Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 60,
-          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
-          "name": "United Artists",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 116019547,
-      "runtime": 120,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Бриллианты навсегда ... навсегда ... навсегда ... навсегда ... »",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6FhmSHAmSjm5FGpLe2xqAl7ekFP.jpg",
-      "genre_ids": [
-        12,
-        14,
-        28,
-        37,
-        53
-      ],
-      "id": 46528,
-      "original_language": "en",
-      "original_title": "The Warrior's Way",
-      "overview": "Великий воин Янг — живая легенда, рожденная на поле боя. Он был так силен, что ни одна армия не могла его победить.Однажды, уничтожая врагов своего клана, самурай отказался убить маленькую девочку, за что его ждет смертный приговор. С младенцем на руках он бежит в Новый Свет, в Америку и находит убежище в захолустном городке, жители которого живут в постоянном страхе перед бандой безжалостного Полковника… Но и здесь прошлое преследует Янга. Он снова должен обнажить свой меч…",
-      "popularity": 1.5227,
-      "poster_path": "/nR9pn5dm5MY8o56cv0RyktFIn8R.jpg",
-      "release_date": "2010-12-01",
-      "title": "Путь воина",
-      "video": false,
-      "vote_average": 6.566,
-      "vote_count": 646,
-      "belongs_to_collection": null,
-      "budget": 42000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 37,
-          "name": "вестерн"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1032751",
-      "origin_country": [
-        "NZ",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2965,
-          "logo_path": null,
-          "name": "SCS Entertainment",
-          "origin_country": "KR"
-        },
-        {
-          "id": 3657,
-          "logo_path": "/2YXnZa6yPjxdHKzBLgmf57D8QpM.png",
-          "name": "Sidus",
-          "origin_country": "KR"
-        },
-        {
-          "id": 7295,
-          "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
-          "name": "Relativity Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 134,
-          "logo_path": "/2uKAP9aAAhVMpfSqa4wtlIHod5g.png",
-          "name": "Rogue Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 7498,
-          "logo_path": null,
-          "name": "Sad Flutes",
-          "origin_country": ""
-        },
-        {
-          "id": 7497,
-          "logo_path": null,
-          "name": "Fuse Media",
-          "origin_country": ""
-        },
-        {
-          "id": 12320,
-          "logo_path": null,
-          "name": "Wellmade Entertainment",
-          "origin_country": ""
-        },
-        {
-          "id": 118844,
-          "logo_path": null,
-          "name": "Kathy Morgan International",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        },
-        {
-          "iso_3166_1": "NZ",
-          "name": "New Zealand"
-        },
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 11100000,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Убийца. Герой. Легенда.",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_action"

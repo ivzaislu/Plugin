@@ -9,77 +9,6 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/ckJPiOT2EMsUOHb0pMdpGmeTtqU.jpg",
-      "genre_ids": [
-        10402,
-        35,
-        10749
-      ],
-      "id": 40867,
-      "original_language": "en",
-      "original_title": "The Pajama Game",
-      "overview": "На фабрику по пошиву пижам «Спокойных снов!» приходит новый управляющий Сид Сорокин. Здесь он знакомится с представителем комитета по жалобам Бэйб Уильямс. Между ними возникает роман. В это время местный профсоюз начинает активную борьбу за надбавку в 7,5 центов. Сид и Бэйб оказываются по разные стороны баррикад.",
-      "popularity": 0.7219,
-      "poster_path": "/71Q9f7byPqH8trF4BvZOlXnhO2D.jpg",
-      "release_date": "1957-08-29",
-      "title": "Пижамная игра",
-      "video": false,
-      "vote_average": 6.258,
-      "vote_count": 66,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0050814",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/9fiwOwDgGEzJtzbm0ghPzbtcGDH.jpg",
       "genre_ids": [
         35,
@@ -396,6 +325,93 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d9xVUFkEKNxyOIihbpvAVdjzcL.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751,
+        878
+      ],
+      "id": 9354,
+      "original_language": "en",
+      "original_title": "Honey, I Shrunk the Kids",
+      "overview": "Последнее изобретение великого новатора профессора Залински — электромагнитная машина которая может уменьшать предметы. Когда чудо техники, наконец, заработало, этими предметами оказались… дети изобретателя, попавшие в поле действия прибора.  Они и так не отличались гигантским ростом, а теперь еще и сократились в размере настолько, что их вообще не стало видно. Ничего не подозревающий отец опять же совершенно случайно выбрасывает своих отпрысков в мусорное ведро.  Новоиспеченным лилипутам нужно выбраться из помойки как можно быстрее пока их не затоптали тараканы и вернуться домой чтобы обнять заботливого папочку.",
+      "popularity": 4.7677,
+      "poster_path": "/iyM0c72R2IcT6JELaHt9YPdJRQn.jpg",
+      "release_date": "1989-06-23",
+      "title": "Дорогая, я уменьшил детей",
+      "video": false,
+      "vote_average": 6.314,
+      "vote_count": 3231,
+      "belongs_to_collection": {
+        "id": 72119,
+        "name": "Дорогая, я уменьшил детей (Коллекция)",
+        "poster_path": "/edimp8STfyhWuenlGCp2sn3Eagq.jpg",
+        "backdrop_path": "/3fvZtWdSdCNkxn1TAKTM042iClY.jpg"
+      },
+      "budget": 18000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0097523",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2,
+          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+          "name": "Walt Disney Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 554,
+          "logo_path": "/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png",
+          "name": "Silver Screen Partners III",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 222724172,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
