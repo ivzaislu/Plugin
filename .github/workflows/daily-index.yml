@@ -3,8 +3,7 @@ name: Build TMDB collections index (daily)
 on:
   workflow_dispatch:
   schedule:
-    # раз в сутки в 03:30 UTC
-    - cron: "30 3 * * *"
+    - cron: "30 3 * * *" # раз в сутки в 03:30 UTC
 
 permissions:
   contents: write
@@ -19,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -37,13 +38,17 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          git status --porcelain
-          if git diff --quiet; then
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # добавляем нужные файлы
+          git add data/collections_index.json data/collectionsIndex.json || true
+
+          # если в индексе ничего не поменялось — выходим
+          if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/collectionsIndex.json
-          git commit -m "Update collectionsIndex.json"
+
+          git commit -m "Update collections index"
           git push
