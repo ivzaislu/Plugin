@@ -1,0 +1,16 @@
+{
+  "name": "tmdb-collections-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:index": "node build-index.js --pages 120 --max 5000 --delay 120"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}
