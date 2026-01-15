@@ -5,127 +5,90 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 117,
+  "total": 118,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/igFwEFRiEr0CzkQUNTcGYLxTpOi.jpg",
+      "backdrop_path": "/kQV9sV0IbastbU5FYxuYwxfMawz.jpg",
       "genre_ids": [
-        14,
-        27
+        35,
+        28,
+        14
       ],
-      "id": 48395,
-      "original_language": "fi",
-      "original_title": "Rare Exports",
-      "overview": "Это фильм для тех, кто думает, что он уже не верит в Санта Клауса. Далеко в заснеженных горах Лапландии, в ущелье на глубине 486 метров обнаружили находку, надежно укрытую от всех. Теперь пришло время открыть ее миру.",
-      "popularity": 2.1834,
-      "poster_path": "/5ZZN48hl19gDehXhABDwkRipxns.jpg",
-      "release_date": "2010-12-03",
-      "title": "Санта на продажу",
+      "id": 594767,
+      "original_language": "en",
+      "original_title": "Shazam! Fury of the Gods",
+      "overview": "17-летний Билли Бэтсон, получивший дар превращаться в супергероя лет сорока, охраняет покой жителей Филадельфии вместе со своими приёмными братьями и сестрами, с которыми он поделился суперспособностями. В силу юности и недостатка дисциплины не всё у них получается идеально, и пресса называет команду супергероев \"Филадельфийскими фиаско\". Тем временем две женщины, представляющиеся дочерьми титана Атланта, крадут из греческого музея сломанный пополам волшебный жезл и направляются в Филадельфию, чтобы отобрать у супергероев магические силы.",
+      "popularity": 8.3591,
+      "poster_path": "/t2Wy2p0lLg6BjOk10pYhrIiYWrL.jpg",
+      "release_date": "2023-03-15",
+      "title": "Шазам! Ярость Богов",
       "video": false,
-      "vote_average": 6.205,
-      "vote_count": 642,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.447,
+      "vote_count": 3508,
+      "belongs_to_collection": {
+        "id": 724848,
+        "name": "Шазам! (Коллекция)",
+        "poster_path": "/qZ5EoG97hmlqCfNI2VWeMGIXJPJ.jpg",
+        "backdrop_path": "/8yak06wMUWUip8TdDMYc7NpntgR.jpg"
+      },
+      "budget": 110000000,
       "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
         {
           "id": 14,
           "name": "фэнтези"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1401143",
+      "imdb_id": "tt10151854",
       "origin_country": [
-        "FI"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 228,
-          "logo_path": "/zT2bcTDEbBkfZi2APB8DYJKLIQ3.png",
-          "name": "Filmpool Nord",
-          "origin_country": "SE"
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
         },
         {
-          "id": 9085,
-          "logo_path": null,
-          "name": "Cinet",
-          "origin_country": "FI"
+          "id": 11565,
+          "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+          "name": "The Safran Company",
+          "origin_country": "US"
         },
         {
-          "id": 18626,
-          "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
-          "name": "Kinology",
-          "origin_country": "FR"
-        },
-        {
-          "id": 23679,
-          "logo_path": "/6FCHtnJBEfGmsUbAEMavAPXWNfp.png",
-          "name": "Pomor Film",
-          "origin_country": "NO"
-        },
-        {
-          "id": 23680,
-          "logo_path": "/fYQ5pWLvFgVEdNIt2yZ3oQohVC3.png",
-          "name": "Agnès B. Productions",
-          "origin_country": "FR"
-        },
-        {
-          "id": 23681,
-          "logo_path": null,
-          "name": "Davaj Film",
-          "origin_country": "SE"
-        },
-        {
-          "id": 23682,
-          "logo_path": "/9jnd0qJk7Y7htlblxBCyhWBouGg.png",
-          "name": "FilmCamp",
-          "origin_country": "NO"
-        },
-        {
-          "id": 1158,
-          "logo_path": null,
-          "name": "Love Streams Productions",
-          "origin_country": "FR"
+          "id": 128064,
+          "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+          "name": "DC Films",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FI",
-          "name": "Finland"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "NO",
-          "name": "Norway"
-        },
-        {
-          "iso_3166_1": "SE",
-          "name": "Sweden"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 100,
+      "revenue": 134221819,
+      "runtime": 130,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Finnish",
-          "iso_639_1": "fi",
-          "name": "suomi"
         }
       ],
       "status": "Released",
-      "tagline": "В это Рождество в Санту поверят все",
+      "tagline": "«О. Мои. Боги!»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -134,142 +97,55 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/2FRGE0hIaEOAIB3pq2rEq3Vx9NQ.jpg",
+      "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
       "genre_ids": [
-        10751
-      ],
-      "id": 51043,
-      "original_language": "en",
-      "original_title": "Loch Ness",
-      "overview": "У озера Лох-Несс неожиданно погиб доктор Эбернетти… Из США прибыл криптозоолог Джонатан Дэмпси, который должен был «разоблачить надувательства», связанные с озером Лох-Несс. Он рассчитывал за неделю провести эхолокацию озера и собрать данные, что таинственное ископаемое чудовище, о котором все говорят и пишут — всего лишь миф, раздуваемый и подогреваемый для привлечения туристов.",
-      "popularity": 4.2712,
-      "poster_path": "/fMXL9o1N150SK0z6Sk6aXnC4oEB.jpg",
-      "release_date": "1996-08-23",
-      "title": "Лох-Несс",
-      "video": false,
-      "vote_average": 5.693,
-      "vote_count": 122,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0113682",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 1382,
-          "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
-          "name": "PolyGram Filmed Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 10163,
-          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
-          "name": "Working Title Films",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantasy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/biWonOe1GrPEMqvXhr7FbLox6xt.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10751,
         14,
-        10770
+        18,
+        10749
       ],
-      "id": 21481,
+      "id": 162,
       "original_language": "en",
-      "original_title": "Twitches",
-      "overview": "Две молодые ведьмочки были разделены при рождении и воспитывались в двух абсолютно разных семьях. Но на своё 21-летие они встречаются и теперь, используя свои магические силы, должны спасти свою настоящую маму и тот мир, в котором они родились…",
-      "popularity": 4.3167,
-      "poster_path": "/s2hakRCxY85gmxWg27jN59wTS6Z.jpg",
-      "release_date": "2005-10-14",
-      "title": "Ведьмы-близняшки",
+      "original_title": "Edward Scissorhands",
+      "overview": "Одинокий старый учёный создал человеческое существо. Но не успел доделать его до конца и умер. У сотворённого им молодого человека не хватает рук — вместо них у него нечто вроде ножниц — и он вынужден жить в заброшенном доме в полном одиночестве. Но вот однажды он знакомится с прекрасной девушкой, которая смогла оценить его доброе сердце...",
+      "popularity": 12.9964,
+      "poster_path": "/x4B2IJ7f3lQUBYPp2jyVU1WzOFg.jpg",
+      "release_date": "1990-12-07",
+      "title": "Эдвард руки-ножницы",
       "video": false,
-      "vote_average": 6.7,
-      "vote_count": 526,
-      "belongs_to_collection": {
-        "id": 263106,
-        "name": "Ведьмы (Коллекция)",
-        "poster_path": "/604AzmRITkNJD4MyNzkO6KFlEUw.jpg",
-        "backdrop_path": "/dQXRd7YyAtuslFCGOsY7i4bKG0z.jpg"
-      },
+      "vote_average": 7.719,
+      "vote_count": 13489,
+      "belongs_to_collection": null,
       "budget": 20000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 14,
+          "name": "фэнтези"
         },
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0467421",
+      "imdb_id": "tt0099487",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 240533,
-          "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
-          "name": "Disney Channel",
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
           "origin_country": "US"
         },
         {
-          "id": 40867,
-          "logo_path": null,
-          "name": "Carla Singer Productions",
+          "id": 8601,
+          "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+          "name": "Tim Burton Productions",
           "origin_country": "US"
         }
       ],
@@ -279,8 +155,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 86,
+      "revenue": 86024005,
+      "runtime": 105,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -290,7 +166,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantasy"
@@ -298,29 +174,34 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/8OkLyC27cpsURLXqp78dbpnKmFp.jpg",
+      "backdrop_path": "/soayFfANJdm3ykSQO71d6hAuMDR.jpg",
       "genre_ids": [
-        35,
+        12,
         14,
         28
       ],
-      "id": 5004,
-      "original_language": "de",
-      "original_title": "Siegfried und das sagenhafte Liebesleben der Nibelungen",
-      "overview": "Чтобы добиться внимания очаровательной девушки Кремхильды бравый воин Зигфрид отправляется в королевский дворец. Кремхильда не прочь потерять невинность с Зигфридом, но только в законном браке. Дело в том, что законы королевства разрешают Кремхтильде выходить замуж только в том случае, если ее брат, король Гюнтер, будет иметь жену. Получается, что Зигфриду предстоит сначала устроить королевскую свадьбу. Загвоздка в том, что возлюбленная короля Гюнтера по имени Брунхильда никак не хочет выходить за него замуж, так как боится лишиться девственности. Тогда в голове Зигфрида рождается хитроумный план…",
-      "popularity": 0.5356,
-      "poster_path": "/5mj7YzYCdHl82bpiNb3Pw9QPYaC.jpg",
-      "release_date": "1971-04-08",
-      "title": "Зигфрид и любовная жизнь Нибелунгов",
+      "id": 9610,
+      "original_language": "en",
+      "original_title": "Conan the Destroyer",
+      "overview": "Идеальная картина в жанре фэнтэзи с мечами, волшебниками и колдунами. Сюжет очень прост. Сексапильная королева нанимает Конана сопровождать юную принцессу в далекий замок, где находится драгоценный камень, способный высвободить могущественные и таинственные силы.  Коварная королева приказала своему воину убить Конана, когда задание будет выполнено, и вернуть домой принцессу, не нарушив ее девственности, дабы можно было принести ее в жертву. В пути группа сходится с чернокожей и взрывной воительницей. Длинноногая дикарка способна одна уложить множество врагов.  Одно приключение сменяет другое. Съемки, схватки, поединки, трюки поражают воображение. Великолепно воссоздается атмосфера приключений в неизвестные времена, в неизвестно каком измерении…",
+      "popularity": 4.5955,
+      "poster_path": "/n0aq2MlCKJmzL6aerYr27drf14A.jpg",
+      "release_date": "1984-06-29",
+      "title": "Конан Разрушитель",
       "video": false,
-      "vote_average": 3.1,
-      "vote_count": 7,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.117,
+      "vote_count": 1593,
+      "belongs_to_collection": {
+        "id": 43055,
+        "name": "Конан - Варвар (Коллекция)",
+        "poster_path": "/oIOuhJaDU18u1jrYAKmL0UeqnYu.jpg",
+        "backdrop_path": "/rJw7mflYzuHXBdRYEJyjAXDru5t.jpg"
+      },
+      "budget": 18000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 12,
+          "name": "приключения"
         },
         {
           "id": 14,
@@ -332,153 +213,35 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0067753",
+      "imdb_id": "tt0087078",
       "origin_country": [
-        "DE"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 120242,
-          "logo_path": null,
-          "name": "Hermes Synchron",
-          "origin_country": "DE"
-        },
-        {
-          "id": 121477,
-          "logo_path": null,
-          "name": "Atlas Film & TV Produktion GmbH",
-          "origin_country": ""
-        },
-        {
-          "id": 15857,
-          "logo_path": null,
-          "name": "Entertainment Ventures (EVI)",
+          "id": 10308,
+          "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png",
+          "name": "The De Laurentiis Company",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantasy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fMCkkqpAVfFmbf009flydh7gQY4.jpg",
-      "genre_ids": [
-        10770,
-        35,
-        10751,
-        14,
-        10749
-      ],
-      "id": 50506,
-      "original_language": "en",
-      "original_title": "Mrs. Miracle",
-      "overview": "Вдовец Сэт Вебстер ищет экономку для ухода за его недисциплинированными шестилетними мальчиками-близнецами. Но все его старания тщетны — дети «выживают» каждую вновь пришедшую экономку. Таинственным образом появляется «Миссис Чудо» и становится для этой семьи незаменимой няней, поваром, другом. .. и свахой.",
-      "popularity": 3.3475,
-      "poster_path": "/x4bgbJqRaiDC8wSPQNzVtn4iEsq.jpg",
-      "release_date": "2009-12-05",
-      "title": "Миссис Чудо",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 113,
-      "belongs_to_collection": {
-        "id": 374663,
-        "name": "Mrs. Miracle Collection",
-        "poster_path": "/sr3Htbv9jCpdfHawhAVVF25UvH6.jpg",
-        "backdrop_path": "/qVw1GUZCpZodR7pj1VLMxacFG7v.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1431115",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 63634,
-          "logo_path": null,
-          "name": "KZ Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 6426,
-          "logo_path": null,
-          "name": "Dan Wigutow Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
+      "revenue": 31042035,
+      "runtime": 103,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Самая могущественная легенда из всех вернулась в новое приключение»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -487,23 +250,390 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/5otx5HePgwpcLjKH2cvPLg4MQal.jpg",
+      "backdrop_path": "/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
       "genre_ids": [
-        10751,
+        35,
+        14,
+        10751
+      ],
+      "id": 1125257,
+      "original_language": "en",
+      "original_title": "Freakier Friday",
+      "overview": "Прошли годы с той пятницы, когда Анна и Тесс, её мать, наладили отношения после удивительного обмена телами. Теперь у самой Анны есть родная дочь и будущая падчерица, которым не удаётся найти общий язык. Анна и Тесс узнают, что чудо может повториться.",
+      "popularity": 20.2417,
+      "poster_path": "/frTZz6rZayI9PL5roFCuWCEoaTz.jpg",
+      "release_date": "2025-08-06",
+      "title": "Чумовая пятница 2",
+      "video": false,
+      "vote_average": 6.865,
+      "vote_count": 554,
+      "belongs_to_collection": {
+        "id": 1125292,
+        "name": "Чумовая Пятница (Коллекция)",
+        "poster_path": "/kgbznsbpOrKrqz7HB43z1pYN9Kv.jpg",
+        "backdrop_path": "/8QWJmqzT6WiYKY9wXpfUfwpjad1.jpg"
+      },
+      "budget": 42000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31956415",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2,
+          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+          "name": "Walt Disney Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 128491,
+          "logo_path": null,
+          "name": "Burr! Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 3538,
+          "logo_path": null,
+          "name": "Gunn Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 153176952,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Ну вот опять!»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantasy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751
+      ],
+      "id": 346648,
+      "original_language": "en",
+      "original_title": "Paddington 2",
+      "overview": "В антикварном магазине Лондона обаятельный и хорошо воспитанный медведь Паддингтон находит уникальную старинную книгу. Пока он изо всех своих медвежьих сил старается накопить на неё деньги, редчайшее издание внезапно похищают. Паддингтон оказывается вовлечён в аферу века, затеянную знаменитым актёром, который ныне рекламирует собачьи консервы, а свой талант к перевоплощению использует в охоте за сокровищами, спрятанными по всему Лондону.",
+      "popularity": 6.8675,
+      "poster_path": "/rqegEjWMbVXiE5XhPJ4NhvDU8ps.jpg",
+      "release_date": "2017-11-09",
+      "title": "Приключения Паддингтона 2",
+      "video": false,
+      "vote_average": 7.476,
+      "vote_count": 2656,
+      "belongs_to_collection": {
+        "id": 488924,
+        "name": "Приключения Паддингтона (Коллекция)",
+        "poster_path": "/ivHq9FgJ0X3EXvcBClw2VG6jpdM.jpg",
+        "backdrop_path": "/cpmSe7SerOiI1dRgQG328OaHNBl.jpg"
+      },
+      "budget": 40000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4468740",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 694,
+          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+          "name": "StudioCanal",
+          "origin_country": "FR"
+        },
+        {
+          "id": 437,
+          "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+          "name": "Heyday Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 20664,
+          "logo_path": "/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png",
+          "name": "Anton Capital Entertainment",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 290132513,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Хорошо Воспитанный Медведь, Покоривший Весь Мир»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantasy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+      "genre_ids": [
+        28,
+        35,
         14
       ],
-      "id": 1406146,
-      "original_language": "sk",
-      "original_title": "Čarovné jablko",
-      "overview": "Злая колдунья Морьяна, потерпев поражение от доброй волшебницы, изгнана из королевства и постепенно теряет свою силу. Чтобы вернуть себе власть, она придумывает хитрый план: выдать свою дочку Далию за молодого принца Альберта, вновь подчинив себе королевство. Однако Альберт, гуляя по лесу, встречает юную целительницу Ганку и влюбляется в неё. Девушка очарована милым и обходительным юношей, не догадываясь, кто перед ней. Но и принц не знает, что Ганка без пяти минут волшебница – это случится, когда в её родной деревне созреет чудо-яблоко. Наконец злодейский план Морьяны срабатывает, и принц, одурманенный заклятьем, собирается сыграть свадьбу с Далией. Но Ганка готова бороться за свою любовь даже без помощи волшебного яблока.",
-      "popularity": 0.3228,
-      "poster_path": "/8tze9o6sZZME0wAi7WghJr4CVS.jpg",
-      "release_date": "2025-09-11",
-      "title": "Волшебное яблоко",
+      "id": 287947,
+      "original_language": "en",
+      "original_title": "Shazam!",
+      "overview": "В каждом из нас живет супергерой, нужна лишь толика магии, чтобы он проявил себя. Билли Бэтсон должен прокричать всего лишь одно слово - ШАЗАМ - чтобы из сообразительного четырнадцатилетнего мальчишки превратиться во взрослого супергероя Шазама.",
+      "popularity": 7.7652,
+      "poster_path": "/s4byZ8CP7NLfH54FV3QF6l0JLSh.jpg",
+      "release_date": "2019-03-29",
+      "title": "Шазам!",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
+      "vote_average": 7,
+      "vote_count": 9997,
+      "belongs_to_collection": {
+        "id": 724848,
+        "name": "Шазам! (Коллекция)",
+        "poster_path": "/qZ5EoG97hmlqCfNI2VWeMGIXJPJ.jpg",
+        "backdrop_path": "/8yak06wMUWUip8TdDMYc7NpntgR.jpg"
+      },
+      "budget": 80000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0448115",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 11565,
+          "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+          "name": "The Safran Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 73669,
+          "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+          "name": "Seven Bucks Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 128064,
+          "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+          "name": "DC Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 367799011,
+      "runtime": 132,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Если хочешь спасти мир, скажи волшебное слово»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantasy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "id": 1087192,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "Подростку Иккингу не слишком близки традиции его героического племени, много лет ведущего войну с драконами. Парень неожиданно заводит дружбу с драконом Беззубиком, который поможет ему и другим викингам увидеть мир с совершенно другой стороны.",
+      "popularity": 46.1201,
+      "poster_path": "/hiLwtS68fCx9rd5GFK0QDqu4uBV.jpg",
+      "release_date": "2025-06-06",
+      "title": "Как приручить дракона",
+      "video": false,
+      "vote_average": 7.972,
+      "vote_count": 2386,
+      "belongs_to_collection": {
+        "id": 1458864,
+        "name": "Как приручить дракона (Коллекция)",
+        "poster_path": "/5uiXWKH2dcWcQDP2GVFLGTmcGRp.jpg",
+        "backdrop_path": "/eKpWn8DwS6xpAKs4eLb4PmrXnhk.jpg"
+      },
+      "budget": 150000000,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt26743210",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 521,
+          "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+          "name": "DreamWorks Animation",
+          "origin_country": "US"
+        },
+        {
+          "id": 2527,
+          "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+          "name": "Marc Platt Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 636351148,
+      "runtime": 125,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Легенда реальна»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantasy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pMECH54FSKApJJuwNYmwodtaFEK.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10770
+      ],
+      "id": 146712,
+      "original_language": "en",
+      "original_title": "A Fairly Odd Christmas",
+      "overview": "Тимми Тёрнеру придётся отправиться в увлекательное путешествие и спасти Рождество, но это будет не так просто: он должен будет пройти много опасных испытаний и быть сильным. Он не обойдётся без своей подруги Тутти, и конечно же, волшебных родителей!",
+      "popularity": 0.7367,
+      "poster_path": "/a3ipMyRyXv5WKUXxYWNNqkeHTEO.jpg",
+      "release_date": "2013-11-12",
+      "title": "Рождество с волшебными родителями",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 90,
+      "belongs_to_collection": {
+        "id": 721375,
+        "name": "A Fairly Odd Collection",
+        "poster_path": "/zoOT9Gh18YJYou2wKtnt7dyroqk.jpg",
+        "backdrop_path": "/nQ39Lv9klUhttnMxNwTw2cWr4Fj.jpg"
+      },
       "budget": 0,
       "genres": [
         {
@@ -513,50 +643,55 @@
         {
           "id": 14,
           "name": "фэнтези"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt35083618",
+      "imdb_id": "tt2299368",
       "origin_country": [
-        "SK"
+        "CA",
+        "US"
       ],
       "production_companies": [
         {
-          "id": 24023,
-          "logo_path": "/yz6m1ty4qGvlkfReuqPZxdmD8V2.png",
-          "name": "RTVS",
-          "origin_country": "SK"
+          "id": 16442,
+          "logo_path": null,
+          "name": "Pacific Bay Entertainment",
+          "origin_country": "US"
         },
         {
-          "id": 77082,
-          "logo_path": "/oh7sgn2BegfM0hHe1YYFHAZIE4k.png",
-          "name": "Trigon Production",
-          "origin_country": "SK"
+          "id": 16441,
+          "logo_path": null,
+          "name": "Pacific Bay Entertainment Canada",
+          "origin_country": "CA"
         },
         {
-          "id": 487,
-          "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
-          "name": "Česká televize",
-          "origin_country": "CZ"
+          "id": 5371,
+          "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+          "name": "Nickelodeon Productions",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SK",
-          "name": "Slovakia"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         },
         {
-          "iso_3166_1": "CZ",
-          "name": "Czech Republic"
+          "iso_3166_1": "CA",
+          "name": "Canada"
         }
       ],
       "revenue": 0,
-      "runtime": 90,
+      "runtime": 65,
       "spoken_languages": [
         {
-          "english_name": "Slovak",
-          "iso_639_1": "sk",
-          "name": "Slovenčina"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -767,175 +902,6 @@
       "status": "Released",
       "tagline": "«Переживите своё прошлое. Измените своё будущее»",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantasy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
-      "genre_ids": [
-        14,
-        18,
-        12
-      ],
-      "id": 1571470,
-      "original_language": "en",
-      "original_title": "The Rats: A Witcher Tale",
-      "overview": "Чтобы провернуть смелое ограбление, банде из шести отпетых бандитов предстоит сделать неслыханное: довериться друг другу — и усталому ведьмаку.",
-      "popularity": 9.2748,
-      "poster_path": "/ftdw2MUENMjs5L905TQfvnEE584.jpg",
-      "release_date": "2025-10-29",
-      "title": "Крысы: ведьмачья история",
-      "video": false,
-      "vote_average": 5.223,
-      "vote_count": 119,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/81572393",
-      "imdb_id": "tt28283547",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 137769,
-          "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
-          "name": "Platige Films",
-          "origin_country": "PL"
-        },
-        {
-          "id": 124634,
-          "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
-          "name": "Hivemind",
-          "origin_country": "US"
-        },
-        {
-          "id": 162859,
-          "logo_path": null,
-          "name": "Little Schmidt Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 279361,
-          "logo_path": null,
-          "name": "Hailzor",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "PL",
-          "name": "Poland"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 80,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantasy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/soayFfANJdm3ykSQO71d6hAuMDR.jpg",
-      "genre_ids": [
-        12,
-        14,
-        28
-      ],
-      "id": 9610,
-      "original_language": "en",
-      "original_title": "Conan the Destroyer",
-      "overview": "Идеальная картина в жанре фэнтэзи с мечами, волшебниками и колдунами. Сюжет очень прост. Сексапильная королева нанимает Конана сопровождать юную принцессу в далекий замок, где находится драгоценный камень, способный высвободить могущественные и таинственные силы.  Коварная королева приказала своему воину убить Конана, когда задание будет выполнено, и вернуть домой принцессу, не нарушив ее девственности, дабы можно было принести ее в жертву. В пути группа сходится с чернокожей и взрывной воительницей. Длинноногая дикарка способна одна уложить множество врагов.  Одно приключение сменяет другое. Съемки, схватки, поединки, трюки поражают воображение. Великолепно воссоздается атмосфера приключений в неизвестные времена, в неизвестно каком измерении…",
-      "popularity": 4.5955,
-      "poster_path": "/n0aq2MlCKJmzL6aerYr27drf14A.jpg",
-      "release_date": "1984-06-29",
-      "title": "Конан Разрушитель",
-      "video": false,
-      "vote_average": 6.117,
-      "vote_count": 1593,
-      "belongs_to_collection": {
-        "id": 43055,
-        "name": "Конан - Варвар (Коллекция)",
-        "poster_path": "/oIOuhJaDU18u1jrYAKmL0UeqnYu.jpg",
-        "backdrop_path": "/rJw7mflYzuHXBdRYEJyjAXDru5t.jpg"
-      },
-      "budget": 18000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0087078",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 10308,
-          "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png",
-          "name": "The De Laurentiis Company",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 31042035,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Самая могущественная легенда из всех вернулась в новое приключение»",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantasy"
@@ -1467,6 +1433,99 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+      "genre_ids": [
+        14,
+        18,
+        12
+      ],
+      "id": 1571470,
+      "original_language": "en",
+      "original_title": "The Rats: A Witcher Tale",
+      "overview": "Чтобы провернуть смелое ограбление, банде из шести отпетых бандитов предстоит сделать неслыханное: довериться друг другу — и усталому ведьмаку.",
+      "popularity": 9.2748,
+      "poster_path": "/ftdw2MUENMjs5L905TQfvnEE584.jpg",
+      "release_date": "2025-10-29",
+      "title": "Крысы: ведьмачья история",
+      "video": false,
+      "vote_average": 5.223,
+      "vote_count": 119,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "https://www.netflix.com/ru/title/81572393",
+      "imdb_id": "tt28283547",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 137769,
+          "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
+          "name": "Platige Films",
+          "origin_country": "PL"
+        },
+        {
+          "id": 124634,
+          "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
+          "name": "Hivemind",
+          "origin_country": "US"
+        },
+        {
+          "id": 162859,
+          "logo_path": null,
+          "name": "Little Schmidt Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 279361,
+          "logo_path": null,
+          "name": "Hailzor",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "PL",
+          "name": "Poland"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantasy"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/6cYPpzjHcxcSaXEQc8s3sMbcfZS.jpg",
       "genre_ids": [
         12,
@@ -1706,140 +1765,6 @@
       ],
       "status": "Released",
       "tagline": "\"Семья просто стала немного чужой\"",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantasy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
-      "id": 1729,
-      "original_language": "en",
-      "original_title": "The Forbidden Kingdom",
-      "overview": "Американский подросток Джейсон, основательно помешанный на кунг-фу во всех его проявлениях, от самого спорта до фильмов про него, делает удивительное открытие: в одном из магазинчиков в китайском квартале он находит легендарный посох великого воина Царя Обезьян…",
-      "popularity": 5.2214,
-      "poster_path": "/q50W8qS34nQWXRjHAXiiyl1Om3l.jpg",
-      "release_date": "2008-04-17",
-      "title": "Запретное царство",
-      "video": false,
-      "vote_average": 6.627,
-      "vote_count": 1849,
-      "belongs_to_collection": null,
-      "budget": 55000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0865556",
-      "origin_country": [
-        "CN",
-        "US",
-        "HK"
-      ],
-      "production_companies": [
-        {
-          "id": 877,
-          "logo_path": "/n8gjQIrJ77CSFroDCuQbj5cqOaQ.png",
-          "name": "Casey Silver Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 2269,
-          "logo_path": null,
-          "name": "China Film Co-Production Corp.",
-          "origin_country": "CN"
-        },
-        {
-          "id": 7295,
-          "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
-          "name": "Relativity Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 308,
-          "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
-          "name": "The Weinstein Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 2520,
-          "logo_path": null,
-          "name": "Arclight Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 3393,
-          "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
-          "name": "Huayi Brothers Pictures",
-          "origin_country": "CN"
-        },
-        {
-          "id": 200407,
-          "logo_path": null,
-          "name": "J&J Project",
-          "origin_country": "HK"
-        },
-        {
-          "id": 194859,
-          "logo_path": "/pG7MJ556xsjrvVosg4TWmMLWV9v.png",
-          "name": "Salon Films",
-          "origin_country": "HK"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 127906624,
-      "runtime": 104,
-      "spoken_languages": [
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
