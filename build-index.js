@@ -25,10 +25,7 @@ const LANG = process.env.TMDB_LANG || 'ru-RU';
 const DATA_DIR = path.join(__dirname, 'data');
 
 // основной файл (как у тебя исторически)
-const OUT_FILE = path.join(DATA_DIR, 'collections_index.json');
-
-// дополнительный файл (красивое имя для ссылки, можно убрать если не нужно)
-const OUT_FILE_ALIAS = path.join(DATA_DIR, 'collectionsIndex.json');
+const OUT_FILE = path.join(__dirname, 'data', 'collectionsIndex.json');
 
 function argInt(name, def) {
   const i = process.argv.indexOf(`--${name}`);
