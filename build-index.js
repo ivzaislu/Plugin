@@ -25,7 +25,7 @@ const LANG = process.env.TMDB_LANG || 'ru-RU';
 const DATA_DIR = path.join(__dirname, 'data');
 
 // основной файл (как у тебя исторически)
-const OUT_FILE = path.join(__dirname, 'data', 'collectionsIndex.json');
+const OUT_FILE = path.join(DATA_DIR, 'collectionsIndex.json');
 
 function argInt(name, def) {
   const i = process.argv.indexOf(`--${name}`);
@@ -67,21 +67,21 @@ function normalizeName(name) {
 }
 
 function loadExistingIndex() {
-  // читаем сначала основной, потом alias (на всякий)
-  const files = [OUT_FILE, OUT_FILE_ALIAS];
-  for (const f of files) {
-    try {
-      if (fs.existsSync(f)) {
-        const raw = fs.readFileSync(f, 'utf8');
-        const obj = JSON.parse(raw);
-        if (obj && Array.isArray(obj.items)) return obj;
-      }
-    } catch (e) {
-      // игнор
+  try {
+    if (fs.existsSync(OUT_FILE)) {
+      const raw = fs.readFileSync(OUT_FILE, 'utf8');
+      const obj = JSON.parse(raw);
+      if (obj && Array.isArray(obj.items)) return obj;
     }
-  }
+  } catch (e) {}
   return null;
 }
+
+function saveIndex(obj) {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+  fs.writeFileSync(OUT_FILE, JSON.stringify(obj, null, 2), 'utf8');
+}
+
 
 function saveIndex(obj) {
   fs.mkdirSync(DATA_DIR, { recursive: true });
