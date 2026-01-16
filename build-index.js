@@ -85,15 +85,9 @@ function saveIndex(obj) {
 
 function saveIndex(obj) {
   fs.mkdirSync(DATA_DIR, { recursive: true });
-
-  const json = JSON.stringify(obj, null, 2);
-
-  // основной (legacy)
-  fs.writeFileSync(OUT_FILE, json, 'utf8');
-
-  // alias (удобно для URL), можно удалить если не нужен
-  fs.writeFileSync(OUT_FILE_ALIAS, json, 'utf8');
+  fs.writeFileSync(OUT_FILE, JSON.stringify(obj, null, 2), 'utf8');
 }
+
 
 async function buildIndex() {
   if (!TMDB_KEY) throw new Error('TMDB_KEY env is required (add it as GitHub Actions secret)');
