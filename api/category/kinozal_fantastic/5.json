@@ -5,49 +5,71 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 117,
+  "total": 115,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+      "backdrop_path": "/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
       "genre_ids": [
+        878,
         28,
-        53,
-        878
+        12,
+        53
       ],
-      "id": 798645,
+      "id": 290859,
       "original_language": "en",
-      "original_title": "The Running Man",
-      "overview": "Ближайшее будущее. Отчаявшийся отец Бен Ричардс решает принять участие в жестоком реалити-шоу «Бегущий человек», надеясь выиграть деньги для лечения тяжелобольной дочери. Чтобы победить, участники должны выжить, пока в течение 30 дней на них охотится группа убийц.",
-      "popularity": 93.322,
-      "poster_path": "/40Mxw7P1l9KwkQipHgzVNHFMfVC.jpg",
-      "release_date": "2025-11-11",
-      "title": "Бегущий человек",
+      "original_title": "Terminator: Dark Fate",
+      "overview": "Мексика. Милая девушка Даниэла Рамос, а для друзей просто Дани, вместе с братом приходит с утра работать на завод, но там выясняется, что их вскоре заменят автоматикой. И это не единственная угроза, которую представляют для девушки машины: тут же на неё нападает присланная из будущего и практически неубиваемая модель терминатора REV-9. Но на защиту Дани встаёт Грэйс — тоже прибывшая из будущего женщина, модифицировавшая свои боевые характеристики до терминаторского уровня. Вскоре к ним на помощь придёт и Сара Коннор, которая теперь превратилась в настоящую охотницу на роботов-убийц.",
+      "popularity": 8.2943,
+      "poster_path": "/ffULB4SNiMuTbEl8dGPnU185hfe.jpg",
+      "release_date": "2019-10-23",
+      "title": "Терминатор: Тёмные судьбы",
       "video": false,
-      "vote_average": 6.823,
-      "vote_count": 886,
-      "belongs_to_collection": null,
-      "budget": 110000000,
+      "vote_average": 6.414,
+      "vote_count": 5484,
+      "belongs_to_collection": {
+        "id": 528,
+        "name": "Терминатор (Коллекция)",
+        "poster_path": "/w6Ya0LPeW9flEqY6wcIUtBWQCD0.jpg",
+        "backdrop_path": "/sCnBEw2Yu6foEjs4Xb4eMddYHRo.jpg"
+      },
+      "budget": 185000000,
       "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 12,
+          "name": "приключения"
         },
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt14107334",
+      "imdb_id": "tt6450804",
       "origin_country": [
         "US"
       ],
       "production_companies": [
+        {
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
+          "origin_country": "US"
+        },
+        {
+          "id": 82819,
+          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+          "name": "Skydance Media",
+          "origin_country": "US"
+        },
         {
           "id": 4,
           "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
@@ -55,21 +77,21 @@
           "origin_country": "US"
         },
         {
-          "id": 131464,
-          "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
-          "name": "Complete Fiction",
-          "origin_country": "GB"
+          "id": 81620,
+          "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
+          "name": "Tencent Pictures",
+          "origin_country": "CN"
         },
         {
-          "id": 28788,
-          "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-          "name": "Genre Films",
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
+          "id": 574,
+          "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+          "name": "Lightstorm Entertainment",
           "origin_country": "US"
         }
       ],
@@ -77,14 +99,97 @@
         {
           "iso_3166_1": "US",
           "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
         }
       ],
-      "revenue": 68615641,
-      "runtime": 133,
+      "revenue": 261119292,
+      "runtime": 128,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Добро пожаловать в День после Судного Дня»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xZjnJupgEYI5fDVY9siyiiGKtK6.jpg",
+      "genre_ids": [
+        12,
+        18,
+        9648,
+        878
+      ],
+      "id": 1119377,
+      "original_language": "en",
+      "original_title": "Xeno",
+      "overview": "Подросток неожиданно заводит дружбу с жутким инопланетным существом, которое потерпело крушение неподалёку в пустыне. Девочке приходится одновременно справляться с тоской своей матери и жестокостью её бойфренда, а также защищать нового, но крайне опасного друга.",
+      "popularity": 7.4507,
+      "poster_path": "/vW80ugx6KgvSszkg4Jqy0mD7hhi.jpg",
+      "release_date": "2025-09-19",
+      "title": "Ксено",
+      "video": false,
+      "vote_average": 5.271,
+      "vote_count": 24,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt27629220",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 40268,
+          "logo_path": "/shdAxUj8uF6exNLrF0kSqYVxCzG.png",
+          "name": "HartBeat Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 202449,
+          "logo_path": null,
+          "name": "The Henson Company",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 107522,
+      "runtime": 103,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -93,7 +198,115 @@
         }
       ],
       "status": "Released",
-      "tagline": "Найти его и поймать.",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hZJLBaTca4ZBsogOOmr8dR7aO5L.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "id": 453405,
+      "original_language": "en",
+      "original_title": "Gemini Man",
+      "overview": "Генри Броган, первоклассный киллер, становится мишенью таинственного оперативника, который, кажется, знает каждый его шаг наперед…",
+      "popularity": 4.592,
+      "poster_path": "/675Byk1w1KV0k0G0Vg57iM2T1ya.jpg",
+      "release_date": "2019-10-02",
+      "title": "Гемини",
+      "video": false,
+      "vote_average": 6.273,
+      "vote_count": 5331,
+      "belongs_to_collection": null,
+      "budget": 140000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1025100",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 82819,
+          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+          "name": "Skydance Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 130,
+          "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+          "name": "Jerry Bruckheimer Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 102774,
+          "logo_path": "/9novy7zPpam3XVmfE3jXG4MexAr.png",
+          "name": "Fosun Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 69484,
+          "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+          "name": "Alibaba Pictures Group",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "CO",
+          "name": "Colombia"
+        }
+      ],
+      "revenue": 173469516,
+      "runtime": 117,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Кто тебя спасёт от самого себя?»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -102,51 +315,79 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/y1EjQaJojDusoFCzzCLi2BlByA.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        53,
-        878
+        35,
+        12,
+        878,
+        99
       ],
-      "id": 10133,
+      "id": 113268,
       "original_language": "en",
-      "original_title": "Cypher",
-      "overview": "Морган Салливан, уставший от занудной жизни и нелюбимой жены, охотно соглашается заниматься шпионажем для могущественной корпорации «Диджикорп». Он получает новое имя и простое задание с помощью секретного устройства передавать выступления конкурентов на конвенциях по всей стране. Несмотря на начавшиеся мигрени и странную боль в затылке, Морган наслаждается новой, тайной жизнью, но случайная встреча с загадочной Ритой вселяет в него страх и подозрения. По словам Риты, скучные собрания всего лишь ширма для зловещих операций «Диджикорпа», превращающего своих «шпионов» в послушных марионеток, утративших свое «я». Она делает ему укол и просит на следующей конвенции никак не реагировать на то, что он там увидит…",
-      "popularity": 2.915,
-      "poster_path": "/dZymSUWiMvMTrbPICSdUJeknZpf.jpg",
-      "release_date": "2002-10-01",
-      "title": "Кодер",
+      "original_title": "The Secrets of the 'Back to the Future' Trilogy",
+      "overview": "Секреты трилогии «Назад в будущее» была программой, организованной Кирком Кэмероном. Шоу ответило на вопросы, что поклонники «Назад в будущее» отправлены письмом. Он был выпущен на видеокассету в 1990 году и в качестве бонусной функции на диске \"Назад в будущее 3\" в выпуске трилогии «Назад в будущее» 2002 года. Он также доступен в трилогии Blu-Ray 2010 года.",
+      "popularity": 0.297,
+      "poster_path": "/vxOgVE8JPjPVaUo3eJfk5whby7H.jpg",
+      "release_date": "1990-06-12",
+      "title": "Секреты трилогии «Назад в будущее»",
       "video": false,
-      "vote_average": 6.632,
-      "vote_count": 607,
+      "vote_average": 4.8,
+      "vote_count": 12,
       "belongs_to_collection": null,
-      "budget": 7500000,
+      "budget": 0,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         },
         {
           "id": 878,
           "name": "фантастика"
+        },
+        {
+          "id": 99,
+          "name": "документальный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0284978",
+      "imdb_id": "tt0162636",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 14,
-          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-          "name": "Miramax",
-          "origin_country": "US"
+          "id": 15943,
+          "logo_path": null,
+          "name": "ZM Productions",
+          "origin_country": ""
         },
         {
-          "id": 185,
+          "id": 101798,
+          "logo_path": "/5so4m14tTlqbHxRTElbJ4WRyvlv.png",
+          "name": "CIC Video",
+          "origin_country": ""
+        },
+        {
+          "id": 10608,
+          "logo_path": "/4JsEyxBcyGQ3VWRLINw62qD9d66.png",
+          "name": "MCA/Universal Home Video",
+          "origin_country": ""
+        },
+        {
+          "id": 10713,
           "logo_path": null,
-          "name": "Pandora Cinema",
-          "origin_country": "US"
+          "name": "Universal Studios Home Video",
+          "origin_country": ""
+        },
+        {
+          "id": 3324,
+          "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+          "name": "BBC",
+          "origin_country": "GB"
         }
       ],
       "production_countries": [
@@ -155,8 +396,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 898365,
-      "runtime": 95,
+      "revenue": 0,
+      "runtime": 21,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -174,100 +415,92 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg",
+      "backdrop_path": "/qXM08jXRwlT9rm10iAC2uoq0Kn.jpg",
       "genre_ids": [
-        28,
-        27,
         878,
-        53
+        28,
+        12,
+        35,
+        10751
       ],
-      "id": 72190,
+      "id": 1498,
       "original_language": "en",
-      "original_title": "World War Z",
-      "overview": "Сотрудник ООН Гари Лейн наперегонки со временем пытается остановить заражение, способное полностью истребить человечество.",
-      "popularity": 12.3174,
-      "poster_path": "/t25IhiCJ8En3uZP27XLSEk8BQCf.jpg",
-      "release_date": "2013-06-19",
-      "title": "Война миров Z",
+      "original_title": "Teenage Mutant Ninja Turtles",
+      "overview": "Четыре черепашки и крыса в канализационных трубах Нью-Йорка вляпались в радиационные отходы, мутировали и превратились в человеческого роста разумных черепашек, а крыса, которая раньше жила у японского мастера ниндзя-цу, обучила их боевым искусствам.  Черепашки Леонардо, Рафаэль, Микеланджело и Донателло подружились с тележурналисткой и помогли остановить рост молодежной преступности.",
+      "popularity": 5.477,
+      "poster_path": "/mZR1lLdwOp8w8IEHIBAIQLjo1VL.jpg",
+      "release_date": "1990-03-30",
+      "title": "Черепашки-ниндзя",
       "video": false,
-      "vote_average": 6.824,
-      "vote_count": 16142,
-      "belongs_to_collection": null,
-      "budget": 200000000,
+      "vote_average": 6.703,
+      "vote_count": 1897,
+      "belongs_to_collection": {
+        "id": 1582,
+        "name": "Черепашки-ниндзя (Коллекция)",
+        "poster_path": "/h43FVnMMHDLso5gLV3flgyEiMyN.jpg",
+        "backdrop_path": "/nhduljh4ZdptATMjZxIclXHjmHT.jpg"
+      },
+      "budget": 13500000,
       "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
         {
           "id": 878,
           "name": "фантастика"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0816711",
+      "imdb_id": "tt0100758",
       "origin_country": [
-        "US"
+        "US",
+        "HK"
       ],
       "production_companies": [
         {
-          "id": 3281,
-          "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
-          "name": "GK Films",
-          "origin_country": "GB"
+          "id": 2521,
+          "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+          "name": "Orange Sky Golden Harvest",
+          "origin_country": "HK"
         },
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 9169,
-          "logo_path": "/fsjn4BwBzxlEBWmmWPOeBpubvOx.png",
-          "name": "Hemisphere Media Capital",
-          "origin_country": "US"
-        },
-        {
-          "id": 23644,
-          "logo_path": "/wF4SeLFv2qjKQa3oS1eaGyS4Hms.png",
-          "name": "2DUX²",
-          "origin_country": "US"
-        },
-        {
-          "id": 82819,
-          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
-          "name": "Skydance Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 81,
-          "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
-          "name": "Plan B Entertainment",
+          "id": 30900,
+          "logo_path": "/gyO0BxkreNepFOxc882GIdWHblX.png",
+          "name": "Mirage Studios",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
         },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 531865000,
-      "runtime": 123,
+      "revenue": 201965915,
+      "runtime": 93,
       "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -275,7 +508,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Я не могу бросить свою семью»",
+      "tagline": "Эй чувак, это не мультфильм.",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -645,50 +878,55 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+      "backdrop_path": "/uMVMT4jUcJk29u5uODwjgyTyB4z.jpg",
       "genre_ids": [
-        28,
-        14
+        12,
+        878,
+        28
       ],
-      "id": 634492,
+      "id": 11884,
       "original_language": "en",
-      "original_title": "Madame Web",
-      "overview": "История происхождения ясновидящей, известной как мадам Паутина, чьи экстрасенсорные способности позволяют ей видеть в мире пауков.",
-      "popularity": 8.481,
-      "poster_path": "/8eyCtvA0hqoagcfjsieTrBecQbq.jpg",
-      "release_date": "2024-02-14",
-      "title": "Мадам Паутина",
+      "original_title": "The Last Starfighter",
+      "overview": "Алекс Роган — обычный парнишка, который живет в трейлерном парке со своими родителями, пытается попасть в престижный колледж и коротает вечера за случайно попавшим в их поселение игровым автоматом «Последний звездный боец». В очередной из тоскливых дней, после очередного отказа на получение денег на учебу от очередного банка и очередной ссоры со своей девушкой, Алексу удается набрать рекордное количество очков. В результате Алекс, при помощи рекрутера-инопланетянина по имени Центавр, попадает в самую гущу галактической войны между Райлосом и Ко-Данской Армадой…",
+      "popularity": 5.0946,
+      "poster_path": "/A7oAHTjtYnIEQjJs62IONRufooq.jpg",
+      "release_date": "1984-07-13",
+      "title": "Последний звёздный боец",
       "video": false,
-      "vote_average": 5.314,
-      "vote_count": 2440,
+      "vote_average": 6.601,
+      "vote_count": 739,
       "belongs_to_collection": null,
-      "budget": 80000000,
+      "budget": 15000000,
       "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
         {
           "id": 28,
           "name": "боевик"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt11057302",
+      "imdb_id": "tt0087597",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
           "origin_country": "US"
         },
         {
-          "id": 435,
-          "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
-          "name": "di Bonaventura Pictures",
+          "id": 1887,
+          "logo_path": null,
+          "name": "Lorimar Motion Pictures",
           "origin_country": "US"
         }
       ],
@@ -698,8 +936,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 100498764,
-      "runtime": 117,
+      "revenue": 28733290,
+      "runtime": 101,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -709,118 +947,6 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oiPUcD1IIZrYGTSIpvTmd3dRmPo.jpg",
-      "genre_ids": [
-        28,
-        53,
-        878
-      ],
-      "id": 500664,
-      "original_language": "en",
-      "original_title": "Upgrade",
-      "overview": "Недалёкое будущее, разнообразные технологии контролируют практически все аспекты человеческой жизни. Главный герой - технофоб Грей Трэйс, оказывается частично парализован в результате неудачного ограбления, в котором погибла его жена. Вскоре некий миллионер-разработчик предлагает Грею уникальный метод для избавления от паралича, с помощью которого герой также сможет отомстить имплантировав в его организм экспериментальный компьютерный чип под названием «Стержень», обладающий собственным разумом.",
-      "popularity": 7.9443,
-      "poster_path": "/pVHjVOt47EkDNIkukmHxolxLpAI.jpg",
-      "release_date": "2018-05-31",
-      "title": "Апгрейд",
-      "video": false,
-      "vote_average": 7.501,
-      "vote_count": 4801,
-      "belongs_to_collection": null,
-      "budget": 3000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt6499752",
-      "origin_country": [
-        "AU",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6748,
-          "logo_path": "/74qmkZFGFMbCsIKo2Dk62QVsUKf.png",
-          "name": "Goalpost Pictures",
-          "origin_country": "AU"
-        },
-        {
-          "id": 7625,
-          "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
-          "name": "Automatik Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 3172,
-          "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-          "name": "Blumhouse Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 107787,
-          "logo_path": null,
-          "name": "Nervous Tick Productions",
-          "origin_country": "AU"
-        },
-        {
-          "id": 11840,
-          "logo_path": "/8oyCRYf6ezxB5h8HJIPVG8JjzgL.png",
-          "name": "Film Victoria",
-          "origin_country": "AU"
-        },
-        {
-          "id": 73625,
-          "logo_path": "/7EXbyLJBKifYXWZgOjR5M3qhyei.png",
-          "name": "BH Tilt",
-          "origin_country": "US"
-        },
-        {
-          "id": 14430,
-          "logo_path": null,
-          "name": "Fulcrum Media Finance",
-          "origin_country": "AU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 16976561,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Не человек. Не машина. Нечто большее.",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -904,6 +1030,109 @@
       "status": "Released",
       "tagline": "«Назад пути нет»",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lCuRY9QF821VOOV8IJyeLfIuhTI.jpg",
+      "genre_ids": [
+        878,
+        12,
+        35
+      ],
+      "id": 1013052,
+      "original_language": "uk",
+      "original_title": "Ти – Космос",
+      "overview": "Украинский космический дальнобойщик Андрей перевозит ядерные отходы с Земли на спутник Юпитера. После неожиданного взрыва Земли, обломки которой уничтожают все вокруг, Андрей остается последним человеком во Вселенной.",
+      "popularity": 2.167,
+      "poster_path": "/QdxvLzywojMyZ9SSCWEwOakI7F.jpg",
+      "release_date": "2025-04-24",
+      "title": "Ты - Космос",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 32,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt19783734",
+      "origin_country": [
+        "BE",
+        "UA"
+      ],
+      "production_companies": [
+        {
+          "id": 158723,
+          "logo_path": "/mPkg6qBkOMe2tX9Ie70l5mrbR9H.png",
+          "name": "ForeFilms",
+          "origin_country": "UA"
+        },
+        {
+          "id": 84352,
+          "logo_path": "/jCluvAPVwESTEP012VHYmmAPrgs.png",
+          "name": "Stenola Productions",
+          "origin_country": "BE"
+        },
+        {
+          "id": 61460,
+          "logo_path": "/3yPCkEWvnabeiF8l3sjUBHlRq0j.png",
+          "name": "Ukrainian State Film Agency",
+          "origin_country": "UA"
+        },
+        {
+          "id": 105069,
+          "logo_path": "/wqSSHwhZ9orfX5e5pm5CMPwPM8k.png",
+          "name": "Limelite",
+          "origin_country": "UA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "UA",
+          "name": "Ukraine"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 101,
+      "spoken_languages": [
+        {
+          "english_name": "Ukrainian",
+          "iso_639_1": "uk",
+          "name": "Український"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -1421,106 +1650,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Изгнанный из клана хищник Дек отправляется на опасную планету Генна. Он стремится доказать своему отцу и всему племени, что достоин быть частью клана. Дек встречает загадочную девушку-андроида Тию и объединяется с ней, чтобы отправиться на поиски сверххищника Калиска, наиболее грозного противника на планете.",
-      "popularity": 125.1842,
-      "poster_path": "/pu5Aj7nyx9ISKMcmWvUjZv68GLs.jpg",
-      "release_date": "2025-11-05",
-      "title": "Хищник: Планета смерти",
-      "video": false,
-      "vote_average": 7.3,
-      "vote_count": 736,
-      "belongs_to_collection": {
-        "id": 399,
-        "name": "Хищник (Коллекция)",
-        "poster_path": "/qblTMPK7umqQIzch7WlQ8TBmanU.jpg",
-        "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
-      },
-      "budget": 105000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31227572",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 127928,
-          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-          "name": "20th Century Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 840,
-          "logo_path": null,
-          "name": "Lawrence Gordon Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 1302,
-          "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-          "name": "Davis Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 185309,
-          "logo_path": null,
-          "name": "Toberoff Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 184328121,
-      "runtime": 107,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Охота началась»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
       "genre_ids": [
         878,
@@ -1719,110 +1848,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/uMVMT4jUcJk29u5uODwjgyTyB4z.jpg",
+      "backdrop_path": "/m8SL54nYTgiLeaZrkqeIOk8CLgP.jpg",
       "genre_ids": [
         12,
-        878,
-        28
-      ],
-      "id": 11884,
-      "original_language": "en",
-      "original_title": "The Last Starfighter",
-      "overview": "Алекс Роган — обычный парнишка, который живет в трейлерном парке со своими родителями, пытается попасть в престижный колледж и коротает вечера за случайно попавшим в их поселение игровым автоматом «Последний звездный боец». В очередной из тоскливых дней, после очередного отказа на получение денег на учебу от очередного банка и очередной ссоры со своей девушкой, Алексу удается набрать рекордное количество очков. В результате Алекс, при помощи рекрутера-инопланетянина по имени Центавр, попадает в самую гущу галактической войны между Райлосом и Ко-Данской Армадой…",
-      "popularity": 5.0946,
-      "poster_path": "/A7oAHTjtYnIEQjJs62IONRufooq.jpg",
-      "release_date": "1984-07-13",
-      "title": "Последний звёздный боец",
-      "video": false,
-      "vote_average": 6.601,
-      "vote_count": 739,
-      "belongs_to_collection": null,
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0087597",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 1887,
-          "logo_path": null,
-          "name": "Lorimar Motion Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 28733290,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2vcdZBbf7sPPzIHfN5ial24UbxK.jpg",
-      "genre_ids": [
-        28,
-        12,
+        10751,
         878
       ],
-      "id": 305470,
-      "original_language": "en",
-      "original_title": "Power Rangers",
-      "overview": "Пять обычных старшеклассников узнают, что их маленький город Энджел Гроув и весь мир находятся на грани того, чтобы быть уничтоженными инопланетной угрозой. Избранные судьбой, наши герои быстро понимают, что они единственные, кто может спасти планету.",
-      "popularity": 4.618,
-      "poster_path": "/5kVHWsP6rYHJIknuJh8GmE1JNwJ.jpg",
-      "release_date": "2017-03-23",
-      "title": "Могучие рейнджеры",
+      "id": 881957,
+      "original_language": "nl",
+      "original_title": "Captain Nova",
+      "overview": "Пилот боевого корабля отправляется назад в прошлое, чтобы спасти мир будущего от экологической катастрофы, но после путешествия сквозь время ей снова становится 12 лет, из-за чего все перестают воспринимать её всерьёз.",
+      "popularity": 1.8455,
+      "poster_path": "/xzomO8VLkvnoudDwwz409OcOQb6.jpg",
+      "release_date": "2021-12-01",
+      "title": "Капитан Нова",
       "video": false,
-      "vote_average": 6.255,
-      "vote_count": 4558,
+      "vote_average": 6.108,
+      "vote_count": 106,
       "belongs_to_collection": null,
-      "budget": 105000000,
+      "budget": 0,
       "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
         {
           "id": 12,
           "name": "приключения"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         },
         {
           "id": 878,
@@ -1830,64 +1882,42 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt3717490",
+      "imdb_id": "tt14915608",
       "origin_country": [
-        "US"
+        "NL"
       ],
       "production_companies": [
         {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
+          "id": 108847,
+          "logo_path": "/wXcInrUH3f5Vc2Ok13kURwUQ9Zv.png",
+          "name": "Keplerfilm",
+          "origin_country": "NL"
         },
         {
-          "id": 11305,
-          "logo_path": "/eZdOsxUSUtrEVdr5DY5zpkTf4Ks.png",
-          "name": "Saban Brands",
-          "origin_country": "US"
-        },
-        {
-          "id": 76992,
-          "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
-          "name": "Saban Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 12292,
-          "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
-          "name": "Temple Hill Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 72441,
-          "logo_path": null,
-          "name": "TIK Films",
-          "origin_country": "HK"
+          "id": 239,
+          "logo_path": "/96hCWEsfmTZQsoUap0CcG21qaA.png",
+          "name": "VPRO",
+          "origin_country": "NL"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
+          "iso_3166_1": "NL",
+          "name": "Netherlands"
         }
       ],
-      "revenue": 142300000,
-      "runtime": 124,
+      "revenue": 0,
+      "runtime": 86,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "2160p",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
