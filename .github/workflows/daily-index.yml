@@ -41,10 +41,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # добавляем нужные файлы
-          git add data/collections_index.json data/collectionsIndex.json || true
+          git add data/collectionsIndex.json
 
-          # если в индексе ничего не поменялось — выходим
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
