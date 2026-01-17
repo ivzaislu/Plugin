@@ -5,60 +5,202 @@
   },
   "page": 6,
   "limit": 20,
-  "total": 103,
+  "total": 102,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+      "backdrop_path": "/7vZGj3qJZzrmuL8PvXErp39KVUG.jpg",
       "genre_ids": [
-        18,
-        80
+        80,
+        35,
+        18
       ],
-      "id": 262920,
+      "id": 256756,
       "origin_country": [
-        "DK"
+        "NL"
       ],
-      "original_language": "da",
-      "original_name": "Legenden",
-      "overview": "Молодая девушка-агент работает под прикрытием, чтобы подружиться с женой наркоторговца. Но чем ближе она подбирается к цели, тем сложнее становится ее миссия.",
-      "popularity": 6.1086,
-      "poster_path": "/34UqmKOdCkM7U8QTWXeVZmwnXGH.jpg",
-      "first_air_date": "2025-10-27",
-      "name": "Ценный кадр",
-      "vote_average": 7.153,
-      "vote_count": 62,
-      "created_by": [],
+      "original_language": "nl",
+      "original_name": "Jackson & Malone",
+      "overview": "Специальные агенты Джексон и Малоун расследуют загадочное убийство двух старушек, произошедшее в маленьком городке во время инаугурации нового мэра, но при этом им приходится бороться и со своими внутренними демонами.",
+      "popularity": 0.4153,
+      "poster_path": "/sMEGA9YIveGzGQloKPyD9YccowB.jpg",
+      "first_air_date": "2024-07-19",
+      "name": "Джексон и Малоун",
+      "vote_average": 4.5,
+      "vote_count": 2,
+      "created_by": [
+        {
+          "id": 88791,
+          "credit_id": "669795e8315767d6dbc114ee",
+          "name": "Hans Teeuwen",
+          "original_name": "Hans Teeuwen",
+          "gender": 2,
+          "profile_path": "/7oWDioW3FR3o89fmRJHKeFVlIKE.jpg"
+        },
+        {
+          "id": 1059879,
+          "credit_id": "669795f2ee849e239b7a8424",
+          "name": "Max Porcelijn",
+          "original_name": "Max Porcelijn",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
       "episode_run_time": [],
       "genres": [
         {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
           "id": 18,
           "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "in_production": true,
+      "languages": [
+        "nl"
+      ],
+      "last_air_date": "2024-07-19",
+      "last_episode_to_air": {
+        "id": 5413279,
+        "name": "Эпизод 6",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2024-07-19",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 36,
+        "season_number": 1,
+        "show_id": 256756,
+        "still_path": "/vPmiTY09gTgvfxAGJxmhGxZ2alX.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 1334,
+          "logo_path": "/Ov29JztLk1yyMVe1FeuknzDYbL.png",
+          "name": "Videoland",
+          "origin_country": "NL"
+        }
+      ],
+      "number_of_episodes": 6,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 225443,
+          "logo_path": null,
+          "name": "Kaap Holland Series",
+          "origin_country": "NL"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "NL",
+          "name": "Netherlands"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2024-07-19",
+          "episode_count": 6,
+          "id": 398203,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/4mWdmw1EAZWBhmdWo8PbEIXSPzf.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bunYPPsfbdnc5oerCW0oyDE6RVq.jpg",
+      "genre_ids": [
+        9648,
+        80,
+        18
+      ],
+      "id": 244431,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Anthracite",
+      "overview": "После пропажи журналиста старое дело вновь всплывает на поверхность. След тянется в маленькую горную деревушку, жизнь в которой отравлена сектой, тайнами и смертью.",
+      "popularity": 1.8958,
+      "poster_path": "/nduzgkbYtGKX30DWqNoO6uCU79X.jpg",
+      "first_air_date": "2024-04-10",
+      "name": "Антрацит",
+      "vote_average": 6.253,
+      "vote_count": 97,
+      "created_by": [
+        {
+          "id": 1863503,
+          "credit_id": "65b175722fe2fa01723d080b",
+          "name": "Fanny Robert",
+          "original_name": "Fanny Robert",
+          "gender": 1,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
         },
         {
           "id": 80,
           "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
-      "homepage": "https://www.netflix.com/title/81683146",
-      "in_production": true,
+      "homepage": "https://www.netflix.com/title/81520697",
+      "in_production": false,
       "languages": [
-        "da"
+        "fr"
       ],
-      "last_air_date": "2025-10-27",
+      "last_air_date": "2024-04-10",
       "last_episode_to_air": {
-        "id": 6548344,
-        "name": "Как тебя зовут, говоришь?",
-        "overview": "Фольке делает Эшли заманчивое предложение, но цена высока. Пытаясь помочь подруге, Теа сталкивается с тем, кого ей меньше всего хотелось бы видеть.",
-        "vote_average": 8.5,
-        "vote_count": 4,
-        "air_date": "2025-10-27",
+        "id": 5195779,
+        "name": "Точка равновесия",
+        "overview": "Пока в шахте царит ужас, в лаборатории «Аркация» вспыхивает бунт. Джо отчаянно пытается найти группу в туннеле, пока не стало слишком поздно.",
+        "vote_average": 5.3,
+        "vote_count": 3,
+        "air_date": "2024-04-10",
         "episode_number": 6,
         "episode_type": "finale",
         "production_code": "",
-        "runtime": 50,
+        "runtime": 46,
         "season_number": 1,
-        "show_id": 262920,
-        "still_path": "/vMGreMTxVmhd3yqMC1LqjXeeNy6.jpg"
+        "show_id": 244431,
+        "still_path": "/87B4sQjOtdBMoHMUntCtWZzDgLG.jpg"
       },
       "next_episode_to_air": null,
       "networks": [
@@ -73,323 +215,47 @@
       "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 64293,
-          "logo_path": "/lbYGnir9KeY8NyQZrUFZbf3QDej.png",
-          "name": "Profile Pictures",
-          "origin_country": "DK"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DK",
-          "name": "Denmark"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2025-10-27",
-          "episode_count": 6,
-          "id": 408561,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/5JF1zftgmfxtCGYEFw3t8EErM23.jpg",
-          "season_number": 1,
-          "vote_average": 8.8
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Danish",
-          "iso_639_1": "da",
-          "name": "Dansk"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dtACf4sRA640q4l6oLyfMy75Viy.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 251941,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "St. Denis Medical",
-      "overview": "Клиника святого Дениса — недофинансированный госпиталь, где преданные доктора и медицинский персонал лечат пациентов, пытаясь не сойти с ума.",
-      "popularity": 8.5711,
-      "poster_path": "/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
-      "first_air_date": "2024-11-12",
-      "name": "Клиника святого Дэниса",
-      "vote_average": 6.818,
-      "vote_count": 33,
-      "created_by": [
-        {
-          "id": 1230847,
-          "credit_id": "661e0f250816c70149ed7309",
-          "name": "Джастин Спитцер",
-          "original_name": "Justin Spitzer",
-          "gender": 2,
-          "profile_path": "/7LiIHJLBv6Li1lmASD6mrigtKPo.jpg"
-        },
-        {
-          "id": 1241333,
-          "credit_id": "661e0f31ecaef5017cf8eb2b",
-          "name": "Eric Ledgin",
-          "original_name": "Eric Ledgin",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [
-        22
-      ],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "https://www.nbc.com/st-denis-medical",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2025-11-17",
-      "last_episode_to_air": {
-        "id": 6682720,
-        "name": "Эпизод 10",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-12",
-        "episode_number": 10,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 22,
-        "season_number": 2,
-        "show_id": 251941,
-        "still_path": "/hWobSIqYMVlKxIDvSD1bUGYosgB.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6770755,
-        "name": "Эпизод 11",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-26",
-        "episode_number": 11,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 2,
-        "show_id": 251941,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 6,
-          "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
-          "name": "NBC",
-          "origin_country": "US"
-        }
-      ],
-      "number_of_episodes": 28,
-      "number_of_seasons": 2,
-      "production_companies": [
-        {
-          "id": 26727,
-          "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
-          "name": "Universal Television",
-          "origin_country": "US"
-        },
-        {
-          "id": 161301,
+          "id": 219141,
           "logo_path": null,
-          "name": "Spitzer Holding Company",
-          "origin_country": ""
+          "name": "Anthracite Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 178619,
+          "logo_path": "/wlyh239wcxFSE7KmgYPmXqeEM8B.png",
+          "name": "WHITE LION FILMS",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
       "seasons": [
         {
-          "air_date": "2024-11-12",
-          "episode_count": 18,
-          "id": 388746,
-          "name": "Сезон 1",
+          "air_date": "2024-04-10",
+          "episode_count": 6,
+          "id": 375673,
+          "name": "Тайны секты Экрен",
           "overview": "",
-          "poster_path": "/wVl2IBUFvtv7K3PSv8ydnfelxUk.jpg",
+          "poster_path": "/7aVnVs9Rh7fvgkpUWuvNw1TXF5a.jpg",
           "season_number": 1,
-          "vote_average": 8.2
-        },
-        {
-          "air_date": "2025-11-03",
-          "episode_count": 18,
-          "id": 454051,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
-          "season_number": 2,
-          "vote_average": 7.5
+          "vote_average": 5.5
         }
       ],
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
-      "status": "Returning Series",
+      "status": "Ended",
       "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mRVPTh5JpzvXNtgNXppKROOdrzd.jpg",
-      "genre_ids": [
-        10759,
-        10765,
-        9648
-      ],
-      "id": 246412,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Copenhagen Test",
-      "overview": "Через пять минут аналитик американской разведки в первом поколении Александр Хейл понимает, что его мозг был взломан, что дало преступникам доступ ко всему, что он видит и слышит. Оказавшись между своим теневым агентством и неизвестными хакерами, он должен поддерживать работоспособность 24/7, чтобы выяснить, кто несёт ответственность, и доказать, где его преданность.",
-      "popularity": 40.4164,
-      "poster_path": "/2RhB6v2JvKfdQOfdnvTJpDONHVF.jpg",
-      "first_air_date": "2025-12-27",
-      "name": "Копенгагенский тест",
-      "vote_average": 5.675,
-      "vote_count": 40,
-      "created_by": [
-        {
-          "id": 2176380,
-          "credit_id": "66085b4c590086017cb99c40",
-          "name": "Thomas Brandon",
-          "original_name": "Thomas Brandon",
-          "gender": 2,
-          "profile_path": "/tEuZimE611lFIWX58TW7FfLaWP2.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 10759,
-          "name": "Боевик и Приключения"
-        },
-        {
-          "id": 10765,
-          "name": "НФ и Фэнтези"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "https://www.peacocktv.com/stream-tv/the-copenhagen-test",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2025-12-27",
-      "last_episode_to_air": {
-        "id": 6750134,
-        "name": "Эпизод 8",
-        "overview": "",
-        "vote_average": 2.3,
-        "vote_count": 9,
-        "air_date": "2025-12-27",
-        "episode_number": 8,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 49,
-        "season_number": 1,
-        "show_id": 246412,
-        "still_path": "/seAwqVrDrNgBUQwpzMkn75DKEAL.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 3353,
-          "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
-          "name": "Peacock",
-          "origin_country": "US"
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 76907,
-          "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
-          "name": "Atomic Monster",
-          "origin_country": "US"
-        },
-        {
-          "id": 7938,
-          "logo_path": "/8I52qpy2Dp48gD9Jf6W1D6E7Imo.png",
-          "name": "UCP",
-          "origin_country": "US"
-        },
-        {
-          "id": 284445,
-          "logo_path": "/bBF22hy9BFB0yUq8fuMDhwBOVa1.png",
-          "name": "Bully Pile Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2025-12-27",
-          "episode_count": 8,
-          "id": 379181,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/pTepPcRI7lIINXdbJAz1WPALULa.jpg",
-          "season_number": 1,
-          "vote_average": 2.5
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "«Увидеть всё. Не доверять ничему»",
-      "type": "Scripted",
-      "release_quality": "1080p",
+      "type": "Miniseries",
+      "release_quality": "",
       "media_type": "tv",
       "categories": [
         "kinozal_tv"
