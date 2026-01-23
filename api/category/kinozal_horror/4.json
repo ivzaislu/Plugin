@@ -5,344 +5,105 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 120,
+  "total": 121,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/z7OrG1YBDEpGJ3awOnvk7BMZryE.jpg",
+      "backdrop_path": "/wxxSyWPPgssnkO6FbCAVyntLLSr.jpg",
       "genre_ids": [
         27,
-        35
+        53,
+        878
       ],
-      "id": 1386827,
+      "id": 1100988,
       "original_language": "en",
-      "original_title": "Coyotes",
-      "overview": "Скотт и Лив — молодая семья, переехавшая на Голливудские холмы в Лос-Анджелесе. Пара словно попала в сказку. Но довольно быстро их жизнь стала сущим кошмаром: из-за внезапного лесного пожара им некуда бежать, а по улицам разгуливают дикие и очень голодные койоты.",
-      "popularity": 5.8057,
-      "poster_path": "/4PWqBTZkswZmWJra9XzOSCa6qRt.jpg",
-      "release_date": "2025-10-02",
-      "title": "Ночь койота",
+      "original_title": "28 Years Later",
+      "overview": "28 лет в Великобритании бушует вирус, превращающий заражённых в агрессивных плотоядных тварей. В этом ужасном мире маленький мальчик пытается найти врача для умирающей мамы.",
+      "popularity": 29.0988,
+      "poster_path": "/1GPXjQNumrQp5TSfdWxGvIhxYL9.jpg",
+      "release_date": "2025-06-18",
+      "title": "28 лет спустя",
       "video": false,
-      "vote_average": 5.757,
-      "vote_count": 35,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.637,
+      "vote_count": 1926,
+      "belongs_to_collection": {
+        "id": 1565,
+        "name": "28 дней (Коллекция)",
+        "poster_path": "/rkFqzEiZZoccSbeDigGnIlF4iM0.jpg",
+        "backdrop_path": "/liImaqVpPGo3ddLWkJPeJxvaqCI.jpg"
+      },
+      "budget": 60000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt34581826",
+      "imdb_id": "tt10548174",
       "origin_country": [
-        "US"
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 179831,
-          "logo_path": "/9yUvtr26VMnSRJnePouXgOLFV7K.png",
-          "name": "Capstone Studios",
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
           "origin_country": "US"
         },
         {
-          "id": 215935,
-          "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
-          "name": "Gramercy Park Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 164800,
-          "logo_path": "/qZHPu9QptBtyCRtHhigklmPWvaQ.png",
-          "name": "Source Management + Production",
-          "origin_country": "US"
-        },
-        {
-          "id": 155758,
-          "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
-          "name": "Tea Shop Productions",
+          "id": 284,
+          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
+          "name": "DNA Films",
           "origin_country": "GB"
         },
         {
-          "id": 200059,
-          "logo_path": "/q4gItsJvWmKluHx7VPYEhECQ620.png",
-          "name": "Magnetic Labs",
-          "origin_country": "US"
+          "id": 8286,
+          "logo_path": null,
+          "name": "Decibel Films",
+          "origin_country": "GB"
         },
         {
-          "id": 83191,
-          "logo_path": "/cir3g4iXLD6UayUJeM2nspw8RAj.png",
-          "name": "Sugar Studios LA",
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
           "origin_country": "US"
-        },
-        {
-          "id": 128081,
-          "logo_path": "/c7e41WNx0l9UWKwTEHmFxVwNtCd.png",
-          "name": "Jaguar Bite",
-          "origin_country": "CO"
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
         {
           "iso_3166_1": "GB",
           "name": "United Kingdom"
         },
         {
-          "iso_3166_1": "CO",
-          "name": "Colombia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Богачам здесь не место»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/s2cr7tLYWzfyHi56xxq21OXOzpf.jpg",
-      "genre_ids": [
-        878,
-        35,
-        27
-      ],
-      "id": 48302,
-      "original_language": "en",
-      "original_title": "Bad Channels",
-      "overview": "Что от нас нужно инопланетянам? Деньги? Землю? Воздух? Земные женщины! У них там какой-то монстр коллекционирует со всех Галактик особ слабого пола, поэтому его посланцы вылавливают с помощью радиоволн наших прелестных дам, уменьшают до нужного размера и сажают в колбочки. Так бы они всех женщин к себе перевезли, но, во-первых, не все радио слушают, и во-вторых, на пути инопланетян встает Дэн О'Дэйр, ведущий популярнейшей радиопрограммы.",
-      "popularity": 2.9876,
-      "poster_path": "/3X2qpfivNSZuNgdavbwL15CCW7V.jpg",
-      "release_date": "1992-06-25",
-      "title": "На опасной волне",
-      "video": false,
-      "vote_average": 4.9,
-      "vote_count": 60,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0103757",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4867,
-          "logo_path": "/ifNDQE2NMX3QAJgX0517FZMkLq5.png",
-          "name": "Full Moon Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 88,
+      "revenue": 151308832,
+      "runtime": 115,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8kJflsQ4SU9CJQFnht9mpXDW2cF.jpg",
-      "genre_ids": [
-        28,
-        14,
-        27
-      ],
-      "id": 22894,
-      "original_language": "en",
-      "original_title": "Legion",
-      "overview": "Бог окончательно разуверился в человечестве и послал ангелов смерти стереть свое творение с лица земли. На защиту людей встал лишь архангел Михаил, объединив под своим командованием горстку изгоев, которые в закусочной посреди пустыни терпеливо ожидают рождения Мессии.",
-      "popularity": 5.7542,
-      "poster_path": "/wIBxqUdkMbNAB5q98ml6XfsvZlp.jpg",
-      "release_date": "2010-01-21",
-      "title": "Легион",
-      "video": false,
-      "vote_average": 5.898,
-      "vote_count": 2776,
-      "belongs_to_collection": null,
-      "budget": 26000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1038686",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 3287,
-          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-          "name": "Screen Gems",
-          "origin_country": "US"
-        },
-        {
-          "id": 2266,
-          "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
-          "name": "Bold Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 67918658,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1038392,
-      "original_language": "en",
-      "original_title": "The Conjuring: Last Rites",
-      "overview": "Исследователи паранормальных явлений Эд и Лоррейн Уоррен берутся за самый тревожный случай в своей практике. Семья переезжает в новый дом своей мечты, но вскоре их жилище начинает проявлять признаки демонической активности, превращая жизнь в кошмар.",
-      "popularity": 42.0032,
-      "poster_path": "/1DPYceqs7OuKgUD13vrPFZ2SYRd.jpg",
-      "release_date": "2025-09-03",
-      "title": "Заклятие 4: Последний обряд",
-      "video": false,
-      "vote_average": 6.936,
-      "vote_count": 1536,
-      "belongs_to_collection": {
-        "id": 313086,
-        "name": "Заклятие (Коллекция)",
-        "poster_path": "/uC6w0yuQJJNtFO3IkB9ZsQYmpsz.jpg",
-        "backdrop_path": "/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg"
-      },
-      "budget": 55000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt22898462",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        },
-        {
-          "id": 76907,
-          "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
-          "name": "Atomic Monster",
-          "origin_country": "US"
-        },
-        {
-          "id": 11565,
-          "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
-          "name": "The Safran Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 494653512,
-      "runtime": 135,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Готовьтесь к концу",
+      "tagline": "«Время ничего не вылечило»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -432,6 +193,348 @@
       ],
       "status": "Released",
       "tagline": "«Страшная легенда оживает вновь»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 574475,
+      "original_language": "en",
+      "original_title": "Final Destination Bloodlines",
+      "overview": "Уже два месяца студентке Стефани снится один и тот же страшный сон, как в 1960-ых люди гибнут при обрушении телебашни. Подозревая, что этот кошмар связан с её семьёй, девушка возвращается домой, чтобы разузнать о бабушке, с которой её родители и дядя с тётей давно порвали все связи, поскольку считают её опасной сумасшедшей, одержимой идеей смерти.",
+      "popularity": 31.4874,
+      "poster_path": "/A6SyVtXBxU6S5LfDg0tz7lUXhJq.jpg",
+      "release_date": "2025-05-14",
+      "title": "Пункт назначения: Узы крови",
+      "video": false,
+      "vote_average": 7.096,
+      "vote_count": 2518,
+      "belongs_to_collection": {
+        "id": 8864,
+        "name": "Пункт назначения (Коллекция)",
+        "poster_path": "/kbUErmzI30Dsi4ou0P2pn114JI4.jpg",
+        "backdrop_path": "/9YTAOy2WvO7XpkZYD2zfikRq1qG.jpg"
+      },
+      "budget": 50000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt9619824",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 48788,
+          "logo_path": "/4B35ruSPcfEL1hxVFFmNTlGcCS0.png",
+          "name": "Practical Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 252366,
+          "logo_path": "/DwpaN189I3OYb0u2HKZUDe7xox.png",
+          "name": "Freshman Year",
+          "origin_country": "US"
+        },
+        {
+          "id": 252367,
+          "logo_path": null,
+          "name": "Fireside Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 315830814,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Станьте свидетелем рождения смерти»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1233413,
+      "original_language": "en",
+      "original_title": "Sinners",
+      "overview": "1932 год. После долгих лет отсутствия близнецы Смок и Стэк возвращаются в родной городок в дельте Миссисипи. Они успели повоевать в траншеях Первой мировой, а потом стали гангстерами в Чикаго. Братья выкупают у белого расиста территорию с хозяйственными постройками, чтобы открыть там музыкальный бар для рабочих с плантации. Гвоздь программы на открытии — сын проповедника, которому близнецы когда-то подарили гитару, и он играет блюз так хорошо, что привлекает внимание оказавшегося поблизости ирландского вампира.",
+      "popularity": 52.815,
+      "poster_path": "/ZpqkD0DOd6bpLpcV9oBY8YGcRj.jpg",
+      "release_date": "2025-04-16",
+      "title": "Грешники",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 3164,
+      "belongs_to_collection": null,
+      "budget": 90000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31193180",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 148495,
+          "logo_path": "/2fQRDickgp9vuDIxJTlDLEs7j0y.png",
+          "name": "Proximity Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 367953537,
+      "runtime": 137,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Yoruba",
+          "iso_639_1": "yo",
+          "name": "Èdè Yorùbá"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Танец с дьяволом»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uWLm725kcrJag1OZmPM6v8jtTvj.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 537736,
+      "original_language": "en",
+      "original_title": "Let's Scare Julie",
+      "overview": "Теперь Эмма живёт в семье тети: ее отец умер, а так как пойти подростку было больше некуда, ей пришлось переехать к родственникам. Двоюродная сестра решила помочь Эмме вернуться к нормальной жизни. Тэйлор предлагает ей присоединиться к организации и проведению забавных розыгрышей, которые девушки загружают в свой блог. Эмма постепенно вливается в их компанию и уже не чувствует себя одинокой. Когда Тэйлор предлагает Напугать Джули, соседскую девчонку, которая только переехала в этот район, Эмма сомневается, но в итоге всё-таки поддается на уговоры сестры и ее подруг. Девушки выбирают вечер, когда взрослые не будут их контролировать. Они планировали пробраться в соседский дом, снять розыгрыш и вернуться, чтобы выложить его в интернет, однако события стали развиваться не по запланированному сценарию.",
+      "popularity": 0.6061,
+      "poster_path": "/1c7OsovY4s15sLp8AfzxR92fTCU.jpg",
+      "release_date": "2020-10-24",
+      "title": "Напугать Джулию",
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 33,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt8547768",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 144289,
+          "logo_path": "/33aqno9jnEXwCKOYK7kamc6KQOh.png",
+          "name": "Blitz Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 83,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/opkr833kLOM7v95UP1VEkBBDH10.jpg",
+      "genre_ids": [
+        27,
+        10402
+      ],
+      "id": 195191,
+      "original_language": "es",
+      "original_title": "Killer Barbys",
+      "overview": "Автомобиль музыкантов из группы «Убийцы Барби» угодил в болото рядом с резиденцией баронессы Ольги Люшен, которая два столетия поддерживала молодость за счет крови юных жертв.",
+      "popularity": 1.897,
+      "poster_path": "/wJBDGRN3TddeleozfBDuKhUZJu5.jpg",
+      "release_date": "1996-05-22",
+      "title": "Убийцы Барби",
+      "video": false,
+      "vote_average": 3.982,
+      "vote_count": 28,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0116769",
+      "origin_country": [
+        "ES"
+      ],
+      "production_companies": [
+        {
+          "id": 71912,
+          "logo_path": null,
+          "name": "Jacinto Santos Parrás",
+          "origin_country": ""
+        },
+        {
+          "id": 71913,
+          "logo_path": null,
+          "name": "Civic Producciones S.L.",
+          "origin_country": ""
+        },
+        {
+          "id": 71914,
+          "logo_path": null,
+          "name": "Emilio-Miguel Mencheta Benet",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -888,73 +991,138 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/x0sEJCg6UsLoGs8r9b4l8rp1oxe.jpg",
+      "backdrop_path": "/druVwdaFSyqGpK2q4w6hSFOoIqS.jpg",
       "genre_ids": [
         27,
-        35
+        878
       ],
-      "id": 29095,
+      "id": 9599,
       "original_language": "en",
-      "original_title": "Waxwork",
-      "overview": "Неизвестно откуда в городе появляется музей восковых фигур, в котором собраны самые страшные монстры в истории мистики Дракула, маркиз Де Сад, Призрак оперы, Франкейштейн и многие другие. Зловещий хранитель музея приглашает группу школьников, модерновых припанкованных подростков, на презентацию открытия музея, которая должна состояться ровно в полночь.  Придя в музей, они обнаруживают «неполноценность» коллекции — некоторым восковым миниатюрам (а это, как правило, сценки из жизни не самых приятных исторических персонажей типа маркиза Де Сада или графа Дракулы) не хватает героев… В смысле — жертв… А в городе, между тем, пропадают люди…",
-      "popularity": 3.3266,
-      "poster_path": "/48RXt1Zu8iNL0mgCojydmqBsjsC.jpg",
-      "release_date": "1988-06-17",
-      "title": "Музей восковых фигур",
+      "original_title": "The Blob",
+      "overview": "Роковой метеорит принес на землю страшное вещество. Жидкая плазма пожирает все на своем пути, и чем больше жертв оказывается в ее бездонных недрах, тем больше становится этот сгусток черной энергии, несущей смерть. Жители маленького американского городка не верят в страшные рассказы о дьявольской субстанции. А тем временем кровавая масса уже приближается к его окраине...",
+      "popularity": 4.8116,
+      "poster_path": "/g07emIPSF5xFDNrqj6E6agIanTn.jpg",
+      "release_date": "1988-08-05",
+      "title": "Капля",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 322,
-      "belongs_to_collection": {
-        "id": 126220,
-        "name": "Музей восковых фигур (Коллекция)",
-        "poster_path": "/kYRcertVAB3sFgY4XW1008ExBYP.jpg",
-        "backdrop_path": "/oXnFpVltxp2goOCdiCe3wQ5Tw1s.jpg"
-      },
-      "budget": 3000000,
+      "vote_average": 6.833,
+      "vote_count": 1002,
+      "belongs_to_collection": null,
+      "budget": 10000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0096426",
-      "origin_country": [],
+      "imdb_id": "tt0094761",
+      "origin_country": [
+        "US"
+      ],
       "production_companies": [
         {
-          "id": 90145,
-          "logo_path": null,
-          "name": "Palla",
-          "origin_country": ""
-        },
-        {
-          "id": 12360,
-          "logo_path": "/EugVVMfcbv9zxCr0C60VhD0vGY.png",
-          "name": "Vestron Pictures",
+          "id": 559,
+          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+          "name": "TriStar Pictures",
           "origin_country": "US"
         },
         {
-          "id": 90143,
+          "id": 42225,
           "logo_path": null,
-          "name": "Contemporary Films",
-          "origin_country": ""
-        },
-        {
-          "id": 90146,
-          "logo_path": null,
-          "name": "HB Filmrullen",
-          "origin_country": ""
+          "name": "Palisades California Inc.",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "DE",
-          "name": "Germany"
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 8247943,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pbCKJTx2YEM0nEVLngSAoxltfCD.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 3053,
+      "original_language": "en",
+      "original_title": "The Fearless Vampire Killers",
+      "overview": "Профессор Абронзиус и его неопытный ассистент Альфред отправляются в Трансильванию, их цель- охота на вампиров. В заснеженных Карпатах, на постоялом дворе, где они остановились, Альфред знакомится с дочерью хозяина — прекрасной Сарой.  Это знакомство было недолгим: коварный вампир похитил рыжеволосую красавицу и унес ее в свой мрачный замок в горах. Профессор и Альфред нашли прибежище нечисти. Удастся ли им перехитрить кровососов и спасти Сару, пока она сама не превратится в вампиршу?",
+      "popularity": 2.6703,
+      "poster_path": "/8qKwGbEMlTCjcnVox8hJwJmT2kd.jpg",
+      "release_date": "1967-11-13",
+      "title": "Бал вампиров",
+      "video": false,
+      "vote_average": 6.953,
+      "vote_count": 800,
+      "belongs_to_collection": null,
+      "budget": 2000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
         },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0061655",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1138,
+          "logo_path": "/nFDryQEdl7eVjJuXoaT4Vw88xgz.png",
+          "name": "Filmways Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 1303,
+          "logo_path": null,
+          "name": "Cadre Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 5579,
+          "logo_path": "/p3vXYhkpbws0QrdSAwI98ONX7Po.png",
+          "name": "Metro-Goldwyn-Mayer British Studios",
+          "origin_country": "GB"
+        },
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
         {
           "iso_3166_1": "GB",
           "name": "United Kingdom"
@@ -964,7 +1132,154 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 808114,
+      "revenue": 0,
+      "runtime": 108,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Кто сказал, что вампиры — не повод для смеха?»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qKF9GwtJbi2rob8kZBmGcQGAaMo.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        14
+      ],
+      "id": 11596,
+      "original_language": "en",
+      "original_title": "New Nightmare",
+      "overview": "Героиня предыдущей серии, одержавшая победу над Фредди, выросла и вышла замуж за постановщика спецэффектов, разработавшего знаменитую ручку с маникюром. Снимается новый фильм про Крюгера, так как многочисленные поклонники требуют оживления своего любимчика.И снова начинаются кошмары, преследующие теперь сына нашей героини. В этом фильме Фредди существует на самом деле, а в финальных титрах для смеха написано, что роль Фредди Крюгера играл сам Фредди Крюгер.",
+      "popularity": 3.6534,
+      "poster_path": "/bWWxdgUcR4USqym7usIXkvE8wNJ.jpg",
+      "release_date": "1994-10-13",
+      "title": "Кошмар на улице Вязов 7: Новый кошмар",
+      "video": false,
+      "vote_average": 6.458,
+      "vote_count": 1529,
+      "belongs_to_collection": {
+        "id": 8581,
+        "name": "Кошмар на улице Вязов (Коллекция)",
+        "poster_path": "/pcLphX79DiEB7vLl0BqUxJVWVR4.jpg",
+        "backdrop_path": "/7UcPLgNneoemYmZcyUo5r3nwBbE.jpg"
+      },
+      "budget": 8000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0111686",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 19721741,
+      "runtime": 112,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«This time, staying awake won't save you.»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j0ZugvhxSwvAIDpAKDdtPBjETMy.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 11284,
+      "original_language": "en",
+      "original_title": "Freddy's Dead: The Final Nightmare",
+      "overview": "Здесь выясняются причины появления духа-изверга Фредди Крюгера, с самого начала мстившего жителям своего родного городка. С детства заброшенный всеми, Фредди вырос очень озлобленным. Его терзает мания убийства, и он убивает детей, заманивая их в старую котельную. Когда суд по формальным причинам выносит маньяку оправдательный приговор, разъяренные родители жертв линчуют его.",
+      "popularity": 3.5303,
+      "poster_path": "/61c49I5IJQFSB3ly3IroEOWKJE6.jpg",
+      "release_date": "1991-09-05",
+      "title": "Кошмар на улице Вязов 6: Фредди мертв",
+      "video": false,
+      "vote_average": 5.307,
+      "vote_count": 1429,
+      "belongs_to_collection": {
+        "id": 8581,
+        "name": "Кошмар на улице Вязов (Коллекция)",
+        "poster_path": "/pcLphX79DiEB7vLl0BqUxJVWVR4.jpg",
+        "backdrop_path": "/7UcPLgNneoemYmZcyUo5r3nwBbE.jpg"
+      },
+      "budget": 10000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0101917",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 34872033,
       "runtime": 93,
       "spoken_languages": [
         {
@@ -974,110 +1289,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Заходите и попробуйте „загробную жизнь“»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wxxSyWPPgssnkO6FbCAVyntLLSr.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "id": 1100988,
-      "original_language": "en",
-      "original_title": "28 Years Later",
-      "overview": "28 лет в Великобритании бушует вирус, превращающий заражённых в агрессивных плотоядных тварей. В этом ужасном мире маленький мальчик пытается найти врача для умирающей мамы.",
-      "popularity": 29.0988,
-      "poster_path": "/1GPXjQNumrQp5TSfdWxGvIhxYL9.jpg",
-      "release_date": "2025-06-18",
-      "title": "28 лет спустя",
-      "video": false,
-      "vote_average": 6.637,
-      "vote_count": 1926,
-      "belongs_to_collection": {
-        "id": 1565,
-        "name": "28 дней (Коллекция)",
-        "poster_path": "/rkFqzEiZZoccSbeDigGnIlF4iM0.jpg",
-        "backdrop_path": "/liImaqVpPGo3ddLWkJPeJxvaqCI.jpg"
-      },
-      "budget": 60000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt10548174",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 284,
-          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
-          "name": "DNA Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 8286,
-          "logo_path": null,
-          "name": "Decibel Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 151308832,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Swedish",
-          "iso_639_1": "sv",
-          "name": "svenska"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Время ничего не вылечило»",
+      "tagline": "«Born November 2nd 1984...Dies September 1991»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1436,336 +1648,107 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+      "backdrop_path": "/yJOeJH8NcOk73q6bY4hbYlC3ybG.jpg",
       "genre_ids": [
         27,
-        9648
+        18
       ],
-      "id": 574475,
-      "original_language": "en",
-      "original_title": "Final Destination Bloodlines",
-      "overview": "Уже два месяца студентке Стефани снится один и тот же страшный сон, как в 1960-ых люди гибнут при обрушении телебашни. Подозревая, что этот кошмар связан с её семьёй, девушка возвращается домой, чтобы разузнать о бабушке, с которой её родители и дядя с тётей давно порвали все связи, поскольку считают её опасной сумасшедшей, одержимой идеей смерти.",
-      "popularity": 31.4874,
-      "poster_path": "/A6SyVtXBxU6S5LfDg0tz7lUXhJq.jpg",
-      "release_date": "2025-05-14",
-      "title": "Пункт назначения: Узы крови",
+      "id": 1092936,
+      "original_language": "it",
+      "original_title": "La valle dei sorrisi",
+      "overview": "Учитель физкультуры Серджо Россетти, пытаясь забыть прошлое и начать новую жизнь, переезжает в маленькую деревню Ремис, обитатели которой оказываются необычайно спокойными людьми. Учитель знакомится с молодой владелицей местной гостиницы Микелой.\r Заметив его печаль, девушка рассказывает Серджо, что в деревне каждую неделю ночью проходит ритуал. Чтобы освободиться от собственной боли и переживаний, все жители собираются и обнимают подростка Маттео, которого называют ангелом Ремиса.",
+      "popularity": 4.5942,
+      "poster_path": "/aJKqrj2xfN4S3w012ng7LGy54Av.jpg",
+      "release_date": "2025-09-17",
+      "title": "Долина улыбок",
       "video": false,
-      "vote_average": 7.096,
-      "vote_count": 2518,
-      "belongs_to_collection": {
-        "id": 8864,
-        "name": "Пункт назначения (Коллекция)",
-        "poster_path": "/kbUErmzI30Dsi4ou0P2pn114JI4.jpg",
-        "backdrop_path": "/9YTAOy2WvO7XpkZYD2zfikRq1qG.jpg"
-      },
-      "budget": 50000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt9619824",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        },
-        {
-          "id": 48788,
-          "logo_path": "/4B35ruSPcfEL1hxVFFmNTlGcCS0.png",
-          "name": "Practical Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 252366,
-          "logo_path": "/DwpaN189I3OYb0u2HKZUDe7xox.png",
-          "name": "Freshman Year",
-          "origin_country": "US"
-        },
-        {
-          "id": 252367,
-          "logo_path": null,
-          "name": "Fireside Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 315830814,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Станьте свидетелем рождения смерти»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-      "genre_ids": [
-        27,
-        28,
-        53
-      ],
-      "id": 1233413,
-      "original_language": "en",
-      "original_title": "Sinners",
-      "overview": "1932 год. После долгих лет отсутствия близнецы Смок и Стэк возвращаются в родной городок в дельте Миссисипи. Они успели повоевать в траншеях Первой мировой, а потом стали гангстерами в Чикаго. Братья выкупают у белого расиста территорию с хозяйственными постройками, чтобы открыть там музыкальный бар для рабочих с плантации. Гвоздь программы на открытии — сын проповедника, которому близнецы когда-то подарили гитару, и он играет блюз так хорошо, что привлекает внимание оказавшегося поблизости ирландского вампира.",
-      "popularity": 52.815,
-      "poster_path": "/ZpqkD0DOd6bpLpcV9oBY8YGcRj.jpg",
-      "release_date": "2025-04-16",
-      "title": "Грешники",
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 3164,
+      "vote_average": 7.366,
+      "vote_count": 67,
       "belongs_to_collection": null,
-      "budget": 90000000,
+      "budget": 4025000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt31193180",
+      "imdb_id": "tt33382323",
       "origin_country": [
-        "US"
+        "IT",
+        "SI"
       ],
       "production_companies": [
         {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
+          "id": 110638,
+          "logo_path": "/qjbCOTKoIGUbfc0ow7uwidHZDio.png",
+          "name": "Nightswim",
+          "origin_country": "IT"
         },
         {
-          "id": 148495,
-          "logo_path": "/2fQRDickgp9vuDIxJTlDLEs7j0y.png",
-          "name": "Proximity Media",
-          "origin_country": "US"
+          "id": 2441,
+          "logo_path": "/7Vutdea75apwXkRyfQ4Ne6j0KcN.png",
+          "name": "Fandango",
+          "origin_country": "IT"
         },
         {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
+          "id": 115535,
+          "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+          "name": "Vision Distribution",
+          "origin_country": "IT"
+        },
+        {
+          "id": 14016,
+          "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+          "name": "MiC",
+          "origin_country": "IT"
+        },
+        {
+          "id": 193377,
+          "logo_path": null,
+          "name": "Lazio Cinema International",
+          "origin_country": "IT"
+        },
+        {
+          "id": 181576,
+          "logo_path": "/ymPyuyaX987UuTueWLMrZUslEgs.png",
+          "name": "Fondo Audiovisivo FVG",
+          "origin_country": "IT"
+        },
+        {
+          "id": 187035,
+          "logo_path": "/rMgSU0waF2YlwpPU6MwvF9NN1dC.png",
+          "name": "SPOK Films",
+          "origin_country": "SI"
+        },
+        {
+          "id": 19079,
+          "logo_path": "/3hskOJPppWrWq7gZaBJzP7aFB9.png",
+          "name": "Sky",
+          "origin_country": "IT"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "SI",
+          "name": "Slovenia"
         }
       ],
-      "revenue": 367953537,
-      "runtime": 137,
+      "revenue": 377925,
+      "runtime": 122,
       "spoken_languages": [
         {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Yoruba",
-          "iso_639_1": "yo",
-          "name": "Èdè Yorùbá"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Танец с дьяволом»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uWLm725kcrJag1OZmPM6v8jtTvj.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        53
-      ],
-      "id": 537736,
-      "original_language": "en",
-      "original_title": "Let's Scare Julie",
-      "overview": "Теперь Эмма живёт в семье тети: ее отец умер, а так как пойти подростку было больше некуда, ей пришлось переехать к родственникам. Двоюродная сестра решила помочь Эмме вернуться к нормальной жизни. Тэйлор предлагает ей присоединиться к организации и проведению забавных розыгрышей, которые девушки загружают в свой блог. Эмма постепенно вливается в их компанию и уже не чувствует себя одинокой. Когда Тэйлор предлагает Напугать Джули, соседскую девчонку, которая только переехала в этот район, Эмма сомневается, но в итоге всё-таки поддается на уговоры сестры и ее подруг. Девушки выбирают вечер, когда взрослые не будут их контролировать. Они планировали пробраться в соседский дом, снять розыгрыш и вернуться, чтобы выложить его в интернет, однако события стали развиваться не по запланированному сценарию.",
-      "popularity": 0.6061,
-      "poster_path": "/1c7OsovY4s15sLp8AfzxR92fTCU.jpg",
-      "release_date": "2020-10-24",
-      "title": "Напугать Джулию",
-      "video": false,
-      "vote_average": 4.1,
-      "vote_count": 33,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt8547768",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 144289,
-          "logo_path": "/33aqno9jnEXwCKOYK7kamc6KQOh.png",
-          "name": "Blitz Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/opkr833kLOM7v95UP1VEkBBDH10.jpg",
-      "genre_ids": [
-        27,
-        10402
-      ],
-      "id": 195191,
-      "original_language": "es",
-      "original_title": "Killer Barbys",
-      "overview": "Автомобиль музыкантов из группы «Убийцы Барби» угодил в болото рядом с резиденцией баронессы Ольги Люшен, которая два столетия поддерживала молодость за счет крови юных жертв.",
-      "popularity": 1.897,
-      "poster_path": "/wJBDGRN3TddeleozfBDuKhUZJu5.jpg",
-      "release_date": "1996-05-22",
-      "title": "Убийцы Барби",
-      "video": false,
-      "vote_average": 3.982,
-      "vote_count": 28,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0116769",
-      "origin_country": [
-        "ES"
-      ],
-      "production_companies": [
-        {
-          "id": 71912,
-          "logo_path": null,
-          "name": "Jacinto Santos Parrás",
-          "origin_country": ""
-        },
-        {
-          "id": 71913,
-          "logo_path": null,
-          "name": "Civic Producciones S.L.",
-          "origin_country": ""
-        },
-        {
-          "id": 71914,
-          "logo_path": null,
-          "name": "Emilio-Miguel Mencheta Benet",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "ES",
-          "name": "Spain"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
         }
       ],
       "status": "Released",

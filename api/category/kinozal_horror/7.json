@@ -9,60 +9,87 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/f2SUTv6qGGQK9k8gInnG0z9mBN3.jpg",
+      "backdrop_path": "/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
       "genre_ids": [
-        27
+        27,
+        28
       ],
-      "id": 1373276,
-      "original_language": "es",
-      "original_title": "Eran brujas",
-      "overview": "Миа, ведущая радиошоу о колдовстве, получает запрос на интервью от женщины, называющей себя ведьмой. Во время эфира происходит странный сбой, и Миа чувствует, будто впадает в транс. Не придавая этому значения, она отправляется в поездку и застревает в мотеле без электричества. Там она знакомится с молодой девушкой Сарой, своей поклонницей, и принимает приглашение переночевать у её друзей. Однако вскоре Мию начинают преследовать пугающие видения, а поведение новых знакомых становится всё более настораживающим. Постепенно Миа понимает, что её присутствие здесь — не случайность.",
-      "popularity": 4.5171,
-      "poster_path": "/85rlLCjpHbY0puR1FSL7jYyN1cu.jpg",
-      "release_date": "2025-09-08",
-      "title": "Они были ведьмами",
+      "id": 36647,
+      "original_language": "en",
+      "original_title": "Blade",
+      "overview": "Получеловек-полувампир Блэйд (Уэсли Снайпс) намерен уничтожить виновника своей судьбы - Дьякона Фроста (Стивен Дорф). Когда-то в кровь Блэйда попало совсем немного вампирского яда, но с течением времени он стал ощущать неизбежность своего превращения. Желая избавить людей от тайной и могущественной армии вампиров, заполонивших общество, он отправляется на решающий бой...",
+      "popularity": 9.7427,
+      "poster_path": "/sSIeD1KmkgBTPMGdLkMwWuuTaBG.jpg",
+      "release_date": "1998-08-21",
+      "title": "Блэйд",
       "video": false,
-      "vote_average": 4.7,
-      "vote_count": 3,
-      "belongs_to_collection": null,
-      "budget": 20000,
+      "vote_average": 6.8,
+      "vote_count": 6507,
+      "belongs_to_collection": {
+        "id": 735,
+        "name": "Блэйд (Коллекция)",
+        "poster_path": "/6hIarCfoGAHUgBLo0OBG5cbQtD8.jpg",
+        "backdrop_path": "/d7h60yRgP6US9VYenEPzFGW9saY.jpg"
+      },
+      "budget": 45000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33621293",
+      "imdb_id": "tt0120611",
       "origin_country": [
-        "MX"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 139154,
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 421,
           "logo_path": null,
-          "name": "Dinamogeno Films",
+          "name": "Amen Ra Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 11321,
+          "logo_path": null,
+          "name": "Imaginary Forces",
           "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "MX",
-          "name": "Mexico"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 100,
+      "revenue": 131183530,
+      "runtime": 121,
       "spoken_languages": [
         {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
+      "tagline": "«Сила бессмертного. Душа человека. Сердце героя.»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"

@@ -1,103 +1,65 @@
 {
   "page": 8,
   "limit": 20,
-  "total": 215,
+  "total": 218,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/zfhAzbZXg24Z9INMcRfkr45mH91.jpg",
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
       "genre_ids": [
-        18
+        27,
+        53
       ],
-      "id": 1211442,
+      "id": 1228246,
       "original_language": "en",
-      "original_title": "Rebuilding",
-      "overview": "После того, как лесные пожары уничтожают его ранчо, ковбой по имени Дасти оказывается в лагере FEMA, где находит общность с другими людьми, потерявшими дома, включая свою дочь и бывшую жену.",
-      "popularity": 34.9417,
-      "poster_path": "/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg",
-      "release_date": "2025-11-14",
-      "title": "Перестройка",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Спустя год после сверхъестественного кошмара в пиццерии Freddy Fazbear's произошедшее превратилось в местную легенду и вдохновило на первое в городе празднование Fazfest. Не зная правды, Эбби тайно отправляется к Фредди, Бонни, Чике и Фокси, запускает цепь пугающих событий и сталкивается с мрачными секретами происхождения пиццерии, пробуждая давний ужас, скрытый десятилетиями.",
+      "popularity": 204.1861,
+      "poster_path": "/geZhhgqqMrOQdhm4Kv9ulxPI5ZN.jpg",
+      "release_date": "2025-12-03",
+      "title": "Пять ночей с Фредди 2",
       "video": false,
-      "vote_average": 6.917,
-      "vote_count": 24,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.791,
+      "vote_count": 504,
+      "belongs_to_collection": {
+        "id": 1240438,
+        "name": "Пять ночей с Фредди (Коллекция)",
+        "poster_path": "/mziuu7XpcnsOb6eRvHDi666U6Nc.jpg",
+        "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
+      },
+      "budget": 36000000,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
         }
       ],
-      "homepage": "",
-      "imdb_id": "tt29361963",
+      "homepage": "https://www.fivenightsatfreddys.movie/",
+      "imdb_id": "tt30274401",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 207105,
+          "id": 3172,
+          "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+          "name": "Blumhouse Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 211144,
           "logo_path": null,
-          "name": "Present Company",
+          "name": "Scott Cawthon Productions",
           "origin_country": "US"
         },
         {
-          "id": 140543,
-          "logo_path": null,
-          "name": "Cow Hip Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 173947,
-          "logo_path": null,
-          "name": "Dead End Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 173946,
-          "logo_path": "/As69t46gOyxtUzcQ3fdz5XAVzE2.png",
-          "name": "MacPac Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 191842,
-          "logo_path": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
-          "name": "Spark Features",
-          "origin_country": "US"
-        },
-        {
-          "id": 277169,
-          "logo_path": null,
-          "name": "The Sakana Foundation",
-          "origin_country": "US"
-        },
-        {
-          "id": 149522,
-          "logo_path": "/iFSOhZejd4p6o8me3cCGhfBXC5X.png",
-          "name": "Sons of Rigor Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 204575,
-          "logo_path": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
-          "name": "Cinema Inutile",
-          "origin_country": "US"
-        },
-        {
-          "id": 12219,
-          "logo_path": "/cU5xtXF1NbOEdtwQNJTGC1IlHBS.png",
-          "name": "Cinereach",
-          "origin_country": "US"
-        },
-        {
-          "id": 169960,
-          "logo_path": "/mPfWxHoW3WB6RuUAZ0388HUUw3j.png",
-          "name": "Fit Via Vi",
-          "origin_country": "US"
-        },
-        {
-          "id": 277252,
-          "logo_path": null,
-          "name": "Crowded Table",
+          "id": 116736,
+          "logo_path": "/5qSrmPricJH5TKXvfRSmUc7o1wP.png",
+          "name": "Mind Hive Films",
           "origin_country": "US"
         }
       ],
@@ -105,19 +67,295 @@
         {
           "iso_3166_1": "US",
           "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
         }
       ],
-      "revenue": 0,
-      "runtime": 96,
+      "revenue": 231452000,
+      "runtime": 104,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Вы здесь?»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 1456349,
+      "original_language": "fa",
+      "original_title": "یک تصادف ساده",
+      "overview": "Семья едет домой, и внезапно их машина попадает в аварию. В автомастерской механик Вахид узнает по скрипу протеза отца семейства — это человек, которому он давно мечтал отомстить. Вахид готовит похищение, но все сильнее сомневается, не ошибся ли он. Простая случайность приводит к череде серьезных последствий.",
+      "popularity": 24.2979,
+      "poster_path": "/4Y1uQ0i4BSvoLL7qUzIWK7UsoBD.jpg",
+      "release_date": "2025-09-27",
+      "title": "Простая случайность",
+      "video": false,
+      "vote_average": 7.195,
+      "vote_count": 249,
+      "belongs_to_collection": null,
+      "budget": 6000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt36491653",
+      "origin_country": [
+        "IR"
+      ],
+      "production_companies": [
+        {
+          "id": 2835,
+          "logo_path": null,
+          "name": "Jafar Panahi Productions",
+          "origin_country": "IR"
+        },
+        {
+          "id": 12389,
+          "logo_path": "/6yilbEvoHtPcTb4LwAueAq091iT.png",
+          "name": "Les Films Pelléas",
+          "origin_country": "FR"
+        },
+        {
+          "id": 20338,
+          "logo_path": "/yCTqaPPzFfjqKU2YAGWce4qQk1S.png",
+          "name": "Bidibul Productions",
+          "origin_country": "LU"
+        },
+        {
+          "id": 165898,
+          "logo_path": "/vBrwZHCYcp8T23rE3AsQu4ffA3J.png",
+          "name": "Pio & Co",
+          "origin_country": "FR"
+        },
+        {
+          "id": 94,
+          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+          "name": "ARTE France Cinéma",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IR",
+          "name": "Iran"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "LU",
+          "name": "Luxembourg"
+        }
+      ],
+      "revenue": 9044840,
+      "runtime": 101,
+      "spoken_languages": [
+        {
+          "english_name": "Azerbaijani",
+          "iso_639_1": "az",
+          "name": "Azərbaycan"
+        },
+        {
+          "english_name": "Persian",
+          "iso_639_1": "fa",
+          "name": "فارسی"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kUuWEOgqlVqcXsXujJPK8C6kjum.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1288072,
+      "original_language": "en",
+      "original_title": "Keeper",
+      "overview": "Малкольм приглашает Лиз на романтический уик-энд в свое фамильное имение в самом сердце леса. А затем, внезапно сославшись на неотложные дела, уезжает. Девушка остается один на один с огромным домом, из которого никак нельзя сбежать. И с каждой минутой находиться в нём становится всё опаснее. Если Лиз не разгадает его тайну, то останется здесь навечно.",
+      "popularity": 30.0495,
+      "poster_path": "/mMd3F8PTXgRQyOuwPoTrsbHNBrH.jpg",
+      "release_date": "2025-11-12",
+      "title": "Крипер",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 91,
+      "belongs_to_collection": null,
+      "budget": 6000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32332404",
+      "origin_country": [
+        "CA"
+      ],
+      "production_companies": [
+        {
+          "id": 85465,
+          "logo_path": "/oxx1bmXDQxeBsvYZmCxMtfJ5wa3.png",
+          "name": "Oddfellows Entertainment",
+          "origin_country": "CA"
+        },
+        {
+          "id": 262307,
+          "logo_path": "/Yt9QqQjZzvdZCRLN5vGoi3dc8n.png",
+          "name": "Phobos",
+          "origin_country": "CA"
+        },
+        {
+          "id": 282775,
+          "logo_path": null,
+          "name": "Shadowless Horse Pictures",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 5480639,
+      "runtime": 99,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Ты мне больше не нравишься»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1419406,
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "Полиция Макао приглашает на работу вышедшего на пенсию специалиста по розыску, который поможет поймать опасную группу профессиональных воров.",
+      "popularity": 144.0416,
+      "poster_path": "/6YBP0sraDKu2ooa73FGoqxsNkWB.jpg",
+      "release_date": "2025-08-16",
+      "title": "Охота за тенью",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 191,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34610311",
+      "origin_country": [
+        "CN",
+        "HK"
+      ],
+      "production_companies": [
+        {
+          "id": 122699,
+          "logo_path": null,
+          "name": "iQIYI Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 197030,
+          "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+          "name": "Tao Piao Piao",
+          "origin_country": "CN"
+        },
+        {
+          "id": 25657,
+          "logo_path": "/nR1OM1kwQ1ZrtbUb6sSfV0Ldynk.png",
+          "name": "Hairun Pictures Company",
+          "origin_country": "CN"
+        },
+        {
+          "id": 250765,
+          "logo_path": "/pl14N2WxiYBDNUrPaFBhzyKoO8Z.png",
+          "name": "Dong Fang Chen Xiang",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        }
+      ],
+      "revenue": 174400000,
+      "runtime": 141,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
         }
       ],
       "status": "Released",
@@ -327,6 +565,131 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/zfhAzbZXg24Z9INMcRfkr45mH91.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1211442,
+      "original_language": "en",
+      "original_title": "Rebuilding",
+      "overview": "После того, как лесные пожары уничтожают его ранчо, ковбой по имени Дасти оказывается в лагере FEMA, где находит общность с другими людьми, потерявшими дома, включая свою дочь и бывшую жену.",
+      "popularity": 34.9417,
+      "poster_path": "/7cDCGKBA6XANFDw4km9GvDnFBHw.jpg",
+      "release_date": "2025-11-14",
+      "title": "Перестройка",
+      "video": false,
+      "vote_average": 6.917,
+      "vote_count": 24,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt29361963",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 207105,
+          "logo_path": null,
+          "name": "Present Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 140543,
+          "logo_path": null,
+          "name": "Cow Hip Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 173947,
+          "logo_path": null,
+          "name": "Dead End Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 173946,
+          "logo_path": "/As69t46gOyxtUzcQ3fdz5XAVzE2.png",
+          "name": "MacPac Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 191842,
+          "logo_path": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
+          "name": "Spark Features",
+          "origin_country": "US"
+        },
+        {
+          "id": 277169,
+          "logo_path": null,
+          "name": "The Sakana Foundation",
+          "origin_country": "US"
+        },
+        {
+          "id": 149522,
+          "logo_path": "/iFSOhZejd4p6o8me3cCGhfBXC5X.png",
+          "name": "Sons of Rigor Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 204575,
+          "logo_path": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
+          "name": "Cinema Inutile",
+          "origin_country": "US"
+        },
+        {
+          "id": 12219,
+          "logo_path": "/cU5xtXF1NbOEdtwQNJTGC1IlHBS.png",
+          "name": "Cinereach",
+          "origin_country": "US"
+        },
+        {
+          "id": 169960,
+          "logo_path": "/mPfWxHoW3WB6RuUAZ0388HUUw3j.png",
+          "name": "Fit Via Vi",
+          "origin_country": "US"
+        },
+        {
+          "id": 277252,
+          "logo_path": null,
+          "name": "Crowded Table",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
       "genre_ids": [
         53,
@@ -417,93 +780,6 @@
       ],
       "status": "Released",
       "tagline": "«Одни ищут битву, другие в ней рождаются»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "id": 1234821,
-      "original_language": "en",
-      "original_title": "Jurassic World Rebirth",
-      "overview": "Спустя 5 лет после завоевания мира юрского периода, экспедиция отправляется в изолированные экваториальные регионы, чтобы извлечь ДНК из 3-ёх огромных доисторических существ для революционного открытия в медицине.",
-      "popularity": 59.2719,
-      "poster_path": "/iIk5nWcHuqTMLrz1yrwIWcmwTOM.jpg",
-      "release_date": "2025-07-01",
-      "title": "Мир Юрского периода: Возрождение",
-      "video": false,
-      "vote_average": 6.368,
-      "vote_count": 2737,
-      "belongs_to_collection": {
-        "id": 328,
-        "name": "Парк Юрского периода (Коллекция)",
-        "poster_path": "/8StYkQ40svKTGjHSyoupZUCgkIC.jpg",
-        "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
-      },
-      "budget": 180000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31036941",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 56,
-          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
-          "name": "Amblin Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 869146189,
-      "runtime": 134,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Наступает новая эра»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -634,6 +910,193 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 1234821,
+      "original_language": "en",
+      "original_title": "Jurassic World Rebirth",
+      "overview": "Спустя 5 лет после завоевания мира юрского периода, экспедиция отправляется в изолированные экваториальные регионы, чтобы извлечь ДНК из 3-ёх огромных доисторических существ для революционного открытия в медицине.",
+      "popularity": 59.2719,
+      "poster_path": "/iIk5nWcHuqTMLrz1yrwIWcmwTOM.jpg",
+      "release_date": "2025-07-01",
+      "title": "Мир Юрского периода: Возрождение",
+      "video": false,
+      "vote_average": 6.368,
+      "vote_count": 2737,
+      "belongs_to_collection": {
+        "id": 328,
+        "name": "Парк Юрского периода (Коллекция)",
+        "poster_path": "/8StYkQ40svKTGjHSyoupZUCgkIC.jpg",
+        "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+      },
+      "budget": 180000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31036941",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 56,
+          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+          "name": "Amblin Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 869146189,
+      "runtime": 134,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Наступает новая эра»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tx6k24kEGxc4sEqxb7KJCJCHbj7.jpg",
+      "genre_ids": [
+        35,
+        10402
+      ],
+      "id": 1306400,
+      "original_language": "en",
+      "original_title": "Merrily We Roll Along",
+      "overview": "1950-1970-е годы. История дружбы бродвейского композитора Франклина Шепарда с писательницей Мэри Флинн и драматургом Чарли Крингасом, которых в 1973 году Франклин оставил, чтобы преследовать карьеру в Голливуде.",
+      "popularity": 7.6505,
+      "poster_path": "/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+      "release_date": "2025-12-04",
+      "title": "Мы едем, едем, едем",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 8,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32641442",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 89394,
+          "logo_path": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
+          "name": "RadicalMedia",
+          "origin_country": "US"
+        },
+        {
+          "id": 108890,
+          "logo_path": "/jzpBa1CBrQaoz0lwxZ1YdqNzRXQ.png",
+          "name": "Sonia Friedman Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 169871,
+          "logo_path": null,
+          "name": "No Guarantees Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 278166,
+          "logo_path": null,
+          "name": "Chocolate Factory Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 278167,
+          "logo_path": null,
+          "name": "P-Cat Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 278168,
+          "logo_path": null,
+          "name": "Stephen Sondheim Trust",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 2655791,
+      "runtime": 150,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/nVHEjkA8vuEGJLfNUOmVW5md6yn.jpg",
       "genre_ids": [
         18,
@@ -737,6 +1200,340 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
+      "genre_ids": [
+        53,
+        878,
+        80,
+        28
+      ],
+      "id": 1266798,
+      "original_language": "fr",
+      "original_title": "Chien 51",
+      "overview": "Париж, 2045 год. Город находится под контролем Альмы, искусственного интеллекта, и разделён на три зоны, в каждой из которых проживает отдельный класс населения. Когда создателя искусственного интеллекта убивают, расследовать преступление приходится Салии, следователю из второй зоны, и Зему, полицейскому из третьей зоны.",
+      "popularity": 16.7172,
+      "poster_path": "/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
+      "release_date": "2025-10-15",
+      "title": "Пёс 51",
+      "video": false,
+      "vote_average": 6.428,
+      "vote_count": 159,
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1XZQZmuREZG0kJmhGxPFpGk6jQR.jpg",
+      "genre_ids": [
+        878
+      ],
+      "id": 1407251,
+      "original_language": "ru",
+      "original_title": "Авиатор",
+      "overview": "1929 год, СССР. Авиатор Иннокентий Платонов — ученик авиаконструктора Жуковского — бездоказательно обвинен в убийстве доносчика Зарецкого. Платонов попадает в Соловецкий лагерь, где становится невольным участником эксперимента по крионике. Спустя почти столетие, в 2025 году, выдающемуся ученому Константину Гейгеру удается его разморозить в частной лаборатории под Петербургом. Чудом выживший Платонов пытается вернуться к нормальной жизни, но на этом пути его ждут большие трудности.",
+      "popularity": 0.9055,
+      "poster_path": "/vklkJVzCng5l5dIJL8bqq63zb5k.jpg",
+      "release_date": "2025-11-20",
+      "title": "Авиатор",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt29703223",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 103333,
+          "logo_path": "/xnHkaPJ6QtB1PcsEugsfkMLMz7p.png",
+          "name": "Red Square",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«История одного полёта»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        14
+      ],
+      "id": 83533,
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Джейк Салли, Нейтири и их дети переживают смерть Нетейама. Противостояние с корпорацией RDA обостряется, и теперь семье предстоит столкнуться с враждебным племенем На`ви во главе с Варанг.",
+      "popularity": 497.1497,
+      "poster_path": "/4Em1KBxw9pWhgQqGREJLdTvseJO.jpg",
+      "release_date": "2025-12-17",
+      "title": "Аватар: Пламя и пепел",
+      "video": false,
+      "vote_average": 7.36,
+      "vote_count": 1131,
+      "belongs_to_collection": {
+        "id": 87096,
+        "name": "Аватар (Коллекция)",
+        "poster_path": "/wO67q3lInOFKplkw9wyzrWcvVoM.jpg",
+        "backdrop_path": "/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg"
+      },
+      "budget": 350000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1757678",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 127928,
+          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+          "name": "20th Century Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 574,
+          "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+          "name": "Lightstorm Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 948995254,
+      "runtime": 192,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Пламя и Пепел»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7cngyZFSJmIB6bjKP16SAfuJJz3.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1157322,
+      "original_language": "cs",
+      "original_title": "Franz",
+      "overview": "Рассказ о жизни и наследии писателя Франца Кафки.",
+      "popularity": 2.2407,
+      "poster_path": "/q2cxchZPC6a9hv13inC885iaKLo.jpg",
+      "release_date": "2025-09-25",
+      "title": "Франц",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 6500000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt17070412",
+      "origin_country": [
+        "CZ"
+      ],
+      "production_companies": [
+        {
+          "id": 48593,
+          "logo_path": "/kdDQUaKStdNe1InsTqJypfRJW72.png",
+          "name": "Marlene Film Production",
+          "origin_country": "CZ"
+        },
+        {
+          "id": 96,
+          "logo_path": "/9ps82gVzUeNdkjmLzoGDQLiLDio.png",
+          "name": "X Filme Creative Pool",
+          "origin_country": "DE"
+        },
+        {
+          "id": 72700,
+          "logo_path": "/pE7ZcYgRMNocyCFw8OqBt3LG2OP.png",
+          "name": "Metro Films",
+          "origin_country": "PL"
+        },
+        {
+          "id": 6480,
+          "logo_path": "/qJUUNzFYXNUDaisssBTV3Zdki9R.png",
+          "name": "Telewizja Polska",
+          "origin_country": "PL"
+        },
+        {
+          "id": 487,
+          "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+          "name": "Česká televize",
+          "origin_country": "CZ"
+        },
+        {
+          "id": 250,
+          "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+          "name": "CANAL+ Polska",
+          "origin_country": "PL"
+        },
+        {
+          "id": 6242,
+          "logo_path": "/t2DxIOeTikEe9YTckWuFJECoG9r.png",
+          "name": "Barrandov Studio",
+          "origin_country": "CZ"
+        },
+        {
+          "id": 20473,
+          "logo_path": "/yhe5gpAhQicancYMbFzAXARrdzl.png",
+          "name": "Czech Anglo Pictures",
+          "origin_country": "CZ"
+        },
+        {
+          "id": 274087,
+          "logo_path": null,
+          "name": "NeoSynCon",
+          "origin_country": ""
+        },
+        {
+          "id": 208,
+          "logo_path": "/bxQYlRhQu6nbohBEL0SWz8xIAGy.png",
+          "name": "Bac Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 4606,
+          "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+          "name": "ZDF",
+          "origin_country": "DE"
+        },
+        {
+          "id": 587,
+          "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+          "name": "ARTE",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CZ",
+          "name": "Czech Republic"
+        },
+        {
+          "iso_3166_1": "PL",
+          "name": "Poland"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 127,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Polish",
+          "iso_639_1": "pl",
+          "name": "Polski"
+        },
+        {
+          "english_name": "Czech",
+          "iso_639_1": "cs",
+          "name": "Český"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -929,6 +1726,30 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/tOwffsVVkPWaQGmWDoZxKhGmrNi.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 1312157,
+      "original_language": "it",
+      "original_title": "FolleMente",
+      "overview": "У Пьеро и Лары романтическое свидание, но они пришли не одни. Их сопровождает целая группа безумных персонажей — их мысли и страхи. На протяжении всего свидания они дают паре советы и спорят друг с другом, и неизвестно, чем закончится эта головоломка — завтраком в постели или расставанием.",
+      "popularity": 1.9596,
+      "poster_path": "/nJNVjTX7JVKMgt2RYIafTgk9vFc.jpg",
+      "release_date": "2026-01-01",
+      "title": "Безумное свидание",
+      "video": false,
+      "vote_average": 7.203,
+      "vote_count": 533,
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
       "genre_ids": [
         14,
@@ -1004,704 +1825,6 @@
       "status": "Released",
       "tagline": "«Ты изменишься навсегда»",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sSaUmM4bnZJ7PW5dlyRi7iONB65.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1010756,
-      "original_language": "en",
-      "original_title": "The Strangers: Chapter 2",
-      "overview": "Незнакомцы снова начинают охоту, когда узнают, что Майя, одна из их жертв, выжила. Оказавшись без возможности скрыться и не доверяя никому, девушке предстоит пережить серию нападений и уйти от преследования.",
-      "popularity": 26.2745,
-      "poster_path": "/urHr3ZwWX857SGgb7LiCITm2hhA.jpg",
-      "release_date": "2025-09-25",
-      "title": "Незнакомцы. Глава 2",
-      "video": false,
-      "vote_average": 5.992,
-      "vote_count": 188,
-      "belongs_to_collection": {
-        "id": 1172926,
-        "name": "Незнакомцы",
-        "poster_path": "/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
-        "backdrop_path": "/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
-      },
-      "budget": 8000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt28671344",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 175756,
-          "logo_path": null,
-          "name": "Sherbone Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 9987,
-          "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
-          "name": "Lipsync Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 229418,
-          "logo_path": null,
-          "name": "Stream Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 200342,
-          "logo_path": null,
-          "name": "Fifth Element Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 21921749,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Выжить – только начало»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/aJDLz1748CIMZkCkyISYe5Hl6I7.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "id": 1061474,
-      "original_language": "en",
-      "original_title": "Superman",
-      "overview": "Кларк Кент, родившийся на планете Криптон, но выросший в простой американской семье, считает своим долгом служение человечеству в качестве Супермена. Он предотвращает вторжение сил Боравии в соседнюю страну, чем навлекает на себя гнев Лекса Лютора, который со своими приспешниками проникает в Крепость Одиночества Супермена и очерняет его перед общественностью.",
-      "popularity": 35.946,
-      "poster_path": "/ikbG08TQtkIWUVRVotHhndf72pL.jpg",
-      "release_date": "2025-07-09",
-      "title": "Супермен",
-      "video": false,
-      "vote_average": 7.383,
-      "vote_count": 4188,
-      "belongs_to_collection": {
-        "id": 1540907,
-        "name": "Супермен (DC Universe) (Коллекция)",
-        "poster_path": "/2L0dVc82ZWUgo6Fe2lnJ5qqUDId.jpg",
-        "backdrop_path": "/6xQWbcYRHoVDRkyspTy64x8l22m.jpg"
-      },
-      "budget": 225000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "https://www.superman.com/",
-      "imdb_id": "tt5950044",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 184898,
-          "logo_path": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
-          "name": "DC Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 94218,
-          "logo_path": "/kxuhS8wyKtVprOn5nckdHyNuSg1.png",
-          "name": "Troll Court Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 11565,
-          "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
-          "name": "The Safran Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 616823803,
-      "runtime": 129,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Взгляни наверх»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tx6k24kEGxc4sEqxb7KJCJCHbj7.jpg",
-      "genre_ids": [
-        35,
-        10402
-      ],
-      "id": 1306400,
-      "original_language": "en",
-      "original_title": "Merrily We Roll Along",
-      "overview": "1950-1970-е годы. История дружбы бродвейского композитора Франклина Шепарда с писательницей Мэри Флинн и драматургом Чарли Крингасом, которых в 1973 году Франклин оставил, чтобы преследовать карьеру в Голливуде.",
-      "popularity": 7.6505,
-      "poster_path": "/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
-      "release_date": "2025-12-04",
-      "title": "Мы едем, едем, едем",
-      "video": false,
-      "vote_average": 8,
-      "vote_count": 8,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32641442",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 89394,
-          "logo_path": "/m1Hku3PhgdsQiPO8uVe7szyrxAb.png",
-          "name": "RadicalMedia",
-          "origin_country": "US"
-        },
-        {
-          "id": 108890,
-          "logo_path": "/jzpBa1CBrQaoz0lwxZ1YdqNzRXQ.png",
-          "name": "Sonia Friedman Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 169871,
-          "logo_path": null,
-          "name": "No Guarantees Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 278166,
-          "logo_path": null,
-          "name": "Chocolate Factory Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 278167,
-          "logo_path": null,
-          "name": "P-Cat Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 278168,
-          "logo_path": null,
-          "name": "Stephen Sondheim Trust",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 2655791,
-      "runtime": 150,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qzXbzPj0oHMvoPJtQu2LqDMM5z.jpg",
-      "genre_ids": [
-        10749,
-        35,
-        10770
-      ],
-      "id": 1490891,
-      "original_language": "en",
-      "original_title": "Double Scoop",
-      "overview": "Когда-то Нора и Джеймс были командой мечты в одном из лучших новостных агентств Нью-Йорка, но теперь им предстоит соперничать друг с другом за расположение самых радушных клиентов в мире — владельцев молочной фермы в маленьком городке, производящей самое восхитительное мороженое в стране.",
-      "popularity": 0.6643,
-      "poster_path": "/4EZs82A1m7xSxClRTwI8JbezAnK.jpg",
-      "release_date": "2025-08-23",
-      "title": "Двойное мороженое",
-      "video": false,
-      "vote_average": 7.429,
-      "vote_count": 7,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36940073",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 7119,
-          "logo_path": "/2aFVtrHVcqGOq1qwYlPZ7VQ67Oi.png",
-          "name": "Hybrid",
-          "origin_country": "US"
-        },
-        {
-          "id": 53015,
-          "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
-          "name": "Hallmark Media",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 85,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hjPWg7trJPSZ4tUEZhqGxX1HxUS.jpg",
-      "genre_ids": [
-        12,
-        878
-      ],
-      "id": 1233506,
-      "original_language": "fr",
-      "original_title": "L'Homme qui rétrécit",
-      "overview": "Во время плавания на лодке Скотт Кэри сталкивается с радиоактивным туманом, после которого замечает странные изменения в своем теле — он начинает стремительно уменьшаться. Вскоре, оказавшись запертым в собственном подвале и достигнув роста всего лишь в 5 сантиметров, ему предстоит бороться за выживание в привычном, но уже враждебном для него мире.",
-      "popularity": 11.5895,
-      "poster_path": "/qfvYXzN2QOFkdR4GTUxEOH4Otx.jpg",
-      "release_date": "2025-11-20",
-      "title": "Дорогая, я уменьшаюсь",
-      "video": false,
-      "vote_average": 6.217,
-      "vote_count": 30,
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
-      "genre_ids": [
-        80,
-        18,
-        53
-      ],
-      "id": 1220564,
-      "original_language": "pt",
-      "original_title": "O Agente Secreto",
-      "overview": "Последние годы военной диктатуры в Бразилии. Школьный учитель Марселу бежит от своего прошлого, но не может найти себе покоя даже в другом городе.",
-      "popularity": 45.0159,
-      "poster_path": "/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
-      "release_date": "2025-07-23",
-      "title": "Секретный агент",
-      "video": false,
-      "vote_average": 7.722,
-      "vote_count": 178,
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
-      "genre_ids": [
-        53,
-        80,
-        9648
-      ],
-      "id": 425274,
-      "original_language": "en",
-      "original_title": "Now You See Me: Now You Don't",
-      "overview": "«4 всадника» возвращаются вместе с молодым поколением иллюзионистов, демонстрируя головокружительные трюки, магию и превращения, каких ещё не видел мир.",
-      "popularity": 180.4383,
-      "poster_path": "/tTBnFolA9nYvoXXb0Jlnn7Gdtnn.jpg",
-      "release_date": "2025-11-12",
-      "title": "Иллюзия обмана 3",
-      "video": false,
-      "vote_average": 6.559,
-      "vote_count": 791,
-      "belongs_to_collection": {
-        "id": 382685,
-        "name": "Иллюзия обмана (Коллекция)",
-        "poster_path": "/9mFcFk0ZyHQK5aAOjMrHtt0Ygd2.jpg",
-        "backdrop_path": "/scBzORmLqP00h8hPKS19TLtyRQm.jpg"
-      },
-      "budget": 90000000,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt4712810",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 281285,
-          "logo_path": null,
-          "name": "Cohen Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 221429,
-          "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-          "name": "Media Capital Technologies",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 218339508,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Раскрой Тайну Иллюзии»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/byf2GP9BohJmD8FKB8DSy1gULUb.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1418220,
-      "original_language": "en",
-      "original_title": "Henry Johnson",
-      "overview": "Случайный акт доброты оборачивается для «маленького» незаметного человека кошмаром — его арестовывают без объяснения причин. Морально надломленный, он утрачивает внутреннюю опору и постепенно втягивается в сюрреалистический кошмар, который творится в юридической системе.",
-      "popularity": 0.9669,
-      "poster_path": "/mQfgIutah3176au5kf80j1PwFcP.jpg",
-      "release_date": "2025-05-09",
-      "title": "Генри Джонсон",
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36266270",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 188569,
-          "logo_path": "/qNIySI0i5IMgHXZDqdV6KKADemy.png",
-          "name": "1993",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 85,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
-      "genre_ids": [
-        80,
-        35,
-        18
-      ],
-      "id": 1242419,
-      "original_language": "en",
-      "original_title": "Roofman",
-      "overview": "Джеффри Манчестер, прозванный за свои дерзкие ограбления McDonald`s грабителем с крыши, обнаруживает неожиданное убежище в магазине игрушек. Здесь, казалось бы, он получает шанс перевести дух и залечь на дно. Но события начинают развиваться непредсказуемым образом, когда Джефф влюбляется в очаровательную девушку, работающую в этом магазине.",
-      "popularity": 25.5895,
-      "poster_path": "/tqbS2vmNCbTPX2CXFJxxMsomAlM.jpg",
-      "release_date": "2025-10-08",
-      "title": "Грабитель с крыши",
-      "video": false,
-      "vote_average": 7.178,
-      "vote_count": 394,
-      "belongs_to_collection": null,
-      "budget": 18000000,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt4627382",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 128360,
-          "logo_path": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
-          "name": "Limelight",
-          "origin_country": "US"
-        },
-        {
-          "id": 52053,
-          "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
-          "name": "High Frequency Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 106178,
-          "logo_path": null,
-          "name": "51 Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 14,
-          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-          "name": "Miramax",
-          "origin_country": "US"
-        },
-        {
-          "id": 278601,
-          "logo_path": null,
-          "name": "Von Waaden Entertainment",
-          "origin_country": ""
-        },
-        {
-          "id": 7493,
-          "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
-          "name": "FilmNation Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 2290,
-          "logo_path": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
-          "name": "Hunting Lane Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 34121603,
-      "runtime": 120,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Он Ограбил 45 Ресторанов McDonald's и Это не Самое Безумное»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oz5DLjcI66iDpOdKU7QG9JrGARe.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1221061,
-      "original_language": "de",
-      "original_title": "In die Sonne schauen",
-      "overview": "Альма, Эрика, Ангелика и Нелли — четыре женщины из разных эпох, начиная с времён Первой мировой войны и заканчивая нашими днями. Каждая из них провела детство или юность в одном и том же поместье в Альтмарке. Исследуя собственное настоящее, они постепенно обнаруживают следы прошлого и открывают загадки, которые объединяют их судьбы.",
-      "popularity": 4.3034,
-      "poster_path": "/ApOwQ2ytWuoLCEs7iOx6M53TrSA.jpg",
-      "release_date": "2025-12-04",
-      "title": "Звук падения",
-      "video": false,
-      "vote_average": 6.788,
-      "vote_count": 33,
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
