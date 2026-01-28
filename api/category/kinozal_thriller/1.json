@@ -81,28 +81,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9hYC1CtddA4qAzGgVEWHfv5dAM3.jpg",
+      "backdrop_path": "/m63y5ozkIBpPr3LxjZUFH8vQKlk.jpg",
       "genre_ids": [
-        9648,
+        27,
         53
       ],
-      "id": 90908,
-      "original_language": "fr",
-      "original_title": "Trans-Europ-Express",
-      "overview": "В картине переплетены самые разные жанры — экспериментальный фильм, детектив, триллер, мистика, чёрная комедия и мелодрама с элементами эротики, бондажа, парадокса и розыгрыша. История как бы порождена кинематографистами, но развивается во многом независимо от них, позволяя им вносить в ход событий лишь частичные правки, и одновременно сочинять на основе этой истории собственный сценарий.",
-      "popularity": 1.1243,
-      "poster_path": "/9uCQyv8qRGu4IfqW8Kit0tDUAf5.jpg",
-      "release_date": "1966-12-31",
-      "title": "Транс-европейский экспресс",
+      "id": 1476740,
+      "original_language": "en",
+      "original_title": "Influencers",
+      "overview": "Пара CW и Diane приезжает на юг Франции, чтобы спокойно отпраздновать свою первую годовщину. Но их отпуск меняет направление, когда в отеле появляется популярная британская инфлюэнсерша Charlotte. Ситуация, начавшаяся с простой бытовой неприятности, быстро перерастает в напряжённое соперничество: Charlotte сближается с Diane, а CW всё сильнее теряет контроль над происходящим. На фоне солнечных пейзажей возникает тревожная история о навязчивости, ревности и опасных границах человеческой идентичности.",
+      "popularity": 3.7693,
+      "poster_path": "/nRdjGDxBW60OhzjAtikLgQBwt3B.jpg",
+      "release_date": "2025-07-26",
+      "title": "Инфлюэнсеры",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 69,
-      "belongs_to_collection": null,
+      "vote_average": 6.732,
+      "vote_count": 28,
+      "belongs_to_collection": {
+        "id": 1493634,
+        "name": "Influencer Collection",
+        "poster_path": "/7mVgcnUkweyNS9s6JuCSgpVIIJX.jpg",
+        "backdrop_path": "/iXq6EXufOKsCZ0vHi8aZraNasxk.jpg"
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 27,
+          "name": "ужасы"
         },
         {
           "id": 53,
@@ -110,36 +115,112 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0061113",
+      "imdb_id": "tt36833584",
       "origin_country": [
-        "FR"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 46570,
-          "logo_path": null,
-          "name": "Como Films",
-          "origin_country": "FR"
+          "id": 261588,
+          "logo_path": "/j4gQzYnvvH5mTwKKrbbf9q9Im9F.png",
+          "name": "Jackrabbit Media",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FR",
-          "name": "France"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 95,
+      "runtime": 110,
       "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
         {
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5HN0oTiAsyU5vClcm9DBbIeox1H.jpg",
+      "genre_ids": [
+        27,
+        53,
+        10770
+      ],
+      "id": 73336,
+      "original_language": "en",
+      "original_title": "Buried Alive II",
+      "overview": "Когда кажется, что будущего нет, наступает время хоронить прошлое. 10 лет странные слухи ходят по мирному городку Драй Понд. По слухам этим Клинт Гудмэн восстал из могилы, дабы убить неверную жену и её любовника - доктора, который и дал ей таинственный яд, чтобы отравить Гудмэна. Приняв этот яд, он только внешне выглядел мёртвым. Рэнди Рискин и его подруга - золотоискательница Роксана решили избавиться от жены Рэнди, Лоры, этим же, как они считают, идеальным способом. Сможет ли прибытие таинственного незнакомца спасти Лору от ужасной судьбы?",
+      "popularity": 0.544,
+      "poster_path": "/ztg12ZJK2Vi8tHl9vsNxFJ1hc4A.jpg",
+      "release_date": "1997-10-01",
+      "title": "Заживо погребённый 2",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 36,
+      "belongs_to_collection": {
+        "id": 518611,
+        "name": "Похороненные заживо (Коллекция)",
+        "poster_path": "/4uEGepUCo7kQjVMADdvGSyeUjf.jpg",
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
         },
         {
-          "english_name": "Dutch",
-          "iso_639_1": "nl",
-          "name": "Nederlands"
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0118800",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -283,92 +364,6 @@
           "english_name": "Italian",
           "iso_639_1": "it",
           "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sdCf5jFzyZRGS1umUlmXz7Gn3ao.jpg",
-      "genre_ids": [
-        18,
-        53,
-        27,
-        35,
-        9648
-      ],
-      "id": 879689,
-      "original_language": "en",
-      "original_title": "Raging Grace",
-      "overview": "Нелегальная иммигрантка Джой перебивается подработками горничной и, не имея собственного жилья, втайне от работодателей в каждый дом приводит дочку Грейс - девочку активную и шаловливую. Однажды она устраивается в особняк Гарретов, где престарелый хозяин тяжело болен и не приходит в себя, а всем заправляет его племянница. Ночью Грейс выбирается похулиганить и, проследив за лунатящей хозяйкой, видит нечто пугающее. Джой не верит дочери, но всё же начинает подозревать, что в доме творится что-то неладное.",
-      "popularity": 4.3872,
-      "poster_path": "/AiVtqzT63NoX3BrccWbna9auGZr.jpg",
-      "release_date": "2023-12-01",
-      "title": "Демоны дома Гарретов",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 42,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt14946978",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 161800,
-          "logo_path": null,
-          "name": "Last Conker",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Tagalog",
-          "iso_639_1": "tl",
-          "name": ""
         }
       ],
       "status": "Released",
@@ -730,126 +725,67 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/m63y5ozkIBpPr3LxjZUFH8vQKlk.jpg",
+      "backdrop_path": "/sRZjzfBbBwRVI8oO5OtkaCYPFad.jpg",
       "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1476740,
-      "original_language": "en",
-      "original_title": "Influencers",
-      "overview": "Пара CW и Diane приезжает на юг Франции, чтобы спокойно отпраздновать свою первую годовщину. Но их отпуск меняет направление, когда в отеле появляется популярная британская инфлюэнсерша Charlotte. Ситуация, начавшаяся с простой бытовой неприятности, быстро перерастает в напряжённое соперничество: Charlotte сближается с Diane, а CW всё сильнее теряет контроль над происходящим. На фоне солнечных пейзажей возникает тревожная история о навязчивости, ревности и опасных границах человеческой идентичности.",
-      "popularity": 3.7693,
-      "poster_path": "/nRdjGDxBW60OhzjAtikLgQBwt3B.jpg",
-      "release_date": "2025-07-26",
-      "title": "Инфлюэнсеры",
-      "video": false,
-      "vote_average": 6.732,
-      "vote_count": 28,
-      "belongs_to_collection": {
-        "id": 1493634,
-        "name": "Influencer Collection",
-        "poster_path": "/7mVgcnUkweyNS9s6JuCSgpVIIJX.jpg",
-        "backdrop_path": "/iXq6EXufOKsCZ0vHi8aZraNasxk.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36833584",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 261588,
-          "logo_path": "/j4gQzYnvvH5mTwKKrbbf9q9Im9F.png",
-          "name": "Jackrabbit Media",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5HN0oTiAsyU5vClcm9DBbIeox1H.jpg",
-      "genre_ids": [
-        27,
+        18,
         53,
-        10770
+        28,
+        80
       ],
-      "id": 73336,
+      "id": 2924,
       "original_language": "en",
-      "original_title": "Buried Alive II",
-      "overview": "Когда кажется, что будущего нет, наступает время хоронить прошлое. 10 лет странные слухи ходят по мирному городку Драй Понд. По слухам этим Клинт Гудмэн восстал из могилы, дабы убить неверную жену и её любовника - доктора, который и дал ей таинственный яд, чтобы отравить Гудмэна. Приняв этот яд, он только внешне выглядел мёртвым. Рэнди Рискин и его подруга - золотоискательница Роксана решили избавиться от жены Рэнди, Лоры, этим же, как они считают, идеальным способом. Сможет ли прибытие таинственного незнакомца спасти Лору от ужасной судьбы?",
-      "popularity": 0.544,
-      "poster_path": "/ztg12ZJK2Vi8tHl9vsNxFJ1hc4A.jpg",
-      "release_date": "1997-10-01",
-      "title": "Заживо погребённый 2",
+      "original_title": "Backdraft",
+      "overview": "«Обратная тяга» — это термин профессиональных пожарных. В результате «обратной тяги» погибает отец Брайана и Стивена. В отличии от Стивена, Брайан отказывается от карьеры пожарного, но судьба распоряжается так, что братья оказываются в одном отряде. Отношения между ними натянуты. Вскоре младший покидает команду, чтобы вместе со следователем поймать поджигателя-маньяка…",
+      "popularity": 3.6863,
+      "poster_path": "/iDry5AUS3ymMA4GXTw48B7cq4pa.jpg",
+      "release_date": "1991-05-24",
+      "title": "Обратная тяга",
       "video": false,
-      "vote_average": 5.5,
-      "vote_count": 36,
+      "vote_average": 6.661,
+      "vote_count": 1514,
       "belongs_to_collection": {
-        "id": 518611,
-        "name": "Похороненные заживо (Коллекция)",
-        "poster_path": "/4uEGepUCo7kQjVMADdvGSyeUjf.jpg",
-        "backdrop_path": null
+        "id": 597142,
+        "name": "Обратная тяга (Коллекция)",
+        "poster_path": "/JKzp6xtznZVOatpMutocgbAeOh.jpg",
+        "backdrop_path": "/xODyLuXCARWbEj5Allf8F3b5ZfH.jpg"
       },
-      "budget": 0,
+      "budget": 75000000,
       "genres": [
         {
-          "id": 27,
-          "name": "ужасы"
+          "id": 18,
+          "name": "драма"
         },
         {
           "id": 53,
           "name": "триллер"
         },
         {
-          "id": 10770,
-          "name": "телевизионный фильм"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0118800",
+      "imdb_id": "tt0101393",
       "origin_country": [
         "US"
       ],
       "production_companies": [
+        {
+          "id": 2231,
+          "logo_path": "/zJBTkTxy0UiQETGRynEqxiFbmL8.png",
+          "name": "Trilogy Entertainment Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 23,
+          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+          "name": "Imagine Entertainment",
+          "origin_country": "US"
+        },
         {
           "id": 33,
           "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
@@ -863,8 +799,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 97,
+      "revenue": 152368585,
+      "runtime": 137,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -874,7 +810,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -1063,99 +999,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/sRZjzfBbBwRVI8oO5OtkaCYPFad.jpg",
-      "genre_ids": [
-        18,
-        53,
-        28,
-        80
-      ],
-      "id": 2924,
-      "original_language": "en",
-      "original_title": "Backdraft",
-      "overview": "«Обратная тяга» — это термин профессиональных пожарных. В результате «обратной тяги» погибает отец Брайана и Стивена. В отличии от Стивена, Брайан отказывается от карьеры пожарного, но судьба распоряжается так, что братья оказываются в одном отряде. Отношения между ними натянуты. Вскоре младший покидает команду, чтобы вместе со следователем поймать поджигателя-маньяка…",
-      "popularity": 3.6863,
-      "poster_path": "/iDry5AUS3ymMA4GXTw48B7cq4pa.jpg",
-      "release_date": "1991-05-24",
-      "title": "Обратная тяга",
-      "video": false,
-      "vote_average": 6.661,
-      "vote_count": 1514,
-      "belongs_to_collection": {
-        "id": 597142,
-        "name": "Обратная тяга (Коллекция)",
-        "poster_path": "/JKzp6xtznZVOatpMutocgbAeOh.jpg",
-        "backdrop_path": "/xODyLuXCARWbEj5Allf8F3b5ZfH.jpg"
-      },
-      "budget": 75000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0101393",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2231,
-          "logo_path": "/zJBTkTxy0UiQETGRynEqxiFbmL8.png",
-          "name": "Trilogy Entertainment Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 23,
-          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
-          "name": "Imagine Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 152368585,
-      "runtime": 137,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/iTgjBD4EkeA3Ra86E1X47vgREO7.jpg",
       "genre_ids": [
         35,
@@ -1302,6 +1145,213 @@
       ],
       "status": "Released",
       "tagline": "«Желание — самое смертоносное оружие из всех.»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iUcBwAWsjEYGZz62bxmruCkm1g2.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 61601,
+      "original_language": "en",
+      "original_title": "Good Day for It",
+      "overview": "После того как Люк Шейн выдает полиции лидера местной банды Тайруса, он вынужден оставить город и скитаться по штатам, чтобы его дочь Эмили избежала мести банды Тайруса. 15 лет спустя Эмили умоляет отца увидеться с ней. Люк соглашается на встречу в кафе на окраине города. Но отец и дочь оказываются в ловушке — судьба свела с братом Тайрусом Норлсоном и его командой убийц-головорезов. Напряженное противостояние достигло своего пика и для Люка пробил час принять решение — вновь оставить свою дочь или же храбро подняться навстречу кошмару, который войдет в двери кафе.",
+      "popularity": 0.1986,
+      "poster_path": "/8g2XVDATOQxenJpTfslSjFNuK2u.jpg",
+      "release_date": "2011-04-08",
+      "title": "И пробил час",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 11,
+      "belongs_to_collection": null,
+      "budget": 2500000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1565063",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 7720,
+          "logo_path": null,
+          "name": "NAZZ Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 88,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mcBkHuZXTN6iNWHM3GGfibKzX4r.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 89654,
+      "original_language": "en",
+      "original_title": "Confessions of a Psycho Cat",
+      "overview": "Богатая, находящаяся на учёте у психиатра Вирджиния предлагает троим мужчинам (актёру, борцу и наркоману) странную игру. Она заплатит каждому 100 тысяч долларов, если им удастся выжить в Манхеттене в течение 24 часов.",
+      "popularity": 0.1725,
+      "poster_path": "/xfK9cDJ4MAdd36rdezPiyD8TAYa.jpg",
+      "release_date": "1968-02-01",
+      "title": "Признания психованной кошки",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 6,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0215658",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 69,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDBdstmX7z7g0yMQMWtWHJszJ4q.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 10345,
+      "original_language": "en",
+      "original_title": "K-9",
+      "overview": "Веселый полицейский-выдумщик Майкл Дули попал в беду: его пытается убить известный наркодилер за то, что тот все время вмешивается в бизнес. Друг полицейского дает ему собаку по имени Джерри Ли, специально натасканную на запах наркотиков. С помощью пса Майкл надеется поймать преступника и разоблачить его, но не так все просто. У Джерри Ли свой характер и он работает только когда пожелает. К тому же собака принимает радостное участие в поломке машины Майкла, разгроме дома и его личной жизни…",
+      "popularity": 1.3702,
+      "poster_path": "/dMpMCRVQB9ct6NfDIcRWjwwGLBr.jpg",
+      "release_date": "1989-04-28",
+      "title": "К-9: Собачья работа",
+      "video": false,
+      "vote_average": 6.165,
+      "vote_count": 1026,
+      "belongs_to_collection": {
+        "id": 88735,
+        "name": "К-9 (Коллекция)",
+        "poster_path": "/q17kGfONpeaHJ8s9rZp4dZc1Es7.jpg",
+        "backdrop_path": "/mdG3H2w9Ktc2Ua6tJie3eUE8Zte.jpg"
+      },
+      "budget": 17000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0097637",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1073,
+          "logo_path": null,
+          "name": "Gordon Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 78247647,
+      "runtime": 101,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Встречайте двух самых крутых полицейских в городе. Один немного сообразительнее другого»",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -1549,94 +1599,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uuK3DR8gxbI0weQZZ3UdCjelhuq.jpg",
-      "genre_ids": [
-        53,
-        18
-      ],
-      "id": 71732,
-      "original_language": "fr",
-      "original_title": "La Raison du plus faible",
-      "overview": "Льеж. Тихий бельгийский городок. Компания приятелей собирается каждый день в кафе, расположенном возле металлургического комбината, чьи славные деньки давно ушли в прошлое. Они общаются, играют в карты и с трудом пытаются скрыть своё отчаяние и безысходность собственного существования.  Патрик никак не может найти работу, Робер и Жан-Пьер попали под сокращение, и всё что им остаётся — коротать время в баре за карточной игрой. В один прекрасный день у их столика появляется Марк, недавно вышедший из тюрьмы и пытающийся как-то организовать свою жизнь. После общения с ним Роберу приходит в голову одна очень интересная мысль...",
-      "popularity": 0.247,
-      "poster_path": "/w8rQ9K9FeeG2LvScbgZQlcpWbkn.jpg",
-      "release_date": "2006-07-19",
-      "title": "Довод самого слабого",
-      "video": false,
-      "vote_average": 6.136,
-      "vote_count": 22,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0454536",
-      "origin_country": [
-        "BE"
-      ],
-      "production_companies": [
-        {
-          "id": 207,
-          "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
-          "name": "Agat Films & Cie / Ex Nihilo",
-          "origin_country": "FR"
-        },
-        {
-          "id": 3984,
-          "logo_path": "/pvOBu9K0zTRuwJW7WII34x17kdz.png",
-          "name": "Entre Chien et Loup",
-          "origin_country": "BE"
-        },
-        {
-          "id": 591,
-          "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
-          "name": "France 3 Cinéma",
-          "origin_country": "FR"
-        },
-        {
-          "id": 792,
-          "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
-          "name": "RTBF",
-          "origin_country": "BE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 116,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
