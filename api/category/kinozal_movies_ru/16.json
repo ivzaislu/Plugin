@@ -9,51 +9,72 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/xZuVJu4cC40HhnrZP5svPxFWsGW.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        10749
+        35,
+        12,
+        10751
       ],
-      "id": 900162,
+      "id": 1522864,
       "original_language": "ru",
-      "original_title": "Московская любовь",
-      "overview": "Два молодых бизнесмена разрабатывают рискованную финансовую операцию. Удача близка, но каждый из них оказывается перед выбором между деньгамии преданными друзьями, любимой женщиной и выгодными компаньонами.",
-      "popularity": 0.2429,
-      "poster_path": "/xbstxV2gBMr0i9n2Fu2vt7Ea1Ie.jpg",
-      "release_date": "1991-01-01",
-      "title": "Московская любовь",
+      "original_title": "Нахимовцы. Янтарный берег",
+      "overview": "Четырнадцатилетний Егор, переехав с мамой из Санкт-Петербурга в Калининград, начинает новую жизнь: другое учебное заведение — Калининградское Нахимовское училище, новые знакомства, новые друзья, новые обстоятельства и заботы. Он сходу решает завоевать авторитет и представляется родным братом легендарных нахимовцев Логиновых. И план поначалу работает — популярность позволяет ему стать звездой класса. Также Егору предстоит признаться в обмане, проявить мужество и вступить в опасную схватку с террористами в Калининградском заливе — чтобы по-настоящему заслужить уважение друзей и гордое звание нахимовца.",
+      "popularity": 0.0673,
+      "poster_path": "/wbTCdz0IObppzU06mWXzaHm3BAk.jpg",
+      "release_date": "2025-10-02",
+      "title": "Нахимовцы. Янтарный берег",
       "video": false,
       "vote_average": 0,
       "vote_count": 0,
-      "belongs_to_collection": null,
+      "belongs_to_collection": {
+        "id": 1522874,
+        "name": "Нахимовцы",
+        "poster_path": null,
+        "backdrop_path": null
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0396739",
+      "imdb_id": "tt34747088",
       "origin_country": [
-        "SU"
+        "RU"
       ],
       "production_companies": [
         {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
+          "id": 244907,
+          "logo_path": null,
+          "name": "KinoPROBA",
+          "origin_country": "RU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "RU",
+          "name": "Russia"
         }
       ],
       "revenue": 0,
-      "runtime": 79,
-      "spoken_languages": [],
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
@@ -64,18 +85,19 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/l9cPFlIvO9HwD1DPMBbnbKotibF.jpg",
       "genre_ids": [
-        18
+        35,
+        10751
       ],
-      "id": 881686,
+      "id": 1529382,
       "original_language": "ru",
-      "original_title": "Драгоценные зёрна",
-      "overview": "Для подготовки дипломной работы молодую журналистку направляют в район. Здесь героине предстоит самостоятельно выпустить несколько номеров газеты, познакомиться с людьми, разобраться в их поступках и в самой себе...",
-      "popularity": 0.2746,
-      "poster_path": "/rRbWNGWCzhGSpDlKGiCuOGoY2p0.jpg",
-      "release_date": "1948-07-17",
-      "title": "Драгоценные зёрна",
+      "original_title": "Мужские правила моего деда",
+      "overview": "Виктор Степанович — дед советской закалки, который не понимает и не разделяет современных «тепличных» методов воспитания детей. Обманным путем он увозит своего внука из дома, чтобы отправиться с ним в незабываемое приключение и, наконец-то, сделать из домашнего мальчика настоящего мужчину. Достойного мужа рода Богдановых.",
+      "popularity": 0.1056,
+      "poster_path": "/qyJAgIPIpfetWsMHvoUzoYKthzl.jpg",
+      "release_date": "2025-10-02",
+      "title": "Мужские правила моего деда",
       "video": false,
       "vote_average": 0,
       "vote_count": 0,
@@ -83,31 +105,41 @@
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0171242",
+      "imdb_id": "tt33298866",
       "origin_country": [
-        "SU"
+        "RU"
       ],
       "production_companies": [
         {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
-          "origin_country": "SU"
+          "id": 216144,
+          "logo_path": null,
+          "name": "Yes! Production",
+          "origin_country": "RU"
+        },
+        {
+          "id": 232290,
+          "logo_path": null,
+          "name": "Light Studio",
+          "origin_country": "RU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "RU",
+          "name": "Russia"
         }
       ],
       "revenue": 0,
-      "runtime": 88,
+      "runtime": 0,
       "spoken_languages": [
         {
           "english_name": "Russian",
