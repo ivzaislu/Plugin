@@ -5,123 +5,333 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 103,
+  "total": 104,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/zpsbPb1F4JxkYOCjq1Yi5vujHWn.jpg",
+      "backdrop_path": "/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
       "genre_ids": [
-        9648,
-        18
+        18,
+        10765
       ],
-      "id": 207713,
+      "id": 273160,
       "origin_country": [
-        "DE"
+        "US"
       ],
-      "original_language": "de",
-      "original_name": "Sebastian Fitzeks Die Therapie",
-      "overview": "Джози, 13-летняя дочь известного психиатра Виктора Ларенца, исчезла при загадочных обстоятельствах. Не было ни свидетелей, ни следов, ни тела. Два года спустя появляется загадочная женщина. Она заставляет Виктора признать исчезновение дочери и чуть не доводит его до психического срыва.",
-      "popularity": 4.7528,
-      "poster_path": "/60YHDoq8Na8WG9CXrRoL8qMEZSW.jpg",
-      "first_air_date": "2023-10-26",
-      "name": "«Терапия» Себастьяна Фитцека",
-      "vote_average": 7.048,
-      "vote_count": 94,
+      "original_language": "en",
+      "original_name": "The Beauty",
+      "overview": "Напарники Дрю Фостер и Кара Вон расследуют венерическое заболевание, вызывающее эстетические эффекты, но оказывающееся смертельным, скрываясь от коррумпированных чиновников и наёмника, нацелившегося на них в рамках предполагаемого правительственного заговора.",
+      "popularity": 72.534,
+      "poster_path": "/pQt6yJyW5GOudprLurzVjLuAzka.jpg",
+      "first_air_date": "2026-01-21",
+      "name": "Красота",
+      "vote_average": 3.8,
+      "vote_count": 13,
       "created_by": [
         {
-          "id": 67746,
-          "credit_id": "653ae0c8e894a6011ca2408e",
-          "name": "Александер М. Рюмелин",
-          "original_name": "Alexander M. Rümelin",
+          "id": 2183999,
+          "credit_id": "66fade3ac59a2db32dd0217b",
+          "name": "Matthew Hodgson",
+          "original_name": "Matthew Hodgson",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 52779,
+          "credit_id": "66fade49703e24dc7c1344d9",
+          "name": "Райан Мёрфи",
+          "original_name": "Ryan Murphy",
           "gender": 2,
-          "profile_path": "/h1oZvMsOwLwuCvalSjZbBoKWdaN.jpg"
+          "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
         }
       ],
       "episode_run_time": [],
       "genres": [
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10765,
+          "name": "НФ и Фэнтези"
+        }
+      ],
+      "homepage": "https://www.fxnetworks.com/shows/the-beauty",
+      "in_production": true,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2026-01-21",
+      "last_episode_to_air": {
+        "id": 6736812,
+        "name": "Эпизод 3",
+        "overview": "",
+        "vote_average": 1,
+        "vote_count": 3,
+        "air_date": "2026-01-21",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 1,
+        "show_id": 273160,
+        "still_path": "/yVb3oftdZ1QcX5jlmpdlbUhLuuV.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 6736814,
+        "name": "Эпизод 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-28",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 273160,
+        "still_path": null
+      },
+      "networks": [
+        {
+          "id": 88,
+          "logo_path": "/aexGjtcs42DgRtZh7zOxayiry4J.png",
+          "name": "FX",
+          "origin_country": "US"
+        },
+        {
+          "id": 453,
+          "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+          "name": "Hulu",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 11,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 236166,
+          "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+          "name": "20th Television",
+          "origin_country": "US"
+        },
+        {
+          "id": 19328,
+          "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+          "name": "Ryan Murphy Television",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2026-01-21",
+          "episode_count": 11,
+          "id": 421345,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/4HhGjKqkxGUE2zgk9XYzO9swW5Q.jpg",
+          "season_number": 1,
+          "vote_average": 1.1
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "«Один укол и станет жарко»",
+      "type": "Scripted",
+      "release_quality": "2160p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fkeVnvxVx4x2PdDOOzSblFUGTVt.jpg",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "id": 211684,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Walking Dead: Daryl Dixon",
+      "overview": "Дэрил Диксон становится вербовщиком Содружества, которое спасает уцелевших людей, и параллельно он пытается отыскать Рика Граймса и Мишонн. Судьба заносит его на корабле из США во Францию, где он знакомится с местными повстанцами и берется за опасную миссию — забрать мальчика Лорана от его тети и увезти в Париж. Ходят слухи, что ребенок — новый мессия, ведь он рожден от матери-зомби, но при этом сам остался здоровым.",
+      "popularity": 20.1456,
+      "poster_path": "/kRTaNKcs3RQJCB626y1mGOTHVYU.jpg",
+      "first_air_date": "2023-09-10",
+      "name": "Ходячие мертвецы: Дэрил Диксон",
+      "vote_average": 8.022,
+      "vote_count": 810,
+      "created_by": [
+        {
+          "id": 1181325,
+          "credit_id": "64fd74da6a2227011a79241a",
+          "name": "Дэвид Забель",
+          "original_name": "David Zabel",
+          "gender": 2,
+          "profile_path": "/6cNrETHijbFi7rm15dJUAxwAjKp.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 10765,
+          "name": "НФ и Фэнтези"
+        },
+        {
+          "id": 10759,
+          "name": "Боевик и Приключения"
         },
         {
           "id": 18,
           "name": "драма"
         }
       ],
-      "homepage": "https://www.primevideo.com/detail/0NCE0KQ0MI1OX18M493MIK3ZEI",
-      "in_production": false,
+      "homepage": "https://www.amc.com/shows/the-walking-dead-daryl-dixon--1060742",
+      "in_production": true,
       "languages": [
-        "de"
+        "fr",
+        "en",
+        "pt"
       ],
-      "last_air_date": "2023-10-26",
+      "last_air_date": "2025-10-19",
       "last_episode_to_air": {
-        "id": 3879654,
-        "name": "Истина",
-        "overview": "Рот помогает Виктору Ларенцу разгадать тайну исчезновения Джози. Им обоим придется жить дальше с последствиями своих действий.",
-        "vote_average": 4,
-        "vote_count": 2,
-        "air_date": "2023-10-26",
-        "episode_number": 6,
+        "id": 6443708,
+        "name": "Соля-дель-Мар",
+        "overview": "Феде намерен казнить Антонио как предателя. Дэрилу и Паз удаётся попасть на церемонию смотра невест во дворце монархистов.",
+        "vote_average": 8.9,
+        "vote_count": 11,
+        "air_date": "2025-10-19",
+        "episode_number": 7,
         "episode_type": "finale",
-        "production_code": "TRPY 106",
-        "runtime": 48,
-        "season_number": 1,
-        "show_id": 207713,
-        "still_path": "/2GbuW0sXEMSUj7YUE8D13b8bXTr.jpg"
+        "production_code": "",
+        "runtime": 52,
+        "season_number": 3,
+        "show_id": 211684,
+        "still_path": "/r2hFLy4oguRDyInCH4ohDhB9G9q.jpg"
       },
       "next_episode_to_air": null,
       "networks": [
         {
-          "id": 1024,
-          "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
-          "name": "Prime Video",
-          "origin_country": ""
+          "id": 174,
+          "logo_path": "/pmvRmATOCaDykE6JrVoeYxlFHw3.png",
+          "name": "AMC",
+          "origin_country": "US"
         }
       ],
-      "number_of_episodes": 6,
-      "number_of_seasons": 1,
+      "number_of_episodes": 19,
+      "number_of_seasons": 3,
       "production_companies": [
         {
-          "id": 13587,
-          "logo_path": "/e1xxYKGJ9WjnjvkAWDUwmwruuuG.png",
-          "name": "Ziegler Film",
-          "origin_country": "DE"
+          "id": 23242,
+          "logo_path": "/ucE6dN6pUPfZHH5JlXkq44TDUMS.png",
+          "name": "AMC Studios",
+          "origin_country": "US"
         },
         {
-          "id": 208220,
-          "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
-          "name": "Amazon Studios",
-          "origin_country": "DE"
+          "id": 170794,
+          "logo_path": null,
+          "name": "Idiotbox",
+          "origin_country": "US"
+        },
+        {
+          "id": 50032,
+          "logo_path": "/ojrMksdtR7Bs2vwERU1LCrjv7vx.png",
+          "name": "Skybound Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 73036,
+          "logo_path": "/1gMrlkgIuNWkuigpF5EsCfkaczk.png",
+          "name": "Valhalla Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 23921,
+          "logo_path": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+          "name": "Circle of Confusion",
+          "origin_country": "US"
+        },
+        {
+          "id": 106395,
+          "logo_path": null,
+          "name": "Remainder Men",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "DE",
-          "name": "Germany"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "seasons": [
         {
-          "air_date": "2023-10-26",
+          "air_date": "2023-09-10",
           "episode_count": 6,
-          "id": 303897,
+          "id": 311345,
           "name": "Сезон 1",
           "overview": "",
-          "poster_path": "/60YHDoq8Na8WG9CXrRoL8qMEZSW.jpg",
+          "poster_path": "/9aaBz07Z5UrPQjQkF0xolTp1Rze.jpg",
           "season_number": 1,
-          "vote_average": 4.5
+          "vote_average": 8.9
+        },
+        {
+          "air_date": "2024-09-29",
+          "episode_count": 6,
+          "id": 363691,
+          "name": "Сезон 2. Книга Кэрол",
+          "overview": "Второй сезон расскажет о Дэрилле Диксоне и Кэрол Пелетье, которые оба противостоят старым демонам, в то время как она борется за то, чтобы найти своего друга, а он борется со своим решением остаться во Франции, вызывая напряжение в Гнезде. Кроме того, движение Жене набирает обороты, направляя Пувуара на курс жестокого столкновения с Союзом Надежды в борьбе за будущее Франции.",
+          "poster_path": "/q7A1w6ypfrx6DEMkiBJWfaolVHy.jpg",
+          "season_number": 2,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2025-09-07",
+          "episode_count": 7,
+          "id": 426557,
+          "name": "Сезон 3",
+          "overview": "",
+          "poster_path": "/yGH6fzzF4ep166xNE15aD67XizP.jpg",
+          "season_number": 3,
+          "vote_average": 8.3
         }
       ],
       "spoken_languages": [
         {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
         }
       ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Miniseries",
+      "status": "Returning Series",
+      "tagline": "«Даже героям нужна помощь»",
+      "type": "Scripted",
       "release_quality": "",
       "media_type": "tv",
       "categories": [
@@ -303,35 +513,213 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/e2hpVdY2WVJDz3y0nEHszhtR24q.jpg",
+      "backdrop_path": "/yVP12H81dwaay5B7GVqgO893q2c.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 226637,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "High Potential",
+      "overview": "История о Морган, матери-одиночке с тремя детьми, которая благодаря своему исключительному уму помогает раскрыть преступление, перераспределяя улики во время своей работы уборщицей в полицейском участке.",
+      "popularity": 42.3699,
+      "poster_path": "/t8v6H7JA6IcGFBKIXD75c5kQJsB.jpg",
+      "first_air_date": "2024-09-17",
+      "name": "Большой потенциал",
+      "vote_average": 8.027,
+      "vote_count": 388,
+      "created_by": [
+        {
+          "id": 47506,
+          "credit_id": "6729c07406dc88596323ff4b",
+          "name": "Дрю Годдард",
+          "original_name": "Drew Goddard",
+          "gender": 2,
+          "profile_path": "/rcxxyIGDgPkXVgAQb9LLXfR89pv.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "https://abc.com/show/a9a37c58-9d88-452f-9ac6-0a95e5a4176e",
+      "in_production": true,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2026-01-06",
+      "last_episode_to_air": {
+        "id": 6537380,
+        "name": "Неуловимый: Часть вторая",
+        "overview": "",
+        "vote_average": 7.4,
+        "vote_count": 7,
+        "air_date": "2026-01-06",
+        "episode_number": 8,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 42,
+        "season_number": 2,
+        "show_id": 226637,
+        "still_path": "/67RT4YYwV2hRcdB1Tvy3d7o9XER.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 6537381,
+        "name": "Эпизод 9",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-13",
+        "episode_number": 9,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 226637,
+        "still_path": null
+      },
+      "networks": [
+        {
+          "id": 2,
+          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+          "name": "ABC",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 28,
+      "number_of_seasons": 2,
+      "production_companies": [
+        {
+          "id": 51964,
+          "logo_path": null,
+          "name": "Goddard Textiles",
+          "origin_country": "US"
+        },
+        {
+          "id": 160908,
+          "logo_path": "/llVFyu0XedaUI4RroWsFN4WIJSC.png",
+          "name": "Itinéraire Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 6300,
+          "logo_path": "/5TBU2ucl0rZqP417gF5GZ7LTyF8.png",
+          "name": "Septembre Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 19378,
+          "logo_path": "/AzOBqtpa9m4JAO0m6VzllQFt7g.png",
+          "name": "Spondoolie Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 236613,
+          "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+          "name": "ABC Signature",
+          "origin_country": "US"
+        },
+        {
+          "id": 236166,
+          "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+          "name": "20th Television",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2024-09-17",
+          "episode_count": 13,
+          "id": 341174,
+          "name": "Большой потенциал",
+          "overview": "",
+          "poster_path": "/t8v6H7JA6IcGFBKIXD75c5kQJsB.jpg",
+          "season_number": 1,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "2025-09-16",
+          "episode_count": 15,
+          "id": 465872,
+          "name": "Сезон 2",
+          "overview": "",
+          "poster_path": "/hmTNQQ0nKY1ODI2sApOCwrDyxwR.jpg",
+          "season_number": 2,
+          "vote_average": 7.7
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "«Новое лицо расследования»",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gTPfMUXFIgG6HZeR5hif2fvGzOv.jpg",
       "genre_ids": [
         18
       ],
-      "id": 300388,
+      "id": 271548,
       "origin_country": [
         "TR"
       ],
       "original_language": "tr",
-      "original_name": "Güller ve Günahlar",
-      "overview": "Серхат — успешный бизнесмен, счастливый муж и прекрасный отец. Он долгие годы был уверен, что ему удалось построить крепкую и любящую семью. Однако совершенно случайно Серхат узнает, что его супруга, с которой он прожил 18 лет вместе и которая родила ему близнецов, на протяжении многих лет изменяла ему. Более того, у нее даже есть маленькая дочь, которую она родила живя в браке с ним. Ситуацию осложняет и тот факт, что в результате трагической случайности Беррак — жена Серхата впадает в кому, а он сам решает начать расследование, которое бы помогло ему узнать всю правду о своей семье.\n\nПоиски приводят мужчину в трущобы Стамбула, где он случайно знакомится с молодой девушкой по имени Зейнеп. Разница в возрасте и социальном статусе не смогла стать преградой для их чувств. Только вот и Серхат, и Зейнеп, понимают, что им будет трудно построить крепкие отношения. К тому же отец девушки, категорически против ее сближения с бизнесменом.",
-      "popularity": 14.8401,
-      "poster_path": "/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg",
-      "first_air_date": "2025-10-11",
-      "name": "Розы и Грехи",
-      "vote_average": 9,
-      "vote_count": 4,
+      "original_name": "Sahipsizler",
+      "overview": "В центре событий оказываются шестеро сирот, чьи родители погибли от рук злодея. Неприспособленные к жизни в мегаполисе, они вынуждены искать помощи у родственников.\n\nЯвуз – властный и опасный мужчина, который хотел взять в жены Балу. Однако женщина давно была влюблена в простого школьного учителя Рыфата. Вопреки ожиданиям Явуза, его любимая женщина вышла замуж за другого человека и вместе с ним исчезла.\n\nБала и Рыфат поселились в лесу. 20 лет они жили тихой и спокойной жизнью, продавали мед и воспитывали шестерых детей. Но спокойный быт этой семьи был нарушен ужасной трагедией.\n\nРыфат вместе с женой погибли в аварии. Их дети не могли больше оставаться дома, а поэтому были вынуждены отправиться к родственникам и просить помощи у них. Явуз, за столько лет так и не сумевший простить Балу, решает отомстить ее детям.\n\nБедность – это сериал о непростой судьбе шести сирот и об их борьбе за выживание.",
+      "popularity": 30.3174,
+      "poster_path": "/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg",
+      "first_air_date": "2024-11-13",
+      "name": "Беззащитные",
+      "vote_average": 5.5,
+      "vote_count": 2,
       "created_by": [
         {
-          "id": 1953353,
-          "credit_id": "68f44ed4da6a073f20baf5f8",
-          "name": "Yelda Eroğlu",
-          "original_name": "Yelda Eroğlu",
-          "gender": 0,
+          "id": 1584305,
+          "credit_id": "67117d578e844657b7fad79b",
+          "name": "Cem Karcı",
+          "original_name": "Cem Karcı",
+          "gender": 2,
           "profile_path": null
         }
       ],
       "episode_run_time": [
-        130
+        150
       ],
       "genres": [
         {
@@ -339,58 +727,893 @@
           "name": "драма"
         }
       ],
-      "homepage": "https://www.kanald.com.tr/guller-ve-gunahlar",
+      "homepage": "https://www.startv.com.tr/dizi/sahipsizler",
       "in_production": true,
       "languages": [
         "tr"
       ],
-      "last_air_date": "2025-12-27",
+      "last_air_date": "2025-10-01",
       "last_episode_to_air": {
-        "id": 6769980,
-        "name": "Эпизод 12",
+        "id": 6767163,
+        "name": "Эпизод 15",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2025-12-27",
-        "episode_number": 12,
+        "air_date": "2025-12-24",
+        "episode_number": 15,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 300388,
-        "still_path": null
+        "runtime": 153,
+        "season_number": 2,
+        "show_id": 271548,
+        "still_path": "/GXnrIVuNVFqn3hnloY0kr127me.jpg"
       },
       "next_episode_to_air": {
-        "id": 6772394,
-        "name": "Эпизод 13",
+        "id": 6769977,
+        "name": "Эпизод 16",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-01-10",
-        "episode_number": 13,
+        "air_date": "2026-01-07",
+        "episode_number": 16,
         "episode_type": "standard",
         "production_code": "",
         "runtime": null,
-        "season_number": 1,
-        "show_id": 300388,
+        "season_number": 2,
+        "show_id": 271548,
         "still_path": null
       },
       "networks": [
         {
-          "id": 439,
-          "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
-          "name": "Kanal D",
+          "id": 778,
+          "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+          "name": "Star TV",
           "origin_country": "TR"
         }
       ],
-      "number_of_episodes": 15,
+      "number_of_episodes": 33,
+      "number_of_seasons": 2,
+      "production_companies": [],
+      "production_countries": [],
+      "seasons": [
+        {
+          "air_date": "2024-11-13",
+          "episode_count": 28,
+          "id": 418704,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/i39pLQ7V5OoBTtZYSEeqP47luxE.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-09-10",
+          "episode_count": 16,
+          "id": 473201,
+          "name": "Сезон 2",
+          "overview": "",
+          "poster_path": "/8cOiZVmniIKHjQZoDukZu0SFCdO.jpg",
+          "season_number": 2,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Turkish",
+          "iso_639_1": "tr",
+          "name": "Türkçe"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 198178,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Wonder Man",
+      "overview": "Голливудский актёр Саймон Уильямс погружается в мир супергероев, обретая собственные силы и становясь новым супергероем Чудо-Человеком.",
+      "popularity": 123.5462,
+      "poster_path": "/opIsvG4OtyHugm16zmivJz35jxy.jpg",
+      "first_air_date": "2026-01-27",
+      "name": "Чудо-человек",
+      "vote_average": 6.868,
+      "vote_count": 53,
+      "created_by": [
+        {
+          "id": 1237529,
+          "credit_id": "65554490d4fe04011b914422",
+          "name": "Andrew Guest",
+          "original_name": "Andrew Guest",
+          "gender": 2,
+          "profile_path": "/s4844Z9kRkNlw9yCth1tKkpzAhC.jpg"
+        },
+        {
+          "id": 1144604,
+          "credit_id": "6555448dac416100ad280e66",
+          "name": "Дестин Дэниел Креттон",
+          "original_name": "Destin Daniel Cretton",
+          "gender": 2,
+          "profile_path": "/s8uAUG9egZlRIU0PKNkTkIz9E6g.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://www.disneyplus.com/browse/entity-555c5896-02e4-4873-8fa9-ce090dcd874b",
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2026-01-27",
+      "last_episode_to_air": {
+        "id": 6594790,
+        "name": "Эпизод 8",
+        "overview": "",
+        "vote_average": 4.423,
+        "vote_count": 13,
+        "air_date": "2026-01-27",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 35,
+        "season_number": 1,
+        "show_id": 198178,
+        "still_path": "/368YSOe3vDJrrkuWwcYznOxZvq2.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 2739,
+          "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+          "name": "Disney+",
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 8,
       "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 126292,
+          "id": 176762,
           "logo_path": null,
-          "name": "NGM",
+          "name": "Kevin Feige Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 420,
+          "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+          "name": "Marvel Studios",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2026-01-27",
+          "episode_count": 8,
+          "id": 288697,
+          "name": "Сезон 1",
+          "overview": "Начинающий голливудский актер Саймон Уильямс никак не может сдвинуться с мёртвой точки в своей карьере. Во время случайной встречи с Тревором Слэттери, актёром, чьи лучшие роли, возможно, остались в прошлом, Саймон узнает, что легендарный режиссер Вон Ковак снимает ремейк супергеройского фильма «Чудо-человек». Эти два актёра, находящиеся на разных этапах своей карьеры, упорно добиваются судьбоносных ролей в этом фильме, а зрители получают возможность заглянуть за кулисы индустрии развлечений.",
+          "poster_path": "/opIsvG4OtyHugm16zmivJz35jxy.jpg",
+          "season_number": 1,
+          "vote_average": 4.5
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "«Он был рождён для этой роли»",
+      "type": "Miniseries",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 291084,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Best Medicine",
+      "overview": "Блестящий, но резкий по характеру доктор Мартин Бест покидает Бостон и переезжает в деревню Порт-Уинн в штате Мэн, где он проводил каникулы в детстве. Новая жизнь даётся ему непросто: его прямолинейность и отсутствие такта мешают наладить отношения с местными жителями, которые живут по собственным негласным правилам и с недоверием относятся к чужакам. К профессиональным трудностям добавляется и личная проблема — патологическая боязнь крови, появившаяся после операции на маленькой девочке и ставшая серьёзным препятствием для врача. Параллельно Мартин пытается восстановить связь с тётей, которая становится для него одной из немногих нитей, связывающих прошлое и настоящее.",
+      "popularity": 10.1474,
+      "poster_path": "/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
+      "first_air_date": "2026-01-04",
+      "name": "Лучшее лекарство",
+      "vote_average": 6.727,
+      "vote_count": 11,
+      "created_by": [
+        {
+          "id": 1233554,
+          "credit_id": "69615389c37bd4fe193d64ec",
+          "name": "Liz Tuccillo",
+          "original_name": "Liz Tuccillo",
+          "gender": 1,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://www.fox.com/detail/series/SER262467MJOW/best-medicine",
+      "in_production": true,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2026-01-27",
+      "last_episode_to_air": {
+        "id": 6817835,
+        "name": "Эпизод 4",
+        "overview": "",
+        "vote_average": 7,
+        "vote_count": 1,
+        "air_date": "2026-01-27",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 291084,
+        "still_path": "/bI79v8HFhQs7AKbYp0wPPiuXuJc.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 6817836,
+        "name": "Эпизод 5",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-02-03",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 291084,
+        "still_path": null
+      },
+      "networks": [
+        {
+          "id": 19,
+          "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+          "name": "FOX",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 11,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 87045,
+          "logo_path": "/6WLvW3VlxfXOPukpeEPYnjdFtwH.png",
+          "name": "Propagate Content",
+          "origin_country": "US"
+        },
+        {
+          "id": 187918,
+          "logo_path": "/1spIsLYLVuY6RxM3rIzjjFAa9re.png",
+          "name": "FOX Entertainment Studios",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2026-01-04",
+          "episode_count": 11,
+          "id": 455695,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 8.1
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6umsRLI7t0ydFwCl0JNEIO0q2LH.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 91239,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Bridgerton",
+      "overview": "История о восьми дружных братьях и сёстрах влиятельной семьи Бриджертонов, которые пытаются найти любовь.",
+      "popularity": 71.7906,
+      "poster_path": "/o3wfK8LeHnFj560M5Gs8ZOg57Lo.jpg",
+      "first_air_date": "2020-12-25",
+      "name": "Бриджертоны",
+      "vote_average": 8.1,
+      "vote_count": 3097,
+      "created_by": [
+        {
+          "id": 1224075,
+          "credit_id": "5d2f3fc7caab6d5d98984285",
+          "name": "Крис Ван Дьюсен",
+          "original_name": "Chris Van Dusen",
+          "gender": 2,
+          "profile_path": "/sm5KrdRKGZdPbTbQsz3GHTlDut1.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://www.netflix.com/title/80232398",
+      "in_production": true,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2024-06-13",
+      "last_episode_to_air": {
+        "id": 4551236,
+        "name": "Пролить свет",
+        "overview": "Соперница угрожает раскрыть секрет Пенелопы и требует денег. Пенелопа пытается принять важное решение, ведь ее отношения и источник дохода находятся под угрозой.",
+        "vote_average": 5.9,
+        "vote_count": 14,
+        "air_date": "2024-06-13",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 71,
+        "season_number": 3,
+        "show_id": 91239,
+        "still_path": "/74HxX90kgsQUfeXEenhUadsG3hv.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 6599342,
+        "name": "Вальс",
+        "overview": "Несмотря на давление высшего света, Бенедикт Бриджертон не собирался искать вторую половинку — но всё изменилось, когда незнакомка в маске пленила на балу его сердце.",
+        "vote_average": 3.2,
+        "vote_count": 5,
+        "air_date": "2026-01-29",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 63,
+        "season_number": 4,
+        "show_id": 91239,
+        "still_path": "/ah0YzFOqNyV30NCNB4J28nOcQrk.jpg"
+      },
+      "networks": [
+        {
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "name": "Netflix",
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 32,
+      "number_of_seasons": 4,
+      "production_companies": [
+        {
+          "id": 34209,
+          "logo_path": "/rYt8Q3nYxyE4YBLmVojvoKvIROv.png",
+          "name": "shondaland",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2020-12-22",
+          "episode_count": 8,
+          "id": 127918,
+          "name": "Герцог и я",
+          "overview": "Восемь дружных братьев и сестер из семьи Бриджертонов пытаются найти любовь и счастье в высшем обществе Лондона. На основе бестселлеров Джулии Куин.",
+          "poster_path": "/kUvTAVVAhtsqwiTDQOsCA0AB4qg.jpg",
+          "season_number": 1,
+          "vote_average": 6.8
+        },
+        {
+          "air_date": "2022-03-25",
+          "episode_count": 8,
+          "id": 177923,
+          "name": "Виконт, который любил меня",
+          "overview": "Долг, страсть и скандал: виконт Энтони Бриджертон решает жениться, но в итоге влюбляется в своевольную старшую сестру собственной невесты.",
+          "poster_path": "/rvLTOFKnmoM1dDbDmYh4bjMZPxm.jpg",
+          "season_number": 2,
+          "vote_average": 6.6
+        },
+        {
+          "air_date": "2024-05-16",
+          "episode_count": 8,
+          "id": 301726,
+          "name": "Где властвует любовь",
+          "overview": "Едва начавшие выезжать в свет девицы жаждут блистать на балу, в то время как застенчивая героиня, ведущая двойную жизнь, расцветает посреди тайн и неожиданностей.",
+          "poster_path": "/jMDY8c3HpkM5LmYr1Xiz7a0r0qk.jpg",
+          "season_number": 3,
+          "vote_average": 6.7
+        },
+        {
+          "air_date": "2026-01-29",
+          "episode_count": 8,
+          "id": 403308,
+          "name": "Предложение джентльмена",
+          "overview": "В новой истории из жизни высшего общества вечный холостяк Бенедикт Бриджертон наконец встречает свою половинку — пленительную горничную на маскарадном балу.",
+          "poster_path": "/r17JlS3BBm4P2hhXp6fSymS01hO.jpg",
+          "season_number": 4,
+          "vote_average": 2.8
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "В любви и на войне все средства хороши",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 249039,
+      "origin_country": [
+        "GB",
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Black Rabbit",
+      "overview": "Восходящую звезду ресторанного бизнеса поневоле затягивают в преступный мир Нью-Йорка, когда его проблематичный брат возвращается в город, убегая от ростовщиков.",
+      "popularity": 9.7144,
+      "poster_path": "/eYaHd25DDGHbH2pimVGBTBgvsYI.jpg",
+      "first_air_date": "2025-09-18",
+      "name": "Черный кролик",
+      "vote_average": 6.993,
+      "vote_count": 139,
+      "created_by": [
+        {
+          "id": 2360102,
+          "credit_id": "65f33aec35818f0131d00d61",
+          "name": "Зак Бэйлин",
+          "original_name": "Zach Baylin",
+          "gender": 2,
+          "profile_path": "/qecdc6r0vyO7rQAxMbqOjtLIedY.jpg"
+        },
+        {
+          "id": 3760574,
+          "credit_id": "65f33af22fe2fa0162edfcc3",
+          "name": "Кейт Зусман",
+          "original_name": "Kate Susman",
+          "gender": 1,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "https://www.netflix.com/title/81630027",
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2025-09-18",
+      "last_episode_to_air": {
+        "id": 5367756,
+        "name": "Остров радости",
+        "overview": "Когда опасность подступает со всех сторон, братья делают последнюю попытку спастись, которая вынуждает их посмотреть в глаза своему сложному прошлому.",
+        "vote_average": 7.111,
+        "vote_count": 9,
+        "air_date": "2025-09-18",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 1,
+        "show_id": 249039,
+        "still_path": "/6bpwBsjZQ5GSjmMzCs7PSATLATF.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "name": "Netflix",
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 8,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 37361,
+          "logo_path": "/xpbUNXnrMeEK1ynbqVnHp8ZOVKW.png",
+          "name": "Aggregate Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 185259,
+          "logo_path": null,
+          "name": "Riff Raff Entertainment",
+          "origin_country": "GB"
+        },
+        {
+          "id": 224006,
+          "logo_path": "/oT0qpIycRhcKn4RR5e2igtREw0r.png",
+          "name": "Youngblood Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 236263,
+          "logo_path": "/y17qPymSqFnCAsCQMF1VszHDl4h.png",
+          "name": "Range Studios",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2025-09-18",
+          "episode_count": 8,
+          "id": 383676,
+          "name": "Мини-сериал",
+          "overview": "",
+          "poster_path": "/MytsOwkkZfKkPxiba6CrK65j9X.jpg",
+          "season_number": 1,
+          "vote_average": 7.6
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Miniseries",
+      "release_quality": "2160p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 247168,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chad Powers",
+      "overview": "Опозоренный квотербек колледжа по имени Расс Холлидей выдает себя за Чада Пауэрса и приходит в испытывающую трудности южную футбольную команду, чтобы возродить свою футбольную карьеру.",
+      "popularity": 10.962,
+      "poster_path": "/f20KYlp9C5oRXqrluId6Hkmxbvk.jpg",
+      "first_air_date": "2025-09-30",
+      "name": "Чед Пауэрс",
+      "vote_average": 8.156,
+      "vote_count": 61,
+      "created_by": [
+        {
+          "id": 2094567,
+          "credit_id": "65d7c74e00bfe8014858c5a8",
+          "name": "Майкл Уолдрон",
+          "original_name": "Michael Waldron",
+          "gender": 2,
+          "profile_path": "/5hf8B7h92GhSSch0FVNSfWMyEG2.jpg"
+        },
+        {
+          "id": 83271,
+          "credit_id": "65d7c73600bfe8016258ccef",
+          "name": "Глен Пауэлл",
+          "original_name": "Glen Powell",
+          "gender": 2,
+          "profile_path": "/m6D6tSmgEvYGxo2q0zrwyo1a4of.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "https://www.hulu.com/series/7117a15d-128c-4c2b-a5b9-98adfa0f4505",
+      "in_production": true,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2025-10-28",
+      "last_episode_to_air": {
+        "id": 6232056,
+        "name": "Эпизод 6",
+        "overview": "",
+        "vote_average": 7.813,
+        "vote_count": 8,
+        "air_date": "2025-10-28",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 38,
+        "season_number": 1,
+        "show_id": 247168,
+        "still_path": "/ymn37pd1ZzRXcPdyqkrfifmukG2.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 453,
+          "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+          "name": "Hulu",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 6,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 161269,
+          "logo_path": "/oHH9RhSJ7q49pJ13Kx5Ue63uLrs.png",
+          "name": "Omaha Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 17037,
+          "logo_path": "/w9le4FUeXVlKLfnlkuk1djRrena.png",
+          "name": "ESPN",
+          "origin_country": "US"
+        },
+        {
+          "id": 199383,
+          "logo_path": null,
+          "name": "Anomaly Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 236166,
+          "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+          "name": "20th Television",
+          "origin_country": "US"
+        },
+        {
+          "id": 175171,
+          "logo_path": null,
+          "name": "BarnStorm Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2025-09-30",
+          "episode_count": 6,
+          "id": 380459,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
+          "season_number": 1,
+          "vote_average": 7.8
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "«Две Идентичности. Одна Икона. Никакого Стыда»",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3paG54nO8n9U8Wmi9NqE5JYOHo7.jpg",
+      "genre_ids": [
+        10751,
+        18
+      ],
+      "id": 213194,
+      "origin_country": [
+        "TR"
+      ],
+      "original_language": "tr",
+      "original_name": "Kızılcık Şerbeti",
+      "overview": "Кывылджым — современная молодая женщина, хорошо образованная и реально смотрящая на жизнь. После развода с мужем она научилась крепко стоять на ногах и одна вырастила двух дочек — Догу и Чимен. Чимен пока учится в колледже, а Дога в университете, на факультете стоматологии. На первом же курсе Дога влюбляется и выходит замуж за своего однокурсника Фатиха. Кывылджым разочарована, что дочь так рано вышла замуж, не успев окончить учебу. Но еще больше озабочена тем, в какую семью она попала, считая что ее дочь не сможет с ними ужиться. А семья Фатиха очень строгая, приверженная традициям. Однако Дога и Фатих считают, что их любовь способна преодолеть любые разногласия. История двух семей с одинаковыми истинами, но разными культурами.",
+      "popularity": 29.6675,
+      "poster_path": "/3bf1w6ltbLuavyEf2wEM4clEhk.jpg",
+      "first_air_date": "2022-10-28",
+      "name": "Клюквенный щербет",
+      "vote_average": 6.7,
+      "vote_count": 18,
+      "created_by": [
+        {
+          "id": 3757810,
+          "credit_id": "6431b6e21b72940094eb5456",
+          "name": "Melis Civelek",
+          "original_name": "Melis Civelek",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        140
+      ],
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://www.showtv.com.tr/dizi/tanitim/kizilcik-serbeti/2875",
+      "in_production": true,
+      "languages": [
+        "tr"
+      ],
+      "last_air_date": "2025-12-26",
+      "last_episode_to_air": {
+        "id": 6615066,
+        "name": "Эпизод 16",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2025-12-26",
+        "episode_number": 16,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 213194,
+        "still_path": null
+      },
+      "next_episode_to_air": {
+        "id": 6615067,
+        "name": "Эпизод 17",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-09",
+        "episode_number": 17,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 4,
+        "show_id": 213194,
+        "still_path": null
+      },
+      "networks": [
+        {
+          "id": 750,
+          "logo_path": "/h6Zq6Y91m7SdzUxIGIHsAFjnnpn.png",
+          "name": "Show TV",
           "origin_country": "TR"
+        }
+      ],
+      "number_of_episodes": 120,
+      "number_of_seasons": 4,
+      "production_companies": [
+        {
+          "id": 184889,
+          "logo_path": null,
+          "name": "Gold Film",
+          "origin_country": ""
         }
       ],
       "production_countries": [
@@ -401,14 +1624,44 @@
       ],
       "seasons": [
         {
-          "air_date": "2025-10-11",
-          "episode_count": 15,
-          "id": 474630,
+          "air_date": "2022-10-28",
+          "episode_count": 29,
+          "id": 314037,
           "name": "Сезон 1",
           "overview": "",
-          "poster_path": "/wPBWfDJ9WJMmDWVBjubVZj3fpS.jpg",
+          "poster_path": "/v7wKYOXNlKNoLHMuCpPTR2enVRN.jpg",
           "season_number": 1,
-          "vote_average": 7.6
+          "vote_average": 9.3
+        },
+        {
+          "air_date": "2023-09-15",
+          "episode_count": 37,
+          "id": 356720,
+          "name": "Сезон 2",
+          "overview": "",
+          "poster_path": "/p7Xe8DShNEWgW9JnQxruIRV3b1U.jpg",
+          "season_number": 2,
+          "vote_average": 10
+        },
+        {
+          "air_date": "2024-09-13",
+          "episode_count": 37,
+          "id": 418393,
+          "name": "Сезон 3",
+          "overview": "",
+          "poster_path": "/iWfkZqXofzYF1miQD8xXC00eu2O.jpg",
+          "season_number": 3,
+          "vote_average": 9
+        },
+        {
+          "air_date": "2025-09-12",
+          "episode_count": 17,
+          "id": 473341,
+          "name": "Сезон 4",
+          "overview": "",
+          "poster_path": "/fXATVTtJDNizWjKpHgJEZegr6R2.jpg",
+          "season_number": 4,
+          "vote_average": 0
         }
       ],
       "spoken_languages": [
@@ -429,135 +1682,402 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/opxjwbFSadDgVmZtrLTlWJsUxrB.jpg",
+      "backdrop_path": "/eesuJC91i5MPGOZvEtoa11cPqe5.jpg",
       "genre_ids": [
-        18
+        18,
+        80,
+        9648
       ],
-      "id": 283123,
+      "id": 61511,
       "origin_country": [
-        "TR"
+        "GB"
       ],
-      "original_language": "tr",
-      "original_name": "Eşref Rüya",
-      "overview": "Эшреф — 14-летний подросток из бедной семьи, подрабатывающий в автомастерской. Однажды он встречает девушку и влюбляется в нее с первого взгляда. Не зная ее имени, в своих мечтах он зовет ее Руйя (мечта/сон). Спустя годы Эшреф становится очень богатым и влиятельным мужчиной, в его жизни есть все, кроме любви. Он часто вспоминает ту прекрасную девушку, которую полюбил с первого взгляда и с которой так и не сумел познакомиться. Судьба решает преподнести Эшрефу неприятный сюрприз — она вновь сводит его с Руйей, только вот теперь эта девушка — его враг.",
-      "popularity": 89.1138,
-      "poster_path": "/mYG3mcnKwyrPMcZzkO9pIyE9UX1.jpg",
-      "first_air_date": "2025-03-19",
-      "name": "Мечта Эшрефа",
-      "vote_average": 7.2,
-      "vote_count": 21,
+      "original_language": "en",
+      "original_name": "Father Brown",
+      "overview": "Действие происходит в начале 1950-х годов в небольшой вымышленной английской деревне Котсуолд графства Кемблфорд. Главный герой отец Браун, служащий приходским священником в католической Церкви святой Марии, увлекается раскрытием убийств с помощью не только наблюдательности и логики, но также и с пониманием человеческой природы. Он пытается понять преступника и по возможности помочь ему осознать свой грех и покаяться. Часто он стремится к справедливости в отношении преступника или подозреваемого, иногда вопреки букве закона, например, когда узнаёт об обстоятельствах преступления на исповеди и строго соблюдает её тайну), даже несмотря на ещё разрешённую в Великобритании смертную казнь через повешение за такие тяжёлые преступления, как убийство. Своими расследованиями вызывает большое раздражение у полиции, которая часто арестовывает не того подозреваемого. В различное время в раскрытии преступлений патеру помогают приходской секретарь миссис Маккарти, а также местная светская львица леди Фелисия Монтегю, её шофёр - Сид Картер и племянница - Пенелопа «Банти» Уиндермир.",
+      "popularity": 24.2496,
+      "poster_path": "/lo81kIAskR7zPRA7qw3levE880q.jpg",
+      "first_air_date": "2013-01-14",
+      "name": "Отец Браун",
+      "vote_average": 7.6,
+      "vote_count": 127,
       "created_by": [
         {
-          "id": 1988831,
-          "credit_id": "68f4de48a3cd2a35c08e70fd",
-          "name": "Ethem Özışık",
-          "original_name": "Ethem Özışık",
-          "gender": 0,
+          "id": 1374772,
+          "credit_id": "5440ca450e0a26293e00106b",
+          "name": "Tahsin Guner",
+          "original_name": "Tahsin Guner",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 1374773,
+          "credit_id": "5440ca49c3a36861720010a1",
+          "name": "Rachel Flowerday",
+          "original_name": "Rachel Flowerday",
+          "gender": 1,
           "profile_path": null
         }
       ],
       "episode_run_time": [
-        130
+        45
       ],
       "genres": [
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         }
       ],
-      "homepage": "https://www.kanald.com.tr/esref-ruya",
+      "homepage": "https://www.bbc.co.uk/programmes/b03pmw4m",
       "in_production": true,
       "languages": [
-        "tr"
+        "en"
       ],
-      "last_air_date": "2025-12-24",
+      "last_air_date": "2026-01-09",
       "last_episode_to_air": {
-        "id": 6719609,
-        "name": "Эпизод 53",
+        "id": 6772591,
+        "name": "Эпизод 2",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2025-12-24",
-        "episode_number": 53,
+        "air_date": "2026-01-16",
+        "episode_number": 2,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": 146,
-        "season_number": 2,
-        "show_id": 283123,
-        "still_path": "/ecyapg7vpruotZOkYrBXKCFZKzV.jpg"
+        "runtime": 44,
+        "season_number": 13,
+        "show_id": 61511,
+        "still_path": "/v35i8yFFi0xormaLuBXDKZ7QZn6.jpg"
       },
       "next_episode_to_air": {
-        "id": 6719610,
-        "name": "Эпизод 54",
+        "id": 6772592,
+        "name": "Эпизод 3",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-01-14",
-        "episode_number": 54,
+        "air_date": "2026-01-23",
+        "episode_number": 3,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": null,
-        "season_number": 2,
-        "show_id": 283123,
-        "still_path": null
+        "runtime": 45,
+        "season_number": 13,
+        "show_id": 61511,
+        "still_path": "/pBrVBLlVFtXEhIDh1DDJFfycKzu.jpg"
       },
       "networks": [
         {
-          "id": 439,
-          "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
-          "name": "Kanal D",
-          "origin_country": "TR"
-        },
-        {
-          "id": 8251,
-          "logo_path": null,
-          "name": "Ufasofilmebi.ge",
-          "origin_country": ""
+          "id": 4,
+          "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+          "name": "BBC One",
+          "origin_country": "GB"
         }
       ],
-      "number_of_episodes": 49,
-      "number_of_seasons": 2,
+      "number_of_episodes": 140,
+      "number_of_seasons": 13,
       "production_companies": [
         {
-          "id": 125897,
-          "logo_path": "/n4s8xYaH85zkTESfVhbjbX5Bsj3.png",
-          "name": "Tims&B",
-          "origin_country": "TR"
+          "id": 3164,
+          "logo_path": "/h06QVxWESaOAfBwkgrWFdbkkccq.png",
+          "name": "BBC Worldwide",
+          "origin_country": "GB"
+        },
+        {
+          "id": 3324,
+          "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+          "name": "BBC",
+          "origin_country": "GB"
+        },
+        {
+          "id": 25570,
+          "logo_path": null,
+          "name": "BBC Drama Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 214718,
+          "logo_path": "/3kybnp1s4DAlJw2kLAx9G7l9Bz7.png",
+          "name": "BBC Studios Productions",
+          "origin_country": "GB"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "TR",
-          "name": "Turkey"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
       "seasons": [
         {
-          "air_date": "2025-03-19",
-          "episode_count": 13,
-          "id": 439960,
+          "air_date": "2013-01-14",
+          "episode_count": 10,
+          "id": 63035,
           "name": "Сезон 1",
           "overview": "",
-          "poster_path": "/mYG3mcnKwyrPMcZzkO9pIyE9UX1.jpg",
+          "poster_path": "/1Bm3PdtjP3CC0A2A7bpumVfbTO3.jpg",
           "season_number": 1,
-          "vote_average": 9.7
+          "vote_average": 6.7
         },
         {
-          "air_date": "2025-09-17",
-          "episode_count": 36,
-          "id": 473401,
+          "air_date": "2014-01-06",
+          "episode_count": 10,
+          "id": 63036,
           "name": "Сезон 2",
           "overview": "",
-          "poster_path": "/4YNW1FnctpNAxySXE2LW3hzH8Ju.jpg",
+          "poster_path": "/6czpx3biGHVQzBZMTke4divNyMy.jpg",
           "season_number": 2,
-          "vote_average": 9.1
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2015-01-05",
+          "episode_count": 15,
+          "id": 64500,
+          "name": "Сезон 3",
+          "overview": "",
+          "poster_path": "/3t79oNfAgrJhg8Xr6vToWKeL0vY.jpg",
+          "season_number": 3,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2016-01-04",
+          "episode_count": 10,
+          "id": 73551,
+          "name": "Сезон 4",
+          "overview": "",
+          "poster_path": "/wyIqKCOk1q3YlCwbR48kyzob5pq.jpg",
+          "season_number": 4,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2016-12-23",
+          "episode_count": 15,
+          "id": 83019,
+          "name": "Сезон 5",
+          "overview": "",
+          "poster_path": "/zCqaXAezCwA2wwT2nDMv4AZx23u.jpg",
+          "season_number": 5,
+          "vote_average": 6.9
+        },
+        {
+          "air_date": "2017-12-18",
+          "episode_count": 10,
+          "id": 96722,
+          "name": "Сезон 6",
+          "overview": "",
+          "poster_path": "/iaddrqtclK3pUtv1gO7qZvcxO0K.jpg",
+          "season_number": 6,
+          "vote_average": 7.9
+        },
+        {
+          "air_date": "2019-01-07",
+          "episode_count": 10,
+          "id": 115655,
+          "name": "Сезон 7",
+          "overview": "",
+          "poster_path": "/rTIrEDosqLIEfJUmKhJoVvaekFd.jpg",
+          "season_number": 7,
+          "vote_average": 4.7
+        },
+        {
+          "air_date": "2020-01-06",
+          "episode_count": 10,
+          "id": 140083,
+          "name": "Сезон 8",
+          "overview": "",
+          "poster_path": "/8Xoj7omKkBEdolO6Q8clDA9yMG1.jpg",
+          "season_number": 8,
+          "vote_average": 4.5
+        },
+        {
+          "air_date": "2022-01-03",
+          "episode_count": 10,
+          "id": 217972,
+          "name": "Сезон 9",
+          "overview": "",
+          "poster_path": "/eGqQqBhyfXRrLYGjlygoP3qTSGZ.jpg",
+          "season_number": 9,
+          "vote_average": 5.1
+        },
+        {
+          "air_date": "2023-01-06",
+          "episode_count": 10,
+          "id": 320867,
+          "name": "Сезон 10",
+          "overview": "",
+          "poster_path": "/nGhr5FeV1OqnhaV0l1XLk4s0K32.jpg",
+          "season_number": 10,
+          "vote_average": 6.3
+        },
+        {
+          "air_date": "2024-01-05",
+          "episode_count": 10,
+          "id": 366695,
+          "name": "Сезон 11",
+          "overview": "",
+          "poster_path": "/pzCsrutOMkRcLm2i1xwhyN2cLYI.jpg",
+          "season_number": 11,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-01-10",
+          "episode_count": 10,
+          "id": 432966,
+          "name": "Сезон 12",
+          "overview": "",
+          "poster_path": "/kKcV82nYsb6xTLYlpPjhgG92zPq.jpg",
+          "season_number": 12,
+          "vote_average": 9
+        },
+        {
+          "air_date": "2026-01-09",
+          "episode_count": 10,
+          "id": 490244,
+          "name": "Сезон 13",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 13,
+          "vote_average": 0
         }
       ],
       "spoken_languages": [
         {
-          "english_name": "Turkish",
-          "iso_639_1": "tr",
-          "name": "Türkçe"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6350bZGwGGf0tloA2h2WjmlPWGM.jpg",
+      "genre_ids": [
+        10765,
+        10759
+      ],
+      "id": 223530,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Star Trek: Starfleet Academy",
+      "overview": "Кадеты Звёздного флота проходят через дружбу, соперничество и первую любовь, готовясь стать офицерами. Они сталкиваются с новой угрозой, которая угрожает Академии и Федерации.",
+      "popularity": 8.3062,
+      "poster_path": "/5eviIWFV3DZo9ZQRaKpUgZ4E5sY.jpg",
+      "first_air_date": "2026-01-15",
+      "name": "Звездный путь: Академия Звездного флота",
+      "vote_average": 5,
+      "vote_count": 23,
+      "created_by": [
+        {
+          "id": 1867892,
+          "credit_id": "69688e12454850d96a078b2f",
+          "name": "Gaia Violo",
+          "original_name": "Gaia Violo",
+          "gender": 1,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 10765,
+          "name": "НФ и Фэнтези"
+        },
+        {
+          "id": 10759,
+          "name": "Боевик и Приключения"
+        }
+      ],
+      "homepage": "https://www.startrek.com/starfleetacademy",
+      "in_production": true,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": null,
+      "last_episode_to_air": null,
+      "next_episode_to_air": {
+        "id": 4331860,
+        "name": "Эпизод 1",
+        "overview": "",
+        "vote_average": 2.5,
+        "vote_count": 6,
+        "air_date": "2026-01-15",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 75,
+        "season_number": 1,
+        "show_id": 223530,
+        "still_path": "/1U61OOu2BCLeqqjdIdSeXCCwDWc.jpg"
+      },
+      "networks": [
+        {
+          "id": 4330,
+          "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+          "name": "Paramount+",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 10,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 1081,
+          "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+          "name": "CBS Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 90517,
+          "logo_path": "/uq7itRpnnb1LX1VDDaJg64pKFmT.png",
+          "name": "Secret Hideout",
+          "origin_country": "US"
+        },
+        {
+          "id": 51670,
+          "logo_path": "/sFDn8bWLh9sE2dPxaa0xUUYL6zS.png",
+          "name": "Roddenberry Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2026-01-15",
+          "episode_count": 10,
+          "id": 334969,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/eOxwyGkGKq4WZCgdVlU1pr2XcCG.jpg",
+          "season_number": 1,
+          "vote_average": 2.5
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Returning Series",
@@ -755,850 +2275,92 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 198178,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Wonder Man",
-      "overview": "Голливудский актёр Саймон Уильямс погружается в мир супергероев, обретая собственные силы и становясь новым супергероем Чудо-Человеком.",
-      "popularity": 123.5462,
-      "poster_path": "/opIsvG4OtyHugm16zmivJz35jxy.jpg",
-      "first_air_date": "2026-01-27",
-      "name": "Чудо-человек",
-      "vote_average": 6.868,
-      "vote_count": 53,
-      "created_by": [
-        {
-          "id": 1237529,
-          "credit_id": "65554490d4fe04011b914422",
-          "name": "Andrew Guest",
-          "original_name": "Andrew Guest",
-          "gender": 2,
-          "profile_path": "/s4844Z9kRkNlw9yCth1tKkpzAhC.jpg"
-        },
-        {
-          "id": 1144604,
-          "credit_id": "6555448dac416100ad280e66",
-          "name": "Дестин Дэниел Креттон",
-          "original_name": "Destin Daniel Cretton",
-          "gender": 2,
-          "profile_path": "/s8uAUG9egZlRIU0PKNkTkIz9E6g.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "https://www.disneyplus.com/browse/entity-555c5896-02e4-4873-8fa9-ce090dcd874b",
-      "in_production": false,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2026-01-27",
-      "last_episode_to_air": {
-        "id": 6594790,
-        "name": "Эпизод 8",
-        "overview": "",
-        "vote_average": 4.423,
-        "vote_count": 13,
-        "air_date": "2026-01-27",
-        "episode_number": 8,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 35,
-        "season_number": 1,
-        "show_id": 198178,
-        "still_path": "/368YSOe3vDJrrkuWwcYznOxZvq2.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 2739,
-          "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
-          "name": "Disney+",
-          "origin_country": ""
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 176762,
-          "logo_path": null,
-          "name": "Kevin Feige Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 420,
-          "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-          "name": "Marvel Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-01-27",
-          "episode_count": 8,
-          "id": 288697,
-          "name": "Сезон 1",
-          "overview": "Начинающий голливудский актер Саймон Уильямс никак не может сдвинуться с мёртвой точки в своей карьере. Во время случайной встречи с Тревором Слэттери, актёром, чьи лучшие роли, возможно, остались в прошлом, Саймон узнает, что легендарный режиссер Вон Ковак снимает ремейк супергеройского фильма «Чудо-человек». Эти два актёра, находящиеся на разных этапах своей карьеры, упорно добиваются судьбоносных ролей в этом фильме, а зрители получают возможность заглянуть за кулисы индустрии развлечений.",
-          "poster_path": "/opIsvG4OtyHugm16zmivJz35jxy.jpg",
-          "season_number": 1,
-          "vote_average": 4.5
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "«Он был рождён для этой роли»",
-      "type": "Miniseries",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-      "genre_ids": [
-        80,
-        18,
-        35
-      ],
-      "id": 79744,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Rookie",
-      "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
-      "popularity": 271.5717,
-      "poster_path": "/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
-      "first_air_date": "2018-10-16",
-      "name": "Новичок",
-      "vote_average": 8.533,
-      "vote_count": 2882,
-      "created_by": [
-        {
-          "id": 67855,
-          "credit_id": "5b12fbf10e0a263dbb0089e5",
-          "name": "Алекси Хоули",
-          "original_name": "Alexi Hawley",
-          "gender": 2,
-          "profile_path": "/eIyGbyHTfsIxEOPlD5lByW9A80y.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "https://abc.com/show/ada4e644-ce0b-4590-9dac-b04ce0a446e8",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2026-01-06",
-      "last_episode_to_air": {
-        "id": 6638144,
-        "name": "Чех и мат",
-        "overview": "Полиция Лос-Анджелеса, ФБР и Интерпол объединяются с Моникой Стивенс в Праге, чтобы выйти на опасных террористов, действующих как в США, так и за его пределами",
-        "vote_average": 9.63,
-        "vote_count": 96,
-        "air_date": "2026-01-06",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 43,
-        "season_number": 8,
-        "show_id": 79744,
-        "still_path": "/wcvTN1cGtKa8TitG3BuFp6dqbxR.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6638145,
-        "name": "Быстрый Энди",
-        "overview": "Когда президент приезжает в Лос‑Анджелес, полиция города объединяется с Секретной службой, чтобы обеспечить его безопасность и проверить список серьёзных угроз. В это время инстинкты Майлза проходят испытание, а Тим берётся за новую роль.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-13",
-        "episode_number": 2,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 8,
-        "show_id": 79744,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 2,
-          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
-          "name": "ABC",
-          "origin_country": "US"
-        }
-      ],
-      "number_of_episodes": 130,
-      "number_of_seasons": 8,
-      "production_companies": [
-        {
-          "id": 19366,
-          "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
-          "name": "ABC Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 8147,
-          "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
-          "name": "Entertainment One",
-          "origin_country": "CA"
-        },
-        {
-          "id": 28523,
-          "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
-          "name": "Lionsgate Television",
-          "origin_country": "US"
-        },
-        {
-          "id": 236613,
-          "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
-          "name": "ABC Signature",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2018-10-16",
-          "episode_count": 20,
-          "id": 104126,
-          "name": "Сезон 1",
-          "overview": "Случай подталкивает 45-летнего мужчину к осуществлению мечты — стать полицейским. Но чтобы попасть на службу, он должен доказать полиции Лос-Анджелеса свою пригодность.",
-          "poster_path": "/c5tWybs91GuwEFOucnj7yZu2YLu.jpg",
-          "season_number": 1,
-          "vote_average": 8.1
-        },
-        {
-          "air_date": "2019-09-29",
-          "episode_count": 20,
-          "id": 127101,
-          "name": "Сезон 2",
-          "overview": "Ставки как никогда высоки для Нолана и его коллег-новичков из полиции Лос-Анджелеса, которые борются с преступностью, выясняют отношения и обучаются на рабочем месте.",
-          "poster_path": "/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg",
-          "season_number": 2,
-          "vote_average": 8.2
-        },
-        {
-          "air_date": "2021-01-03",
-          "episode_count": 14,
-          "id": 173119,
-          "name": "Сезон 3",
-          "overview": "После окончания обучения Нолану с коллегами-новичками предстоит справиться с профессиональными и личными трудностями.",
-          "poster_path": "/zwsTsUTOGwIPEQQHJFPe2jtE06O.jpg",
-          "season_number": 3,
-          "vote_average": 7.5
-        },
-        {
-          "air_date": "2021-09-26",
-          "episode_count": 22,
-          "id": 202438,
-          "name": "Сезон 4",
-          "overview": "Офицер Нолан и отряд полиции Лос-Анджелеса сталкиваются со сложнейшей задачей — раскрыть преступления, жертвами которых стали их коллеги.",
-          "poster_path": "/gSGj4zhuFllpZEkHGdsBMV2BGsq.jpg",
-          "season_number": 4,
-          "vote_average": 7.9
-        },
-        {
-          "air_date": "2022-09-25",
-          "episode_count": 22,
-          "id": 297660,
-          "name": "Сезон 5",
-          "overview": "",
-          "poster_path": "/cofQdlJ0voWzWlpisBqfuRChTbf.jpg",
-          "season_number": 5,
-          "vote_average": 8
-        },
-        {
-          "air_date": "2024-02-20",
-          "episode_count": 10,
-          "id": 366041,
-          "name": "Сезон 6",
-          "overview": "",
-          "poster_path": "/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg",
-          "season_number": 6,
-          "vote_average": 8.9
-        },
-        {
-          "air_date": "2025-01-07",
-          "episode_count": 18,
-          "id": 427613,
-          "name": "Сезон 7",
-          "overview": "Джон и его команда приветствуют двух новых новичков и продолжают охоту на двух опасных заключенных, у которых после побега из тюрьмы возникли очень личные чувства вендетты.",
-          "poster_path": "/mVIHgmRmzc5yowuw2JDDbRaOzly.jpg",
-          "season_number": 7,
-          "vote_average": 8.7
-        },
-        {
-          "air_date": "2026-01-06",
-          "episode_count": 6,
-          "id": 455290,
-          "name": "Сезон 8",
-          "overview": "",
-          "poster_path": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-          "season_number": 8,
-          "vote_average": 9.6
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/llrSuUkFiR6EjDnh79dq8HEeziF.jpg",
-      "genre_ids": [
-        80
-      ],
-      "id": 291339,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "Memory of a Killer",
-      "overview": "Анджело ведет двойную жизнь — наемного убийцы и семьянина, и ему удавалось совмещать эти роли, пока его не настигла ранняя форма болезни Альцгеймера. Теперь его миры сталкиваются, ставя под угрозу его семью.",
-      "popularity": 26.9436,
-      "poster_path": "/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-      "first_air_date": "2026-01-25",
-      "name": "Память убийцы",
-      "vote_average": 8.2,
-      "vote_count": 4,
-      "created_by": [
-        {
-          "id": 24167,
-          "credit_id": "6822087973b35a07107e7d08",
-          "name": "Ed Whitmore",
-          "original_name": "Ed Whitmore",
-          "gender": 2,
-          "profile_path": null
-        },
-        {
-          "id": 1416847,
-          "credit_id": "682208838a0d663e9f7393bf",
-          "name": "Tracey Malone",
-          "original_name": "Tracey Malone",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2026-01-26",
-      "last_episode_to_air": {
-        "id": 6676489,
-        "name": "Эпизод 2",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-26",
-        "episode_number": 2,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 291339,
-        "still_path": "/bJ7pARp0JGrQLtHCLDdZIWDPS0B.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6676490,
-        "name": "Эпизод 3",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-02-02",
-        "episode_number": 3,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 291339,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 19,
-          "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
-          "name": "FOX",
-          "origin_country": "US"
-        }
-      ],
-      "number_of_episodes": 3,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 1957,
-          "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
-          "name": "Warner Bros. Television",
-          "origin_country": "US"
-        },
-        {
-          "id": 85721,
-          "logo_path": "/21N5NeX4l90jcFjG29VBQGkJ6VY.png",
-          "name": "FOX Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 173612,
-          "logo_path": "/c3qT8JXmVUtkSqJ8eZYkN1Ezf4C.png",
-          "name": "Welle Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 6461,
-          "logo_path": "/dNe4iMWCGaQRA6RTIYzUfqMigYh.png",
-          "name": "Eyeworks",
-          "origin_country": "BE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-01-25",
-          "episode_count": 3,
-          "id": 456152,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-          "season_number": 1,
-          "vote_average": 8
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-      "genre_ids": [
-        10765,
-        35,
-        18
-      ],
-      "id": 228689,
-      "origin_country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "original_name": "다 이루어질지니",
-      "overview": "Спустя тысячу лет необычный джинн возвращается, чтобы исполнить желания женщины, рожденной без чувств. Сможет ли его магия принести любовь и чудеса в ее мир?",
-      "popularity": 9.4048,
-      "poster_path": "/zq84x5kmwomvmmJ03hzl389UGeb.jpg",
-      "first_air_date": "2025-10-03",
-      "name": "Загадай желание",
-      "vote_average": 7.489,
-      "vote_count": 87,
-      "created_by": [
-        {
-          "id": 1456792,
-          "credit_id": "6489204dbf31f25054b7df4b",
-          "name": "이병헌",
-          "original_name": "이병헌",
-          "gender": 2,
-          "profile_path": "/aWPsfcKmLvZ7HmmBa0jI2OxVMfY.jpg"
-        },
-        {
-          "id": 1253794,
-          "credit_id": "648920486f8d9500afded1e2",
-          "name": "Ким Ын Сук",
-          "original_name": "김은숙",
-          "gender": 1,
-          "profile_path": "/iRI1bowXqsZ4BLrQ4A6RXuqlFUd.jpg"
-        }
-      ],
-      "episode_run_time": [
-        58
-      ],
-      "genres": [
-        {
-          "id": 10765,
-          "name": "НФ и Фэнтези"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "https://www.netflix.com/title/81748484",
-      "in_production": false,
-      "languages": [
-        "ko"
-      ],
-      "last_air_date": "2025-10-03",
-      "last_episode_to_air": {
-        "id": 6570156,
-        "name": "13 эпизод",
-        "overview": "Когда жизнь Каён переворачивается с ног на голову, она ищет Иблиса, чтобы загадать последнее желание. Обретут ли они вечное счастье или будут связаны жестокой судьбой?",
-        "vote_average": 9,
-        "vote_count": 2,
-        "air_date": "2025-10-03",
-        "episode_number": 13,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 62,
-        "season_number": 1,
-        "show_id": 228689,
-        "still_path": "/1y1jTwaPjUUDpwIkD1iVt0UGnp3.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 213,
-          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
-          "name": "Netflix",
-          "origin_country": ""
-        }
-      ],
-      "number_of_episodes": 13,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 36220,
-          "logo_path": "/dl126JiEUyhdLOhoN6thM9vI26B.png",
-          "name": "Hwa&Dam Pictures",
-          "origin_country": "KR"
-        },
-        {
-          "id": 128404,
-          "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
-          "name": "CJ ENM",
-          "origin_country": "KR"
-        },
-        {
-          "id": 86418,
-          "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
-          "name": "Studio Dragon",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2025-10-03",
-          "episode_count": 13,
-          "id": 345242,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/mTOuum9qZciEffWTxm9lrJ3PONw.jpg",
-          "season_number": 1,
-          "vote_average": 9
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qPF6ZTMxgSFxLmyO4qG5aK4R4pd.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 77428,
-      "origin_country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "original_name": "대군 - 사랑을 그리다",
-      "overview": "Ли Кан (Чу Сан Ук) - амбициозный принц. Он влюблен в Сон Джа Хён (Чжин Се Ён), девушку из знатной семьи. Вот только его младший брат Ли Хви (Юн Ши Юн) тоже влюблен в неё. Чтобы получить Джа Хён, Ли Кан решает стать королем ... даже если придется убить младшего брата.",
-      "popularity": 1.48,
-      "poster_path": "/6069JNOax9EXgYv3JlNmsjFgirJ.jpg",
-      "first_air_date": "2018-03-03",
-      "name": "Великий принц",
-      "vote_average": 3.8,
-      "vote_count": 17,
-      "created_by": [],
-      "episode_run_time": [
-        60
-      ],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "http://broadcast.tvchosun.com/broadcast/program/1/C201800009.cstv",
-      "in_production": false,
-      "languages": [
-        "ko"
-      ],
-      "last_air_date": "2018-05-06",
-      "last_episode_to_air": {
-        "id": 1480553,
-        "name": "Эпизод 20",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2018-05-06",
-        "episode_number": 20,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 72,
-        "season_number": 1,
-        "show_id": 77428,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 903,
-          "logo_path": "/7KzMozIYj58zKLMAaybYxWUWjdg.png",
-          "name": "TV Chosun",
-          "origin_country": "KR"
-        }
-      ],
-      "number_of_episodes": 20,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 101322,
-          "logo_path": null,
-          "name": "Yein E&M",
-          "origin_country": ""
-        },
-        {
-          "id": 101323,
-          "logo_path": null,
-          "name": "C-STORY",
-          "origin_country": ""
-        },
-        {
-          "id": 133206,
-          "logo_path": "/1Igqbq98g6kX2EnXGTt2TxESq91.png",
-          "name": "HIGROUND",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2018-03-03",
-          "episode_count": 20,
-          "id": 99874,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/bm4VnLuIhKi3E9hd9y4rUY5U4fe.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/78h2cOdj4s4duFVzvfaf1B9pNDe.jpg",
+      "backdrop_path": "/z6SEDeOcBcVk1oFXg60vm94bcKt.jpg",
       "genre_ids": [
         18,
-        10759
+        35,
+        10751
       ],
-      "id": 65163,
+      "id": 299847,
       "origin_country": [
         "TR"
       ],
       "original_language": "tr",
-      "original_name": "Poyraz Karayel",
-      "overview": "Пойраз Караел — главный герой сериала, которого в один день жизнь опустила на самое дно. За это короткое время ему пришлось потерять все и сразу. У него была жена, любящий сын и любимая работа. Теперь всего этого нет. Выпутаться из такой ситуации будет очень сложно, но Пойраз решит обязательно попробовать. Целью номер один наш герой ставит забрать своего сына, которого он так любит, обратно у своего тестя, которого зовут Унсал.",
-      "popularity": 7.5112,
-      "poster_path": "/pY8GMqiB35LY6TbWsDSGAsRvcR3.jpg",
-      "first_air_date": "2015-01-07",
-      "name": "Пойраз Караел",
-      "vote_average": 7.9,
-      "vote_count": 37,
-      "created_by": [
-        {
-          "id": 1988831,
-          "credit_id": "66ca4e5394da6dc4ea8f30e6",
-          "name": "Ethem Özışık",
-          "original_name": "Ethem Özışık",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [
-        147
-      ],
+      "original_name": "Cennetin Çocukları",
+      "overview": "Искандер родился и рос в бедной семье. Но благодаря уму, хитрости и дальновидности ему удалось стать настоящим королем преступного мира. Его власть и могущество были столь большими, что окружающие называли его «Александром Великим».\n\nНо одна трагическая случайность кардинально меняет жизнь Искандера. Он возвращается в район, в котором родился и вновь встречает Генуль — женщину, которую полюбил еще в детстве. Довольно быстро Искандер понимает, что долгие годы жил абсолютно неправильно",
+      "popularity": 11.6957,
+      "poster_path": "/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg",
+      "first_air_date": "2025-09-15",
+      "name": "Дети Рая",
+      "vote_average": 1,
+      "vote_count": 1,
+      "created_by": [],
+      "episode_run_time": [],
       "genres": [
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 10759,
-          "name": "Боевик и Приключения"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
-      "homepage": "https://www.kanald.com.tr/poyraz-karayel",
-      "in_production": false,
+      "homepage": "https://www.trt1.com.tr/diziler/cennetin-cocuklari",
+      "in_production": true,
       "languages": [
         "tr"
       ],
-      "last_air_date": "2017-03-01",
+      "last_air_date": "2025-12-08",
       "last_episode_to_air": {
-        "id": 1561598,
-        "name": "Эпизод 20",
+        "id": 6782711,
+        "name": "Эпизод 17",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2017-03-01",
-        "episode_number": 20,
-        "episode_type": "finale",
+        "air_date": "2026-01-12",
+        "episode_number": 17,
+        "episode_type": "standard",
         "production_code": "",
         "runtime": null,
-        "season_number": 3,
-        "show_id": 65163,
+        "season_number": 1,
+        "show_id": 299847,
         "still_path": null
       },
-      "next_episode_to_air": null,
+      "next_episode_to_air": {
+        "id": 6832153,
+        "name": "Эпизод 18",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-19",
+        "episode_number": 18,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 299847,
+        "still_path": null
+      },
       "networks": [
         {
-          "id": 439,
-          "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
-          "name": "Kanal D",
+          "id": 869,
+          "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+          "name": "TRT 1",
           "origin_country": "TR"
         }
       ],
-      "number_of_episodes": 82,
-      "number_of_seasons": 3,
+      "number_of_episodes": 15,
+      "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 46953,
-          "logo_path": "/xIH1fkJ1vL7mocP0ttx0dI3NTsP.png",
-          "name": "Limon",
+          "id": 199585,
+          "logo_path": null,
+          "name": "Motto Prodüksiyon",
           "origin_country": "TR"
         }
       ],
@@ -1610,34 +2372,14 @@
       ],
       "seasons": [
         {
-          "air_date": "2015-01-07",
-          "episode_count": 24,
-          "id": 73584,
+          "air_date": "2025-09-15",
+          "episode_count": 21,
+          "id": 473350,
           "name": "Сезон 1",
           "overview": "",
-          "poster_path": "/rpNk7WfTKtg4Q0SIl6pPTaAaaDJ.jpg",
+          "poster_path": "/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg",
           "season_number": 1,
-          "vote_average": 10
-        },
-        {
-          "air_date": "2015-09-30",
-          "episode_count": 38,
-          "id": 84985,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/tMyTzOnA7U1wqAN0ryufYGc3Hyi.jpg",
-          "season_number": 2,
-          "vote_average": 8
-        },
-        {
-          "air_date": "2016-10-12",
-          "episode_count": 20,
-          "id": 80240,
-          "name": "Сезон 3",
-          "overview": "",
-          "poster_path": "/rpNk7WfTKtg4Q0SIl6pPTaAaaDJ.jpg",
-          "season_number": 3,
-          "vote_average": 10
+          "vote_average": 0
         }
       ],
       "spoken_languages": [
@@ -1647,10 +2389,10 @@
           "name": "Türkçe"
         }
       ],
-      "status": "Ended",
+      "status": "Returning Series",
       "tagline": "",
       "type": "Scripted",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv"
@@ -1658,48 +2400,32 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/hI9z1UuNhBthvkm3iJ8m3zv43Pf.jpg",
+      "backdrop_path": "/cUFnlGkVhKwVNFMMkmhJ97yCaWQ.jpg",
       "genre_ids": [
         18,
-        35
+        10759
       ],
-      "id": 136311,
+      "id": 309328,
       "origin_country": [
-        "US"
+        "TR"
       ],
-      "original_language": "en",
-      "original_name": "Shrinking",
-      "overview": "Джимми оплакивает смерть жены, при этом стараясь оставаться отцом, другом и психотерапевтом. Он решает применить новый подход: безжалостная честность без цензуры со всеми, кто встречается на его пути. Станет ли от этого легче? Или это повлечет за собой безудержный хаос?",
-      "popularity": 37.0365,
-      "poster_path": "/y9jtLN5TWe6iXwhSXXoEwuitPLQ.jpg",
-      "first_air_date": "2023-01-26",
-      "name": "Терапия",
-      "vote_average": 7.8,
-      "vote_count": 517,
+      "original_language": "tr",
+      "original_name": "Yeraltı",
+      "overview": "Хайдар Али жестоко отомстил убийцам своей семьи и оказался в тюрьме. Именно здесь мужчина знакомится с представителями самого сильного подпольного картеля в Турции и вступает с ними в противостояние. Но настоящие проблемы ждут его на воле. Через три года Хайдыр Али выходит на свободу и узнает, что женщина, любовь к которой он так и не смог вырвать из своего сердца, стала женой его бывшего друга, превратившегося во врага.",
+      "popularity": 28.525,
+      "poster_path": "/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg",
+      "first_air_date": "2026-01-28",
+      "name": "Подземелье",
+      "vote_average": 0,
+      "vote_count": 0,
       "created_by": [
         {
-          "id": 21422,
-          "credit_id": "61672a7abe7f35006ac5c4a6",
-          "name": "Бретт Голдстин",
-          "original_name": "Brett Goldstein",
-          "gender": 2,
-          "profile_path": "/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg"
-        },
-        {
-          "id": 41088,
-          "credit_id": "61672a76cee4810062eee84e",
-          "name": "Джейсон Сигел",
-          "original_name": "Jason Segel",
-          "gender": 2,
-          "profile_path": "/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg"
-        },
-        {
-          "id": 1216859,
-          "credit_id": "61672a8184591c0023e5428c",
-          "name": "Билл Лоуренс",
-          "original_name": "Bill Lawrence",
-          "gender": 2,
-          "profile_path": "/75mV8qLqPA9oMy23lTxmcoEGWAe.jpg"
+          "id": 5901789,
+          "credit_id": "695039895d4fa96ce21572f5",
+          "name": "Berna Aruz",
+          "original_name": "Berna Aruz",
+          "gender": 0,
+          "profile_path": null
         }
       ],
       "episode_run_time": [],
@@ -1709,139 +2435,91 @@
           "name": "драма"
         },
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 10759,
+          "name": "Боевик и Приключения"
         }
       ],
-      "homepage": "https://tv.apple.com/show/umc.cmc.apzybj6eqf6pzccd97kev7bs",
+      "homepage": "https://www.nowtv.com.tr/Yeralti/izle",
       "in_production": true,
       "languages": [
-        "en"
+        "tr"
       ],
-      "last_air_date": "2026-01-27",
+      "last_air_date": "2026-01-28",
       "last_episode_to_air": {
-        "id": 6617333,
-        "name": "Оплошал",
-        "overview": "Джимми пытается осознать, что гнездо опустело, переживая из-за важного жизненного выбора Элис. Болезнь Паркинсона подбрасывает Полу новые испытания.",
-        "vote_average": 8.5,
-        "vote_count": 1,
-        "air_date": "2026-01-27",
+        "id": 6792843,
+        "name": "Эпизод 1",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-28",
         "episode_number": 1,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": 64,
-        "season_number": 3,
-        "show_id": 136311,
-        "still_path": "/ktwNnZppviKPoR8F0dFxRAIG9b1.jpg"
+        "runtime": 146,
+        "season_number": 1,
+        "show_id": 309328,
+        "still_path": "/aa9DGf3zIZHF4M3GBmeSe2nuPkR.jpg"
       },
       "next_episode_to_air": {
-        "id": 6617353,
-        "name": "Погоня за счастьем",
-        "overview": "Друзья объединяются, чтобы поддержать Пола на больничном. Джимми и Элис помогают Луису сделать важный шаг. Лиз и Дерек принимают трудное решение.",
+        "id": 6792875,
+        "name": "Эпизод 2",
+        "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-02-03",
+        "air_date": "2026-02-04",
         "episode_number": 2,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": 35,
-        "season_number": 3,
-        "show_id": 136311,
-        "still_path": "/Aw5S5sCtGBtSxuWBU2HjkFE4Sis.jpg"
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 309328,
+        "still_path": null
       },
       "networks": [
         {
-          "id": 2552,
-          "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
-          "name": "Apple TV",
-          "origin_country": ""
+          "id": 7380,
+          "logo_path": "/h9a0YduugatG4by8vDBrjoQxHpO.png",
+          "name": "NOW",
+          "origin_country": "TR"
         }
       ],
-      "number_of_episodes": 33,
-      "number_of_seasons": 3,
+      "number_of_episodes": 3,
+      "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 23672,
-          "logo_path": "/a0sVfKvMT1d55p2XJXPpRfm7rRh.png",
-          "name": "Doozer",
-          "origin_country": "US"
-        },
-        {
-          "id": 1957,
-          "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
-          "name": "Warner Bros. Television",
-          "origin_country": "US"
-        },
-        {
-          "id": 224610,
-          "logo_path": null,
-          "name": "3 Chance Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 224611,
-          "logo_path": null,
-          "name": "Corporate Mandate",
-          "origin_country": "US"
+          "id": 58719,
+          "logo_path": "/991BsuqZrUI4N79qW87Ms9rwcpX.png",
+          "name": "MEDYAPIM",
+          "origin_country": "TR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "TR",
+          "name": "Turkey"
         }
       ],
       "seasons": [
         {
-          "air_date": "2023-01-27",
-          "episode_count": 1,
-          "id": 436427,
-          "name": "Спецматериалы",
-          "overview": "",
-          "poster_path": "/fAilN7UZS812tRe7oz361Q79LEl.jpg",
-          "season_number": 0,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2023-01-26",
-          "episode_count": 10,
-          "id": 215533,
+          "air_date": "2026-01-28",
+          "episode_count": 3,
+          "id": 491412,
           "name": "Сезон 1",
-          "overview": "Джимми пытается пережить потерю жены, продолжая исполнять роли отца, друга и врача. Он решает применить новый подход ко всем, кто его окружает — нефильтруемую, жесткую честность. Сможет ли он помочь себе, помогая другим? Вернет ли это его обратно к свету?",
-          "poster_path": "/7pr4rN2M3i6Z7cQJ8ZyqbJFz6rI.jpg",
+          "overview": "",
+          "poster_path": "/iuZXbbLp4hO7QCkQLKiWkzkHzh8.jpg",
           "season_number": 1,
-          "vote_average": 7.1
-        },
-        {
-          "air_date": "2024-10-15",
-          "episode_count": 12,
-          "id": 405274,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/8CdS7vIyg0l6UPYuy6EGYAptaup.jpg",
-          "season_number": 2,
-          "vote_average": 7.6
-        },
-        {
-          "air_date": "2026-01-27",
-          "episode_count": 11,
-          "id": 480887,
-          "name": "Сезон 3",
-          "overview": "",
-          "poster_path": "/y9jtLN5TWe6iXwhSXXoEwuitPLQ.jpg",
-          "season_number": 3,
-          "vote_average": 8.5
+          "vote_average": 0
         }
       ],
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Turkish",
+          "iso_639_1": "tr",
+          "name": "Türkçe"
         }
       ],
       "status": "Returning Series",
-      "tagline": "Всем пора собраться.",
+      "tagline": "",
       "type": "Scripted",
       "release_quality": "1080p",
       "media_type": "tv",
@@ -2035,919 +2713,118 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/t5OhMJHdgzXxiwZ8iNXMMLSglUK.jpg",
+      "backdrop_path": "/wn1aR7LwfXB3ssSHVYUDk1TQQUB.jpg",
       "genre_ids": [
         18
       ],
-      "id": 198102,
-      "origin_country": [
-        "GB"
-      ],
-      "original_language": "en",
-      "original_name": "Hijack",
-      "overview": "Опытному переговорщику Сэму Нельсону и его попутчикам предстоит незабываемая поездка, когда группа захватчиков берёт всё под контроль. Сэм применит все свои профессиональные навыки, чтобы обезвредить их. Тем временем ставки растут с каждой секундой.",
-      "popularity": 18.0776,
-      "poster_path": "/iT8R8EySVWh3POHNqMW7Mw41mGC.jpg",
-      "first_air_date": "2023-06-28",
-      "name": "Захваченный рейс",
-      "vote_average": 7.6,
-      "vote_count": 661,
-      "created_by": [
-        {
-          "id": 1287248,
-          "credit_id": "626187fd5a9915004f38064f",
-          "name": "Джордж Кэй",
-          "original_name": "George Kay",
-          "gender": 2,
-          "profile_path": null
-        },
-        {
-          "id": 111686,
-          "credit_id": "649bdc29af58cb01396996f2",
-          "name": "Джим Филд Смит",
-          "original_name": "Jim Field Smith",
-          "gender": 2,
-          "profile_path": "/4eXQUAOJ9W6ny621hLFncoXeoQQ.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "https://tv.apple.com/show/umc.cmc.1dg08zn0g3zx52hs8npoj5qe3",
-      "in_production": true,
-      "languages": [
-        "ar",
-        "en",
-        "de",
-        "hu",
-        "ml"
-      ],
-      "last_air_date": "2023-08-02",
-      "last_episode_to_air": {
-        "id": 4415915,
-        "name": "Всем приготовиться",
-        "overview": "Сэм тщетно пытается справиться с хаосом, разворачивающимся вокруг него, когда на борту появляется новая угроза.",
-        "vote_average": 6.886,
-        "vote_count": 35,
-        "air_date": "2023-08-02",
-        "episode_number": 7,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 52,
-        "season_number": 1,
-        "show_id": 198102,
-        "still_path": "/f45gWvRxuIwBQOdG6uJxNzDPb9d.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6618111,
-        "name": "Эпизод 1",
-        "overview": "",
-        "vote_average": 3.7,
-        "vote_count": 3,
-        "air_date": "2026-01-14",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 43,
-        "season_number": 2,
-        "show_id": 198102,
-        "still_path": "/siwv9ppq5RB0LC0JQHsZ7TNFtuo.jpg"
-      },
-      "networks": [
-        {
-          "id": 2552,
-          "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
-          "name": "Apple TV",
-          "origin_country": ""
-        }
-      ],
-      "number_of_episodes": 15,
-      "number_of_seasons": 2,
-      "production_companies": [
-        {
-          "id": 80604,
-          "logo_path": "/cHQTTOFb6SKUyldi91pzllBQtS4.png",
-          "name": "Green Door Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 173920,
-          "logo_path": "/h5Kdyi3RTeyPbiiK5IsaYzTgaZW.png",
-          "name": "60Forty Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 73412,
-          "logo_path": "/txTZl2pF1tCyhzYDqbt1i4FHOYI.png",
-          "name": "Idiotlamp Productions",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2023-06-28",
-          "episode_count": 7,
-          "id": 288591,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/v4oAWDy33lmKI7lsktThsYhp3zU.jpg",
-          "season_number": 1,
-          "vote_average": 7.2
-        },
-        {
-          "air_date": "2026-01-14",
-          "episode_count": 8,
-          "id": 481001,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/iT8R8EySVWh3POHNqMW7Mw41mGC.jpg",
-          "season_number": 2,
-          "vote_average": 3.7
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Arabic",
-          "iso_639_1": "ar",
-          "name": "العربية"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "Hungarian",
-          "iso_639_1": "hu",
-          "name": "Magyar"
-        },
-        {
-          "english_name": "Malayalam",
-          "iso_639_1": "ml",
-          "name": ""
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "Кому можно доверять, когда на карту поставлено все?",
-      "type": "Scripted",
-      "release_quality": "2160p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bJxf4Y8UKOBsWoE3gB6N0hfB04G.jpg",
-      "genre_ids": [
-        10768,
-        18
-      ],
-      "id": 246621,
-      "origin_country": [
-        "TR"
-      ],
-      "original_language": "tr",
-      "original_name": "Mehmed: Fetihler Sultanı",
-      "overview": "“Мехмед: Султан Завоевателей” - исторический турецкий телесериал, основанный на биографии Мехмеда II, султана Османской империи. Сериал повествует о его жизни, правлении, завоеваниях, а также политических интригах во времена его правления. В центре истории не только сам султан, но также его семья, друзья, враги и история расширения Османской империи на Балканах и Малой Азии. Зрители имеют возможность погрузиться в атмосферу жизни средневековой Турции, узнать больше о ее культуре, традициях, быте.",
-      "popularity": 41.8533,
-      "poster_path": "/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg",
-      "first_air_date": "2024-02-27",
-      "name": "Мехмед: Султан Завоевателей",
-      "vote_average": 8.286,
-      "vote_count": 14,
-      "created_by": [
-        {
-          "id": 5698098,
-          "credit_id": "68cd117a95ab8b10110a8993",
-          "name": "Eyüp Gökhan Özekin",
-          "original_name": "Eyüp Gökhan Özekin",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [
-        160
-      ],
-      "genres": [
-        {
-          "id": 10768,
-          "name": "Война и Политика"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
-      "in_production": true,
-      "languages": [
-        "tr"
-      ],
-      "last_air_date": "2025-12-02",
-      "last_episode_to_air": {
-        "id": 6796378,
-        "name": "Эпизод 15",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-06",
-        "episode_number": 15,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 3,
-        "show_id": 246621,
-        "still_path": "/lGZCmabWTaWAvPzGoo5RDBINM3R.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6815313,
-        "name": "Эпизод 16",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-13",
-        "episode_number": 16,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 3,
-        "show_id": 246621,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 869,
-          "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
-          "name": "TRT 1",
-          "origin_country": "TR"
-        }
-      ],
-      "number_of_episodes": 61,
-      "number_of_seasons": 3,
-      "production_companies": [
-        {
-          "id": 222312,
-          "logo_path": null,
-          "name": "Miray Yapım",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "TR",
-          "name": "Turkey"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2024-02-27",
-          "episode_count": 15,
-          "id": 379606,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/7NVE1GLgOh5VxRiu0EcwEAzRgYW.jpg",
-          "season_number": 1,
-          "vote_average": 10
-        },
-        {
-          "air_date": "2024-09-24",
-          "episode_count": 34,
-          "id": 418636,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/lCiVWEXvhjLklWsa88yYjsjyF1u.jpg",
-          "season_number": 2,
-          "vote_average": 10
-        },
-        {
-          "air_date": "2025-09-16",
-          "episode_count": 16,
-          "id": 473525,
-          "name": "Сезон 3",
-          "overview": "",
-          "poster_path": "/6pwPvDCXO71UKA2tVtG8rYPwyOy.jpg",
-          "season_number": 3,
-          "vote_average": 10
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Turkish",
-          "iso_639_1": "tr",
-          "name": "Türkçe"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fbIf8z3PVX7NT3dPYaKjxeNNfEC.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 306529,
-      "origin_country": [
-        "TR"
-      ],
-      "original_language": "tr",
-      "original_name": "A.B.I.",
-      "overview": "Иногда семья - это самый большой экзамен для человека. Мужчина, который много лет назад предал свою семью, теперь спустя годы, уже как успешный врач будет испытан тем же. Жизнь заставит его сделать выбор между семьей и совестью.",
-      "popularity": 3.2431,
-      "poster_path": "/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg",
-      "first_air_date": "2026-01-13",
-      "name": "Семья - это испытание",
-      "vote_average": 3,
-      "vote_count": 1,
-      "created_by": [
-        {
-          "id": 3112206,
-          "credit_id": "6966a99ff68d2b0c135bf8de",
-          "name": "Гюльсерен Будайыджиоглу",
-          "original_name": "Gülseren Budayıcıoğlu",
-          "gender": 1,
-          "profile_path": "/KiDqgZ9eyQkXtVgnJeiBQsbzee.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [
-        "tr"
-      ],
-      "last_air_date": "2026-01-20",
-      "last_episode_to_air": {
-        "id": 6714388,
-        "name": "Эпизод 2",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-20",
-        "episode_number": 2,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 306529,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 36,
-          "logo_path": "/qCnMXkdER5FYvmy2AGSMnAFH9ue.png",
-          "name": "atv",
-          "origin_country": "TR"
-        }
-      ],
-      "number_of_episodes": 4,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 142312,
-          "logo_path": null,
-          "name": "OGM Pictures",
-          "origin_country": "TR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "TR",
-          "name": "Turkey"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-01-13",
-          "episode_count": 4,
-          "id": 486305,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Turkish",
-          "iso_639_1": "tr",
-          "name": "Türkçe"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/t2fl4Po0H38ZYwzPboTTXhQ6v3Y.jpg",
-      "genre_ids": [
-        18,
-        9648
-      ],
-      "id": 214994,
-      "origin_country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "original_name": "청담국제고등학교",
-      "overview": "Ким Хе Ин (Ли Ын Сэм) — девушка, выросшая в неблагополучной семье. Она учится в обычной школе и испытывает финансовые трудности. Несмотря на постоянную нехватку денег, она полна амбиций и хочет изменить свою жизнь. Однажды она случайно становится единственным свидетелем убийства старшеклассницы. Взамен на свое молчание в ходе расследования ей предлагают шанс поступить в престижную Международную среднюю школу Чондам. Хотя у нее есть угрызения совести, она принимает это предложение, так как понимает, что это уникальная возможность изменить свою судьбу.",
-      "popularity": 4.9281,
-      "poster_path": "/7Wlxdu6Z1sYcti7xgbtLLmxRFOk.jpg",
-      "first_air_date": "2023-05-31",
-      "name": "Международная старшая школа Чхондам",
-      "vote_average": 8.25,
-      "vote_count": 32,
-      "created_by": [
-        {
-          "id": 4088926,
-          "credit_id": "64767ce400508a00f98a3241",
-          "name": "Jung Sung-eun",
-          "original_name": "Jung Sung-eun",
-          "gender": 0,
-          "profile_path": null
-        },
-        {
-          "id": 4088925,
-          "credit_id": "64767cd712c60400a7b2d776",
-          "name": "Min Ji-young",
-          "original_name": "Min Ji-young",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [
-        35
-      ],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "https://www.wavve.com/player/vod?programid=F9601_F96000000001",
-      "in_production": false,
-      "languages": [
-        "ko"
-      ],
-      "last_air_date": "2025-08-01",
-      "last_episode_to_air": {
-        "id": 6405240,
-        "name": "Эпизод 10",
-        "overview": "",
-        "vote_average": 8,
-        "vote_count": 2,
-        "air_date": "2025-08-01",
-        "episode_number": 10,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 35,
-        "season_number": 2,
-        "show_id": 214994,
-        "still_path": "/rK8RBLdkV2D2Q6chbkcz2qNgL7p.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 3357,
-          "logo_path": "/13a2E9fbpRtQrQgfb9UCNWZcM2O.png",
-          "name": "wavve",
-          "origin_country": "KR"
-        }
-      ],
-      "number_of_episodes": 20,
-      "number_of_seasons": 2,
-      "production_companies": [
-        {
-          "id": 125466,
-          "logo_path": "/7GpPHSE5pjEmTKEFVppG0s2dG64.png",
-          "name": "Whynot Media",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2023-05-31",
-          "episode_count": 10,
-          "id": 317420,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/sOIkwuAmODltYnVCrCL6U0DlueU.jpg",
-          "season_number": 1,
-          "vote_average": 7.7
-        },
-        {
-          "air_date": "2025-07-03",
-          "episode_count": 10,
-          "id": 353186,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/6sLk3GPYgUQowxPiV45aKQFmjt6.jpg",
-          "season_number": 2,
-          "vote_average": 7.4
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8MsIBCK1kGSoLWPGey79tZwCPRN.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 273418,
-      "origin_country": [
-        "KR"
-      ],
-      "original_language": "ko",
-      "original_name": "서초동",
-      "overview": "История прямолинейного адвоката, заслужившего в своих кругах блестящую репутацию, который вынужден открыть собственную контору.",
-      "popularity": 4.2104,
-      "poster_path": "/lrhbbIlRsRAY11qHQ366VKht6lv.jpg",
-      "first_air_date": "2025-07-05",
-      "name": "Район Сочхо",
-      "vote_average": 7.9,
-      "vote_count": 29,
-      "created_by": [
-        {
-          "id": 2830692,
-          "credit_id": "684366b97a71a3dba3bb25dd",
-          "name": "Park Seung-woo",
-          "original_name": "Park Seung-woo",
-          "gender": 0,
-          "profile_path": "/9fCzlOdfBgtZZx7kZXzRHJbaXfg.jpg"
-        }
-      ],
-      "episode_run_time": [
-        70
-      ],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "https://tvn.cjenm.com/ko/Law-and-The-City/",
-      "in_production": false,
-      "languages": [
-        "ko"
-      ],
-      "last_air_date": "2025-08-10",
-      "last_episode_to_air": {
-        "id": 6128633,
-        "name": "Эпизод 12",
-        "overview": "",
-        "vote_average": 7,
-        "vote_count": 1,
-        "air_date": "2025-08-10",
-        "episode_number": 12,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 76,
-        "season_number": 1,
-        "show_id": 273418,
-        "still_path": "/5z50xBsthfL0BkV9mFBwkewmduc.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 866,
-          "logo_path": "/aRDq8zBrX3YLpHSfueNQBkNnn7b.png",
-          "name": "tvN",
-          "origin_country": "KR"
-        }
-      ],
-      "number_of_episodes": 12,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 145525,
-          "logo_path": "/f8wcXgdD6SkscnGY3DGygDC1bg7.png",
-          "name": "tvN",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2025-07-05",
-          "episode_count": 12,
-          "id": 421801,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/59OP0pVCotzRFgRMzRcxyrojoJE.jpg",
-          "season_number": 1,
-          "vote_average": 6.9
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/x8CuZ8uuqtUePAbfSglBzZBE0ub.jpg",
-      "genre_ids": [],
-      "id": 310925,
-      "origin_country": [
-        "NZ"
-      ],
-      "original_language": "en",
-      "original_name": "Blue Murder Motel",
-      "overview": "Когда супружеская пара из Австралии меняет свои  полицейские значки  на прибрежный мотель в Новой Зеландии, они оставляют детективную работу в прошлом, и планируют наслаждаться спокойной жизнью. До тех пор, пока преступность не приходит к ним сама.",
-      "popularity": 1.9653,
-      "poster_path": "/18EbloIIjvhLG9h8uW1d3jqeY3M.jpg",
-      "first_air_date": "2026-01-18",
-      "name": "Убийство в мотеле \"Синева\"",
-      "vote_average": 7,
-      "vote_count": 1,
-      "created_by": [
-        {
-          "id": 209843,
-          "credit_id": "696749d71f38c5f08170357a",
-          "name": "Kate McDermott",
-          "original_name": "Kate McDermott",
-          "gender": 1,
-          "profile_path": null
-        },
-        {
-          "id": 1653847,
-          "credit_id": "696749e51f38c5f08170357d",
-          "name": "Steven Zanoski",
-          "original_name": "Steven Zanoski",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [],
-      "homepage": "https://www.tvnz.co.nz/shows/blue-murder-motel",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2026-01-18",
-      "last_episode_to_air": {
-        "id": 6847309,
-        "name": "Эпизод 2",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-25",
-        "episode_number": 2,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 310925,
-        "still_path": null
-      },
-      "next_episode_to_air": {
-        "id": 6867656,
-        "name": "Эпизод 3",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-02-01",
-        "episode_number": 3,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 310925,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 1376,
-          "logo_path": "/tRUJaANZCvxWQbQfdWcP8UvOjTG.png",
-          "name": "TVNZ 1",
-          "origin_country": "NZ"
-        }
-      ],
-      "number_of_episodes": 6,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 46039,
-          "logo_path": "/mfuFaF7xG2QfKAdBYSLmlziVAa5.png",
-          "name": "Great Southern Television",
-          "origin_country": "NZ"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "NZ",
-          "name": "New Zealand"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-01-18",
-          "episode_count": 6,
-          "id": 494562,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 1,
-          "vote_average": 1
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ymdCZck7hy7EDxUTR4Uq1MisfyX.jpg",
-      "genre_ids": [
-        18,
-        10765,
-        10759
-      ],
-      "id": 3137,
+      "id": 237748,
       "origin_country": [
         "US"
       ],
       "original_language": "en",
-      "original_name": "Babylon 5",
-      "overview": "Началась новая эра в истории человечества. Минуло десять лет после войны Земли с Минбаром. Проект «Вавилон» стал воплощением мечты о галактике без войн. Его цель — создание центра, где различные цивилизации смогут решать спорные вопросы мирным путём. Станция стала местом встречи и домом для дипломатов, авантюристов, дельцов, путешественников, тысяч людей и инопланетян на двух с половиной миллионов тонн вращающегося металла, среди бездны космоса. Однако со временем «Вавилон 5» приобрёл другое значение и стал последней надеждой на прочный мир. Но вскоре эта надежда рухнула. И в час начала великих войн, он обрёл иное содержание, стал последней надеждой на победу. Время: 2257 года — 2382 год. Место действия: «Вавилон 5».",
-      "popularity": 27.6823,
-      "poster_path": "/dubBaxs7QGQFPukUoWqaoZaIray.jpg",
-      "first_air_date": "1994-01-26",
-      "name": "Вавилон 5",
-      "vote_average": 8.024,
-      "vote_count": 577,
+      "original_name": "Brilliant Minds",
+      "overview": "Доктор Оливер Вульф — эксцентричный, но невероятно талантливый невролог, страдающий редким заболеванием, которое дает ему уникальный взгляд на лечение. Вульф возглавляет команду молодых интернов, занимающихся самыми загадочными психологическими случаями в мире.",
+      "popularity": 8.4307,
+      "poster_path": "/AbLidyqbXuhwfsj09YeSevsSjiF.jpg",
+      "first_air_date": "2024-09-23",
+      "name": "Блестящие умы",
+      "vote_average": 7.398,
+      "vote_count": 49,
       "created_by": [
         {
-          "id": 33045,
-          "credit_id": "52574ced760ee36aaa15cd77",
-          "name": "Дж. Майкл Стражински",
-          "original_name": "J. Michael Straczynski",
+          "id": 1228379,
+          "credit_id": "66b45cd79df3ae8e49e965b7",
+          "name": "Michael Grassi",
+          "original_name": "Michael Grassi",
           "gender": 2,
-          "profile_path": "/ezbudNhoJcgIGZdx74D6kPmu1Yp.jpg"
+          "profile_path": null
         }
       ],
       "episode_run_time": [
-        45
+        43
       ],
       "genres": [
         {
           "id": 18,
           "name": "драма"
-        },
-        {
-          "id": 10765,
-          "name": "НФ и Фэнтези"
-        },
-        {
-          "id": 10759,
-          "name": "Боевик и Приключения"
         }
       ],
-      "homepage": "http://babylon5.warnerbros.com/",
-      "in_production": false,
+      "homepage": "https://www.nbc.com/brilliant-minds",
+      "in_production": true,
       "languages": [
         "en"
       ],
-      "last_air_date": "1998-11-25",
+      "last_air_date": "2025-12-01",
       "last_episode_to_air": {
-        "id": 235921,
-        "name": "Сон в сиянии",
-        "overview": "Действие происходит в 2281 году, спустя 20 лет после окончания войны с Тенями. Джон Шеридан несколько раз видит один и тот же сон: Лориен объясняет ему, что он может продлить жизнь Шеридана после его гибели на За'Ха'Думе лишь на 20 лет. Шеридан понимает, что его время подходит к концу.",
-        "vote_average": 8.3,
-        "vote_count": 11,
-        "air_date": "1998-11-25",
-        "episode_number": 22,
-        "episode_type": "finale",
-        "production_code": "523/422",
-        "runtime": 45,
-        "season_number": 5,
-        "show_id": 3137,
-        "still_path": "/ueknjU2kL0uq7zt8fjXxfXss8K3.jpg"
+        "id": 6680843,
+        "name": "Эпизод 10",
+        "overview": "",
+        "vote_average": 8.8,
+        "vote_count": 2,
+        "air_date": "2025-12-01",
+        "episode_number": 10,
+        "episode_type": "mid_season",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 237748,
+        "still_path": null
       },
-      "next_episode_to_air": null,
+      "next_episode_to_air": {
+        "id": 6771673,
+        "name": "Эпизод 11",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-05",
+        "episode_number": 11,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 237748,
+        "still_path": null
+      },
       "networks": [
         {
-          "id": 41,
-          "logo_path": "/6ISsKwa2XUhSC6oBtHZjYf6xFqv.png",
-          "name": "TNT",
-          "origin_country": "US"
-        },
-        {
-          "id": 184,
-          "logo_path": null,
-          "name": "Syndication",
-          "origin_country": "US"
-        },
-        {
-          "id": 211,
-          "logo_path": "/nTVq5fJk1n8uOEpVKJfqxpb0yYl.png",
-          "name": "Prime Time Entertainment Network",
+          "id": 6,
+          "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+          "name": "NBC",
           "origin_country": "US"
         }
       ],
-      "number_of_episodes": 110,
-      "number_of_seasons": 5,
+      "number_of_episodes": 24,
+      "number_of_seasons": 2,
       "production_companies": [
         {
-          "id": 2181,
-          "logo_path": null,
-          "name": "Babylonian Productions",
-          "origin_country": ""
+          "id": 27711,
+          "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+          "name": "Berlanti Productions",
+          "origin_country": "US"
         },
         {
           "id": 1957,
           "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
           "name": "Warner Bros. Television",
           "origin_country": "US"
+        },
+        {
+          "id": 26727,
+          "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+          "name": "Universal Television",
+          "origin_country": "US"
+        },
+        {
+          "id": 239945,
+          "logo_path": null,
+          "name": "1107 Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 239946,
+          "logo_path": null,
+          "name": "72nd St",
+          "origin_country": ""
         }
       ],
       "production_countries": [
@@ -2958,64 +2835,24 @@
       ],
       "seasons": [
         {
-          "air_date": "1993-02-22",
-          "episode_count": 81,
-          "id": 9911,
-          "name": "Спецматериалы",
+          "air_date": "2024-09-23",
+          "episode_count": 13,
+          "id": 361920,
+          "name": "Сезон 1",
           "overview": "",
-          "poster_path": "/jhQLg0G7QQDoiHLshMHUxiEPHBH.jpg",
-          "season_number": 0,
-          "vote_average": 0
-        },
-        {
-          "air_date": "1994-01-26",
-          "episode_count": 22,
-          "id": 9907,
-          "name": "Сезон 1. «Пророчества и предсказания»",
-          "overview": "Это был рассвет третьей эры человечества. Минуло десять лет после войны Земли с Минбаром. Проект «Вавилон» стал воплощением нашей мечты. Его цель — предотвращение новой войны с помощью места, где люди и инопланетяне могли бы мирно решать свои споры. Вдали от дома он стал домом для дипломатов, авантюристов, бизнесменов и странников. Люди и инопланетяне в оболочке двух с половиной миллионов тонн вращающегося металла, одни во мраке космоса. Подчас здесь небезопасно, но это наша последняя надежда на мир. Это история последней станции серии «Вавилон». Время действия: 2258 год. Место действия: «Вавилон 5».",
-          "poster_path": "/rYudAl564nVya0QXEJ6ZK6SxnQo.jpg",
+          "poster_path": "/bcRmIcc1Sw2LnZ1qYK6XFcQqacB.jpg",
           "season_number": 1,
-          "vote_average": 6.9
+          "vote_average": 5.4
         },
         {
-          "air_date": "1994-11-02",
-          "episode_count": 22,
-          "id": 9908,
-          "name": "Сезон 2. «Нашествие теней»",
-          "overview": "Проект «Вавилон» был нашей последней надеждой на мир. Ни на что не похожий, особенный мир, пять миль в длину в нейтральном секторе пространства. Место торговли и дипломатии, четверть миллиона людей и инопланетян. Сверкающий маяк во мраке космоса. Это был рассвет Третьей Эры Человечества, год, когда над всеми нами нависла угроза Великой Войны. Это история последней станции серии «Вавилон». Время действия: год 2259. Место действия: «Вавилон 5».",
-          "poster_path": "/q3z1xE1JHn7ZtNPCkcdjNQM06zW.jpg",
+          "air_date": "2025-09-22",
+          "episode_count": 12,
+          "id": 467366,
+          "name": "Сезон 2",
+          "overview": "",
+          "poster_path": "/3hLlllb45emUeZ5BH3ulbYbPbGE.jpg",
           "season_number": 2,
-          "vote_average": 7.4
-        },
-        {
-          "air_date": "1995-11-06",
-          "episode_count": 22,
-          "id": 9912,
-          "name": "Сезон 3. «Возврата нет»",
-          "overview": "Проект «Вавилон» был нашей последней надеждой на мир. Эта надежда рухнула. Но в год войны с Тенями она превратилась в нечто большее: нашу последнюю надежду на победу. Время действия: год 2260. Место действия: «Вавилон 5».",
-          "poster_path": "/11gZODmqKYYyAMtcloVxro0Oe7U.jpg",
-          "season_number": 3,
-          "vote_average": 7.6
-        },
-        {
-          "air_date": "1996-11-04",
-          "episode_count": 22,
-          "id": 9909,
-          "name": "Сезон 4. «Не отступать, не сдаваться»",
-          "overview": "Это был год огня — год разрушения — год, когда мы отвоевали своё. Это был год возрождения — год великой печали — год боли — год радости. Это была новая эра. Конец истории. Это был год, изменивший все. Год 2261. Место действия: «Вавилон 5».",
-          "poster_path": "/nmqyvj2ca9dJEmbbALdEYqfbbR7.jpg",
-          "season_number": 4,
-          "vote_average": 7.7
-        },
-        {
-          "air_date": "1998-01-21",
-          "episode_count": 22,
-          "id": 9910,
-          "name": "Сезон 5. «Огненное колесо»",
-          "overview": "Итак, началось... В твоем разуме дыра... Что вы хотите?.. Никто здесь не такой, каким кажется... Ничто не осталось, как прежде... Командор Синклер... был отозван... Почему же вы не уничтожите весь Нарн?.. Я вижу руку, протягивающуюся со звезд... Кто ты?.. Сегодня президент Кларк подписал указ о введении чрезвычайного положения... Эти приказы вынудили нас объявить о своей независимости... Если только вы не вылезете из своих скафандров и не сделаете хоть что-нибудь... Ты тот, кто был... Если ты полетишь на За'Ха'Дум, ты погибнешь... Зачем ты здесь?.. Есть ли у тебя что-нибудь, ради чего стоило бы жить?.. Я думаю о моем прекрасном городе, объятом пламенем... Как гиганты в песочнице... Убирайтесь из нашей Галактики!.. Мы здесь, чтобы арестовать президента Кларка... Год 2262. Место действия: «Вавилон 5».",
-          "poster_path": "/wzY3m4mqW0yg4LydQuzGtCFPcbt.jpg",
-          "season_number": 5,
-          "vote_average": 7.3
+          "vote_average": 7
         }
       ],
       "spoken_languages": [
@@ -3025,9 +2862,259 @@
           "name": "English"
         }
       ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dL10ZW3gaRo8MF4mNtUvEoVUOFC.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 65288,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "太子妃升职记",
+      "overview": "Чжан Пэн большой сердцеед, он меняет девушек как перчатки. Одним не очень счастливым вечером парень прыгает в бассейн, где получает удар по голове. Тут бы ему и конец, но несчастья на этом не закончились. Очнулся Чжан Пэн в прошлом, где, к своему возмущению, он уже не прекрасный во всех отношениях молодой человек, а Чжан Пэн-Пэн - дочь высокопоставленного министра и жена наследного принца. Сможет ли Чжан Пэн вернуться назад или ему придётся смириться с новой жизнью? Сможет ли он выжить во дворце и жить долго и счастливо? Сможет ли он найти свою любовь? Или всё это просто расплата за его легкомыслие?",
+      "popularity": 3.8106,
+      "poster_path": "/cPHbc0wP54qWa7dmvaFxt5W4uwe.jpg",
+      "first_air_date": "2015-12-13",
+      "name": "Легенда о возвышении жены наследного принца",
+      "vote_average": 7,
+      "vote_count": 17,
+      "created_by": [
+        {
+          "id": 4756077,
+          "credit_id": "665ff76f43638f9373007a00",
+          "name": "Xian Cheng",
+          "original_name": "Xian Cheng",
+          "gender": 1,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        49
+      ],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "in_production": false,
+      "languages": [
+        "zh"
+      ],
+      "last_air_date": "2017-01-05",
+      "last_episode_to_air": {
+        "id": 1253205,
+        "name": "Эпизод 37",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2017-01-05",
+        "episode_number": 37,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 49,
+        "season_number": 1,
+        "show_id": 65288,
+        "still_path": null
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 1304,
+          "logo_path": "/qWtHcKTKgBRs8Jn14ZT0NDUYoTB.png",
+          "name": "LeTV",
+          "origin_country": "CN"
+        }
+      ],
+      "number_of_episodes": 37,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 72138,
+          "logo_path": null,
+          "name": "Letv",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2015-12-13",
+          "episode_count": 37,
+          "id": 73874,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/uJGzeVwzWKiagLPgsjNgQCNDAYl.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
       "status": "Ended",
       "tagline": "",
       "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xmMvwWeL1PZIGSUn8RLYEv5p8pD.jpg",
+      "genre_ids": [
+        10759,
+        10766
+      ],
+      "id": 130106,
+      "origin_country": [
+        "IT"
+      ],
+      "original_language": "it",
+      "original_name": "Il sangue e la rosa",
+      "overview": "В маленьком тихом городе живет прекрасная Изабелла - дочь местного трактирщика. Она проводит дни среди книг и в общении со своим единственным другом Рокко, бесконечно влюбленным в красавицу Изабеллу. После трагической гибели графа Манчини, который был революционером, противником Папы, в город приезжает его сын Джулио. Изабелла, Рокко и Джулио станут друзьями, которым суждено будет раскрыть тайну этой истории, вместе пережить опасности, выпавшие на их долю. Красивая костюмная драма, полная любви и захватывающих приключений.",
+      "popularity": 0.6155,
+      "poster_path": "/kgG6XxmuhNgyjtM1sw9irCuyuzk.jpg",
+      "first_air_date": "2008-09-02",
+      "name": "Кровь и роза",
+      "vote_average": 7,
+      "vote_count": 2,
+      "created_by": [
+        {
+          "id": 131327,
+          "credit_id": "6102b3534e52ed002ea51774",
+          "name": "Salvatore Samperi",
+          "original_name": "Salvatore Samperi",
+          "gender": 2,
+          "profile_path": "/2JHjDbQe2v0TMFaZcuwokylPp4A.jpg"
+        },
+        {
+          "id": 1153636,
+          "credit_id": "6102b390db72c03bfb273a2a",
+          "name": "Luciano Odorisio",
+          "original_name": "Luciano Odorisio",
+          "gender": 2,
+          "profile_path": "/e6oqGrK23QwcpevwpDWnjFgXKzY.jpg"
+        },
+        {
+          "id": 1331156,
+          "credit_id": "6102b3644284ea00463ad3db",
+          "name": "Luigi Parisi",
+          "original_name": "Luigi Parisi",
+          "gender": 0,
+          "profile_path": null
+        },
+        {
+          "id": 1290556,
+          "credit_id": "64be817185c0a201255071ed",
+          "name": "Teodosio Losito",
+          "original_name": "Teodosio Losito",
+          "gender": 2,
+          "profile_path": "/s2nMZCChV7WIrhBKL9LxI6NFZsA.jpg"
+        }
+      ],
+      "episode_run_time": [
+        45
+      ],
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Боевик и Приключения"
+        },
+        {
+          "id": 10766,
+          "name": "Мыльная опера"
+        }
+      ],
+      "homepage": "http://www.fiction.mediaset.it/il-sangue-e-la-rosa/",
+      "in_production": false,
+      "languages": [
+        "it"
+      ],
+      "last_air_date": "2008-09-23",
+      "last_episode_to_air": {
+        "id": 3098007,
+        "name": "Эпизод 4",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2008-09-23",
+        "episode_number": 4,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 130106,
+        "still_path": "/bfFrcLAm4avBX4t9BoHzs8775qq.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 537,
+          "logo_path": "/XQOHFLRIHe4qEsIG6pdiJIlPhT.png",
+          "name": "Canale 5",
+          "origin_country": "IT"
+        }
+      ],
+      "number_of_episodes": 4,
+      "number_of_seasons": 1,
+      "production_companies": [],
+      "production_countries": [],
+      "seasons": [
+        {
+          "air_date": "2008-09-02",
+          "episode_count": 4,
+          "id": 204000,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/kgG6XxmuhNgyjtM1sw9irCuyuzk.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Miniseries",
       "release_quality": "",
       "media_type": "tv",
       "categories": [
