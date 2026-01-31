@@ -9,56 +9,238 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+      "backdrop_path": "/A2owp1CjaOzAxnPwzQoovtJFBcT.jpg",
       "genre_ids": [
-        35,
-        14
+        14,
+        12,
+        10751
       ],
-      "id": 1114967,
-      "original_language": "en",
-      "original_title": "Good Fortune",
-      "overview": "Добродушный, но не слишком умелый ангел по имени Габриэль вмешивается в жизни работника-фрилансера и богатого венчурного капиталиста.",
-      "popularity": 13.5329,
-      "poster_path": "/smgLN6330v7F1spPzAHd789yiZh.jpg",
-      "release_date": "2025-10-14",
-      "title": "Везунчики",
+      "id": 149427,
+      "original_language": "no",
+      "original_title": "Reisen til julestjernen",
+      "overview": "Храбрая маленькая девочка Соня отправляется в опасное путешествие, чтобы найти Рождественскую звезду, освободить королевство от заклятия и вернуть давно пропавшую принцессу. Но коварные враги всеми силами пытаются помешать ей. И тогда в покрытых снегом норвежских горах начинается настоящее волшебное приключение…",
+      "popularity": 1.3448,
+      "poster_path": "/p6xo1S8Cab24Wc01db3puBgwbM6.jpg",
+      "release_date": "2012-11-09",
+      "title": "Путешествие к Рождественской звезде",
       "video": false,
-      "vote_average": 7.075,
-      "vote_count": 380,
+      "vote_average": 5.957,
+      "vote_count": 187,
       "belongs_to_collection": null,
-      "budget": 30000000,
+      "budget": 5000000,
       "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2034761",
+      "origin_country": [
+        "NO"
+      ],
+      "production_companies": [
+        {
+          "id": 24647,
+          "logo_path": null,
+          "name": "Moskus Film",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "NO",
+          "name": "Norway"
+        }
+      ],
+      "revenue": 7419431,
+      "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "Norwegian",
+          "iso_639_1": "no",
+          "name": "Norsk"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantasy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 458576,
+      "original_language": "en",
+      "original_title": "Monster Hunter",
+      "overview": "Лейтенант Артемис и её солдаты с Земли случайно попадают в параллельный мир, где обитают разнообразные монстры. Закалённые бойцы оказываются в необычной ситуации и вынуждены использовать все свои навыки, чтобы пережить встречу с фантастическими тварями. Спасти их может только загадочный Охотник, который как никто умеет убивать монстров.",
+      "popularity": 4.5889,
+      "poster_path": "/hJbbx83Wj6JX4Mew0bVApKoqYRx.jpg",
+      "release_date": "2020-12-03",
+      "title": "Охотник на монстров",
+      "video": false,
+      "vote_average": 6.541,
+      "vote_count": 3462,
+      "belongs_to_collection": null,
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6475714",
+      "origin_country": [
+        "CN"
+      ],
+      "production_companies": [
+        {
+          "id": 7220,
+          "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+          "name": "Capcom",
+          "origin_country": "JP"
+        },
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 81620,
+          "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
+          "name": "Tencent Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        },
+        {
+          "id": 265714,
+          "logo_path": null,
+          "name": "AB² Digital Pictures",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 42145959,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«За нашим миром есть другой»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantasy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3htgvJ6d0GV633oHYueeISk8J7w.jpg",
+      "genre_ids": [
+        12,
+        14,
+        35,
+        10751
+      ],
+      "id": 1319969,
+      "original_language": "en",
+      "original_title": "Sketch",
+      "overview": "Альбом с рисунками 10-летней Эмбер случайно падает в магический пруд с живой водой, и все её творения вдруг оживают. Но есть нюанс — Эмбер обожает рисовать всяких страшных монстров. Когда город начинают атаковать ужастики всех мастей, Эмбер и её семья должны объединиться и понять, как остановить монстров, которых они не планировали выпускать.",
+      "popularity": 6.8678,
+      "poster_path": "/gzMzptLhA69rGgk36OXuFJnisUt.jpg",
+      "release_date": "2025-08-06",
+      "title": "Ужастики. Ожившие рисунки",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 79,
+      "belongs_to_collection": null,
+      "budget": 4800000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
         {
           "id": 35,
           "name": "комедия"
         },
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt27543578",
+      "imdb_id": "tt26238710",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 221429,
-          "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-          "name": "Media Capital Technologies",
-          "origin_country": "US"
-        },
-        {
-          "id": 168945,
+          "id": 236379,
           "logo_path": null,
-          "name": "Oh Brudder Productions",
+          "name": "Morphan Time",
+          "origin_country": "US"
+        },
+        {
+          "id": 218666,
+          "logo_path": "/1FyQYjUUIijNZEJBUPqrpDxCZz3.png",
+          "name": "Wonder Project",
           "origin_country": "US"
         }
       ],
@@ -68,8 +250,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 26114174,
-      "runtime": 97,
+      "revenue": 8324425,
+      "runtime": 92,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -78,8 +260,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Нужно Чудо?»",
-      "release_quality": "2160p",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantasy"
@@ -228,183 +410,6 @@
       ],
       "revenue": 0,
       "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantasy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sVkjgKq8cwKm95LCyfrLldLbQIG.jpg",
-      "genre_ids": [
-        28,
-        18,
-        14
-      ],
-      "id": 274857,
-      "original_language": "en",
-      "original_title": "King Arthur: Legend of the Sword",
-      "overview": "Молодой Артур живёт на задворках Лондиниума вместе со своей бандой. Он и понятия не имел о своём королевском происхождении, пока однажды не взял в руки меч Эскалибур. Меч начинает менять Артура. В результате он присоединяется к сопротивлению и таинственной молодой девушке по имени Гвиневра. Ему предстоит научиться понимать магическое оружие, которым он овладел, столкнуться со своими собственными демонами и объединить народ в борьбе против диктатора Вортигерна, убившего его родителей и завладевшего короной.",
-      "popularity": 7.1522,
-      "poster_path": "/pR5liuSzUesiYhe80yTpigUce73.jpg",
-      "release_date": "2017-05-10",
-      "title": "Меч короля Артура",
-      "video": false,
-      "vote_average": 6.551,
-      "vote_count": 5920,
-      "belongs_to_collection": null,
-      "budget": 175000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1972591",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 79,
-          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
-          "name": "Village Roadshow Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 433,
-          "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
-          "name": "Weed Road Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 23202,
-          "logo_path": null,
-          "name": "Wigram Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 25577,
-          "logo_path": "/2trboP7Exx3LEQqSHoo1sAmsC1i.png",
-          "name": "Safehouse Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 149175066,
-      "runtime": 126,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Рождён быть королём",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantasy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/s75xYQOo4Hy2fy229CEfj5jgC2B.jpg",
-      "genre_ids": [
-        18,
-        14,
-        35,
-        10770
-      ],
-      "id": 73108,
-      "original_language": "en",
-      "original_title": "Teen Spirit",
-      "overview": "Сюжет вращается вокруг Амбер, стервозной популярной девушки, которая умирает от удара током. Ее не пустят на небеса, если она не поможет самой непопулярной в школе девушке — Лизе — стать королевой выпускного бала в течение недели, но… все пошло не так, как планировалось.",
-      "popularity": 4.7973,
-      "poster_path": "/8mmxoEBzTMX4ziYgveeEx35ltNY.jpg",
-      "release_date": "2011-08-07",
-      "title": "Советы с того света",
-      "video": false,
-      "vote_average": 5.94,
-      "vote_count": 298,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1845866",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 51990,
-          "logo_path": null,
-          "name": "EUE/Screen Gems Studios",
-          "origin_country": ""
-        },
-        {
-          "id": 59325,
-          "logo_path": null,
-          "name": "ABC Family Worldwide",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 82,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1451,26 +1456,31 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/x5VGdEBBGuhA0YRlk6dFFxGcamG.jpg",
+      "backdrop_path": "/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
       "genre_ids": [
         12,
         14,
-        35,
-        10751
+        18,
+        10749
       ],
-      "id": 879,
+      "id": 50620,
       "original_language": "en",
-      "original_title": "Hook",
-      "overview": "Питер Пэн стал взрослым и перестал быть Питером Пэном. Теперь ему сорок лет, у него другое имя, семья и серьезная работа. Не осталось и следа от чудесного ребенка, который когда-то умел летать… Но старые враги не забыли мальчика.Капитан с острым стальным крюком вместо руки снова бросает вызов своему противнику, похитив его детей. Питер отправляется вслед за ним в волшебную страну, но чтобы победить там, где живут русалки, феи и однорукие пираты, ему придется снова научиться летать.",
-      "popularity": 7.3926,
-      "poster_path": "/kUgoAOlJI0KzC800g2rhahlPeWA.jpg",
-      "release_date": "1991-04-10",
-      "title": "Капитан Крюк",
+      "original_title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "overview": "Белла, став вампиром, постепенно свыкается со своей новой природой. В этом ей помогают Эдвард и остальные члены семьи Калленов. К тому же теперь у Беллы есть дочь Ренесми и вечность впереди. Джейкоб, запечатлённый с Ренесми, становится для девочки другом и наставником. Ненадолго для героев наступают спокойные, счастливые дни. Всё заканчивается, когда вести о Ренесми доходят до Вольтури. «Обращение» детей строго запрещено в мире вампиров. Не зная о необычном происхождении Ренесми, Вольтури собирают армию и направляются в Форкс, чтобы уничтожить Калленов.",
+      "popularity": 12.3683,
+      "poster_path": "/fgVXAUj9w6OrVlhQ0YPiZhO46j5.jpg",
+      "release_date": "2012-11-13",
+      "title": "Сумерки. Сага: Рассвет — Часть 2",
       "video": false,
-      "vote_average": 6.84,
-      "vote_count": 5564,
-      "belongs_to_collection": null,
-      "budget": 70000000,
+      "vote_average": 6.461,
+      "vote_count": 9233,
+      "belongs_to_collection": {
+        "id": 33514,
+        "name": "Сумерки. Сага (Коллекция)",
+        "poster_path": "/96FvnEPb1zF75OUhpPC2GUH0jho.jpg",
+        "backdrop_path": "/3be0BffeZTyMbj4Ndzo6Y877SBQ.jpg"
+      },
+      "budget": 120000000,
       "genres": [
         {
           "id": 12,
@@ -1481,37 +1491,37 @@
           "name": "фэнтези"
         },
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 18,
+          "name": "драма"
         },
         {
-          "id": 10751,
-          "name": "семейный"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0102057",
+      "imdb_id": "tt1673434",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 56,
-          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
-          "name": "Amblin Entertainment",
+          "id": 491,
+          "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+          "name": "Summit Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 559,
-          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
-          "name": "TriStar Pictures",
+          "id": 12292,
+          "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+          "name": "Temple Hill Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 4587,
+          "id": 5219,
           "logo_path": null,
-          "name": "Allied Stars",
-          "origin_country": ""
+          "name": "Sunswept Entertainment",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -1520,8 +1530,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 300854823,
-      "runtime": 144,
+      "revenue": 829747654,
+      "runtime": 112,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1530,8 +1540,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
+      "tagline": "«Эпический финал, который будет жить вечно»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantasy"
@@ -1539,61 +1549,91 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/iR3tV8NXFls4UKzPA60D4zrI7Jh.jpg",
+      "backdrop_path": "/hBwDYiOPwXHuwiYGP82ekFNSeBr.jpg",
       "genre_ids": [
-        35,
-        27,
-        14
+        12,
+        14,
+        10749
       ],
-      "id": 928,
+      "id": 50619,
       "original_language": "en",
-      "original_title": "Gremlins 2: The New Batch",
-      "overview": "На месте старого дома в центре Манхэттена выстроен супернебоскреб, в котором есть все: от телевизионной компании до биологической лаборатории. Сюда попадает и Гизмо – забавный и страннный зверек. По оплошности персонала здание захватывают гремлины – чудовища, порожденные Гизмо. Начинается новое нашествие, осложненное тем, что гремлины проникли в биолабораторию. В результате – появление новых монстров, с которыми очень тяжело сладить.",
-      "popularity": 5.8088,
-      "poster_path": "/twjM36ThHItIbQUhX48JgHgFOEe.jpg",
-      "release_date": "1990-06-15",
-      "title": "Гремлины 2: Новенькая Партия",
+      "original_title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "overview": "В четвёртой части Белла Свон оказывается перед непростым выбором — сохранить жизнь себе или своему ребёнку (наполовину вампиру, наполовину человеку). Она решает оставить малыша, но Эдвард и остальные члены семьи Каллен категорически против. Помощи Бёлле ждать не от кого, но она приходит неожиданно, от того, от кого её совсем не ждали. Вдвоём Белла и Розали пытаются сохранить жизнь малышу, даже не догадываясь, к каким ужасающим последствиям это приведёт.",
+      "popularity": 11.4181,
+      "poster_path": "/hnJ5U57LWu6xHp8w0z3o0ZdgFTf.jpg",
+      "release_date": "2011-11-16",
+      "title": "Сумерки. Сага: Рассвет — Часть 1",
       "video": false,
-      "vote_average": 6.52,
-      "vote_count": 2796,
+      "vote_average": 6.194,
+      "vote_count": 9122,
       "belongs_to_collection": {
-        "id": 89151,
-        "name": "Гремлины (Коллекция)",
-        "poster_path": "/4HclxV8Tswo0UQrgAbpR8tZMXwf.jpg",
-        "backdrop_path": "/otza3wkQmttOfBLDMc4g1gIfSLT.jpg"
+        "id": 33514,
+        "name": "Сумерки. Сага (Коллекция)",
+        "poster_path": "/96FvnEPb1zF75OUhpPC2GUH0jho.jpg",
+        "backdrop_path": "/3be0BffeZTyMbj4Ndzo6Y877SBQ.jpg"
       },
-      "budget": 50000000,
+      "budget": 110000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
+          "id": 12,
+          "name": "приключения"
         },
         {
           "id": 14,
           "name": "фэнтези"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0099700",
+      "imdb_id": "tt1324999",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 56,
-          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
-          "name": "Amblin Entertainment",
+          "id": 491,
+          "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+          "name": "Summit Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
+          "id": 5219,
+          "logo_path": null,
+          "name": "Sunswept Entertainment",
           "origin_country": "US"
+        },
+        {
+          "id": 7490,
+          "logo_path": null,
+          "name": "TSBD Canada Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 58321,
+          "logo_path": null,
+          "name": "TSBD Louisiana",
+          "origin_country": ""
+        },
+        {
+          "id": 58322,
+          "logo_path": null,
+          "name": "TSBD Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 12292,
+          "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+          "name": "Temple Hill Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 6446,
+          "logo_path": "/bzINKKiM2w4mUU2TAEU7FqnP7xa.png",
+          "name": "Total Entertainment",
+          "origin_country": "BR"
         }
       ],
       "production_countries": [
@@ -1602,18 +1642,23 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 41482207,
-      "runtime": 106,
+      "revenue": 712171856,
+      "runtime": 117,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
+      "tagline": "«Вечность - это только начало»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantasy"
