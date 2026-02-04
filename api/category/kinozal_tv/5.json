@@ -5,36 +5,366 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 103,
+  "total": 104,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+      "backdrop_path": "/8dbKQrdVR5HD7PVWjTPawnTYCPT.jpg",
       "genre_ids": [
+        35,
+        80,
         18,
-        80
+        9648
       ],
-      "id": 254071,
+      "id": 41956,
       "origin_country": [
         "GB"
       ],
       "original_language": "en",
-      "original_name": "Steal",
-      "overview": "Обычный день в Lochmill Capital переворачивается с ног на голову, когда в офис врываются вооруженные грабители и заставляют Зару и её лучшего друга Люка выполнить их требования. После этого детектив Рис, терзаемый противоречивыми чувствами, пытается выяснить, кто и зачем украл 4 миллиарда фунтов пенсионных накоплений.",
-      "popularity": 82.4601,
-      "poster_path": "/3wJGHSYjUG9cBczq1qP7yaARBgL.jpg",
-      "first_air_date": "2026-01-21",
-      "name": "Ограбление",
-      "vote_average": 8.6,
-      "vote_count": 8,
+      "original_name": "Death in Paradise",
+      "overview": "Детективный сериал о инспекторе Лондонского управления полиции, Ричарде Пуле, которого отправили вести расследования в одно из самых (по его мнению) ужасных мест на земле — карибский остров Сент-Мари.",
+      "popularity": 53.0425,
+      "poster_path": "/x8eeZ221jxFJ11TLC3kf57UavnN.jpg",
+      "first_air_date": "2011-10-25",
+      "name": "Смерть в раю",
+      "vote_average": 7.5,
+      "vote_count": 306,
       "created_by": [
         {
-          "id": 4800770,
-          "credit_id": "69713fab0f5fd8d84dde512a",
-          "name": "Sotiris Nikias",
-          "original_name": "Sotiris Nikias",
-          "gender": 0,
+          "id": 1364632,
+          "credit_id": "54186f74c3a36819b40033e5",
+          "name": "Robert Thorogood",
+          "original_name": "Robert Thorogood",
+          "gender": 2,
           "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        60
+      ],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "http://www.bbc.co.uk/programmes/b01pvmf6",
+      "in_production": true,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2026-01-30",
+      "last_episode_to_air": {
+        "id": 6854734,
+        "name": "Эпизод 1",
+        "overview": "",
+        "vote_average": 8,
+        "vote_count": 2,
+        "air_date": "2026-01-30",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 59,
+        "season_number": 15,
+        "show_id": 41956,
+        "still_path": "/te2q5SI31LrIy1eksT6BbaLgB5Z.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 6878765,
+        "name": "Эпизод 2",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-02-06",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 57,
+        "season_number": 15,
+        "show_id": 41956,
+        "still_path": "/jOenntEccXorE5HlxI2UMh8IvfW.jpg"
+      },
+      "networks": [
+        {
+          "id": 4,
+          "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+          "name": "BBC One",
+          "origin_country": "GB"
+        }
+      ],
+      "number_of_episodes": 114,
+      "number_of_seasons": 15,
+      "production_companies": [
+        {
+          "id": 36740,
+          "logo_path": "/o8DuqYo6FSgxt4euhOntSByEMGh.png",
+          "name": "Red Planet Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 43499,
+          "logo_path": null,
+          "name": "Atlantique Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 3445,
+          "logo_path": "/7Jkq08LdnkxhK9M2LHuIOwHFfX8.png",
+          "name": "Kudos",
+          "origin_country": "GB"
+        },
+        {
+          "id": 3324,
+          "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+          "name": "BBC",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2021-12-26",
+          "episode_count": 6,
+          "id": 236874,
+          "name": "Спецматериалы",
+          "overview": "",
+          "poster_path": "/umK5oae28msPcd4Bk3sA60f8g0T.jpg",
+          "season_number": 0,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2011-10-25",
+          "episode_count": 8,
+          "id": 51939,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/7QSVHl4XuYdMbidxlYKwWIkbm0f.jpg",
+          "season_number": 1,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2013-01-08",
+          "episode_count": 8,
+          "id": 51940,
+          "name": "Сезон 2",
+          "overview": "",
+          "poster_path": "/7Xhb5CLLniglO8hcmNUZNLhw7S8.jpg",
+          "season_number": 2,
+          "vote_average": 7.9
+        },
+        {
+          "air_date": "2014-01-14",
+          "episode_count": 8,
+          "id": 62715,
+          "name": "Сезон 3",
+          "overview": "",
+          "poster_path": "/unR0sUcv909PPBsSehpISp1jhiW.jpg",
+          "season_number": 3,
+          "vote_average": 7.2
+        },
+        {
+          "air_date": "2015-01-08",
+          "episode_count": 8,
+          "id": 64390,
+          "name": "Сезон 4",
+          "overview": "",
+          "poster_path": "/xejyfEDWWnyCYqj7bBvPOy2naNs.jpg",
+          "season_number": 4,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "2016-01-07",
+          "episode_count": 8,
+          "id": 72842,
+          "name": "Сезон 5",
+          "overview": "",
+          "poster_path": "/oqUn91BKyYNjLmsQJGAcqip64oP.jpg",
+          "season_number": 5,
+          "vote_average": 7.2
+        },
+        {
+          "air_date": "2017-01-05",
+          "episode_count": 8,
+          "id": 83419,
+          "name": "Сезон 6",
+          "overview": "",
+          "poster_path": "/fd8gd4At2tMb0tbjgYGsKHFnHQK.jpg",
+          "season_number": 6,
+          "vote_average": 7.3
+        },
+        {
+          "air_date": "2018-01-04",
+          "episode_count": 8,
+          "id": 97476,
+          "name": "Сезон 7",
+          "overview": "",
+          "poster_path": "/4LdarXxpY5pVPj1ps05qJx6u7BX.jpg",
+          "season_number": 7,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2019-01-10",
+          "episode_count": 8,
+          "id": 116018,
+          "name": "Сезон 8",
+          "overview": "",
+          "poster_path": "/lvMAPrhar80Jc8HYLTvrjC6OF8n.jpg",
+          "season_number": 8,
+          "vote_average": 7.6
+        },
+        {
+          "air_date": "2020-01-09",
+          "episode_count": 8,
+          "id": 140339,
+          "name": "Сезон 9",
+          "overview": "",
+          "poster_path": "/1pbc9Bbkc33OvqUX4ab5wSKtpDT.jpg",
+          "season_number": 9,
+          "vote_average": 7.5
+        },
+        {
+          "air_date": "2021-01-07",
+          "episode_count": 8,
+          "id": 174702,
+          "name": "Сезон 10",
+          "overview": "",
+          "poster_path": "/6003599pQeZzf2KllDZTxpYVz0O.jpg",
+          "season_number": 10,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2022-01-07",
+          "episode_count": 8,
+          "id": 236873,
+          "name": "Сезон 11",
+          "overview": "",
+          "poster_path": "/az0ALxiBFfqsavfxZhtSMJLyhpw.jpg",
+          "season_number": 11,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2023-01-06",
+          "episode_count": 8,
+          "id": 296045,
+          "name": "Сезон 12",
+          "overview": "",
+          "poster_path": "/eomNqpLNnn53ILNWYpvK2wQV6el.jpg",
+          "season_number": 12,
+          "vote_average": 6.2
+        },
+        {
+          "air_date": "2024-02-04",
+          "episode_count": 8,
+          "id": 367021,
+          "name": "Сезон 13",
+          "overview": "",
+          "poster_path": "/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+          "season_number": 13,
+          "vote_average": 6.1
+        },
+        {
+          "air_date": "2025-01-31",
+          "episode_count": 8,
+          "id": 399338,
+          "name": "Сезон 14",
+          "overview": "",
+          "poster_path": "/ilSaRNWOysGaPPwiSrtWzKWjaaX.jpg",
+          "season_number": 14,
+          "vote_average": 5.6
+        },
+        {
+          "air_date": "2026-01-30",
+          "episode_count": 2,
+          "id": 485215,
+          "name": "Сезон 15",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 15,
+          "vote_average": 8
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+      "genre_ids": [
+        18,
+        80,
+        10759
+      ],
+      "id": 75219,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "9-1-1",
+      "overview": "Сериал расскажет о работе полицейских, «Скорой помощи» и пожарной службы. Все они выполняют свой долг, часто рискуя жизнью и попадая в самые пугающие и шокирующие ситуации. Смысл их ежедневной работы состоит в охране безопасности улиц и помощи всем, кто в ней нуждается. Полицейские, пожарные и парамедики работают бок о бок в жестких условиях большого города. Эти экстренные службы должны стараться балансировать, спасая тех, кто находится в наиболее уязвимом положении, и при этом решать проблемы в их собственной жизни.",
+      "popularity": 76.6477,
+      "poster_path": "/a7VwJMCs4bUm5NxjsFgoPs1ihnJ.jpg",
+      "first_air_date": "2018-01-03",
+      "name": "9-1-1",
+      "vote_average": 8.2,
+      "vote_count": 2698,
+      "created_by": [
+        {
+          "id": 52779,
+          "credit_id": "5a4f85629251417a5e00d5c3",
+          "name": "Райан Мёрфи",
+          "original_name": "Ryan Murphy",
+          "gender": 2,
+          "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+        },
+        {
+          "id": 1224030,
+          "credit_id": "5a4f856b9251417a7300d535",
+          "name": "Брэд Фэлчак",
+          "original_name": "Brad Falchuk",
+          "gender": 2,
+          "profile_path": "/kVMTpVi2I9UhlcJdBUWcq744Lgg.jpg"
+        },
+        {
+          "id": 202100,
+          "credit_id": "68679b2293c28344be7b7a6f",
+          "name": "Тим Майнир",
+          "original_name": "Tim Minear",
+          "gender": 2,
+          "profile_path": "/zOnOJmM0sShVbLgW2jB0j0r6D6U.jpg"
         }
       ],
       "episode_run_time": [],
@@ -46,59 +376,97 @@
         {
           "id": 80,
           "name": "криминал"
+        },
+        {
+          "id": 10759,
+          "name": "Боевик и Приключения"
         }
       ],
-      "homepage": "https://www.amazon.co.uk/dp/B0G2VBYMJX",
-      "in_production": false,
+      "homepage": "https://abc.com/shows/911",
+      "in_production": true,
       "languages": [
         "en"
       ],
-      "last_air_date": "2026-01-21",
+      "last_air_date": "2025-11-13",
       "last_episode_to_air": {
-        "id": 6702825,
-        "name": "Эпизод 6",
+        "id": 6442336,
+        "name": "Семейный анамнез",
+        "overview": "Хэн почувствовала что с ней что-то не так, после чего уточнила у матери, были ли в истории семьи инсульты. После обморока она решает пройти обследование в медицинском центре. Тем временем Чимни получает должность капитана, а Гарри поступает в полицейскую академию.",
+        "vote_average": 7.5,
+        "vote_count": 6,
+        "air_date": "2025-11-13",
+        "episode_number": 6,
+        "episode_type": "mid_season",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 9,
+        "show_id": 75219,
+        "still_path": "/bR70OH5vVRxpdhF08FpEIVEo5jF.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 6442337,
+        "name": "Эпизод 7",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-01-21",
-        "episode_number": 6,
-        "episode_type": "finale",
+        "air_date": "2026-01-08",
+        "episode_number": 7,
+        "episode_type": "standard",
         "production_code": "",
-        "runtime": 54,
-        "season_number": 1,
-        "show_id": 254071,
-        "still_path": "/6hRPfCd33Zv2ad47rZSWKEaXsdy.jpg"
+        "runtime": 43,
+        "season_number": 9,
+        "show_id": 75219,
+        "still_path": "/bTngiz45WHd4LDNs7MxnRdZiz7H.jpg"
       },
-      "next_episode_to_air": null,
       "networks": [
         {
-          "id": 1024,
-          "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
-          "name": "Prime Video",
-          "origin_country": ""
-        }
-      ],
-      "number_of_episodes": 6,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 28849,
-          "logo_path": "/mZfmIEBwyetbxdDcZa6GwEUUuPV.png",
-          "name": "Drama Republic",
-          "origin_country": "GB"
+          "id": 2,
+          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+          "name": "ABC",
+          "origin_country": "US"
         },
         {
-          "id": 210099,
-          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-          "name": "Amazon MGM Studios",
+          "id": 19,
+          "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+          "name": "FOX",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 136,
+      "number_of_seasons": 9,
+      "production_companies": [
+        {
+          "id": 19328,
+          "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+          "name": "Ryan Murphy Television",
+          "origin_country": "US"
+        },
+        {
+          "id": 129147,
+          "logo_path": null,
+          "name": "Ream Works",
+          "origin_country": "US"
+        },
+        {
+          "id": 68682,
+          "logo_path": "/x4htMipi2e3QMQuyeLhrwlpxgKf.png",
+          "name": "Brad Falchuk Teley-vision",
+          "origin_country": "US"
+        },
+        {
+          "id": 1556,
+          "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+          "name": "20th Century Fox Television",
+          "origin_country": "US"
+        },
+        {
+          "id": 236166,
+          "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+          "name": "20th Television",
           "origin_country": "US"
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
@@ -106,14 +474,94 @@
       ],
       "seasons": [
         {
-          "air_date": "2026-01-21",
-          "episode_count": 6,
-          "id": 393096,
+          "air_date": "2018-01-02",
+          "episode_count": 10,
+          "id": 95607,
           "name": "Сезон 1",
           "overview": "",
-          "poster_path": "/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+          "poster_path": "/mIatxlSEFCS1nlbFIXFvZ4BYZxZ.jpg",
           "season_number": 1,
-          "vote_average": 0
+          "vote_average": 7.1
+        },
+        {
+          "air_date": "2018-09-22",
+          "episode_count": 18,
+          "id": 105506,
+          "name": "Сезон 2",
+          "overview": "",
+          "poster_path": "/y1DevO17Yv07od6crq3QvuuCOeY.jpg",
+          "season_number": 2,
+          "vote_average": 7.4
+        },
+        {
+          "air_date": "2019-09-22",
+          "episode_count": 18,
+          "id": 127098,
+          "name": "Сезон 3",
+          "overview": "",
+          "poster_path": "/8KlaWvKKwS14l3Ac2AHH138eykE.jpg",
+          "season_number": 3,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2021-01-17",
+          "episode_count": 14,
+          "id": 168576,
+          "name": "Сезон 4",
+          "overview": "",
+          "poster_path": "/wP9Ho6PCmmrFHLK1VjSAwZKVKtX.jpg",
+          "season_number": 4,
+          "vote_average": 7.9
+        },
+        {
+          "air_date": "2021-09-19",
+          "episode_count": 18,
+          "id": 202470,
+          "name": "Сезон 5",
+          "overview": "",
+          "poster_path": "/pximRFGjGTyjSTPSIxbiTMAut0N.jpg",
+          "season_number": 5,
+          "vote_average": 7.7
+        },
+        {
+          "air_date": "2022-09-18",
+          "episode_count": 18,
+          "id": 296478,
+          "name": "Сезон 6",
+          "overview": "",
+          "poster_path": "/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg",
+          "season_number": 6,
+          "vote_average": 7.8
+        },
+        {
+          "air_date": "2024-03-13",
+          "episode_count": 10,
+          "id": 366023,
+          "name": "Сезон 7",
+          "overview": "Мэдди и Афина расследуют дело, связанное с похищенными матерью и ребенком, а Хен и Карен узнают больше о семейной истории Мары. Тем временем Эдди борется с неразрешенными чувствами к кому-то из своего прошлого.",
+          "poster_path": "/82SUymgmGhrGkAHlosJNr43UnEC.jpg",
+          "season_number": 7,
+          "vote_average": 8.7
+        },
+        {
+          "air_date": "2024-09-25",
+          "episode_count": 18,
+          "id": 386838,
+          "name": "Сезон 8",
+          "overview": "",
+          "poster_path": "/5DgXjJucHLWexDda0BjDnoqT2O7.jpg",
+          "season_number": 8,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2025-10-08",
+          "episode_count": 12,
+          "id": 457847,
+          "name": "Сезон 9",
+          "overview": "",
+          "poster_path": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
+          "season_number": 9,
+          "vote_average": 7.1
         }
       ],
       "spoken_languages": [
@@ -123,8 +571,8 @@
           "name": "English"
         }
       ],
-      "status": "Ended",
-      "tagline": "«Ограбление - это только начало»",
+      "status": "Returning Series",
+      "tagline": "",
       "type": "Scripted",
       "release_quality": "1080p",
       "media_type": "tv",
@@ -134,123 +582,395 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/t2D27N9rSnuTbtc5I6mGMZpdi1e.jpg",
+      "backdrop_path": "/cWkdR69N8V3gdpxYInnD3JyhYgS.jpg",
       "genre_ids": [
-        35
+        18,
+        9648
       ],
-      "id": 4398,
+      "id": 213076,
       "origin_country": [
-        "US"
+        "FI"
       ],
-      "original_language": "en",
-      "original_name": "Herman's Head",
-      "overview": "В обычной жизни Германа Брукса, рядового работника информационной справочной службы, не мало забавных ситуаций, но что при этом происходит в его голове - разыгрывается на подмостках между четырьмя психическими элементами: Интеллект, Чувство, Страх, Удовольствие, представленными в соответственных типажах: ботанического вида всезнайка-очкарик; легкая, изящная женщина; пришибленный, неуверенный в себе, щуплый недомерок и вульгарный, вечно озабоченный, чревоугодник и личность падкая до всяких удовольствий, толстяк с пивным пузом ... Все происходящее во вне головы обыгрывается этими элементами и также их какие-нибудь заскоки отражаются на внешнем поведении Германа!",
-      "popularity": 4.1673,
-      "poster_path": "/hisf52KQvfdqt1FOhxn7y58ep9E.jpg",
-      "first_air_date": "1991-09-08",
-      "name": "Голова Германа",
-      "vote_average": 6.7,
-      "vote_count": 18,
-      "created_by": [],
+      "original_language": "fi",
+      "original_name": "Munkkivuori",
+      "overview": "Действие разворачивается в 1980-х годах вокруг жителей идеалистического пригорода Хельсинки. В этот район переезжают Мирко и его семья, которые довольно скоро узнают, что местные жители потрясены недавней трагедией — пропажей маленького ребенка. Пока полицейские не очень активно занимаются расследованием преступления, раздосадованные родители, недовольные неповоротливостью властей, принимают решение взять правосудие в собственные руки. Родители отчаянно пытаются скрывать свои действия от детей, но Мирко и его новым друзьям внезапно удается выяснить подробности о происходящих в пригороде событиях…",
+      "popularity": 1.0821,
+      "poster_path": "/hjh6BQK0Xj79RyKGjClvMRclbFR.jpg",
+      "first_air_date": "2022-10-16",
+      "name": "Мунккивуори",
+      "vote_average": 7.9,
+      "vote_count": 10,
+      "created_by": [
+        {
+          "id": 88856,
+          "credit_id": "63b002cb1d1bf4007dbc217f",
+          "name": "Jani Volanen",
+          "original_name": "Jani Volanen",
+          "gender": 2,
+          "profile_path": "/ucx07FhCmx3YmlG9egU5DlJoUeX.jpg"
+        }
+      ],
       "episode_run_time": [
-        30
+        45,
+        60
       ],
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         }
       ],
-      "homepage": "",
-      "in_production": false,
+      "homepage": "https://viaplay.fi/sarjat/munkkivuori",
+      "in_production": true,
       "languages": [
-        "en"
+        "fi"
       ],
-      "last_air_date": "1994-04-21",
+      "last_air_date": "2025-12-29",
       "last_episode_to_air": {
-        "id": 306135,
-        "name": "Эпизод 22",
+        "id": 5547018,
+        "name": "Эпизод 6",
         "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "1994-04-21",
-        "episode_number": 22,
-        "episode_type": "finale",
+        "vote_average": 6,
+        "vote_count": 2,
+        "air_date": "2026-01-05",
+        "episode_number": 6,
+        "episode_type": "standard",
         "production_code": "",
-        "runtime": 30,
-        "season_number": 3,
-        "show_id": 4398,
+        "runtime": 43,
+        "season_number": 2,
+        "show_id": 213076,
         "still_path": null
       },
       "next_episode_to_air": null,
       "networks": [
         {
-          "id": 19,
-          "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
-          "name": "FOX",
-          "origin_country": "US"
+          "id": 2708,
+          "logo_path": "/ieV9u8Q0WqTvlRcR3TTceA1X2r5.png",
+          "name": "Ruutu",
+          "origin_country": "FI"
+        },
+        {
+          "id": 4367,
+          "logo_path": "/rrTLXUPqd8rlxxNMgvYgP2tt0V9.png",
+          "name": "Elisa Viihde Viaplay",
+          "origin_country": "FI"
         }
       ],
-      "number_of_episodes": 72,
-      "number_of_seasons": 3,
+      "number_of_episodes": 18,
+      "number_of_seasons": 2,
       "production_companies": [
         {
-          "id": 1089,
-          "logo_path": null,
-          "name": "Witt/Thomas Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 1558,
-          "logo_path": "/wwaKUcOENHix2jxLfFBfNkCtOEQ.png",
-          "name": "Touchstone Television",
-          "origin_country": "US"
+          "id": 73575,
+          "logo_path": "/pLlpcniieFiHCnLD8foBDiOcuXn.png",
+          "name": "Rabbit Films",
+          "origin_country": "FI"
         }
       ],
-      "production_countries": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        }
+      ],
       "seasons": [
         {
-          "air_date": "1991-09-08",
-          "episode_count": 25,
-          "id": 13086,
+          "air_date": "2022-10-16",
+          "episode_count": 10,
+          "id": 313850,
           "name": "Сезон 1",
           "overview": "",
-          "poster_path": null,
+          "poster_path": "/25ZcVX62XWmDO0PvCYtmXl9meYg.jpg",
           "season_number": 1,
-          "vote_average": 0
+          "vote_average": 2
         },
         {
-          "air_date": "1992-09-13",
-          "episode_count": 25,
-          "id": 13087,
+          "air_date": "2025-12-01",
+          "episode_count": 8,
+          "id": 407867,
           "name": "Сезон 2",
           "overview": "",
           "poster_path": null,
           "season_number": 2,
-          "vote_average": 0
-        },
-        {
-          "air_date": "1993-09-16",
-          "episode_count": 22,
-          "id": 13088,
-          "name": "Сезон 3",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 3,
-          "vote_average": 0
+          "vote_average": 5
         }
       ],
       "spoken_languages": [
+        {
+          "english_name": "Finnish",
+          "iso_639_1": "fi",
+          "name": "suomi"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1dj1BYNBt4bictaUJPbszPiDCnc.jpg",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "id": 99737,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Winter King",
+      "overview": "Бывший воин, ставший теперь монахом, рассказывает историю о том, как Артур стал повелителем войны, несмотря на незаконность своего трона.",
+      "popularity": 7.1531,
+      "poster_path": "/fYx5q9hPAmbDrWzsYUDhxZJnigC.jpg",
+      "first_air_date": "2023-12-21",
+      "name": "Зимний король",
+      "vote_average": 6.486,
+      "vote_count": 37,
+      "created_by": [
+        {
+          "id": 232498,
+          "credit_id": "64e8718a1feac1011b2d2695",
+          "name": "Kate Brooke",
+          "original_name": "Kate Brooke",
+          "gender": 1,
+          "profile_path": null
+        },
+        {
+          "id": 24167,
+          "credit_id": "64e871a006f984012d727a0e",
+          "name": "Эд Витмор",
+          "original_name": "Ed Whitmore",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Боевик и Приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10765,
+          "name": "НФ и Фэнтези"
+        }
+      ],
+      "homepage": "https://www.itv.com/watch/the-winter-king/10a3393/10a3393a0011",
+      "in_production": false,
+      "languages": [
+        "sv",
+        "en"
+      ],
+      "last_air_date": "2023-12-27",
+      "last_episode_to_air": {
+        "id": 4628661,
+        "name": "Эпизод 10",
+        "overview": "",
+        "vote_average": 4.333,
+        "vote_count": 3,
+        "air_date": "2023-12-27",
+        "episode_number": 10,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 99737,
+        "still_path": "/pTdI42YL4iKAzjt0CypuWGpWSkU.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 5871,
+          "logo_path": "/9NZkB99XBofL8XCBV19lKEfhAkU.png",
+          "name": "ITVX",
+          "origin_country": "GB"
+        }
+      ],
+      "number_of_episodes": 10,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 82996,
+          "logo_path": "/sxxPhM3Qt3OCQaFUyeegZ8eqcs9.png",
+          "name": "Bad Wolf",
+          "origin_country": "GB"
+        },
+        {
+          "id": 115160,
+          "logo_path": "/b5e9wBarqIoekgSLSkvpOXMc7IF.png",
+          "name": "One Big Picture",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2023-12-21",
+          "episode_count": 10,
+          "id": 143930,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/fYx5q9hPAmbDrWzsYUDhxZJnigC.jpg",
+          "season_number": 1,
+          "vote_average": 4.2
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
         }
       ],
-      "status": "Ended",
+      "status": "Canceled",
       "tagline": "",
       "type": "Scripted",
       "release_quality": "",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jLPGF6vJOfZ45Uh4YhKJe6rwSjI.jpg",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 296502,
+      "origin_country": [
+        "TR"
+      ],
+      "original_language": "tr",
+      "original_name": "Veliaht",
+      "overview": "Наследный принц — это захватывающая турецкая драма, рассказывающая о борьбе за власть и силу в одной семье. Эрджан Кесал вновь предстает перед зрителями в образе многодетного отца и главы мафиозного клана.\n\nЗульфикар Карслы — много лет стоит не только во главе своей семьи, но и крупного криминального сообщества. Из-за проблем со здоровьем, он вынужден передать бразды правления другому человеку.  Зафер — племянник Зульфикара уверен, что именно он станет во главе семейного бизнеса. Но к его огромному удивлению, господин Карлсы решает сделать своим преемником — Тимура, странствующего механика. И это решение кардинально изменит судьбы всех главных героев.",
+      "popularity": 3.4902,
+      "poster_path": "/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg",
+      "first_air_date": "2025-09-11",
+      "name": "Наследный принц",
+      "vote_average": 8,
+      "vote_count": 5,
+      "created_by": [
+        {
+          "id": 2756067,
+          "credit_id": "68eea074bf46be5edf8a2073",
+          "name": "Tunahan Kurt",
+          "original_name": "Tunahan Kurt",
+          "gender": 2,
+          "profile_path": "/1uznCottcGVr0tDgU7CV1AvtcFq.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "https://www.showtv.com.tr/dizi/tanitim/veliaht/3003",
+      "in_production": true,
+      "languages": [
+        "tr"
+      ],
+      "last_air_date": "2026-01-01",
+      "last_episode_to_air": {
+        "id": 6769979,
+        "name": "Эпизод 16",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-08",
+        "episode_number": 16,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 296502,
+        "still_path": null
+      },
+      "next_episode_to_air": {
+        "id": 6772409,
+        "name": "Эпизод 17",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-01-15",
+        "episode_number": 17,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 296502,
+        "still_path": null
+      },
+      "networks": [
+        {
+          "id": 750,
+          "logo_path": "/h6Zq6Y91m7SdzUxIGIHsAFjnnpn.png",
+          "name": "Show TV",
+          "origin_country": "TR"
+        }
+      ],
+      "number_of_episodes": 19,
+      "number_of_seasons": 1,
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "TR",
+          "name": "Turkey"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2025-09-11",
+          "episode_count": 19,
+          "id": 466379,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg",
+          "season_number": 1,
+          "vote_average": 7.4
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Turkish",
+          "iso_639_1": "tr",
+          "name": "Türkçe"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv"
@@ -1806,266 +2526,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
-      "genre_ids": [
-        18,
-        80,
-        10759
-      ],
-      "id": 75219,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "9-1-1",
-      "overview": "Сериал расскажет о работе полицейских, «Скорой помощи» и пожарной службы. Все они выполняют свой долг, часто рискуя жизнью и попадая в самые пугающие и шокирующие ситуации. Смысл их ежедневной работы состоит в охране безопасности улиц и помощи всем, кто в ней нуждается. Полицейские, пожарные и парамедики работают бок о бок в жестких условиях большого города. Эти экстренные службы должны стараться балансировать, спасая тех, кто находится в наиболее уязвимом положении, и при этом решать проблемы в их собственной жизни.",
-      "popularity": 76.6477,
-      "poster_path": "/a7VwJMCs4bUm5NxjsFgoPs1ihnJ.jpg",
-      "first_air_date": "2018-01-03",
-      "name": "9-1-1",
-      "vote_average": 8.2,
-      "vote_count": 2698,
-      "created_by": [
-        {
-          "id": 52779,
-          "credit_id": "5a4f85629251417a5e00d5c3",
-          "name": "Райан Мёрфи",
-          "original_name": "Ryan Murphy",
-          "gender": 2,
-          "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
-        },
-        {
-          "id": 1224030,
-          "credit_id": "5a4f856b9251417a7300d535",
-          "name": "Брэд Фэлчак",
-          "original_name": "Brad Falchuk",
-          "gender": 2,
-          "profile_path": "/kVMTpVi2I9UhlcJdBUWcq744Lgg.jpg"
-        },
-        {
-          "id": 202100,
-          "credit_id": "68679b2293c28344be7b7a6f",
-          "name": "Тим Майнир",
-          "original_name": "Tim Minear",
-          "gender": 2,
-          "profile_path": "/zOnOJmM0sShVbLgW2jB0j0r6D6U.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 10759,
-          "name": "Боевик и Приключения"
-        }
-      ],
-      "homepage": "https://abc.com/shows/911",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2025-11-13",
-      "last_episode_to_air": {
-        "id": 6442336,
-        "name": "Семейный анамнез",
-        "overview": "Хэн почувствовала что с ней что-то не так, после чего уточнила у матери, были ли в истории семьи инсульты. После обморока она решает пройти обследование в медицинском центре. Тем временем Чимни получает должность капитана, а Гарри поступает в полицейскую академию.",
-        "vote_average": 7.5,
-        "vote_count": 6,
-        "air_date": "2025-11-13",
-        "episode_number": 6,
-        "episode_type": "mid_season",
-        "production_code": "",
-        "runtime": 43,
-        "season_number": 9,
-        "show_id": 75219,
-        "still_path": "/bR70OH5vVRxpdhF08FpEIVEo5jF.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6442337,
-        "name": "Эпизод 7",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-08",
-        "episode_number": 7,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 43,
-        "season_number": 9,
-        "show_id": 75219,
-        "still_path": "/bTngiz45WHd4LDNs7MxnRdZiz7H.jpg"
-      },
-      "networks": [
-        {
-          "id": 2,
-          "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
-          "name": "ABC",
-          "origin_country": "US"
-        },
-        {
-          "id": 19,
-          "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
-          "name": "FOX",
-          "origin_country": "US"
-        }
-      ],
-      "number_of_episodes": 136,
-      "number_of_seasons": 9,
-      "production_companies": [
-        {
-          "id": 19328,
-          "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
-          "name": "Ryan Murphy Television",
-          "origin_country": "US"
-        },
-        {
-          "id": 129147,
-          "logo_path": null,
-          "name": "Ream Works",
-          "origin_country": "US"
-        },
-        {
-          "id": 68682,
-          "logo_path": "/x4htMipi2e3QMQuyeLhrwlpxgKf.png",
-          "name": "Brad Falchuk Teley-vision",
-          "origin_country": "US"
-        },
-        {
-          "id": 1556,
-          "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
-          "name": "20th Century Fox Television",
-          "origin_country": "US"
-        },
-        {
-          "id": 236166,
-          "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
-          "name": "20th Television",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2018-01-02",
-          "episode_count": 10,
-          "id": 95607,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/mIatxlSEFCS1nlbFIXFvZ4BYZxZ.jpg",
-          "season_number": 1,
-          "vote_average": 7.1
-        },
-        {
-          "air_date": "2018-09-22",
-          "episode_count": 18,
-          "id": 105506,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/y1DevO17Yv07od6crq3QvuuCOeY.jpg",
-          "season_number": 2,
-          "vote_average": 7.4
-        },
-        {
-          "air_date": "2019-09-22",
-          "episode_count": 18,
-          "id": 127098,
-          "name": "Сезон 3",
-          "overview": "",
-          "poster_path": "/8KlaWvKKwS14l3Ac2AHH138eykE.jpg",
-          "season_number": 3,
-          "vote_average": 7.8
-        },
-        {
-          "air_date": "2021-01-17",
-          "episode_count": 14,
-          "id": 168576,
-          "name": "Сезон 4",
-          "overview": "",
-          "poster_path": "/wP9Ho6PCmmrFHLK1VjSAwZKVKtX.jpg",
-          "season_number": 4,
-          "vote_average": 7.9
-        },
-        {
-          "air_date": "2021-09-19",
-          "episode_count": 18,
-          "id": 202470,
-          "name": "Сезон 5",
-          "overview": "",
-          "poster_path": "/pximRFGjGTyjSTPSIxbiTMAut0N.jpg",
-          "season_number": 5,
-          "vote_average": 7.7
-        },
-        {
-          "air_date": "2022-09-18",
-          "episode_count": 18,
-          "id": 296478,
-          "name": "Сезон 6",
-          "overview": "",
-          "poster_path": "/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg",
-          "season_number": 6,
-          "vote_average": 7.8
-        },
-        {
-          "air_date": "2024-03-13",
-          "episode_count": 10,
-          "id": 366023,
-          "name": "Сезон 7",
-          "overview": "Мэдди и Афина расследуют дело, связанное с похищенными матерью и ребенком, а Хен и Карен узнают больше о семейной истории Мары. Тем временем Эдди борется с неразрешенными чувствами к кому-то из своего прошлого.",
-          "poster_path": "/82SUymgmGhrGkAHlosJNr43UnEC.jpg",
-          "season_number": 7,
-          "vote_average": 8.7
-        },
-        {
-          "air_date": "2024-09-25",
-          "episode_count": 18,
-          "id": 386838,
-          "name": "Сезон 8",
-          "overview": "",
-          "poster_path": "/5DgXjJucHLWexDda0BjDnoqT2O7.jpg",
-          "season_number": 8,
-          "vote_average": 8
-        },
-        {
-          "air_date": "2025-10-08",
-          "episode_count": 12,
-          "id": 457847,
-          "name": "Сезон 9",
-          "overview": "",
-          "poster_path": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
-          "season_number": 9,
-          "vote_average": 7.1
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/ywH1KOKS2oGozebsNrmrXRQvkT2.jpg",
       "genre_ids": [
         10759,
@@ -2716,320 +3176,6 @@
       "tagline": "«15 серий. 15 часов. 1 смена»",
       "type": "Scripted",
       "release_quality": "2160p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
-      "genre_ids": [
-        18,
-        10765
-      ],
-      "id": 273160,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Beauty",
-      "overview": "Напарники Дрю Фостер и Кара Вон расследуют венерическое заболевание, вызывающее эстетические эффекты, но оказывающееся смертельным, скрываясь от коррумпированных чиновников и наёмника, нацелившегося на них в рамках предполагаемого правительственного заговора.",
-      "popularity": 72.534,
-      "poster_path": "/pQt6yJyW5GOudprLurzVjLuAzka.jpg",
-      "first_air_date": "2026-01-21",
-      "name": "Красота",
-      "vote_average": 3.8,
-      "vote_count": 13,
-      "created_by": [
-        {
-          "id": 2183999,
-          "credit_id": "66fade3ac59a2db32dd0217b",
-          "name": "Matthew Hodgson",
-          "original_name": "Matthew Hodgson",
-          "gender": 0,
-          "profile_path": null
-        },
-        {
-          "id": 52779,
-          "credit_id": "66fade49703e24dc7c1344d9",
-          "name": "Райан Мёрфи",
-          "original_name": "Ryan Murphy",
-          "gender": 2,
-          "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10765,
-          "name": "НФ и Фэнтези"
-        }
-      ],
-      "homepage": "https://www.fxnetworks.com/shows/the-beauty",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2026-01-21",
-      "last_episode_to_air": {
-        "id": 6736812,
-        "name": "Эпизод 3",
-        "overview": "",
-        "vote_average": 1,
-        "vote_count": 3,
-        "air_date": "2026-01-21",
-        "episode_number": 3,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 44,
-        "season_number": 1,
-        "show_id": 273160,
-        "still_path": "/yVb3oftdZ1QcX5jlmpdlbUhLuuV.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6736814,
-        "name": "Эпизод 4",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-28",
-        "episode_number": 4,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 273160,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 88,
-          "logo_path": "/aexGjtcs42DgRtZh7zOxayiry4J.png",
-          "name": "FX",
-          "origin_country": "US"
-        },
-        {
-          "id": 453,
-          "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
-          "name": "Hulu",
-          "origin_country": "US"
-        }
-      ],
-      "number_of_episodes": 11,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 236166,
-          "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
-          "name": "20th Television",
-          "origin_country": "US"
-        },
-        {
-          "id": 19328,
-          "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
-          "name": "Ryan Murphy Television",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-01-21",
-          "episode_count": 11,
-          "id": 421345,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/4HhGjKqkxGUE2zgk9XYzO9swW5Q.jpg",
-          "season_number": 1,
-          "vote_average": 1.1
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "«Один укол и станет жарко»",
-      "type": "Scripted",
-      "release_quality": "2160p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
-      "genre_ids": [
-        18,
-        9648
-      ],
-      "id": 287231,
-      "origin_country": [
-        "GB"
-      ],
-      "original_language": "en",
-      "original_name": "Vanished",
-      "overview": "Элис и Том отправляются в романтическую поездку по Франции, но идеальный отпуск превращается в кошмар. Когда Том бесследно исчезает из поезда, следующего на юг страны, Элис пускается на его поиски. Вскоре она оказывается втянута в опасный заговор и узнает правду о мужчине, которого считала близким.",
-      "popularity": 15.9311,
-      "poster_path": "/3mQY0q0U8fEOjpunitVqZWjkNYo.jpg",
-      "first_air_date": "2026-02-01",
-      "name": "Исчезнувший",
-      "vote_average": 7.6,
-      "vote_count": 5,
-      "created_by": [
-        {
-          "id": 79176,
-          "credit_id": "67e1714c968ee208674d96b3",
-          "name": "David Hilton",
-          "original_name": "David Hilton",
-          "gender": 0,
-          "profile_path": null
-        },
-        {
-          "id": 2238612,
-          "credit_id": "67e17156844f85752dc707d1",
-          "name": "Preston Thompson",
-          "original_name": "Preston Thompson",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "https://www.mgmplus.com/series/vanished",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2026-02-01",
-      "last_episode_to_air": {
-        "id": 6070959,
-        "name": "Эпизод 1",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-02-01",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 45,
-        "season_number": 1,
-        "show_id": 287231,
-        "still_path": "/xUpncRJOuLyOiF5KotW8DROw0FL.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 6306194,
-        "name": "Эпизод 2",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-02-08",
-        "episode_number": 2,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 287231,
-        "still_path": "/mICeuTiX8g69rIWJocHzniZyW0c.jpg"
-      },
-      "networks": [
-        {
-          "id": 1024,
-          "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
-          "name": "Prime Video",
-          "origin_country": ""
-        },
-        {
-          "id": 6219,
-          "logo_path": "/4umnsbif8tOc6ILCmeO0pqRXWFP.png",
-          "name": "MGM+",
-          "origin_country": "US"
-        }
-      ],
-      "number_of_episodes": 4,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 257364,
-          "logo_path": "/1JligrmBpcvBeqb91qoc0ovPoO5.png",
-          "name": "Slow Burn Entertainment",
-          "origin_country": "GD"
-        },
-        {
-          "id": 244481,
-          "logo_path": "/3y84vNIRIrvDcaNQYycoFIby1DN.png",
-          "name": "Rockwood Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 2651,
-          "logo_path": "/rmfShgOyHdGSljYXcvZsbVGSRGV.png",
-          "name": "Fragile Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 110799,
-          "logo_path": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
-          "name": "AGC Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-02-01",
-          "episode_count": 4,
-          "id": 447812,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/gcsTdAft2Rtf7smwW7EZj16VFC8.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv"
