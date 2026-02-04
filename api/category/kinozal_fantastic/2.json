@@ -1,47 +1,155 @@
 {
   "category": {
     "id": "kinozal_fantastic",
-    "title": "Фантастика"
+    "title": "Фантастика / Фэнтези"
   },
   "page": 2,
   "limit": 20,
-  "total": 113,
+  "total": 225,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/KfKZH5ZVDToddhtS0KXjQv1GDB.jpg",
+      "backdrop_path": "/aUdyvwegfuZiEYKs2c05cPCRxEZ.jpg",
       "genre_ids": [
-        878
+        14,
+        12,
+        28
       ],
-      "id": 25952,
-      "original_language": "en",
-      "original_title": "Conquest of Space",
-      "overview": "Команда американских астронавтов оставляет их космическую станцию и совершает первую миссию на Марс, но религиозные верования капитана могут этому помешать.",
-      "popularity": 1.6051,
-      "poster_path": "/9RxLfVIJ3nCZQZUMgbF7ThGlrFi.jpg",
-      "release_date": "1955-04-20",
-      "title": "Покорение космоса",
+      "id": 1209130,
+      "original_language": "de",
+      "original_title": "Hagen - Im Tal der Nibelungen",
+      "overview": "Переосмысление саги о Нибелунгах, в центре которой — Хаген из Тронье, викинг, вступивший в союз с древними богами и взявший в руки оружие против беспринципного правителя, чтобы восстановить справедливость и защитить свой народ. Его борьба становится символом надежды и сопротивления, а также демонстрирует, как личная сила и верность своим принципам могут изменить ход истории. Его путь полон испытаний, в которых ему предстоит не только сразиться с внешними врагами, но и найти свое место в этом сложном мире, наполненном мифами и легендами.",
+      "popularity": 1.5443,
+      "poster_path": "/eQ1nTnV6neOhBeDJj87IUHDLwb0.jpg",
+      "release_date": "2024-10-17",
+      "title": "Хаген. В долине Нибелунгов",
       "video": false,
-      "vote_average": 5.5,
-      "vote_count": 43,
+      "vote_average": 6.337,
+      "vote_count": 49,
       "belongs_to_collection": null,
-      "budget": 1500000,
+      "budget": 0,
       "genres": [
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0047947",
+      "imdb_id": "tt6176336",
+      "origin_country": [
+        "DE"
+      ],
+      "production_companies": [
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 8990,
+          "logo_path": "/pW8lFFCl01KEb6HEIz4LididoLl.png",
+          "name": "Wilma Film",
+          "origin_country": "CZ"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 139,
+      "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/biWonOe1GrPEMqvXhr7FbLox6xt.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751,
+        14,
+        10770
+      ],
+      "id": 21481,
+      "original_language": "en",
+      "original_title": "Twitches",
+      "overview": "Две молодые ведьмочки были разделены при рождении и воспитывались в двух абсолютно разных семьях. Но на своё 21-летие они встречаются и теперь, используя свои магические силы, должны спасти свою настоящую маму и тот мир, в котором они родились…",
+      "popularity": 4.3167,
+      "poster_path": "/s2hakRCxY85gmxWg27jN59wTS6Z.jpg",
+      "release_date": "2005-10-14",
+      "title": "Ведьмы-близняшки",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 526,
+      "belongs_to_collection": {
+        "id": 263106,
+        "name": "Ведьмы (Коллекция)",
+        "poster_path": "/604AzmRITkNJD4MyNzkO6KFlEUw.jpg",
+        "backdrop_path": "/dQXRd7YyAtuslFCGOsY7i4bKG0z.jpg"
+      },
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0467421",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 240533,
+          "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+          "name": "Disney Channel",
+          "origin_country": "US"
+        },
+        {
+          "id": 40867,
+          "logo_path": null,
+          "name": "Carla Singer Productions",
           "origin_country": "US"
         }
       ],
@@ -51,8 +159,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 1000000,
-      "runtime": 81,
+      "revenue": 0,
+      "runtime": 86,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -62,7 +170,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -70,150 +178,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+      "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
       "genre_ids": [
-        878,
-        28,
-        53
-      ],
-      "id": 180,
-      "original_language": "en",
-      "original_title": "Minority Report",
-      "overview": "В Вашингтоне 2054-го года не существует убийств. Будущее научились предугадывать, и преступники несут наказание еще до того, как нарушили закон. В недрах министерства юстиции, в элитном подразделении предупреждения убийств «Pre-Crime», перед глазами трех экстрасенсов-провидцев встают детали планируемого преступления. Провидцы видят, как оно замышляется, и где и когда будет совершено. И они никогда не ошибаются...",
-      "popularity": 8.5639,
-      "poster_path": "/hiAcNumPPR1rg7DBP2WPXMXmewI.jpg",
-      "release_date": "2002-06-20",
-      "title": "Особое мнение",
-      "video": false,
-      "vote_average": 7.35,
-      "vote_count": 9316,
-      "belongs_to_collection": null,
-      "budget": 102000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0181689",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 76068,
-          "logo_path": null,
-          "name": "Digital Image Associates",
-          "origin_country": "US"
-        },
-        {
-          "id": 44,
-          "logo_path": "/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png",
-          "name": "Cruise/Wagner Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 766,
-          "logo_path": null,
-          "name": "Blue Tulip Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 26265,
-          "logo_path": null,
-          "name": "Ronald Shusett/Gary Goldman Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 56,
-          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
-          "name": "Amblin Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 7,
-          "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
-          "name": "DreamWorks Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 358372926,
-      "runtime": 145,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Swedish",
-          "iso_639_1": "sv",
-          "name": "svenska"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Спасение - в бегстве»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
-      "genre_ids": [
-        53,
-        878,
-        9648,
+        14,
+        18,
         10749
       ],
-      "id": 782,
+      "id": 162,
       "original_language": "en",
-      "original_title": "Gattaca",
-      "overview": "Добро пожаловать в Гаттаку — совершенный мир будущего. Здесь каждый генетически запрограммирован, и печальная судьба ожидает тех, кто был рожден в любви, а не в лаборатории. Такова судьба Винсента Фримана, молодого человека, получившего при рождении ярлык «не пригоден». Винсент обладает весомыми недостатками: он подвержен страстям, он поддается эмоциям, и он верит в то, что его мечты сбудутся. Вот почему он покупает личность другого человека, пытаясь обмануть власти и стать уважаемым членом Корпорации Будущего Гаттака. И когда он уже на пути к свободе, убийство грозит раскрытием его реальной личности. Несмотря на свою невиновность, Винсенту есть что скрывать и есть что терять. Но так трудно остаться в живых, когда в тебе живут два человека…",
-      "popularity": 6.6315,
-      "poster_path": "/m3RWupJDKE8OHWem9oR8JULroiP.jpg",
-      "release_date": "1997-09-07",
-      "title": "Гаттака",
+      "original_title": "Edward Scissorhands",
+      "overview": "Одинокий старый учёный создал человеческое существо. Но не успел доделать его до конца и умер. У сотворённого им молодого человека не хватает рук — вместо них у него нечто вроде ножниц — и он вынужден жить в заброшенном доме в полном одиночестве. Но вот однажды он знакомится с прекрасной девушкой, которая смогла оценить его доброе сердце...",
+      "popularity": 12.9964,
+      "poster_path": "/x4B2IJ7f3lQUBYPp2jyVU1WzOFg.jpg",
+      "release_date": "1990-12-07",
+      "title": "Эдвард руки-ножницы",
       "video": false,
-      "vote_average": 7.563,
-      "vote_count": 6716,
+      "vote_average": 7.719,
+      "vote_count": 13489,
       "belongs_to_collection": null,
-      "budget": 36000000,
+      "budget": 20000000,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 14,
+          "name": "фэнтези"
         },
         {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
+          "id": 18,
+          "name": "драма"
         },
         {
           "id": 10749,
@@ -221,21 +212,21 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0119177",
+      "imdb_id": "tt0099487",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 216,
-          "logo_path": "/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png",
-          "name": "Jersey Films",
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
           "origin_country": "US"
         },
         {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
+          "id": 8601,
+          "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+          "name": "Tim Burton Productions",
           "origin_country": "US"
         }
       ],
@@ -245,137 +236,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 12532777,
-      "runtime": 107,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Esperanto",
-          "iso_639_1": "eo",
-          "name": "Esperanto"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Каждая молекула вашего тела может предать вас»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sFDntG0Z0Wjrsz26TVptfs5OSLT.jpg",
-      "genre_ids": [
-        18,
-        878
-      ],
-      "id": 83542,
-      "original_language": "en",
-      "original_title": "Cloud Atlas",
-      "overview": "События, происходящие в 1849, 1936, 1973, 2012, 2144, 2321 годах тесно переплетаются между собой. Дневник американского нотариуса, возвращающегося из дальнего плавания, нежные письма и волшебная симфония английского композитора, художественный фильм по сценарию эксцентричного издателя, откровения девушки-клона и примитивное постапокалиптическое существование – случайны ли параллели или «времен связующая нить» все же существует?...",
-      "popularity": 6.4684,
-      "poster_path": "/4XwJAaallBSwQjWmY8XJMVSkRxT.jpg",
-      "release_date": "2012-10-26",
-      "title": "Облачный атлас",
-      "video": false,
-      "vote_average": 6.889,
-      "vote_count": 7352,
-      "belongs_to_collection": null,
-      "budget": 102000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1371111",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 11080,
-          "logo_path": null,
-          "name": "Cloud Atlas Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 450,
-          "logo_path": "/5SQqMrfCZPWdVE0q25DISvKwToE.png",
-          "name": "Anarchos Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 96,
-          "logo_path": "/9ps82gVzUeNdkjmLzoGDQLiLDio.png",
-          "name": "X Filme Creative Pool",
-          "origin_country": "DE"
-        },
-        {
-          "id": 11081,
-          "logo_path": "/3vG1qqebRnbk0hsut7vD1xXMtbo.png",
-          "name": "A Company",
-          "origin_country": "DE"
-        },
-        {
-          "id": 19621,
-          "logo_path": null,
-          "name": "Dreams of Dragon Pictures",
-          "origin_country": "CN"
-        },
-        {
-          "id": 131586,
-          "logo_path": null,
-          "name": "Media Asia Film Production",
-          "origin_country": "HK"
-        },
-        {
-          "id": 7829,
-          "logo_path": null,
-          "name": "Ascension Pictures",
-          "origin_country": "SG"
-        },
-        {
-          "id": 986,
-          "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
-          "name": "ARD Degeto",
-          "origin_country": "DE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        },
-        {
-          "iso_3166_1": "SG",
-          "name": "Singapore"
-        }
-      ],
-      "revenue": 130482868,
-      "runtime": 172,
+      "revenue": 86024005,
+      "runtime": 105,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -384,7 +246,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Всё взаимосвязано»",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -393,61 +255,352 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/rRo1EzVd0E8GAOAeCulPpekKwjP.jpg",
+      "backdrop_path": "/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
       "genre_ids": [
-        878,
-        28,
-        12
+        35,
+        14,
+        10751
       ],
-      "id": 624479,
+      "id": 1125257,
       "original_language": "en",
-      "original_title": "Superman II: The Richard Donner Cut",
-      "overview": "Супермен соглашается пожертвовать своими способностями и жениться на Лоис, не сознавая, что три преступника, которых он случайно упустил, завоёвывают Землю...",
-      "popularity": 1.5583,
-      "poster_path": "/dkLplIwss7Jleh82NawyGyFNMgJ.jpg",
-      "release_date": "2006-11-02",
-      "title": "Супермен 2: Режиссерская версия",
+      "original_title": "Freakier Friday",
+      "overview": "Прошли годы с той пятницы, когда Анна и Тесс, её мать, наладили отношения после удивительного обмена телами. Теперь у самой Анны есть родная дочь и будущая падчерица, которым не удаётся найти общий язык. Анна и Тесс узнают, что чудо может повториться.",
+      "popularity": 20.2417,
+      "poster_path": "/frTZz6rZayI9PL5roFCuWCEoaTz.jpg",
+      "release_date": "2025-08-06",
+      "title": "Чумовая пятница 2",
       "video": false,
-      "vote_average": 7.357,
-      "vote_count": 370,
-      "belongs_to_collection": null,
-      "budget": 54000000,
+      "vote_average": 6.865,
+      "vote_count": 554,
+      "belongs_to_collection": {
+        "id": 1125292,
+        "name": "Чумовая Пятница (Коллекция)",
+        "poster_path": "/kgbznsbpOrKrqz7HB43z1pYN9Kv.jpg",
+        "backdrop_path": "/8QWJmqzT6WiYKY9wXpfUfwpjad1.jpg"
+      },
+      "budget": 42000000,
       "genres": [
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 35,
+          "name": "комедия"
         },
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 14,
+          "name": "фэнтези"
         },
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0839995",
+      "imdb_id": "tt31956415",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
+          "id": 2,
+          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+          "name": "Walt Disney Pictures",
           "origin_country": "US"
         },
         {
-          "id": 429,
-          "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
-          "name": "DC",
-          "origin_country": "US"
-        },
-        {
-          "id": 51861,
+          "id": 128491,
           "logo_path": null,
-          "name": "Dovemead Films",
+          "name": "Burr! Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 3538,
+          "logo_path": null,
+          "name": "Gunn Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 153176952,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Ну вот опять!»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pMECH54FSKApJJuwNYmwodtaFEK.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10770
+      ],
+      "id": 146712,
+      "original_language": "en",
+      "original_title": "A Fairly Odd Christmas",
+      "overview": "Тимми Тёрнеру придётся отправиться в увлекательное путешествие и спасти Рождество, но это будет не так просто: он должен будет пройти много опасных испытаний и быть сильным. Он не обойдётся без своей подруги Тутти, и конечно же, волшебных родителей!",
+      "popularity": 0.7367,
+      "poster_path": "/a3ipMyRyXv5WKUXxYWNNqkeHTEO.jpg",
+      "release_date": "2013-11-12",
+      "title": "Рождество с волшебными родителями",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 90,
+      "belongs_to_collection": {
+        "id": 721375,
+        "name": "A Fairly Odd Collection",
+        "poster_path": "/zoOT9Gh18YJYou2wKtnt7dyroqk.jpg",
+        "backdrop_path": "/nQ39Lv9klUhttnMxNwTw2cWr4Fj.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2299368",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 16442,
+          "logo_path": null,
+          "name": "Pacific Bay Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 16441,
+          "logo_path": null,
+          "name": "Pacific Bay Entertainment Canada",
+          "origin_country": "CA"
+        },
+        {
+          "id": 5371,
+          "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+          "name": "Nickelodeon Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 65,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/igFwEFRiEr0CzkQUNTcGYLxTpOi.jpg",
+      "genre_ids": [
+        14,
+        27
+      ],
+      "id": 48395,
+      "original_language": "fi",
+      "original_title": "Rare Exports",
+      "overview": "Это фильм для тех, кто думает, что он уже не верит в Санта Клауса. Далеко в заснеженных горах Лапландии, в ущелье на глубине 486 метров обнаружили находку, надежно укрытую от всех. Теперь пришло время открыть ее миру.",
+      "popularity": 2.1834,
+      "poster_path": "/5ZZN48hl19gDehXhABDwkRipxns.jpg",
+      "release_date": "2010-12-03",
+      "title": "Санта на продажу",
+      "video": false,
+      "vote_average": 6.205,
+      "vote_count": 642,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1401143",
+      "origin_country": [
+        "FI"
+      ],
+      "production_companies": [
+        {
+          "id": 228,
+          "logo_path": "/zT2bcTDEbBkfZi2APB8DYJKLIQ3.png",
+          "name": "Filmpool Nord",
+          "origin_country": "SE"
+        },
+        {
+          "id": 9085,
+          "logo_path": null,
+          "name": "Cinet",
+          "origin_country": "FI"
+        },
+        {
+          "id": 18626,
+          "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+          "name": "Kinology",
+          "origin_country": "FR"
+        },
+        {
+          "id": 23679,
+          "logo_path": "/6FCHtnJBEfGmsUbAEMavAPXWNfp.png",
+          "name": "Pomor Film",
+          "origin_country": "NO"
+        },
+        {
+          "id": 23680,
+          "logo_path": "/fYQ5pWLvFgVEdNIt2yZ3oQohVC3.png",
+          "name": "Agnès B. Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 23681,
+          "logo_path": null,
+          "name": "Davaj Film",
+          "origin_country": "SE"
+        },
+        {
+          "id": 23682,
+          "logo_path": "/9jnd0qJk7Y7htlblxBCyhWBouGg.png",
+          "name": "FilmCamp",
+          "origin_country": "NO"
+        },
+        {
+          "id": 1158,
+          "logo_path": null,
+          "name": "Love Streams Productions",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "NO",
+          "name": "Norway"
+        },
+        {
+          "iso_3166_1": "SE",
+          "name": "Sweden"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Finnish",
+          "iso_639_1": "fi",
+          "name": "suomi"
+        }
+      ],
+      "status": "Released",
+      "tagline": "В это Рождество в Санту поверят все",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2FRGE0hIaEOAIB3pq2rEq3Vx9NQ.jpg",
+      "genre_ids": [
+        10751
+      ],
+      "id": 51043,
+      "original_language": "en",
+      "original_title": "Loch Ness",
+      "overview": "У озера Лох-Несс неожиданно погиб доктор Эбернетти… Из США прибыл криптозоолог Джонатан Дэмпси, который должен был «разоблачить надувательства», связанные с озером Лох-Несс. Он рассчитывал за неделю провести эхолокацию озера и собрать данные, что таинственное ископаемое чудовище, о котором все говорят и пишут — всего лишь миф, раздуваемый и подогреваемый для привлечения туристов.",
+      "popularity": 4.2712,
+      "poster_path": "/fMXL9o1N150SK0z6Sk6aXnC4oEB.jpg",
+      "release_date": "1996-08-23",
+      "title": "Лох-Несс",
+      "video": false,
+      "vote_average": 5.693,
+      "vote_count": 122,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0113682",
+      "origin_country": [
+        "US",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 1382,
+          "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+          "name": "PolyGram Filmed Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 10163,
+          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+          "name": "Working Title Films",
           "origin_country": "GB"
         }
       ],
@@ -462,95 +615,8 @@
         }
       ],
       "revenue": 0,
-      "runtime": 116,
+      "runtime": 101,
       "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6sipzSCPO2jgxmvDGsPRuzsFvyE.jpg",
-      "genre_ids": [
-        878,
-        27,
-        53
-      ],
-      "id": 11549,
-      "original_language": "en",
-      "original_title": "Invasion of the Body Snatchers",
-      "overview": "Врач из маленького калифорнийского городка обеспокоен растущим количеством пациентов, утверждающих, что перестали узнавать своих близких: люди становятся равнодушными, бесчувственными.",
-      "popularity": 1.6763,
-      "poster_path": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
-      "release_date": "1956-02-05",
-      "title": "Вторжение похитителей тел",
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 1152,
-      "belongs_to_collection": null,
-      "budget": 416911,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0049366",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4928,
-          "logo_path": null,
-          "name": "Allied Artists Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 10096,
-          "logo_path": null,
-          "name": "Walter Wanger Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 3000000,
-      "runtime": 80,
-      "spoken_languages": [
-        {
-          "english_name": "Danish",
-          "iso_639_1": "da",
-          "name": "Dansk"
-        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -567,660 +633,179 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/aSDNZ2Oxy9AONUiukpns09s2yA.jpg",
+      "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
       "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 11411,
-      "original_language": "en",
-      "original_title": "Superman IV: The Quest for Peace",
-      "overview": "Продолжение экранизации комиксов про Супермена. На этот раз — криптонианцу предстоит уничтожить все ядерное оружие, вознести прелюдию к миру, а также разобраться в своих чувствах и сразиться с очередным противником.",
-      "popularity": 3.572,
-      "poster_path": "/y23Sx4XJWgEbBY3LoVPX5kFw4YD.jpg",
-      "release_date": "1987-07-24",
-      "title": "Супермен 4: В поисках мира",
-      "video": false,
-      "vote_average": 4.6,
-      "vote_count": 1367,
-      "belongs_to_collection": {
-        "id": 8537,
-        "name": "Супермен (Коллекция)",
-        "poster_path": "/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg",
-        "backdrop_path": "/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg"
-      },
-      "budget": 17000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0094074",
-      "origin_country": [
-        "GB",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1444,
-          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
-          "name": "The Cannon Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 6231,
-          "logo_path": null,
-          "name": "London-Cannon Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 13549,
-          "logo_path": null,
-          "name": "Golan-Globus Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 36700000,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ui3oiC5mdwxTPZSLBvqoBqckTQ4.jpg",
-      "genre_ids": [
-        35,
-        878,
-        28,
-        12
-      ],
-      "id": 9531,
-      "original_language": "en",
-      "original_title": "Superman III",
-      "overview": "Оператор компьютера дает шанс злодею захватить Супермена…",
-      "popularity": 3.046,
-      "poster_path": "/s2p9z5CgMKLLqUejFdB4ath6qeU.jpg",
-      "release_date": "1983-06-17",
-      "title": "Супермен 3",
-      "video": false,
-      "vote_average": 5.507,
-      "vote_count": 1823,
-      "belongs_to_collection": {
-        "id": 8537,
-        "name": "Супермен (Коллекция)",
-        "poster_path": "/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg",
-        "backdrop_path": "/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg"
-      },
-      "budget": 39000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0086393",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 51861,
-          "logo_path": null,
-          "name": "Dovemead Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 213555,
-          "logo_path": null,
-          "name": "Alexander and Ilya Salkind Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 80250623,
-      "runtime": 125,
-      "spoken_languages": [
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12
-      ],
-      "id": 8536,
-      "original_language": "en",
-      "original_title": "Superman II",
-      "overview": "Оказывается, он не единственный уцелевший житель погибшей планеты. На Землю попадают три криптонианина-злодея. Они обладают такими же силами, как и Супермен, и собираются уничтожить человечество. Супермену предстоит сразиться с безжалостными врагами и встретить любовь.",
-      "popularity": 4.2262,
-      "poster_path": "/6xe7rhjTkVxLGRzwipL8VpXpz0l.jpg",
-      "release_date": "1980-12-12",
-      "title": "Супермен 2",
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 2441,
-      "belongs_to_collection": {
-        "id": 8537,
-        "name": "Супермен (Коллекция)",
-        "poster_path": "/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg",
-        "backdrop_path": "/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg"
-      },
-      "budget": 54000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0081573",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 51861,
-          "logo_path": null,
-          "name": "Dovemead Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 213555,
-          "logo_path": null,
-          "name": "Alexander and Ilya Salkind Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 211429,
-          "logo_path": null,
-          "name": "International Film Production",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 216385706,
-      "runtime": 127,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zZcqSA3vudSPSLHjsvfnGJQpOKe.jpg",
-      "genre_ids": [
-        53,
-        28,
-        878
-      ],
-      "id": 8870,
-      "original_language": "en",
-      "original_title": "Red Planet",
-      "overview": "Недалекое будущее: ресурсы Земли истощены настолько, что вымирание человечества - реальность ближайших десятилетий. Несколько кораблей, отправленных на Марс с целью выяснения пригодности планеты для жизни, не вернулись на Землю. Что могло случиться с экипажами? Оснащенный по последнему слову техники космический корабль летит на Марс с научной экспедицией на борту. Человечество должно знать: возможна ли жизнь на «Красной планете»? Ответить на этот вопрос смогут лишь те, кто сумеет вернуться с нее живыми!",
-      "popularity": 4.2373,
-      "poster_path": "/bl5en6OalG2H9nvojzWbOJeffpD.jpg",
-      "release_date": "2000-11-10",
-      "title": "Красная планета",
-      "video": false,
-      "vote_average": 5.714,
-      "vote_count": 1107,
-      "belongs_to_collection": null,
-      "budget": 80000000,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0199753",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 53997,
-          "logo_path": null,
-          "name": "Mars Production",
-          "origin_country": "AU"
-        },
-        {
-          "id": 79,
-          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
-          "name": "Village Roadshow Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 172,
-          "logo_path": null,
-          "name": "NPV Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 22351,
-          "logo_path": null,
-          "name": "The Canton Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 33463969,
-      "runtime": 106,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Они не нашли жизнь на Марсе. Она нашла их сама»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg",
-      "genre_ids": [
-        80,
+        14,
         18,
-        878,
-        53
+        10752
       ],
-      "id": 281,
-      "original_language": "en",
-      "original_title": "Strange Days",
-      "overview": "Ленни Нэро - бывший полицейский, а ныне подпольный торговец воспоминаниями. Записанные на маленькие цифровые диски чужие воспоминания и переживания - самый ходовой товар альтернатвного бущущего. Стоит надеть на голову небольшой, удобный прибор и можно сразу услышать всю гамму запретных ощущенй: например, \"невинно\" изменить жене с прекрасной деушкой или поучаствовать в дерзком ограблении со стрельбой. Для Ленни сущестует лишь одно табу - он не \"работает\" с записями смертей. Но однажды, в канун Нового года, в руках Нэро оказывается таинственнцй диск, где запечатлена жуткая смерть его знакомой девушки. Пробудившийся инстинкт бывшего сыщика заставляет Ленни расследовать обстоятельтва страшного убийства…",
-      "popularity": 2.839,
-      "poster_path": "/nsEguX1f7ONydO5HyrJFfJ9Wjar.jpg",
-      "release_date": "1995-10-13",
-      "title": "Странные дни",
+      "id": 1417,
+      "original_language": "es",
+      "original_title": "El laberinto del fauno",
+      "overview": "Испания, 1944 год. Группа повстанцев сражается с фашистами в горных лесах северной Наварры. Офелия — 10-летняя одинокая и мечтательная девочка — переезжает со своей беременной матерью Кармен в военный лагерь отчима, капитана Видаля. Видаль — высокомерный и жестокий офицер армии Франко, который должен очистить район от повстанцев любой ценой. Офелия, увлеченная волшебными сказками, обнаруживает старинный заброшенный лабиринт неподалеку от дома.\r Фея проводит ее в центр лабиринта, где она встречает Фавна, хозяина подземелья. Фавн утверждает, что знает её истинную судьбу и её тайное предназначение. Оказывается Офелия — пропавшая принцесса волшебного королевства, которую многие века разыскивает ее отец. Фавн предлагает ей возможность вернуться в волшебное королевство. Но для начала она должна пройти три испытания до наступления полнолуния. Никто не должен узнать об этом.",
+      "popularity": 12.3238,
+      "poster_path": "/ayCTjBUdYZneu23Zxk5sxuA8uux.jpg",
+      "release_date": "2006-10-11",
+      "title": "Лабиринт Фавна",
       "video": false,
-      "vote_average": 7.01,
-      "vote_count": 1475,
+      "vote_average": 7.8,
+      "vote_count": 11175,
       "belongs_to_collection": null,
-      "budget": 42000000,
+      "budget": 19000000,
       "genres": [
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 14,
+          "name": "фэнтези"
         },
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
+          "id": 10752,
+          "name": "военный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0114558",
+      "imdb_id": "tt0457430",
       "origin_country": [
-        "US"
+        "MX",
+        "ES"
       ],
       "production_companies": [
         {
-          "id": 574,
-          "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
-          "name": "Lightstorm Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 7959291,
-      "runtime": 145,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
-      "genre_ids": [
-        878,
-        28,
-        53
-      ],
-      "id": 34851,
-      "original_language": "en",
-      "original_title": "Predators",
-      "overview": "Наемник Ройс невольно вынужден возглавить группу профессионалов, выполняющих загадочную миссию на неизвестной планете. За исключением опального доктора все они - хладнокровные убийцы: наемники, гангстеры, осужденные и участники отрядов смерти - людские «хищники». Но когда их начинает систематически преследовать и истреблять невообразимое чудовище, становится очевидно, что теперь они в роли своих жертв.",
-      "popularity": 13.6056,
-      "poster_path": "/l7oNiP5Oo89TqxNtHn9yExqsgYq.jpg",
-      "release_date": "2010-07-07",
-      "title": "Хищники",
-      "video": false,
-      "vote_average": 6.297,
-      "vote_count": 4449,
-      "belongs_to_collection": {
-        "id": 399,
-        "name": "Хищник (Коллекция)",
-        "poster_path": "/qblTMPK7umqQIzch7WlQ8TBmanU.jpg",
-        "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
-      },
-      "budget": 40000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1424381",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1302,
-          "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-          "name": "Davis Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 444,
+          "id": 2029,
           "logo_path": null,
-          "name": "Dune Entertainment",
+          "name": "Estudios Picasso",
+          "origin_country": "ES"
+        },
+        {
+          "id": 7470,
+          "logo_path": null,
+          "name": "Esperanto Filmoj",
           "origin_country": "US"
         },
         {
-          "id": 10807,
-          "logo_path": "/5MhGwwNnXXcTKjIXJ9oALnUas4t.png",
-          "name": "Troublemaker Studios",
-          "origin_country": "US"
+          "id": 11628,
+          "logo_path": null,
+          "name": "Tequila Gang",
+          "origin_country": "MX"
+        },
+        {
+          "id": 1182,
+          "logo_path": "/vuKupgmTNw6VCx7RMEOhLz18LIl.png",
+          "name": "Telecinco",
+          "origin_country": "ES"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "MX",
+          "name": "Mexico"
+        },
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 127200000,
-      "runtime": 107,
+      "revenue": 83258226,
+      "runtime": 118,
       "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
         {
           "english_name": "Spanish",
           "iso_639_1": "es",
           "name": "Español"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
         }
       ],
       "status": "Released",
-      "tagline": "«Они - самые опасные убийцы на планете. Но это не наша планета...»",
+      "tagline": "«Что происходит, когда выдумка верит, что она реальна?»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
+        "kinozal_indian",
         "kinozal_fantastic"
       ]
     },
     {
       "adult": false,
-      "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+      "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
       "genre_ids": [
-        28,
-        53,
-        878
+        10749,
+        14,
+        18
       ],
-      "id": 798645,
+      "id": 1241921,
       "original_language": "en",
-      "original_title": "The Running Man",
-      "overview": "Ближайшее будущее. Отчаявшийся отец Бен Ричардс решает принять участие в жестоком реалити-шоу «Бегущий человек», надеясь выиграть деньги для лечения тяжелобольной дочери. Чтобы победить, участники должны выжить, пока в течение 30 дней на них охотится группа убийц.",
-      "popularity": 93.322,
-      "poster_path": "/40Mxw7P1l9KwkQipHgzVNHFMfVC.jpg",
-      "release_date": "2025-11-11",
-      "title": "Бегущий человек",
+      "original_title": "A Big Bold Beautiful Journey",
+      "overview": "Сара и Дэвид не были знакомы до встречи на свадьбе общего друга. Вскоре они отправляются в большое смелое красивое путешествие, в ходе которого им предстоит заново пережить важные моменты из своего прошлого. Это помогает им понять, как они оказались в точке, где находятся сейчас, и, возможно, даст шанс изменить будущее.",
+      "popularity": 8.3069,
+      "poster_path": "/pKfLcnMuIJ9APwupQuMhKSTCgkR.jpg",
+      "release_date": "2025-09-17",
+      "title": "Большое смелое красивое путешествие",
       "video": false,
-      "vote_average": 6.823,
-      "vote_count": 886,
+      "vote_average": 6.246,
+      "vote_count": 270,
       "belongs_to_collection": null,
-      "budget": 110000000,
+      "budget": 45000000,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 10749,
+          "name": "мелодрама"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 14,
+          "name": "фэнтези"
         },
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt14107334",
+      "imdb_id": "tt13650700",
       "origin_country": [
+        "IE",
         "US"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 81121,
+          "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
+          "name": "Imperative Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 131464,
-          "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
-          "name": "Complete Fiction",
-          "origin_country": "GB"
-        },
-        {
-          "id": 28788,
-          "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-          "name": "Genre Films",
+          "id": 104363,
+          "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
+          "name": "30WEST",
           "origin_country": "US"
         },
         {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 225329,
+          "logo_path": "/haFdiPRSK9wRJ3xQZOqRNpk77jB.png",
+          "name": "Chapel Place Productions",
+          "origin_country": "IE"
+        },
+        {
+          "id": 274023,
+          "logo_path": null,
+          "name": "Tempo Basho",
+          "origin_country": "US"
+        },
+        {
+          "id": 253443,
+          "logo_path": null,
+          "name": "Original Films",
           "origin_country": "US"
         }
       ],
@@ -1230,12 +815,12 @@
           "name": "United States of America"
         },
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "IE",
+          "name": "Ireland"
         }
       ],
-      "revenue": 68615641,
-      "runtime": 133,
+      "revenue": 22188987,
+      "runtime": 109,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1244,7 +829,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "Найти его и поймать.",
+      "tagline": "«Переживите своё прошлое. Измените своё будущее»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1253,287 +838,148 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/31VpBgUX5O4Z3dn5ZbX8HLqoXH3.jpg",
+      "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
       "genre_ids": [
-        28,
-        27,
-        878,
-        53
-      ],
-      "id": 72190,
-      "original_language": "en",
-      "original_title": "World War Z",
-      "overview": "Сотрудник ООН Гари Лейн наперегонки со временем пытается остановить заражение, способное полностью истребить человечество.",
-      "popularity": 12.3174,
-      "poster_path": "/t25IhiCJ8En3uZP27XLSEk8BQCf.jpg",
-      "release_date": "2013-06-19",
-      "title": "Война миров Z",
-      "video": false,
-      "vote_average": 6.824,
-      "vote_count": 16142,
-      "belongs_to_collection": null,
-      "budget": 200000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0816711",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 3281,
-          "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
-          "name": "GK Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 9169,
-          "logo_path": "/fsjn4BwBzxlEBWmmWPOeBpubvOx.png",
-          "name": "Hemisphere Media Capital",
-          "origin_country": "US"
-        },
-        {
-          "id": 23644,
-          "logo_path": "/wF4SeLFv2qjKQa3oS1eaGyS4Hms.png",
-          "name": "2DUX²",
-          "origin_country": "US"
-        },
-        {
-          "id": 82819,
-          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
-          "name": "Skydance Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 81,
-          "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
-          "name": "Plan B Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 531865000,
-      "runtime": 123,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Я не могу бросить свою семью»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12,
-        53
-      ],
-      "id": 290859,
-      "original_language": "en",
-      "original_title": "Terminator: Dark Fate",
-      "overview": "Мексика. Милая девушка Даниэла Рамос, а для друзей просто Дани, вместе с братом приходит с утра работать на завод, но там выясняется, что их вскоре заменят автоматикой. И это не единственная угроза, которую представляют для девушки машины: тут же на неё нападает присланная из будущего и практически неубиваемая модель терминатора REV-9. Но на защиту Дани встаёт Грэйс — тоже прибывшая из будущего женщина, модифицировавшая свои боевые характеристики до терминаторского уровня. Вскоре к ним на помощь придёт и Сара Коннор, которая теперь превратилась в настоящую охотницу на роботов-убийц.",
-      "popularity": 8.2943,
-      "poster_path": "/ffULB4SNiMuTbEl8dGPnU185hfe.jpg",
-      "release_date": "2019-10-23",
-      "title": "Терминатор: Тёмные судьбы",
-      "video": false,
-      "vote_average": 6.414,
-      "vote_count": 5484,
-      "belongs_to_collection": {
-        "id": 528,
-        "name": "Терминатор (Коллекция)",
-        "poster_path": "/w6Ya0LPeW9flEqY6wcIUtBWQCD0.jpg",
-        "backdrop_path": "/sCnBEw2Yu6foEjs4Xb4eMddYHRo.jpg"
-      },
-      "budget": 185000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt6450804",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 82819,
-          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
-          "name": "Skydance Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 81620,
-          "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
-          "name": "Tencent Pictures",
-          "origin_country": "CN"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 574,
-          "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
-          "name": "Lightstorm Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 261119292,
-      "runtime": 128,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Добро пожаловать в День после Судного Дня»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xZjnJupgEYI5fDVY9siyiiGKtK6.jpg",
-      "genre_ids": [
-        12,
+        14,
         18,
-        9648,
-        878
+        12
       ],
-      "id": 1119377,
+      "id": 1571470,
       "original_language": "en",
-      "original_title": "Xeno",
-      "overview": "Подросток неожиданно заводит дружбу с жутким инопланетным существом, которое потерпело крушение неподалёку в пустыне. Девочке приходится одновременно справляться с тоской своей матери и жестокостью её бойфренда, а также защищать нового, но крайне опасного друга.",
-      "popularity": 7.4507,
-      "poster_path": "/vW80ugx6KgvSszkg4Jqy0mD7hhi.jpg",
-      "release_date": "2025-09-19",
-      "title": "Ксено",
+      "original_title": "The Rats: A Witcher Tale",
+      "overview": "Чтобы провернуть смелое ограбление, банде из шести отпетых бандитов предстоит сделать неслыханное: довериться друг другу — и усталому ведьмаку.",
+      "popularity": 9.2748,
+      "poster_path": "/ftdw2MUENMjs5L905TQfvnEE584.jpg",
+      "release_date": "2025-10-29",
+      "title": "Крысы: ведьмачья история",
       "video": false,
-      "vote_average": 5.271,
-      "vote_count": 24,
+      "vote_average": 5.223,
+      "vote_count": 119,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 14,
+          "name": "фэнтези"
         },
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
+          "id": 12,
+          "name": "приключения"
         }
       ],
-      "homepage": "",
-      "imdb_id": "tt27629220",
+      "homepage": "https://www.netflix.com/ru/title/81572393",
+      "imdb_id": "tt28283547",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 40268,
-          "logo_path": "/shdAxUj8uF6exNLrF0kSqYVxCzG.png",
-          "name": "HartBeat Productions",
+          "id": 137769,
+          "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
+          "name": "Platige Films",
+          "origin_country": "PL"
+        },
+        {
+          "id": 124634,
+          "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
+          "name": "Hivemind",
           "origin_country": "US"
         },
         {
-          "id": 202449,
+          "id": 162859,
           "logo_path": null,
-          "name": "The Henson Company",
-          "origin_country": ""
+          "name": "Little Schmidt Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 279361,
+          "logo_path": null,
+          "name": "Hailzor",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "PL",
+          "name": "Poland"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/soayFfANJdm3ykSQO71d6hAuMDR.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 9610,
+      "original_language": "en",
+      "original_title": "Conan the Destroyer",
+      "overview": "Идеальная картина в жанре фэнтэзи с мечами, волшебниками и колдунами. Сюжет очень прост. Сексапильная королева нанимает Конана сопровождать юную принцессу в далекий замок, где находится драгоценный камень, способный высвободить могущественные и таинственные силы.  Коварная королева приказала своему воину убить Конана, когда задание будет выполнено, и вернуть домой принцессу, не нарушив ее девственности, дабы можно было принести ее в жертву. В пути группа сходится с чернокожей и взрывной воительницей. Длинноногая дикарка способна одна уложить множество врагов.  Одно приключение сменяет другое. Съемки, схватки, поединки, трюки поражают воображение. Великолепно воссоздается атмосфера приключений в неизвестные времена, в неизвестно каком измерении…",
+      "popularity": 4.5955,
+      "poster_path": "/n0aq2MlCKJmzL6aerYr27drf14A.jpg",
+      "release_date": "1984-06-29",
+      "title": "Конан Разрушитель",
+      "video": false,
+      "vote_average": 6.117,
+      "vote_count": 1593,
+      "belongs_to_collection": {
+        "id": 43055,
+        "name": "Конан - Варвар (Коллекция)",
+        "poster_path": "/oIOuhJaDU18u1jrYAKmL0UeqnYu.jpg",
+        "backdrop_path": "/rJw7mflYzuHXBdRYEJyjAXDru5t.jpg"
+      },
+      "budget": 18000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0087078",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 10308,
+          "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png",
+          "name": "The De Laurentiis Company",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -1542,7 +988,7 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 107522,
+      "revenue": 31042035,
       "runtime": 103,
       "spoken_languages": [
         {
@@ -1552,6 +998,186 @@
         }
       ],
       "status": "Released",
+      "tagline": "«Самая могущественная легенда из всех вернулась в новое приключение»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/riaO9lEYnzlmkILiLG3Y6HtJaM3.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 68735,
+      "original_language": "en",
+      "original_title": "Warcraft",
+      "overview": "Веками магия и неприступные стены защищали людей от любых напастей. Но древнее зло, побеждённое и забытое тысячелетия назад, пробудилось.  В самом сердце королевства открылся темный портал, и раса невиданных существ наводнила земли Азерота. Так начались события, призванные навсегда изменить судьбу этого мира.",
+      "popularity": 6.5839,
+      "poster_path": "/gPFQZIbWk5VukScCCfMPbGZ80g8.jpg",
+      "release_date": "2016-05-25",
+      "title": "Варкрафт",
+      "video": false,
+      "vote_average": 6.393,
+      "vote_count": 7105,
+      "belongs_to_collection": null,
+      "budget": 160000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0803096",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 507,
+          "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+          "name": "Atlas Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 16028,
+          "logo_path": "/6hZcvVaJlKpDLy0iMKXuvC0K2A5.png",
+          "name": "Blizzard Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 433677183,
+      "runtime": 123,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Два мира - одна судьба»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7eoIQCeAMCw1pevX4Dhqs0MJzYN.jpg",
+      "genre_ids": [
+        12,
+        14,
+        10770
+      ],
+      "id": 32593,
+      "original_language": "en",
+      "original_title": "Snow White",
+      "overview": "Рождение чудесной Белоснежки омрачилось смертью матери. Теперь ее отец по имени Джон должен найти для ребенка молоко. Но спасение девочки-ангела случилось внезапно. Отец растопил своими слезами замерзшего волшебника, который в благодарность обещал исполнить три желания Джона…  Однако «добрый гений» замыслил превращение собственной сестры, мерзкой и уродливой Элспит, в злую красавицу-королеву. Белоснежке грозит роль униженной падчерицы, а Джону — партия околдованного короля…",
+      "popularity": 3.9839,
+      "poster_path": "/xIjplbyfFDbHsN7ZK40klO5nnUw.jpg",
+      "release_date": "2001-10-28",
+      "title": "Белоснежка",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 246,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0255605",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 73728,
+          "logo_path": null,
+          "name": "Sextant Entertainment Group",
+          "origin_country": ""
+        },
+        {
+          "id": 40650,
+          "logo_path": null,
+          "name": "Babelsberg International Film Produktion",
+          "origin_country": ""
+        },
+        {
+          "id": 4056,
+          "logo_path": "/dnz7zZ2e11usyjPG3mTYvJfyciD.png",
+          "name": "Hallmark Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 184511,
+          "logo_path": null,
+          "name": "Snow White Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
@@ -1561,97 +1187,164 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/hZJLBaTca4ZBsogOOmr8dR7aO5L.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        878,
-        28,
         12,
-        53
+        10751,
+        14
       ],
-      "id": 453405,
-      "original_language": "en",
-      "original_title": "Gemini Man",
-      "overview": "Генри Броган, первоклассный киллер, становится мишенью таинственного оперативника, который, кажется, знает каждый его шаг наперед…",
-      "popularity": 4.592,
-      "poster_path": "/675Byk1w1KV0k0G0Vg57iM2T1ya.jpg",
-      "release_date": "2019-10-02",
-      "title": "Гемини",
+      "id": 1381780,
+      "original_language": "ru",
+      "original_title": "Легенды наших предков",
+      "overview": "Репортер из Екатеринбурга по заданию редакции оказывается в затерянном в тайге селении, где слышит старинное предание о владыке леса. По возвращении домой он внезапно начинает видеть и слышать этого древнего духа, который просит спасти исчезающих фантастических созданий. Журналист соглашается, и вместе с 12-летней дочерью, приехавшей к нему на каникулы из Москвы, отправляется в края, почти не тронутые цивилизацией.",
+      "popularity": 0.836,
+      "poster_path": "/ss4BGyIRuaxrIkIcIHejTZhGJfR.jpg",
+      "release_date": "2025-05-01",
+      "title": "Легенды наших предков",
       "video": false,
-      "vote_average": 6.273,
-      "vote_count": 5331,
+      "vote_average": 6.5,
+      "vote_count": 5,
       "belongs_to_collection": null,
-      "budget": 140000000,
+      "budget": 0,
       "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
         {
           "id": 12,
           "name": "приключения"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1025100",
+      "imdb_id": "tt33040324",
       "origin_country": [
-        "US"
+        "RU"
       ],
       "production_companies": [
         {
-          "id": 82819,
-          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
-          "name": "Skydance Media",
-          "origin_country": "US"
+          "id": 151871,
+          "logo_path": null,
+          "name": "ID Production",
+          "origin_country": "RU"
         },
         {
-          "id": 130,
-          "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
-          "name": "Jerry Bruckheimer Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 102774,
-          "logo_path": "/9novy7zPpam3XVmfE3jXG4MexAr.png",
-          "name": "Fosun Pictures",
-          "origin_country": "CN"
-        },
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 69484,
-          "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
-          "name": "Alibaba Pictures Group",
-          "origin_country": "CN"
+          "id": 119456,
+          "logo_path": "/h5HZMAao2R3a3lApiF9MIl2SHT.png",
+          "name": "Red Pepper Film",
+          "origin_country": "RU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
-        {
-          "iso_3166_1": "CO",
-          "name": "Colombia"
+          "iso_3166_1": "RU",
+          "name": "Russia"
         }
       ],
-      "revenue": 173469516,
-      "runtime": 117,
+      "revenue": 0,
+      "runtime": 94,
+      "spoken_languages": [
+        {
+          "english_name": "Komi",
+          "iso_639_1": "kv",
+          "name": ""
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sG5V7eXUmaylQlDkVsEdpErPGEE.jpg",
+      "genre_ids": [
+        12,
+        14,
+        18,
+        10751
+      ],
+      "id": 24962,
+      "original_language": "en",
+      "original_title": "Magic in the Water",
+      "overview": "Психиатр Джек Блэк больше всего на свете увлечен таинственным миром человеческой души и почти не замечает собственных детей, которые так хотят привлечь его внимание. Даже на отдыхе у живописного озера он не может уделить им и минуты, так что Джошуа и Эшли снова предоставлены самим себе.  Брат и сестра не стали зря терять время: они берутся расследовать местную легенду о мифическом чудовище, живущем на дне озера. И тут оказывается, что настоящие тайны скрываются вовсе не там, где их ищет невнимательный Джек…",
+      "popularity": 0.6747,
+      "poster_path": "/54BiiZRiIUFDNboO8RZ81AKqk3d.jpg",
+      "release_date": "1995-08-30",
+      "title": "Волшебное Озеро",
+      "video": false,
+      "vote_average": 5.297,
+      "vote_count": 37,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0113737",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 559,
+          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+          "name": "TriStar Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 16971,
+          "logo_path": null,
+          "name": "Pacific Motion Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 23098,
+          "logo_path": "/qosRT1fWXpaGuWQBWOQJO9RcPTo.png",
+          "name": "Triumph Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 98,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1660,8 +1353,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Кто тебя спасёт от самого себя?»",
-      "release_quality": "2160p",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -1669,24 +1362,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/qB1s2VBez4fqJqYQAuyfWP8xUCN.jpg",
       "genre_ids": [
         35,
-        12,
-        878,
-        99
+        10751,
+        14
       ],
-      "id": 113268,
-      "original_language": "en",
-      "original_title": "The Secrets of the 'Back to the Future' Trilogy",
-      "overview": "Секреты трилогии «Назад в будущее» была программой, организованной Кирком Кэмероном. Шоу ответило на вопросы, что поклонники «Назад в будущее» отправлены письмом. Он был выпущен на видеокассету в 1990 году и в качестве бонусной функции на диске \"Назад в будущее 3\" в выпуске трилогии «Назад в будущее» 2002 года. Он также доступен в трилогии Blu-Ray 2010 года.",
-      "popularity": 0.297,
-      "poster_path": "/vxOgVE8JPjPVaUo3eJfk5whby7H.jpg",
-      "release_date": "1990-06-12",
-      "title": "Секреты трилогии «Назад в будущее»",
+      "id": 25797,
+      "original_language": "nl",
+      "original_title": "Minoes",
+      "overview": "По роману Анни Шмидт. Журналист Тибе начинает публиковать в местной газете сенсационные разоблачающие статьи. Через некоторое время выяснилось, что всю информацию он узнавал от Мурли — девушки с душой кошки.  Однажды Мурли выпила загадочное зелье и превратилась в хорошенькую девушку с кошачьими повадками. Она пришла жить к Тибе, истала ему поставлять сенсационные новости, которые узнавала от всех котов округи.",
+      "popularity": 2.9879,
+      "poster_path": "/kZr47NX1iKdQMr6UUEMwcnMuJ9t.jpg",
+      "release_date": "2001-12-06",
+      "title": "Леди-кошка",
       "video": false,
-      "vote_average": 4.8,
-      "vote_count": 12,
+      "vote_average": 6.753,
+      "vote_count": 93,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -1695,63 +1387,133 @@
           "name": "комедия"
         },
         {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0279231",
+      "origin_country": [
+        "NL"
+      ],
+      "production_companies": [
+        {
+          "id": 4313,
+          "logo_path": null,
+          "name": "AVRO Television",
+          "origin_country": ""
+        },
+        {
+          "id": 9054,
+          "logo_path": "/zb7XWmOcLTLmat8ZjybzJrAwBrP.png",
+          "name": "BosBros",
+          "origin_country": "NL"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "NL",
+          "name": "Netherlands"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kRVUMsXFzhuXjr20JcCGc6TapxA.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751
+      ],
+      "id": 346648,
+      "original_language": "en",
+      "original_title": "Paddington 2",
+      "overview": "В антикварном магазине Лондона обаятельный и хорошо воспитанный медведь Паддингтон находит уникальную старинную книгу. Пока он изо всех своих медвежьих сил старается накопить на неё деньги, редчайшее издание внезапно похищают. Паддингтон оказывается вовлечён в аферу века, затеянную знаменитым актёром, который ныне рекламирует собачьи консервы, а свой талант к перевоплощению использует в охоте за сокровищами, спрятанными по всему Лондону.",
+      "popularity": 6.8675,
+      "poster_path": "/rqegEjWMbVXiE5XhPJ4NhvDU8ps.jpg",
+      "release_date": "2017-11-09",
+      "title": "Приключения Паддингтона 2",
+      "video": false,
+      "vote_average": 7.476,
+      "vote_count": 2656,
+      "belongs_to_collection": {
+        "id": 488924,
+        "name": "Приключения Паддингтона (Коллекция)",
+        "poster_path": "/ivHq9FgJ0X3EXvcBClw2VG6jpdM.jpg",
+        "backdrop_path": "/cpmSe7SerOiI1dRgQG328OaHNBl.jpg"
+      },
+      "budget": 40000000,
+      "genres": [
+        {
           "id": 12,
           "name": "приключения"
         },
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 35,
+          "name": "комедия"
         },
         {
-          "id": 99,
-          "name": "документальный"
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0162636",
+      "imdb_id": "tt4468740",
       "origin_country": [
-        "US"
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 15943,
-          "logo_path": null,
-          "name": "ZM Productions",
-          "origin_country": ""
+          "id": 694,
+          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+          "name": "StudioCanal",
+          "origin_country": "FR"
         },
         {
-          "id": 101798,
-          "logo_path": "/5so4m14tTlqbHxRTElbJ4WRyvlv.png",
-          "name": "CIC Video",
-          "origin_country": ""
+          "id": 437,
+          "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+          "name": "Heyday Films",
+          "origin_country": "GB"
         },
         {
-          "id": 10608,
-          "logo_path": "/4JsEyxBcyGQ3VWRLINw62qD9d66.png",
-          "name": "MCA/Universal Home Video",
-          "origin_country": ""
-        },
-        {
-          "id": 10713,
-          "logo_path": null,
-          "name": "Universal Studios Home Video",
-          "origin_country": ""
-        },
-        {
-          "id": 3324,
-          "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
-          "name": "BBC",
+          "id": 20664,
+          "logo_path": "/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png",
+          "name": "Anton Capital Entertainment",
           "origin_country": "GB"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
-      "revenue": 0,
-      "runtime": 21,
+      "revenue": 290132513,
+      "runtime": 103,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1760,7 +1522,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Хорошо Воспитанный Медведь, Покоривший Весь Мир»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1769,143 +1531,31 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/qXM08jXRwlT9rm10iAC2uoq0Kn.jpg",
+      "backdrop_path": "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
       "genre_ids": [
-        878,
-        28,
-        12,
-        35,
-        10751
-      ],
-      "id": 1498,
-      "original_language": "en",
-      "original_title": "Teenage Mutant Ninja Turtles",
-      "overview": "Четыре черепашки и крыса в канализационных трубах Нью-Йорка вляпались в радиационные отходы, мутировали и превратились в человеческого роста разумных черепашек, а крыса, которая раньше жила у японского мастера ниндзя-цу, обучила их боевым искусствам.  Черепашки Леонардо, Рафаэль, Микеланджело и Донателло подружились с тележурналисткой и помогли остановить рост молодежной преступности.",
-      "popularity": 5.477,
-      "poster_path": "/mZR1lLdwOp8w8IEHIBAIQLjo1VL.jpg",
-      "release_date": "1990-03-30",
-      "title": "Черепашки-ниндзя",
-      "video": false,
-      "vote_average": 6.703,
-      "vote_count": 1897,
-      "belongs_to_collection": {
-        "id": 1582,
-        "name": "Черепашки-ниндзя (Коллекция)",
-        "poster_path": "/h43FVnMMHDLso5gLV3flgyEiMyN.jpg",
-        "backdrop_path": "/nhduljh4ZdptATMjZxIclXHjmHT.jpg"
-      },
-      "budget": 13500000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0100758",
-      "origin_country": [
-        "US",
-        "HK"
-      ],
-      "production_companies": [
-        {
-          "id": 2521,
-          "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
-          "name": "Orange Sky Golden Harvest",
-          "origin_country": "HK"
-        },
-        {
-          "id": 30900,
-          "logo_path": "/gyO0BxkreNepFOxc882GIdWHblX.png",
-          "name": "Mirage Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 201965915,
-      "runtime": 93,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Эй чувак, это не мультфильм.",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8VGaEXbTOGeWGW7IvzOf1j2rjet.jpg",
-      "genre_ids": [
-        878,
-        12,
         28,
         35,
-        10751
+        14
       ],
-      "id": 1497,
+      "id": 287947,
       "original_language": "en",
-      "original_title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
-      "overview": "Они снова сражаются со злодеями из клана Футов и их главарем Шредером. Благодаря Эйприл О`Нил, профессору Джордану Пери и разносчику пиццы Кено черепашкам удается остановить распространение мутирующего вещества мутагена и спасти жителей Нью-Йорка от страшных мутантов Токка и Разара.",
-      "popularity": 3.734,
-      "poster_path": "/cdpZb4bG6XSWi5NL7OK9CYj0PGu.jpg",
-      "release_date": "1991-03-22",
-      "title": "Черепашки-ниндзя 2: Тайна изумрудного зелья",
+      "original_title": "Shazam!",
+      "overview": "В каждом из нас живет супергерой, нужна лишь толика магии, чтобы он проявил себя. Билли Бэтсон должен прокричать всего лишь одно слово - ШАЗАМ - чтобы из сообразительного четырнадцатилетнего мальчишки превратиться во взрослого супергероя Шазама.",
+      "popularity": 7.7652,
+      "poster_path": "/s4byZ8CP7NLfH54FV3QF6l0JLSh.jpg",
+      "release_date": "2019-03-29",
+      "title": "Шазам!",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 1204,
+      "vote_average": 7,
+      "vote_count": 9997,
       "belongs_to_collection": {
-        "id": 1582,
-        "name": "Черепашки-ниндзя (Коллекция)",
-        "poster_path": "/h43FVnMMHDLso5gLV3flgyEiMyN.jpg",
-        "backdrop_path": "/nhduljh4ZdptATMjZxIclXHjmHT.jpg"
+        "id": 724848,
+        "name": "Шазам! (Коллекция)",
+        "poster_path": "/qZ5EoG97hmlqCfNI2VWeMGIXJPJ.jpg",
+        "backdrop_path": "/8yak06wMUWUip8TdDMYc7NpntgR.jpg"
       },
-      "budget": 25000000,
+      "budget": 80000000,
       "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
         {
           "id": 28,
           "name": "боевик"
@@ -1915,31 +1565,254 @@
           "name": "комедия"
         },
         {
-          "id": 10751,
-          "name": "семейный"
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0103060",
+      "imdb_id": "tt0448115",
       "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 11565,
+          "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+          "name": "The Safran Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 73669,
+          "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+          "name": "Seven Bucks Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 128064,
+          "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+          "name": "DC Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 367799011,
+      "runtime": 132,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Если хочешь спасти мир, скажи волшебное слово»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "id": 1087192,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "Подростку Иккингу не слишком близки традиции его героического племени, много лет ведущего войну с драконами. Парень неожиданно заводит дружбу с драконом Беззубиком, который поможет ему и другим викингам увидеть мир с совершенно другой стороны.",
+      "popularity": 46.1201,
+      "poster_path": "/hiLwtS68fCx9rd5GFK0QDqu4uBV.jpg",
+      "release_date": "2025-06-06",
+      "title": "Как приручить дракона",
+      "video": false,
+      "vote_average": 7.972,
+      "vote_count": 2386,
+      "belongs_to_collection": {
+        "id": 1458864,
+        "name": "Как приручить дракона (Коллекция)",
+        "poster_path": "/5uiXWKH2dcWcQDP2GVFLGTmcGRp.jpg",
+        "backdrop_path": "/eKpWn8DwS6xpAKs4eLb4PmrXnhk.jpg"
+      },
+      "budget": 150000000,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt26743210",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 521,
+          "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+          "name": "DreamWorks Animation",
+          "origin_country": "US"
+        },
+        {
+          "id": 2527,
+          "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+          "name": "Marc Platt Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 636351148,
+      "runtime": 125,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Легенда реальна»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1729,
+      "original_language": "en",
+      "original_title": "The Forbidden Kingdom",
+      "overview": "Американский подросток Джейсон, основательно помешанный на кунг-фу во всех его проявлениях, от самого спорта до фильмов про него, делает удивительное открытие: в одном из магазинчиков в китайском квартале он находит легендарный посох великого воина Царя Обезьян…",
+      "popularity": 5.2214,
+      "poster_path": "/q50W8qS34nQWXRjHAXiiyl1Om3l.jpg",
+      "release_date": "2008-04-17",
+      "title": "Запретное царство",
+      "video": false,
+      "vote_average": 6.627,
+      "vote_count": 1849,
+      "belongs_to_collection": null,
+      "budget": 55000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0865556",
+      "origin_country": [
+        "CN",
         "US",
         "HK"
       ],
       "production_companies": [
         {
-          "id": 2521,
-          "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
-          "name": "Orange Sky Golden Harvest",
+          "id": 877,
+          "logo_path": "/n8gjQIrJ77CSFroDCuQbj5cqOaQ.png",
+          "name": "Casey Silver Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 2269,
+          "logo_path": null,
+          "name": "China Film Co-Production Corp.",
+          "origin_country": "CN"
+        },
+        {
+          "id": 7295,
+          "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+          "name": "Relativity Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 308,
+          "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+          "name": "The Weinstein Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 2520,
+          "logo_path": null,
+          "name": "Arclight Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 3393,
+          "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+          "name": "Huayi Brothers Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 200407,
+          "logo_path": null,
+          "name": "J&J Project",
           "origin_country": "HK"
         },
         {
-          "id": 30900,
-          "logo_path": "/gyO0BxkreNepFOxc882GIdWHblX.png",
-          "name": "Mirage Studios",
-          "origin_country": "US"
+          "id": 194859,
+          "logo_path": "/pG7MJ556xsjrvVosg4TWmMLWV9v.png",
+          "name": "Salon Films",
+          "origin_country": "HK"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
         {
           "iso_3166_1": "HK",
           "name": "Hong Kong"
@@ -1949,9 +1822,14 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 78656813,
-      "runtime": 88,
+      "revenue": 127906624,
+      "runtime": 104,
       "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -1960,7 +1838,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "2160p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
