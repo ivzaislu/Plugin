@@ -5,22 +5,22 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 74,
+  "total": 79,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/wqDwHY9dL0YJLS8Jx1zhtbtMd1T.jpg",
+      "backdrop_path": "/2v80O4ee5JWh5PpsK5WggsWJAEG.jpg",
       "genre_ids": [
         16
       ],
-      "id": 454130,
+      "id": 475019,
       "original_language": "ru",
-      "original_title": "Снегирь",
-      "overview": "Мультипликационный фильм по мотивам стихотворения Агнии Барто о том, как мальчик мечтал о дружбе со снегирём.",
-      "popularity": 0.361,
-      "poster_path": "/sUPiWNMjZ2hrwAYc2hNm98JbJS3.jpg",
-      "release_date": "1983-04-24",
-      "title": "Снегирь",
+      "original_title": "Тайна желтого куста",
+      "overview": "Агитплакат против детского курения",
+      "popularity": 0.768,
+      "poster_path": "/jSK9SI1pdq8bI7PkyPAMYJEbgCq.jpg",
+      "release_date": "1982-01-02",
+      "title": "Тайна желтого куста",
       "video": false,
       "vote_average": 0,
       "vote_count": 0,
@@ -33,7 +33,7 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt6052538",
+      "imdb_id": null,
       "origin_country": [
         "SU"
       ],
@@ -70,55 +70,117 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/6Rk9pOuRsuj82nyDrChKjUWeR9T.jpg",
+      "backdrop_path": "/479lwbWHo18dO5RayDNXSU5J1FL.jpg",
       "genre_ids": [
-        16
+        16,
+        28,
+        18
       ],
-      "id": 91676,
-      "original_language": "en",
-      "original_title": "Тараканище",
-      "overview": "Экранизация известной сказки К.И.Чуковского. Рассказ о том, как большие и сильные звери, поддавшись паническому страху, покоряются маленькому таракану.",
-      "popularity": 0.4846,
-      "poster_path": "/skVka61fGmqhkEfCBNXTyjHO4do.jpg",
-      "release_date": "1963-01-01",
-      "title": "Тараканище",
+      "id": 613200,
+      "original_language": "zh",
+      "original_title": "全职高手之巅峰荣耀",
+      "overview": "Киберспорт был официально признан спортивной дисциплиной и спустя два года после запуска онлайн-игры «Слава», было объявлено о проведении первого чемпионата профессиональной лиги. Чтобы сразиться за возможность показать себя в первом состязании по Славе, собрались игроки со всего Китая. Среди них и Е Сю. Собрав свою команду, он во что бы то ни стало, доберётся до вершины Славы, ведь это не только его мечта...",
+      "popularity": 2.2439,
+      "poster_path": "/pZnTP3Iny2TrwHhnXqgG0EQPmqC.jpg",
+      "release_date": "2019-08-16",
+      "title": "Аватар короля: Вершина славы",
       "video": false,
-      "vote_average": 5.778,
-      "vote_count": 9,
+      "vote_average": 6.5,
+      "vote_count": 71,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt5497944",
+      "imdb_id": "tt10736726",
       "origin_country": [
-        "SU"
+        "CN"
       ],
       "production_companies": [
         {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
+          "id": 192421,
+          "logo_path": null,
+          "name": "Shanghai Yuewen",
+          "origin_country": "CN"
+        },
+        {
+          "id": 115127,
+          "logo_path": "/lEA4MJ3zsi4RojFvNl4aw6t5okF.png",
+          "name": "China Literature",
+          "origin_country": "CN"
+        },
+        {
+          "id": 192426,
+          "logo_path": "/ux0PrwWFqzjqYx0i2SieggC7ML6.png",
+          "name": "Sunac Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 192428,
+          "logo_path": null,
+          "name": "Shanghai Yingjing Culture Media Co., Ltd.",
+          "origin_country": "CN"
+        },
+        {
+          "id": 192429,
+          "logo_path": null,
+          "name": "Horgos Golden Abundant Culture Media Co., Ltd",
+          "origin_country": "CN"
+        },
+        {
+          "id": 146792,
+          "logo_path": "/uov5NWW2MdHBa0Yw9KcA64VslLv.png",
+          "name": "Colored-Pencil Animation Design",
+          "origin_country": "CN"
+        },
+        {
+          "id": 160427,
+          "logo_path": null,
+          "name": "Shanghai Kuanyu Digital Technology Co., Ltd.",
+          "origin_country": "CN"
+        },
+        {
+          "id": 78952,
+          "logo_path": "/zRBHUxapVA1FLR3dSa0xcLvzn1D.png",
+          "name": "Wanda Pictures",
+          "origin_country": "CN"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "CN",
+          "name": "China"
         }
       ],
-      "revenue": 0,
-      "runtime": 17,
+      "revenue": 11903801,
+      "runtime": 98,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
         }
       ],
       "status": "Released",
@@ -131,120 +193,110 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/anfJJiKLeS3r75JfwqQoWmiyuTp.jpg",
+      "backdrop_path": "/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
       "genre_ids": [
-        16
+        16,
+        18,
+        14,
+        10749
       ],
-      "id": 139510,
-      "original_language": "ru",
-      "original_title": "Чучело-мяучело",
-      "overview": "Чучело-Мяучело показывает, что песня и хорошее настроение всегда помогают в работе",
-      "popularity": 0.8316,
-      "poster_path": "/rPvH9jLO0fvjRIP4P3CvyVyyIh0.jpg",
-      "release_date": "1982-01-01",
-      "title": "Чучело-мяучело",
+      "id": 568160,
+      "original_language": "ja",
+      "original_title": "天気の子",
+      "overview": "16-летний Ходака Морисима убегает из дома в Токио, где у него сразу кончаются деньги. Мало того, что без документов он не может найти работу, так ещё на улице идёт бесконечный дождь, и небо постоянно затянуто тучами. В отчаянии парень обращается к бывшему попутчику, а тот не только берёт его в свой журнал, пишущий о сверхъестественном, но и предоставляет жильё. Однажды Ходака знакомится с девушкой по имени Хина Амано, которая обладает удивительной способностью разгонять тучи и останавливать дождь.",
+      "popularity": 5.2627,
+      "poster_path": "/koEIzx6yaqrLkmmScO68s5oDAyc.jpg",
+      "release_date": "2019-07-19",
+      "title": "Дитя погоды",
       "video": false,
       "vote_average": 8,
-      "vote_count": 3,
+      "vote_count": 2547,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "",
+      "imdb_id": "tt9426210",
       "origin_country": [
-        "SU"
+        "JP"
       ],
       "production_companies": [
         {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
+          "id": 3756,
+          "logo_path": "/t38uPdbKmyBB8brKKeTFWIwojRz.png",
+          "name": "CoMix Wave Films",
+          "origin_country": "JP"
+        },
+        {
+          "id": 128616,
+          "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
+          "name": "Story",
+          "origin_country": "JP"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 8157,
+          "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+          "name": "jeki",
+          "origin_country": "JP"
+        },
+        {
+          "id": 104184,
+          "logo_path": "/reEBh8dBl2y1DbXe2EdgxtMtaim.png",
+          "name": "Lawson Entertainment",
+          "origin_country": "JP"
+        },
+        {
+          "id": 145448,
+          "logo_path": null,
+          "name": "\"Weathering With You\" Film Partners",
+          "origin_country": "JP"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "JP",
+          "name": "Japan"
         }
       ],
-      "revenue": 0,
-      "runtime": 10,
+      "revenue": 186965409,
+      "runtime": 112,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16
-      ],
-      "id": 439578,
-      "original_language": "uk",
-      "original_title": "Козлик та його горе",
-      "overview": "Кукольный мультфильм для малышей про двух неразлучных друзей - ослике и козлике. Как-то раз ослик с козликом отправились в лес и взяли с собой воздушный шарик. Они весело играли, пока не сгустились тучи. Шарик улетел и лопнул, напоровшись на колючую ветку елки. Козлик очень расстроился и заплакал. Ослик попытался утешить друга, но тот закинул мешок своим горем себе на спину и отправился в путь...",
-      "popularity": 0.1008,
-      "poster_path": "/lUCVrznuUtfVjbZr1vLv6yuGNgE.jpg",
-      "release_date": "1976-02-05",
-      "title": "Козлик и его горе",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt6484806",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 19997,
-          "logo_path": "/n1XHZgKeOC4GAGcLMAqQSr9Cchz.png",
-          "name": "Kyivnaukfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 9,
-      "spoken_languages": [
-        {
-          "english_name": "Ukrainian",
-          "iso_639_1": "uk",
-          "name": "Український"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
+      "tagline": "«Это история про тайну мироздания. Секрет, который знаем только мы с ней»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -385,6 +437,194 @@
           "english_name": "Japanese",
           "iso_639_1": "ja",
           "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 439578,
+      "original_language": "uk",
+      "original_title": "Козлик та його горе",
+      "overview": "Кукольный мультфильм для малышей про двух неразлучных друзей - ослике и козлике. Как-то раз ослик с козликом отправились в лес и взяли с собой воздушный шарик. Они весело играли, пока не сгустились тучи. Шарик улетел и лопнул, напоровшись на колючую ветку елки. Козлик очень расстроился и заплакал. Ослик попытался утешить друга, но тот закинул мешок своим горем себе на спину и отправился в путь...",
+      "popularity": 0.1008,
+      "poster_path": "/lUCVrznuUtfVjbZr1vLv6yuGNgE.jpg",
+      "release_date": "1976-02-05",
+      "title": "Козлик и его горе",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6484806",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 19997,
+          "logo_path": "/n1XHZgKeOC4GAGcLMAqQSr9Cchz.png",
+          "name": "Kyivnaukfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 9,
+      "spoken_languages": [
+        {
+          "english_name": "Ukrainian",
+          "iso_639_1": "uk",
+          "name": "Український"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wqDwHY9dL0YJLS8Jx1zhtbtMd1T.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 454130,
+      "original_language": "ru",
+      "original_title": "Снегирь",
+      "overview": "Мультипликационный фильм по мотивам стихотворения Агнии Барто о том, как мальчик мечтал о дружбе со снегирём.",
+      "popularity": 0.361,
+      "poster_path": "/sUPiWNMjZ2hrwAYc2hNm98JbJS3.jpg",
+      "release_date": "1983-04-24",
+      "title": "Снегирь",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6052538",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 10,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 11360,
+      "original_language": "en",
+      "original_title": "Dumbo",
+      "overview": "История о маленьком слоненке из цирка, родившемся с очень большими ушами, что было рассмотрено как позорное явление среди цирковых слонов. Но зато он научился летать.",
+      "popularity": 5.3643,
+      "poster_path": "/f6L0W4MndVXRTSXfrbHivtC7vFA.jpg",
+      "release_date": "1941-10-31",
+      "title": "Дамбо",
+      "video": false,
+      "vote_average": 6.988,
+      "vote_count": 5205,
+      "belongs_to_collection": null,
+      "budget": 812000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0033563",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 3166,
+          "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+          "name": "Walt Disney Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 1600000,
+      "runtime": 64,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -645,118 +885,6 @@
       "status": "Released",
       "tagline": "«Величайшее приключение в жизни — найти своё место в Круге жизни»",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
-      "genre_ids": [
-        16,
-        18,
-        14,
-        10749
-      ],
-      "id": 568160,
-      "original_language": "ja",
-      "original_title": "天気の子",
-      "overview": "16-летний Ходака Морисима убегает из дома в Токио, где у него сразу кончаются деньги. Мало того, что без документов он не может найти работу, так ещё на улице идёт бесконечный дождь, и небо постоянно затянуто тучами. В отчаянии парень обращается к бывшему попутчику, а тот не только берёт его в свой журнал, пишущий о сверхъестественном, но и предоставляет жильё. Однажды Ходака знакомится с девушкой по имени Хина Амано, которая обладает удивительной способностью разгонять тучи и останавливать дождь.",
-      "popularity": 5.2627,
-      "poster_path": "/koEIzx6yaqrLkmmScO68s5oDAyc.jpg",
-      "release_date": "2019-07-19",
-      "title": "Дитя погоды",
-      "video": false,
-      "vote_average": 8,
-      "vote_count": 2547,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt9426210",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 3756,
-          "logo_path": "/t38uPdbKmyBB8brKKeTFWIwojRz.png",
-          "name": "CoMix Wave Films",
-          "origin_country": "JP"
-        },
-        {
-          "id": 128616,
-          "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
-          "name": "Story",
-          "origin_country": "JP"
-        },
-        {
-          "id": 882,
-          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
-          "name": "TOHO",
-          "origin_country": "JP"
-        },
-        {
-          "id": 2073,
-          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
-          "name": "KADOKAWA",
-          "origin_country": "JP"
-        },
-        {
-          "id": 8157,
-          "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
-          "name": "jeki",
-          "origin_country": "JP"
-        },
-        {
-          "id": 104184,
-          "logo_path": "/reEBh8dBl2y1DbXe2EdgxtMtaim.png",
-          "name": "Lawson Entertainment",
-          "origin_country": "JP"
-        },
-        {
-          "id": 145448,
-          "logo_path": null,
-          "name": "\"Weathering With You\" Film Partners",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 186965409,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Это история про тайну мироздания. Секрет, который знаем только мы с ней»",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -1074,24 +1202,166 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+      "backdrop_path": "/o0WC3D0ayy94wRioKiFaTEIfVW0.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 306742,
+      "original_language": "ru",
+      "original_title": "Рикки-Тикки-Тави",
+      "overview": "Рикки-Тикки-Тави — мангуст, главный герой рассказа из «Книги джунглей» Редьярда Киплинга. Рикки-Тикки-Тави защищает семью приютившую его, и борется с кобрами Нагом и Нагайной, перед которымы трепещет вся округа.",
+      "popularity": 0.2772,
+      "poster_path": "/a71t4jJxgbUTdPtgRFxY9KJLAPg.jpg",
+      "release_date": "1965-12-31",
+      "title": "Рикки-Тикки-Тави",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 53,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0213197",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 20,
+      "spoken_languages": [
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/XBY0iPOFVghrFPT5I3heiToGca.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35
+      ],
+      "id": 9369,
+      "original_language": "de",
+      "original_title": "Asterix in Amerika",
+      "overview": "«Вчера будет завтра позавчера» - так говаривали мудрецы-друиды в далекие-далекие времена, когда люди считали, что Земля больше всего похожа на пиццу. Тогда был еще жив Юлий Цезарь, которому и пришла в голову мысль, как римлянам победить свободолюбивых друидов, проживавших в маленькой галльской деревушке.  По приказу императора центурион Люций похитил друида Починикса и отправил его вместе с псом Догматиксом на край света. Но за ними следом увязалась славная парочка Астерикс и Обеликс...  Снят этот и другие мультфильмы по мотивам популярного в Европе комикса о приключениях Астерикса (который никогда не снимает свой шлем - даже для того, чтобы помыть голову) и его друзей, ранее побывавших в Британии, Египте, Германии, а теперь занесенных судьбой в Новый Свет, в Америку, где жили кровожадные краснокожие индейцы!",
+      "popularity": 1.3177,
+      "poster_path": "/wQDCj9P67suPY55LA6zxgSH8QFl.jpg",
+      "release_date": "1994-09-29",
+      "title": "Астерикс завоёвывает Америку",
+      "video": false,
+      "vote_average": 6.207,
+      "vote_count": 629,
+      "belongs_to_collection": {
+        "id": 94039,
+        "name": "Астерикс и Обеликс (Коллекция мультфильмов)",
+        "poster_path": "/mJ85mdtrQl2LWTNAHHcSJC55dcs.jpg",
+        "backdrop_path": "/vJH09M0PoZVdeMGnNzaeFAcsQV8.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0109162",
+      "origin_country": [
+        "DE"
+      ],
+      "production_companies": [
+        {
+          "id": 218133,
+          "logo_path": null,
+          "name": "Extrafilm Produktion",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        }
+      ],
+      "revenue": 768488,
+      "runtime": 85,
+      "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/exBcJAbHVqG7LlEC0ASK29iP2wc.jpg",
       "genre_ids": [
         16,
         10751
       ],
-      "id": 11360,
-      "original_language": "en",
-      "original_title": "Dumbo",
-      "overview": "История о маленьком слоненке из цирка, родившемся с очень большими ушами, что было рассмотрено как позорное явление среди цирковых слонов. Но зато он научился летать.",
-      "popularity": 5.3643,
-      "poster_path": "/f6L0W4MndVXRTSXfrbHivtC7vFA.jpg",
-      "release_date": "1941-10-31",
-      "title": "Дамбо",
+      "id": 295876,
+      "original_language": "ru",
+      "original_title": "Как стать большим",
+      "overview": "Мультфильм рассказывает про одного маленького котёнка, который очень сильно хотел побыстрее вырасти.",
+      "popularity": 0.2511,
+      "poster_path": "/e2csn44AfsPKbj3CBzSFAH6fSRv.jpg",
+      "release_date": "1967-10-01",
+      "title": "Как стать большим",
       "video": false,
-      "vote_average": 6.988,
-      "vote_count": 5205,
+      "vote_average": 3,
+      "vote_count": 2,
       "belongs_to_collection": null,
-      "budget": 812000,
+      "budget": 0,
       "genres": [
         {
           "id": 16,
@@ -1102,16 +1372,170 @@
           "name": "семейный"
         }
       ],
+      "homepage": "https://www.wikidata.org/wiki/Q21640011",
+      "imdb_id": "tt6071076",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 233434,
+          "logo_path": null,
+          "name": "Творческое объединение кукольных фильмов",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 10,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/itWvRDtkuBVBy9Ra2PMLVobKpBc.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 454075,
+      "original_language": "ru",
+      "original_title": "Приключения запятой и точки",
+      "overview": "Лентяй и тунеядец Борька получил очередную двойку за диктант. Ох уж эта Анна Петровна – так недолго из человека второгодника сделать! Как же состряпать из двойки тройку? Долго думал Борис, сидя над исчерченной красными чернилами тетрадкой. А решение-то было на поверхности. Нужно там, где учительница поставила знаки препинания подставить свои, а на следующий день обвинить ее в невнимательности. Отрепетировав завтрашнюю речь и немного перекусив, радостный Борис отправился на улицу играть в казаки-разбойники. Как только мальчик скрывается за дверью, знаки препинания в его тетради тут же оживают. Точки, запятые, многоточия, восклицательные и вопросительные знаки собирают совет и придумывают, как проучить нерадивого ученика.",
+      "popularity": 0.4606,
+      "poster_path": "/PEOv3gPk5aWwDFiOar6ek9AZID.jpg",
+      "release_date": "1965-04-24",
+      "title": "Приключения запятой и точки",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
       "homepage": "",
-      "imdb_id": "tt0033563",
+      "imdb_id": "tt5520976",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 15,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12
+      ],
+      "id": 9444,
+      "original_language": "en",
+      "original_title": "Anastasia",
+      "overview": "Анастасия — дочка последнего русского царя Николая, погубленного зловещим Распутиным. Ей удается спастись, добраться вместе с бабушкой до переполненного вокзала и… потеряться в толпе. Проходит десять лет. Анастасия стала взрослой красавицей и теперь хочет попасть в Париж. Сможет ли царевна осуществить задуманное? Ведь Распутин уже поднялся из своей могилы…",
+      "popularity": 7.117,
+      "poster_path": "/mB35WDmG2IBMxH4ZfQA14JOtwzZ.jpg",
+      "release_date": "1997-11-20",
+      "title": "Анастасия",
+      "video": false,
+      "vote_average": 7.607,
+      "vote_count": 5530,
+      "belongs_to_collection": {
+        "id": 920650,
+        "name": "Анастасия (Коллекция)",
+        "poster_path": "/cx4zcRSghd5655k4HYaOhCphtLU.jpg",
+        "backdrop_path": "/71MV737vocwbM55qKIv5kn838y3.jpg"
+      },
+      "budget": 53000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0118617",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 3166,
-          "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
-          "name": "Walt Disney Productions",
+          "id": 11231,
+          "logo_path": "/gFIZF17T7M5OLJghntozPql6Az6.png",
+          "name": "Fox Animation Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
           "origin_country": "US"
         }
       ],
@@ -1121,18 +1545,28 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 1600000,
-      "runtime": 64,
+      "revenue": 139804348,
+      "runtime": 94,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
+      "tagline": "«Откройте для себя приключение за величайшей тайной нашего времени»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
