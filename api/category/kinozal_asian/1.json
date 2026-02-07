@@ -5,30 +5,36 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 104,
+  "total": 103,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/tEqeyPPBJfyDJl0lO08YiqefYqd.jpg",
+      "backdrop_path": "/sAnpF9jooAGWA8pwuMK4aX2uLvA.jpg",
       "genre_ids": [
+        28,
         18,
         80,
-        10749
+        53,
+        27
       ],
-      "id": 24163,
-      "original_language": "cn",
-      "original_title": "旺角卡門",
-      "overview": "Гангстеру средней руки приходится делать выбор между любовью к женщине и верностью идеалам мужской дружбы. В первом случае долгое счастье в семейном союзе во втором — смерть в качестве расплаты за доблесть.",
-      "popularity": 2.6574,
-      "poster_path": "/xVN7NFuCzAgtlgplZtqGhqrlLsa.jpg",
-      "release_date": "1988-06-09",
-      "title": "Пока не высохнут слезы",
+      "id": 1244244,
+      "original_language": "ja",
+      "original_title": "Cloud クラウド",
+      "overview": "Молодой человек, занимающийся перепродажей вещей в интернете, начинает чувствовать смутную угрозу и вместе со своей девушкой переезжает из Токио в загородный дом. Но и тут он оказывается не в безопасности.",
+      "popularity": 10.133,
+      "poster_path": "/vI1zN4XA4MLPuPS9ZFAAlkXjAKc.jpg",
+      "release_date": "2024-09-27",
+      "title": "Облако",
       "video": false,
-      "vote_average": 6.925,
-      "vote_count": 358,
+      "vote_average": 6.808,
+      "vote_count": 86,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
         {
           "id": 18,
           "name": "драма"
@@ -38,41 +44,421 @@
           "name": "криминал"
         },
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0096461",
+      "imdb_id": "tt32828123",
       "origin_country": [
-        "HK"
+        "JP"
       ],
       "production_companies": [
         {
-          "id": 7517,
-          "logo_path": null,
-          "name": "In-Gear Film Production Co. Ltd.",
-          "origin_country": "HK"
+          "id": 955,
+          "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+          "name": "Nikkatsu Corporation",
+          "origin_country": "JP"
+        },
+        {
+          "id": 146106,
+          "logo_path": "/eW8K469XBEJdaHtzgLe2r0IxZim.png",
+          "name": "Django Film",
+          "origin_country": "JP"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 1011386,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mWcJFpg74fi1QM5W24NhNFAoOV7.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        12,
+        27
+      ],
+      "id": 746808,
+      "original_language": "ja",
+      "original_title": "妖怪大戦争 ガーディアンズ",
+      "overview": "Пятиклассник, в венах которого течет кровь охотника на ёкаев, внезапно переносится в фэнтезийный мир, где ему придется возглавить битву одних монстров против других.",
+      "popularity": 1.2091,
+      "poster_path": "/5OwA4ZNCStdzKoffRK7grzK78Pq.jpg",
+      "release_date": "2021-07-01",
+      "title": "Великая битва ёкаев: Защитники",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 15,
+      "belongs_to_collection": {
+        "id": 812298,
+        "name": "妖怪大戦争シリーズ",
+        "poster_path": "/iIwkB72xu2rXm8au9KMgZ4vlC7v.jpg",
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt13967368",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 5372,
+          "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+          "name": "OLM",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
         }
       ],
       "revenue": 0,
-      "runtime": 98,
+      "runtime": 118,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ci07vpCfIojR3LiSEwAKy4jwx7j.jpg",
+      "genre_ids": [
+        80,
+        18,
+        35
+      ],
+      "id": 13899,
+      "original_language": "ja",
+      "original_title": "DEAD OR ALIVE 2 逃亡者",
+      "overview": "Двое наемных убийц, друзья детства, случайно оказываются в родных местах после неудачного покушения. при этом обоих разыскивают якудза с одной стороны и, наркодилеры, с другой.",
+      "popularity": 0.7071,
+      "poster_path": "/m2T8lXo6gjMcnTG7aHPzmZC8L7B.jpg",
+      "release_date": "2000-12-02",
+      "title": "Живым или мертвым 2",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 100,
+      "belongs_to_collection": {
+        "id": 192532,
+        "name": "Dead or Alive Collection",
+        "poster_path": "/hh7mpirp3imQWBqU66jj9fPAoWW.jpg",
+        "backdrop_path": "/8pnIDTXjw71wUdbiUVZLAhRcqxj.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0285005",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 9221,
+          "logo_path": "/7hEAueutGnsQUyUGnp5zQ1YmCrO.png",
+          "name": "Toei Video Company",
+          "origin_country": "JP"
+        },
+        {
+          "id": 9222,
+          "logo_path": null,
+          "name": "Excellent Film",
+          "origin_country": ""
+        },
+        {
+          "id": 880,
+          "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+          "name": "Daiei Film",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uXCJQ6hEYAPcoV3LuD8m3vZC1OY.jpg",
+      "genre_ids": [
+        28,
+        35,
+        878,
+        80
+      ],
+      "id": 36222,
+      "original_language": "ja",
+      "original_title": "DEAD OR ALIVE FINAL",
+      "overview": "Год 2346-й. В кошмарном мире будущего люди соседствуют с киборгами, ставшими могущественным оружием тоталитарного государства. Здесь заправляет жестокий безумец, диктующий всем свою волю и нещадно карающий непокорных.  Ничто не может пошатнуть власть злодея, но вскоре его владения станут ареной беспощадной битвы двух несокрушимых репликантов, чья вечная вражда вплотную приблизит человечество к чудовищному апокалипсису.",
+      "popularity": 0.4219,
+      "poster_path": "/pKQYwkJweRdFRMAso5AgTA3iZxE.jpg",
+      "release_date": "2002-01-12",
+      "title": "Живым или мертвым 3",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 66,
+      "belongs_to_collection": {
+        "id": 192532,
+        "name": "Dead or Alive Collection",
+        "poster_path": "/hh7mpirp3imQWBqU66jj9fPAoWW.jpg",
+        "backdrop_path": "/8pnIDTXjw71wUdbiUVZLAhRcqxj.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0301167",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 9222,
+          "logo_path": null,
+          "name": "Excellent Film",
+          "origin_country": ""
+        },
+        {
+          "id": 9221,
+          "logo_path": "/7hEAueutGnsQUyUGnp5zQ1YmCrO.png",
+          "name": "Toei Video Company",
+          "origin_country": "JP"
+        },
+        {
+          "id": 880,
+          "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+          "name": "Daiei Film",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 89,
       "spoken_languages": [
         {
           "english_name": "Cantonese",
           "iso_639_1": "cn",
           "name": "广州话 / 廣州話"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cA9Zr9lox5HBNJ5Ko0eyxQkTh3H.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 11315,
+      "original_language": "ja",
+      "original_title": "DEAD OR ALIVE 犯罪者",
+      "overview": "Банда Рюичи стремится обрести свое место под солнцем: грабит банки, устраивает разборки с китайскими и японскими гангстерами, пытается взять под контроль пригороды Токио и поставку наркотиков с Тайваня.",
+      "popularity": 2.4258,
+      "poster_path": "/wNYJncgWZey94FoOLDemz2xd0jh.jpg",
+      "release_date": "1999-11-27",
+      "title": "Живым или мёртвым",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 171,
+      "belongs_to_collection": {
+        "id": 192532,
+        "name": "Dead or Alive Collection",
+        "poster_path": "/hh7mpirp3imQWBqU66jj9fPAoWW.jpg",
+        "backdrop_path": "/8pnIDTXjw71wUdbiUVZLAhRcqxj.jpg"
+      },
+      "budget": 4615,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0221111",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 9221,
+          "logo_path": "/7hEAueutGnsQUyUGnp5zQ1YmCrO.png",
+          "name": "Toei Video Company",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 105,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_asian"
@@ -916,268 +1302,50 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/mWcJFpg74fi1QM5W24NhNFAoOV7.jpg",
+      "backdrop_path": "/993ZXFkyHGltND6AvlrVlVsveyM.jpg",
       "genre_ids": [
-        14,
-        10751,
-        12,
-        27
+        28
       ],
-      "id": 746808,
-      "original_language": "ja",
-      "original_title": "妖怪大戦争 ガーディアンズ",
-      "overview": "Пятиклассник, в венах которого течет кровь охотника на ёкаев, внезапно переносится в фэнтезийный мир, где ему придется возглавить битву одних монстров против других.",
-      "popularity": 1.2091,
-      "poster_path": "/5OwA4ZNCStdzKoffRK7grzK78Pq.jpg",
-      "release_date": "2021-07-01",
-      "title": "Великая битва ёкаев: Защитники",
+      "id": 12481,
+      "original_language": "zh",
+      "original_title": "唐山大兄",
+      "overview": "Герой Брюса Ли устраивается на фабрику по изготовлению льда и старается вести себя хорошо и не пускать в ход кулаки ярости. Но когда таинственно исчезают его родственники (их убивают как нежелательных свидетелей преступлений наркомафии — они видели, как в глыбы льда упаковывают наркотики), Брюс запускает в дело не только кулаки, но и ноги ярости.",
+      "popularity": 5.2297,
+      "poster_path": "/pSRVSWj4GPbCMCTDUEtFK8qOAkg.jpg",
+      "release_date": "1971-10-23",
+      "title": "Большой босс",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 15,
-      "belongs_to_collection": {
-        "id": 812298,
-        "name": "妖怪大戦争シリーズ",
-        "poster_path": "/iIwkB72xu2rXm8au9KMgZ4vlC7v.jpg",
-        "backdrop_path": null
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt13967368",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 5372,
-          "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
-          "name": "OLM",
-          "origin_country": "JP"
-        },
-        {
-          "id": 2073,
-          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
-          "name": "KADOKAWA",
-          "origin_country": "JP"
-        },
-        {
-          "id": 882,
-          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
-          "name": "TOHO",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 118,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ci07vpCfIojR3LiSEwAKy4jwx7j.jpg",
-      "genre_ids": [
-        80,
-        18,
-        35
-      ],
-      "id": 13899,
-      "original_language": "ja",
-      "original_title": "DEAD OR ALIVE 2 逃亡者",
-      "overview": "Двое наемных убийц, друзья детства, случайно оказываются в родных местах после неудачного покушения. при этом обоих разыскивают якудза с одной стороны и, наркодилеры, с другой.",
-      "popularity": 0.7071,
-      "poster_path": "/m2T8lXo6gjMcnTG7aHPzmZC8L7B.jpg",
-      "release_date": "2000-12-02",
-      "title": "Живым или мертвым 2",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 100,
-      "belongs_to_collection": {
-        "id": 192532,
-        "name": "Dead or Alive Collection",
-        "poster_path": "/hh7mpirp3imQWBqU66jj9fPAoWW.jpg",
-        "backdrop_path": "/8pnIDTXjw71wUdbiUVZLAhRcqxj.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0285005",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 9221,
-          "logo_path": "/7hEAueutGnsQUyUGnp5zQ1YmCrO.png",
-          "name": "Toei Video Company",
-          "origin_country": "JP"
-        },
-        {
-          "id": 9222,
-          "logo_path": null,
-          "name": "Excellent Film",
-          "origin_country": ""
-        },
-        {
-          "id": 880,
-          "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
-          "name": "Daiei Film",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uXCJQ6hEYAPcoV3LuD8m3vZC1OY.jpg",
-      "genre_ids": [
-        28,
-        35,
-        878,
-        80
-      ],
-      "id": 36222,
-      "original_language": "ja",
-      "original_title": "DEAD OR ALIVE FINAL",
-      "overview": "Год 2346-й. В кошмарном мире будущего люди соседствуют с киборгами, ставшими могущественным оружием тоталитарного государства. Здесь заправляет жестокий безумец, диктующий всем свою волю и нещадно карающий непокорных.  Ничто не может пошатнуть власть злодея, но вскоре его владения станут ареной беспощадной битвы двух несокрушимых репликантов, чья вечная вражда вплотную приблизит человечество к чудовищному апокалипсису.",
-      "popularity": 0.4219,
-      "poster_path": "/pKQYwkJweRdFRMAso5AgTA3iZxE.jpg",
-      "release_date": "2002-01-12",
-      "title": "Живым или мертвым 3",
-      "video": false,
-      "vote_average": 5.6,
-      "vote_count": 66,
-      "belongs_to_collection": {
-        "id": 192532,
-        "name": "Dead or Alive Collection",
-        "poster_path": "/hh7mpirp3imQWBqU66jj9fPAoWW.jpg",
-        "backdrop_path": "/8pnIDTXjw71wUdbiUVZLAhRcqxj.jpg"
-      },
-      "budget": 0,
+      "vote_average": 7.069,
+      "vote_count": 802,
+      "belongs_to_collection": null,
+      "budget": 100000,
       "genres": [
         {
           "id": 28,
           "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0301167",
+      "imdb_id": "tt0067824",
       "origin_country": [
-        "JP"
+        "HK"
       ],
       "production_companies": [
         {
-          "id": 9222,
-          "logo_path": null,
-          "name": "Excellent Film",
-          "origin_country": ""
-        },
-        {
-          "id": 9221,
-          "logo_path": "/7hEAueutGnsQUyUGnp5zQ1YmCrO.png",
-          "name": "Toei Video Company",
-          "origin_country": "JP"
-        },
-        {
-          "id": 880,
-          "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
-          "name": "Daiei Film",
-          "origin_country": "JP"
+          "id": 2521,
+          "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+          "name": "Orange Sky Golden Harvest",
+          "origin_country": "HK"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "JP",
-          "name": "Japan"
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
         }
       ],
       "revenue": 0,
-      "runtime": 89,
+      "runtime": 102,
       "spoken_languages": [
         {
           "english_name": "Cantonese",
@@ -1185,9 +1353,100 @@
           "name": "广州话 / 廣州話"
         },
         {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "Vietnamese",
+          "iso_639_1": "vi",
+          "name": "Tiếng Việt"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vwhu3PxKZ577xwbG7iIE90VYqy4.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 39913,
+      "original_language": "en",
+      "original_title": "滅絕七七",
+      "overview": "Испанские ученые создают уникальное вещество, способное сделать бесплодным все человечество. Об этом становится известно некой международной организации, сотрудники которой похищают вещество. В погоню за ними отправляются два агента ЦРУ Хуан Лун и Ричард Кэннон. Они должны перехватить курьера во время передачи формулы, которая должна состояться во время корриды. Однако злодеям удается обмануть шпионов. Формула отправляется в Гонконг. Лун и Кэннон продолжают преследовать завладевших ей преступников, но в игру включаются еще и агенты вьетнамской разведки, которым тоже очень нужно средство тотального контроля рождаемости.",
+      "popularity": 0.7162,
+      "poster_path": "/phjkAeEYZelY1PECsvPfvYJ3XsD.jpg",
+      "release_date": "1980-01-01",
+      "title": "Гимката-убийца",
+      "video": false,
+      "vote_average": 5.545,
+      "vote_count": 44,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0077645",
+      "origin_country": [
+        "US",
+        "HK"
+      ],
+      "production_companies": [
+        {
+          "id": 31187,
+          "logo_path": null,
+          "name": "Spectacular Trading Company",
+          "origin_country": ""
+        },
+        {
+          "id": 31188,
+          "logo_path": null,
+          "name": "Dragon Films Company",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         },
         {
           "english_name": "English",
@@ -1197,7 +1456,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_asian"
@@ -1205,153 +1464,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cA9Zr9lox5HBNJ5Ko0eyxQkTh3H.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 11315,
-      "original_language": "ja",
-      "original_title": "DEAD OR ALIVE 犯罪者",
-      "overview": "Банда Рюичи стремится обрести свое место под солнцем: грабит банки, устраивает разборки с китайскими и японскими гангстерами, пытается взять под контроль пригороды Токио и поставку наркотиков с Тайваня.",
-      "popularity": 2.4258,
-      "poster_path": "/wNYJncgWZey94FoOLDemz2xd0jh.jpg",
-      "release_date": "1999-11-27",
-      "title": "Живым или мёртвым",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 171,
-      "belongs_to_collection": {
-        "id": 192532,
-        "name": "Dead or Alive Collection",
-        "poster_path": "/hh7mpirp3imQWBqU66jj9fPAoWW.jpg",
-        "backdrop_path": "/8pnIDTXjw71wUdbiUVZLAhRcqxj.jpg"
-      },
-      "budget": 4615,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0221111",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 9221,
-          "logo_path": "/7hEAueutGnsQUyUGnp5zQ1YmCrO.png",
-          "name": "Toei Video Company",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gZF6fDtE71Fi3AGcF0PSQAxCgE3.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 1552819,
-      "original_language": "zh",
-      "original_title": "Assassin",
-      "overview": "Китай, время правления династии Танг. Главная героиня — убийца, влюбившаяся в человека, которого ей приказано убить.",
-      "popularity": 6.2632,
-      "poster_path": "/rPN5AWUJQ5N49bCPkNnq2rBlEIo.jpg",
-      "release_date": "2025-09-26",
-      "title": "Время убийц",
-      "video": false,
-      "vote_average": 4.556,
-      "vote_count": 9,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36350780",
-      "origin_country": [
-        "CN"
-      ],
-      "production_companies": [],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 0,
-      "spoken_languages": [],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/f6uIhC04AztdceS7gn6dvxNkKW3.jpg",
+      "backdrop_path": "/zeMMVjOFwXPfRIW6HzaEr0UQlRY.jpg",
       "genre_ids": [
         27,
-        35,
-        18
+        53
       ],
-      "id": 1244810,
+      "id": 1194963,
       "original_language": "ko",
-      "original_title": "아메바 소녀들과 학교괴담: 개교기념일",
-      "overview": "Не блещущая оценками старшеклассница Чи-ён случайно посмотрела кассету 1998 года, где её предшественницы играют в школе в прятки с призраком. Девушка выясняет, что все они получили высший балл на экзамене, а также, что раз она видела запись, теперь ей нужно сыграть с призраком или он будет её преследовать. Поделившись с подругами-двоечницами, Чи-ён и подумать не могла, что они специально посмотрят проклятую кассету, чтобы вынудить её играть и всем получить шанс сдать экзамен.",
-      "popularity": 0.9729,
-      "poster_path": "/eE0PFbxZQDYBC0StuzeUi6iOFoi.jpg",
-      "release_date": "2024-11-06",
-      "title": "Звонок. Последняя сессия",
+      "original_title": "노이즈",
+      "overview": "Две сестры недавно переехали. Когда одна из них бесследно исчезает прямо из квартиры, вторая начинает поиски. Кажется, с этим связан загадочный шум.",
+      "popularity": 64.0222,
+      "poster_path": "/qOtGHuPpLvz3uUGJbM8M2bmMklA.jpg",
+      "release_date": "2025-06-25",
+      "title": "Паранормальное явление. Шум",
       "video": false,
-      "vote_average": 6.667,
-      "vote_count": 6,
-      "belongs_to_collection": {
-        "id": 1365931,
-        "name": "아메바 소녀들과 학교괴담 시리즈",
-        "poster_path": null,
-        "backdrop_path": null
-      },
+      "vote_average": 6.3,
+      "vote_count": 34,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
@@ -1359,24 +1488,26 @@
           "name": "ужасы"
         },
         {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt34136712",
+      "imdb_id": "tt29845247",
       "origin_country": [
         "KR"
       ],
       "production_companies": [
         {
-          "id": 97992,
-          "logo_path": "/o1yPUFePlaFj9iJjm7CHm6Hjyh2.png",
-          "name": "26 Company",
+          "id": 11590,
+          "logo_path": "/7OOrgnVw0RAX3tq8ikWUmNud8qT.png",
+          "name": "Finecut",
+          "origin_country": "KR"
+        },
+        {
+          "id": 175846,
+          "logo_path": "/nvDW10govwZjHWfYMeisgHhyZg0.png",
+          "name": "BY4M Studio",
           "origin_country": "KR"
         }
       ],
@@ -1386,84 +1517,13 @@
           "name": "South Korea"
         }
       ],
-      "revenue": 0,
-      "runtime": 90,
+      "revenue": 12199988,
+      "runtime": 104,
       "spoken_languages": [
         {
           "english_name": "Korean",
           "iso_639_1": "ko",
           "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sd6ubptU7n0iWYSn9a0tHl1bVpb.jpg",
-      "genre_ids": [
-        18,
-        36,
-        10749
-      ],
-      "id": 43349,
-      "original_language": "ja",
-      "original_title": "地獄門",
-      "overview": "В 1159 году, во время попытки переворота, преданный сёгуну самурай помогает бежать из города придворной даме.  После того, как переворот терпит неудачу, самурай просит, чтобы ему позволили жениться на этой женщине в качестве награды. Но оказывается, что она уже замужем за одним из подданных сёгуна.  Самурай не оставляет своего желания и просит женщину бросить мужа, а затем сам бросает ему вызов. И хотя муж и жена ведут себя совершенно спокойно, самурай упрямится и не может больше сдерживать свои чувства, что приводит к трагическим последствиям.",
-      "popularity": 1.2829,
-      "poster_path": "/q0Vf3B5et9yZ1r6xaPjsnmmpBUT.jpg",
-      "release_date": "1953-10-30",
-      "title": "Врата ада",
-      "video": false,
-      "vote_average": 7.109,
-      "vote_count": 92,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0045935",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 880,
-          "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
-          "name": "Daiei Film",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 89,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
         }
       ],
       "status": "Released",

@@ -9,58 +9,94 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [],
-      "id": 307041,
+      "backdrop_path": "/zAIUqLWq4isSKROYO25pPhMoawT.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 301185,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Шальной отдел",
-      "overview": "Оперативник Кирилл Шальной живет и действует в полном соответствии со своей фамилией, которую ему дали в детдоме. Это и помогает ему, и в то же время мешает. Тяга к экстриму определила выбор профессии. Став взрослым, Кирилл пошел работать в полицию, где дослужился до замначальника ОУР одного из центральных УМВД.\n\nВ личной жизни Шального всё не так радужно. Несколько лет назад ему улыбнулась удача, и первая красавица отдела полиции — дознаватель Елизавета ответила «да» на его предложение руки и сердца. Но спустя время отношения между ними остыли. К тому же новый начальник УМВД стал назойливо ухаживать за Елизаветой. Кирилл не стерпел такого удара по самолюбию и на корпоративе дал начальнику по физиономии. Начальник пообещал, что этого просто так не оставит, и слово свое сдержал. Успешного опера перевели на службу в захудалый спальный район. Кирилла на новом месте ждет самый неласковый прием.",
-      "popularity": 0.0382,
-      "poster_path": "/9Ue37JprF1xud5rG67dxq2s7gIT.jpg",
-      "first_air_date": "2025-11-30",
-      "name": "Шальной отдел",
+      "original_name": "Смешная история",
+      "overview": "Каким мог быть наш мир, если бы Петр I прорубил окно к маркетплейсам, Екатерина II выбирала фаворитов в мобильном приложении, а Иван Грозный проходил онлайн-терапию с психологом, смотрите в 1 сезоне «Смешной истории».",
+      "popularity": 0.7533,
+      "poster_path": "/AbN4LeWt5SqM5439FtarBw1eqcX.jpg",
+      "first_air_date": "2023-10-31",
+      "name": "Смешная история",
       "vote_average": 0,
       "vote_count": 0,
       "created_by": [],
       "episode_run_time": [],
-      "genres": [],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
       "homepage": "",
       "in_production": true,
       "languages": [],
-      "last_air_date": "2025-11-30",
+      "last_air_date": "2025-07-17",
       "last_episode_to_air": {
-        "id": 6738448,
-        "name": "Сезон охоты",
-        "overview": "Во время охоты убит менеджер крупной фирмы Куприн. Под подозрением трое его коллег, охотившихся вместе с ним. Но баллистики не находят никаких улик и вещдоков, да и сами подозреваемые вряд ли могли совершить точный выстрел. Может быть, всё дело в личных отношениях или в недовольных клиентах?",
+        "id": 6543492,
+        "name": "Серия 18",
+        "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2025-11-30",
+        "air_date": "2025-07-17",
         "episode_number": 10,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 307041,
+        "runtime": 17,
+        "season_number": 2,
+        "show_id": 301185,
         "still_path": null
       },
       "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 10,
-      "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
+      "networks": [
+        {
+          "id": 7286,
+          "logo_path": "/mbZrfXJBiuHmeM4n5eUvcsvaJVl.png",
+          "name": "Rutube",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 18,
+      "number_of_seasons": 2,
+      "production_companies": [
+        {
+          "id": 119813,
+          "logo_path": "/iyGJzcnWXZoNxYLzZu4jKzxIoFw.png",
+          "name": "Premier Studios",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
       "seasons": [
         {
-          "air_date": "2025-11-30",
-          "episode_count": 10,
-          "id": 487160,
-          "name": "Первый сезон",
+          "air_date": "2023-10-31",
+          "episode_count": 8,
+          "id": 476246,
+          "name": "Season 1",
           "overview": "",
           "poster_path": null,
           "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2025-05-15",
+          "episode_count": 10,
+          "id": 476248,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 2,
           "vote_average": 0
         }
       ],

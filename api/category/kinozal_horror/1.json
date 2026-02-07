@@ -5,69 +5,8 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 122,
+  "total": 123,
   "items": [
-    {
-      "adult": false,
-      "backdrop_path": "/2MxSGLOP5CLz7saqqm9pRhDGZgE.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1391899,
-      "original_language": "en",
-      "original_title": "Traction Park Massacre",
-      "overview": "Веселая компания отправляется на поиски заброшенного парка развлечений, с которым связана жуткая история — 15 лет назад он был закрыт из-за постоянных проблем с аттракционами: они калечили и даже убивали посетителей…",
-      "popularity": 0.2679,
-      "poster_path": "/s2YEmDfowJdpsxC7xv0v8ECTv9i.jpg",
-      "release_date": "2026-01-01",
-      "title": "Пункт назначения: Новый аттракцион",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 1000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32204819",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 273284,
-          "logo_path": null,
-          "name": "Terror Twins",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 86,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Праздник к нам приходит»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
     {
       "adult": false,
       "backdrop_path": "/5FHBHV7B3TywgBvIzUDqiY8FDtA.jpg",
@@ -124,6 +63,110 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5V0v8Gh2JEBycQ7TNgocEv3i0PN.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 5237,
+      "original_language": "en",
+      "original_title": "Dust Devil",
+      "overview": "Древний демон, заключенный в оболочку из человеческой плоти, бродит по пустыне и совершает ритуальные убийства тех, кто решил самостоятельно расстаться с жизнью. Очередной его жертвой должна быть сбежавшая от мужа женщина. Та легко становится любовницей демона, но стать его жертвенным ягненком не согласна.",
+      "popularity": 4.974,
+      "poster_path": "/59pEswv24gaJk1BZ6s7o7NnceVf.jpg",
+      "release_date": "1992-07-11",
+      "title": "Дьявол песков",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 145,
+      "belongs_to_collection": null,
+      "budget": 8000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0104155",
+      "origin_country": [
+        "US",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 12745,
+          "logo_path": null,
+          "name": "British Screen Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 927,
+          "logo_path": null,
+          "name": "Palace Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 6282,
+          "logo_path": null,
+          "name": "Shadow Theatre Films",
+          "origin_country": ""
+        },
+        {
+          "id": 14,
+          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+          "name": "Miramax",
+          "origin_country": "US"
+        },
+        {
+          "id": 6705,
+          "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+          "name": "Film4 Productions",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "NA",
+          "name": "Namibia"
+        },
+        {
+          "iso_3166_1": "ZA",
+          "name": "South Africa"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Он не серийный убийца. Он намного хуже»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -565,7 +608,7 @@
       ],
       "status": "Released",
       "tagline": "«Верь его инстинктам»",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -573,228 +616,62 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/3r3tZgKTw1554hcFoUfydLHE38w.jpg",
+      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
       "genre_ids": [
-        27,
-        53
-      ],
-      "id": 338947,
-      "original_language": "en",
-      "original_title": "Hellraiser",
-      "overview": "Райли борется с алкогольной зависимостью и живёт за счёт брата. Однажды, поддавшись на уговоры бойфренда, предложившего взломать неохраняемый контейнер, в котором скорее всего содержится что-то ценное, девушка вместе с ним проникает в хранилище и находит там странную головоломку, похожую на кубик Рубика. Вещица зачаровывает Райли, она начинает крутить её части, не подозревая, что таким образом можно вызвать сенобитов — ужасающих существ с садистскими наклонностями из другого измерения.",
-      "popularity": 3.6672,
-      "poster_path": "/ilnU4WxSpkmZgeFuQR1JZntoGvx.jpg",
-      "release_date": "2022-09-28",
-      "title": "Восставший из ада",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 955,
-      "belongs_to_collection": null,
-      "budget": 14000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0887261",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 423,
-          "logo_path": "/uvA6e2O31qaonsbYd8tjvgqmNXh.png",
-          "name": "Phantom Four",
-          "origin_country": "US"
-        },
-        {
-          "id": 143790,
-          "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
-          "name": "Spyglass Media Group",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 10303,
-      "runtime": 121,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        9648,
-        878,
         27
       ],
-      "id": 1294484,
+      "id": 1038392,
       "original_language": "en",
-      "original_title": "The Black-Eyed Children",
-      "overview": "Девушка устраивается в осенний лагерь в лесу, но по приезду обнаруживает, что все дети таинственным образом исчезли. Однако с наступлением ночи, к её ужасу, некоторые из них возвращаются.",
-      "popularity": 0.3229,
-      "poster_path": "/lpopmxi32iaDRDcmto8X2yDvqYc.jpg",
-      "release_date": "2025-06-20",
-      "title": "Дети с чёрными глазами",
+      "original_title": "The Conjuring: Last Rites",
+      "overview": "Исследователи паранормальных явлений Эд и Лоррейн Уоррен берутся за самый тревожный случай в своей практике. Семья переезжает в новый дом своей мечты, но вскоре их жилище начинает проявлять признаки демонической активности, превращая жизнь в кошмар.",
+      "popularity": 42.0032,
+      "poster_path": "/1DPYceqs7OuKgUD13vrPFZ2SYRd.jpg",
+      "release_date": "2025-09-03",
+      "title": "Заклятие 4: Последний обряд",
       "video": false,
-      "vote_average": 3,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.936,
+      "vote_count": 1536,
+      "belongs_to_collection": {
+        "id": 313086,
+        "name": "Заклятие (Коллекция)",
+        "poster_path": "/uC6w0yuQJJNtFO3IkB9ZsQYmpsz.jpg",
+        "backdrop_path": "/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg"
+      },
+      "budget": 55000000,
       "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
         {
           "id": 27,
           "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt28813562",
-      "origin_country": [
-        "HU",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 241357,
-          "logo_path": null,
-          "name": "Lentsch Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 83084,
-          "logo_path": "/sy1Kzen4IaLMw41Qfd0N76Sz2oJ.png",
-          "name": "Elekes Pictures",
-          "origin_country": "HU"
-        },
-        {
-          "id": 241358,
-          "logo_path": null,
-          "name": "Chizfilm Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 225879,
-          "logo_path": "/jqvabQhQOD1F3YIoIyNQxJY5lQE.png",
-          "name": "Car Trek",
-          "origin_country": "US"
-        },
-        {
-          "id": 241359,
-          "logo_path": null,
-          "name": "Rix Cafe Texican",
-          "origin_country": ""
-        },
-        {
-          "id": 214499,
-          "logo_path": null,
-          "name": "McClurg Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 222917,
-          "logo_path": null,
-          "name": "Nguyen Bros. Production",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "HU",
-          "name": "Hungary"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 70,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yo1DleICj1CLlUjXymo5pNMJDFd.jpg",
-      "genre_ids": [
-        53,
-        27
-      ],
-      "id": 1547527,
-      "original_language": "en",
-      "original_title": "Stay",
-      "overview": "Супруги, находящиеся на грани развода, начинают сталкиваться со сверхъестественными силами, которые заставляют их бороться за свою жизнь.",
-      "popularity": 2.3387,
-      "poster_path": "/kRMzvzxjClWJn7bQtaRLQ2qhb6c.jpg",
-      "release_date": "2025-10-07",
-      "title": "Останься",
-      "video": false,
-      "vote_average": 3.9,
-      "vote_count": 7,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt38039379",
+      "imdb_id": "tt22898462",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 171448,
-          "logo_path": "/aXSGAQV5jrGBfiunrmF8CQJqYEb.png",
-          "name": "Andscape",
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 76907,
+          "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+          "name": "Atomic Monster",
+          "origin_country": "US"
+        },
+        {
+          "id": 11565,
+          "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+          "name": "The Safran Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
           "origin_country": "US"
         }
       ],
@@ -804,8 +681,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 98,
+      "revenue": 494653512,
+      "runtime": 135,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -814,8 +691,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
+      "tagline": "Готовьтесь к концу",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -1062,6 +939,154 @@
       ],
       "status": "Released",
       "tagline": "«Богачам здесь не место»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s2cr7tLYWzfyHi56xxq21OXOzpf.jpg",
+      "genre_ids": [
+        878,
+        35,
+        27
+      ],
+      "id": 48302,
+      "original_language": "en",
+      "original_title": "Bad Channels",
+      "overview": "Что от нас нужно инопланетянам? Деньги? Землю? Воздух? Земные женщины! У них там какой-то монстр коллекционирует со всех Галактик особ слабого пола, поэтому его посланцы вылавливают с помощью радиоволн наших прелестных дам, уменьшают до нужного размера и сажают в колбочки. Так бы они всех женщин к себе перевезли, но, во-первых, не все радио слушают, и во-вторых, на пути инопланетян встает Дэн О'Дэйр, ведущий популярнейшей радиопрограммы.",
+      "popularity": 2.9876,
+      "poster_path": "/3X2qpfivNSZuNgdavbwL15CCW7V.jpg",
+      "release_date": "1992-06-25",
+      "title": "На опасной волне",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 60,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0103757",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 4867,
+          "logo_path": "/ifNDQE2NMX3QAJgX0517FZMkLq5.png",
+          "name": "Full Moon Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 88,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8kJflsQ4SU9CJQFnht9mpXDW2cF.jpg",
+      "genre_ids": [
+        28,
+        14,
+        27
+      ],
+      "id": 22894,
+      "original_language": "en",
+      "original_title": "Legion",
+      "overview": "Бог окончательно разуверился в человечестве и послал ангелов смерти стереть свое творение с лица земли. На защиту людей встал лишь архангел Михаил, объединив под своим командованием горстку изгоев, которые в закусочной посреди пустыни терпеливо ожидают рождения Мессии.",
+      "popularity": 5.7542,
+      "poster_path": "/wIBxqUdkMbNAB5q98ml6XfsvZlp.jpg",
+      "release_date": "2010-01-21",
+      "title": "Легион",
+      "video": false,
+      "vote_average": 5.898,
+      "vote_count": 2776,
+      "belongs_to_collection": null,
+      "budget": 26000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1038686",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 3287,
+          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+          "name": "Screen Gems",
+          "origin_country": "US"
+        },
+        {
+          "id": 2266,
+          "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
+          "name": "Bold Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 67918658,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -1390,110 +1415,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/5V0v8Gh2JEBycQ7TNgocEv3i0PN.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        53
-      ],
-      "id": 5237,
-      "original_language": "en",
-      "original_title": "Dust Devil",
-      "overview": "Древний демон, заключенный в оболочку из человеческой плоти, бродит по пустыне и совершает ритуальные убийства тех, кто решил самостоятельно расстаться с жизнью. Очередной его жертвой должна быть сбежавшая от мужа женщина. Та легко становится любовницей демона, но стать его жертвенным ягненком не согласна.",
-      "popularity": 4.974,
-      "poster_path": "/59pEswv24gaJk1BZ6s7o7NnceVf.jpg",
-      "release_date": "1992-07-11",
-      "title": "Дьявол песков",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 145,
-      "belongs_to_collection": null,
-      "budget": 8000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0104155",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 12745,
-          "logo_path": null,
-          "name": "British Screen Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 927,
-          "logo_path": null,
-          "name": "Palace Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 6282,
-          "logo_path": null,
-          "name": "Shadow Theatre Films",
-          "origin_country": ""
-        },
-        {
-          "id": 14,
-          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-          "name": "Miramax",
-          "origin_country": "US"
-        },
-        {
-          "id": 6705,
-          "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
-          "name": "Film4 Productions",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "NA",
-          "name": "Namibia"
-        },
-        {
-          "iso_3166_1": "ZA",
-          "name": "South Africa"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 87,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Он не серийный убийца. Он намного хуже»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/evxXVJtomJJbAXcDxF6wsCJzVDe.jpg",
       "genre_ids": [
         27
@@ -1547,6 +1468,78 @@
       ],
       "status": "Released",
       "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 609,
+      "original_language": "en",
+      "original_title": "Poltergeist",
+      "overview": "Они здесь… Сначала они кажутся призрачными, играя в прятки в загородном доме Фрилингов. Но затем становится по-настоящему страшно! Тучи сгущаются, ожившие деревья нападают, а малютку Кэрол Энн Фрилинг засасывает в спектральную пустоту. И пока ее семья борется с вереницей кошмаров и пытается спасти девочку, по соседству, где-то рядом затаилось нечто…",
+      "popularity": 3.7414,
+      "poster_path": "/4qEfGhQffjxsdci7Q19iy7H8TWi.jpg",
+      "release_date": "1982-06-04",
+      "title": "Полтергейст",
+      "video": false,
+      "vote_average": 7.154,
+      "vote_count": 3223,
+      "belongs_to_collection": {
+        "id": 10453,
+        "name": "Полтергейст (Коллекция)",
+        "poster_path": "/5KRPLR2StT2nemK4LhDOEppw4G.jpg",
+        "backdrop_path": "/i8QZZV1olny9FCPNrxAL7Kk9CJy.jpg"
+      },
+      "budget": 10700000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0084516",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        },
+        {
+          "id": 396,
+          "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
+          "name": "SLM Production Group",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 121733131,
+      "runtime": 114,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Он знает, как тебя напугать.»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
