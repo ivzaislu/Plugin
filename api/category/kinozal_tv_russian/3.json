@@ -5,38 +5,50 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 81,
+  "total": 80,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/ah556k6i9UN5Wd2KKFjrQkeh7DL.jpg",
-      "genre_ids": [],
-      "id": 312753,
+      "backdrop_path": "/gvpeNECBmvSddHzfuFyZOrqd4MX.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 251491,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Резервация",
-      "overview": "Загадочная аномалия отрезала Тополёво и его жителей от внешнего мира: любая попытка покинуть город оборачивается необъяснимой смертью. Именно туда после долгого отсутствия отправляется Сергей Назаров, к жене и дочери. Обнаружив лазейку, он проникает на закрытую территорию и сталкивается с новой реальностью: помимо того, что жизнь местных подчинена строгим правилам, в городе бесследно исчезают дети. Сергей пойдёт на всё, чтобы вытащить близких из ловушки — даже попробует раскрыть тайну резервации. Но что, если кому-то очень выгодно сохранять зону закрытой…",
-      "popularity": 0,
-      "poster_path": "/4IcEYz5Nw1p58TR4z174mPfDjCQ.jpg",
-      "first_air_date": "2026-01-30",
-      "name": "Резервация",
+      "original_name": "Встать на ноги",
+      "overview": "После 20 лет за решёткой заключённый по прозвищу Старый выходит на свободу с планом — вернуть долг, съездить на море и исчезнуть. Но неожиданно узнаёт, что у него есть дочь Оля, прикованная к инвалидной коляске. Установленный над Старым надзор вынуждает его жить с ней. Он пытается загладить вину, навязывает помощь и «причиняет добро», но дочь встречает его холодно. Постепенно, через ссоры и искренние поступки, в их отношениях появляется доверие.",
+      "popularity": 0.929,
+      "poster_path": "/enL3OQmTRFD1PAADKfURuPqVv1b.jpg",
+      "first_air_date": "2026-02-05",
+      "name": "Встать на ноги",
       "vote_average": 0,
       "vote_count": 0,
       "created_by": [
         {
-          "id": 1030310,
-          "credit_id": "697c869e2dd0331a2759a221",
-          "name": "Aleksey Andrianov",
-          "original_name": "Aleksey Andrianov",
+          "id": 2020946,
+          "credit_id": "6981a8792728d0deb56cd075",
+          "name": "Александр Носков",
+          "original_name": "Александр Носков",
           "gender": 2,
-          "profile_path": "/1lC3CuxusYZR3iPaUkqRiz7SKP7.jpg"
+          "profile_path": "/utvBAOwjWD5g1uFxqJn5eh2qTpX.jpg"
         }
       ],
       "episode_run_time": [],
-      "genres": [],
-      "homepage": "https://kion.ru/serial/rezervatsiya",
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "https://okko.tv/serial/vstat-na-nogi",
       "in_production": true,
       "languages": [
         "ru"
@@ -44,40 +56,64 @@
       "last_air_date": null,
       "last_episode_to_air": null,
       "next_episode_to_air": {
-        "id": 6899634,
+        "id": 5268861,
         "name": "Эпизод 1",
-        "overview": "После 5 лет тюрьмы Сергей Назаров возвращается домой и не верит своим глазам. Район превратился в аномальную зону, из которой не выбраться. Теперь цель Сергея — спасти жену и дочь.",
+        "overview": "Бывший заключённый по прозвищу Старый возвращается в родной город. Он узнаёт, что у него есть дочь с инвалидностью Оля",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-01-30",
+        "air_date": "2026-02-05",
         "episode_number": 1,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": null,
+        "runtime": 45,
         "season_number": 1,
-        "show_id": 312753,
-        "still_path": null
+        "show_id": 251491,
+        "still_path": "/iznkRAR8yMikclH54sYjsLwhTW.jpg"
       },
       "networks": [
         {
-          "id": 4085,
-          "logo_path": "/iMenrHI1yGe7xbND6aQSOviB5Sz.png",
-          "name": "KION",
+          "id": 3871,
+          "logo_path": "/pMy0zJmwHTsmR2mxLd4ifkOSq6h.png",
+          "name": "Okko",
           "origin_country": "RU"
         }
       ],
-      "number_of_episodes": 2,
+      "number_of_episodes": 8,
       "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
+      "production_companies": [
+        {
+          "id": 152668,
+          "logo_path": "/mDODixuTMbK0TNFNvGqqXX6zqQX.png",
+          "name": "MC² Production",
+          "origin_country": "RU"
+        },
+        {
+          "id": 224758,
+          "logo_path": null,
+          "name": "Originals Production",
+          "origin_country": "RU"
+        },
+        {
+          "id": 135038,
+          "logo_path": "/3ZunTFiMFOtkjDzajKkKRgHIuCj.png",
+          "name": "Okko Studios",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
       "seasons": [
         {
-          "air_date": "2026-01-30",
-          "episode_count": 2,
-          "id": 497854,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": null,
+          "air_date": "2026-02-05",
+          "episode_count": 8,
+          "id": 387793,
+          "name": "Сезон 1",
+          "overview": "После 20 лет тюрьмы бывший уголовник по прозвищу Старый выходит на свободу. Когда-то на суде он взял всю вину на себя, не сдав друга — Рахима. За эти годы Рахим стал уважаемым бизнесменом и давно стёр из памяти товарища. План у Старого простой: забрать свою долю и съездить на море. Но план летит к чертям. Во-первых, Рахим деньги отдавать не спешит. Во-вторых, Старый узнаёт, что у него есть взрослая дочь с инвалидностью — Оля, с которой они вынуждены жить вместе по условиям УДО.",
+          "poster_path": "/ctOrwKlttSRsW5wzgZQJaCdZRki.jpg",
           "season_number": 1,
           "vote_average": 0
         }
@@ -90,9 +126,9 @@
         }
       ],
       "status": "Returning Series",
-      "tagline": "«Войти можно. Выйти нельзя»",
+      "tagline": "",
       "type": "Scripted",
-      "release_quality": "1080p",
+      "release_quality": "2160p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
@@ -236,133 +272,6 @@
           "overview": "",
           "poster_path": null,
           "season_number": 2,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "2160p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gvpeNECBmvSddHzfuFyZOrqd4MX.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 251491,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Встать на ноги",
-      "overview": "После 20 лет за решёткой заключённый по прозвищу Старый выходит на свободу с планом — вернуть долг, съездить на море и исчезнуть. Но неожиданно узнаёт, что у него есть дочь Оля, прикованная к инвалидной коляске. Установленный над Старым надзор вынуждает его жить с ней. Он пытается загладить вину, навязывает помощь и «причиняет добро», но дочь встречает его холодно. Постепенно, через ссоры и искренние поступки, в их отношениях появляется доверие.",
-      "popularity": 0.929,
-      "poster_path": "/enL3OQmTRFD1PAADKfURuPqVv1b.jpg",
-      "first_air_date": "2026-02-05",
-      "name": "Встать на ноги",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [
-        {
-          "id": 2020946,
-          "credit_id": "6981a8792728d0deb56cd075",
-          "name": "Александр Носков",
-          "original_name": "Александр Носков",
-          "gender": 2,
-          "profile_path": "/utvBAOwjWD5g1uFxqJn5eh2qTpX.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "https://okko.tv/serial/vstat-na-nogi",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": null,
-      "last_episode_to_air": null,
-      "next_episode_to_air": {
-        "id": 5268861,
-        "name": "Эпизод 1",
-        "overview": "Бывший заключённый по прозвищу Старый возвращается в родной город. Он узнаёт, что у него есть дочь с инвалидностью Оля",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-02-05",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 45,
-        "season_number": 1,
-        "show_id": 251491,
-        "still_path": "/iznkRAR8yMikclH54sYjsLwhTW.jpg"
-      },
-      "networks": [
-        {
-          "id": 3871,
-          "logo_path": "/pMy0zJmwHTsmR2mxLd4ifkOSq6h.png",
-          "name": "Okko",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 152668,
-          "logo_path": "/mDODixuTMbK0TNFNvGqqXX6zqQX.png",
-          "name": "MC² Production",
-          "origin_country": "RU"
-        },
-        {
-          "id": 224758,
-          "logo_path": null,
-          "name": "Originals Production",
-          "origin_country": "RU"
-        },
-        {
-          "id": 135038,
-          "logo_path": "/3ZunTFiMFOtkjDzajKkKRgHIuCj.png",
-          "name": "Okko Studios",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-02-05",
-          "episode_count": 8,
-          "id": 387793,
-          "name": "Сезон 1",
-          "overview": "После 20 лет тюрьмы бывший уголовник по прозвищу Старый выходит на свободу. Когда-то на суде он взял всю вину на себя, не сдав друга — Рахима. За эти годы Рахим стал уважаемым бизнесменом и давно стёр из памяти товарища. План у Старого простой: забрать свою долю и съездить на море. Но план летит к чертям. Во-первых, Рахим деньги отдавать не спешит. Во-вторых, Старый узнаёт, что у него есть взрослая дочь с инвалидностью — Оля, с которой они вынуждены жить вместе по условиям УДО.",
-          "poster_path": "/ctOrwKlttSRsW5wzgZQJaCdZRki.jpg",
-          "season_number": 1,
           "vote_average": 0
         }
       ],
@@ -2057,6 +1966,88 @@
         }
       ],
       "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zcKkb6XH9cQ5AdRUxV9K2bo7Orc.jpg",
+      "genre_ids": [],
+      "id": 309656,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Склифосовский. Новый год",
+      "overview": "Перед Новым годом доктор Брагин и его коллеги решают принять участие в квизе для врачей. В упорной борьбе команда, состоящая из лучших врачей НИИ скорой помощи им. Склифосовского, вырывает победу, но, чтобы дойти до главного денежного приза, им предстоит пройти последний и самый сложный квест. Любимые герои отправляются в путь по Золотому кольцу. Марина, Павлова, Кривицкий, Хромов, Нина и Костик делятся на команды и получают карту с подсказками от анонимного ведущего. Впереди – новогоднее путешествие, полное приключений, соперничества и неожиданных поворотов.",
+      "popularity": 0.2123,
+      "poster_path": "/g9o4Xg7G7E6wcBZeMTDMVd1WJ2V.jpg",
+      "first_air_date": "2025-12-31",
+      "name": "Склифосовский. Новый год",
+      "vote_average": 0,
+      "vote_count": 0,
+      "created_by": [],
+      "episode_run_time": [],
+      "genres": [],
+      "homepage": "",
+      "in_production": false,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2025-12-31",
+      "last_episode_to_air": {
+        "id": 6801376,
+        "name": "Эпизод 4",
+        "overview": "Перед Новым годом доктор Брагин и его коллеги решают принять участие в квизе для врачей. В упорной борьбе команда, состоящая из лучших врачей НИИ скорой помощи им. Склифосовского, вырывает победу, но, чтобы дойти до главного денежного приза, им предстоит пройти последний и самый сложный квест.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2025-12-31",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 309656,
+        "still_path": "/wVzh2kSTYz2e7QCmGzWe2vSREOV.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 5000,
+          "logo_path": "/hqzAHVsmFkd50tF5TzompI3TxSn.png",
+          "name": "Smotrim",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 4,
+      "number_of_seasons": 1,
+      "production_companies": [],
+      "production_countries": [],
+      "seasons": [
+        {
+          "air_date": "2025-12-31",
+          "episode_count": 4,
+          "id": 492003,
+          "name": "Сезон 1",
+          "overview": "Перед Новым годом доктор Брагин и его коллеги решают принять участие в квизе для врачей. В упорной борьбе команда, состоящая из лучших врачей НИИ скорой помощи им. Склифосовского, вырывает победу, но, чтобы дойти до главного денежного приза, им предстоит пройти последний и самый сложный квест. Любимые герои отправляются в путь по Золотому кольцу. Марина, Павлова, Кривицкий, Хромов, Нина и Костик делятся на команды и получают карту с подсказками от анонимного ведущего. Впереди – новогоднее путешествие, полное приключений, соперничества и неожиданных поворотов.",
+          "poster_path": "/g9o4Xg7G7E6wcBZeMTDMVd1WJ2V.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Ended",
       "tagline": "",
       "type": "Scripted",
       "release_quality": "",
