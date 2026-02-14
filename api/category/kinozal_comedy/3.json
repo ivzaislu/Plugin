@@ -5,49 +5,75 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 169,
+  "total": 174,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/iB0Cl2Z1tgE5gXz7AOEw3spSACZ.jpg",
+      "backdrop_path": "/gHFuLHxruielBcMEZx1WowxbRWS.jpg",
       "genre_ids": [
-        35
+        14,
+        35,
+        10749,
+        878
       ],
-      "id": 24701,
+      "id": 9327,
       "original_language": "en",
-      "original_title": "Puff, Puff, Pass",
-      "overview": "У Ларри и Рико есть на двоих лишь одна страсть — «травкa». Ради нее эти молодые люди с одной извилиной на двоих готовы на все. Например, прокурить все деньги и быть выброшенными на улицу за неуплату за квартиру. Или сделать попытку «кинуть» крутого мафиози по кличке Большой Папочка. Любой другой на их месте давно бы свернул шею в попытках форсировать суровую реальность на утлой байдарке из конопляных глюков. Но только не эта парочка, чей дефицит по части мозгов компенсируется просто невероятным, необъяснимым, нечеловеческим везением!..",
-      "popularity": 0.5934,
-      "poster_path": "/buDnPO63q8yjQGWQ1pFbjaRDeGQ.jpg",
-      "release_date": "2006-05-09",
-      "title": "Мозги набекрень",
+      "original_title": "The Nutty Professor",
+      "overview": "Любовь заставляет страдающего от чрезмерной полноты профессора Шермана Клампа провести над собой смелый эксперимент. Чудодейственный препарат превращает неуклюжего, но доброго и деликатного толстяка в нахального повесу-ловеласа. Две ипостаси гениального ученого вступают в борьбу за право существования. Неконтролируемые метаморфозы героя порождают множество комических ситуаций.",
+      "popularity": 3.1465,
+      "poster_path": "/voyirXzUJNJH4p50UpbxY9DA7Ab.jpg",
+      "release_date": "1996-06-28",
+      "title": "Чокнутый профессор",
       "video": false,
-      "vote_average": 5.763,
-      "vote_count": 38,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 5.641,
+      "vote_count": 3041,
+      "belongs_to_collection": {
+        "id": 86028,
+        "name": "The Nutty Professor Collection",
+        "poster_path": "/a6zC38ID7EyAflo8tsPDP4IE0Mt.jpg",
+        "backdrop_path": "/mW1NQFOSCwwgk03SpcpwiQEL2Lo.jpg"
+      },
+      "budget": 54000000,
       "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
         {
           "id": 35,
           "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0466771",
+      "imdb_id": "tt0117218",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 5388,
-          "logo_path": "/i6tbNeVEi7s1uN97s2o0LhEMuF0.png",
-          "name": "Sony Pictures Home Entertainment",
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
           "origin_country": "US"
         },
         {
-          "id": 1309,
-          "logo_path": "/gdsheJrD3lznh3O2qEPBDn54Anq.png",
-          "name": "Rainforest Entertainment",
+          "id": 23,
+          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+          "name": "Imagine Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 30,
+          "logo_path": null,
+          "name": "Eddie Murphy Productions",
           "origin_country": "US"
         }
       ],
@@ -57,118 +83,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 94,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gbjt7NvOtxTEGT3HZ2XZBoUY4TB.jpg",
-      "genre_ids": [
-        80,
-        35
-      ],
-      "id": 158990,
-      "original_language": "en",
-      "original_title": "Wrong Cops",
-      "overview": "Несколько не очень хороших полицейских пытаются избавиться от тела человека, которого один из них случайно застрелил.",
-      "popularity": 0.4298,
-      "poster_path": "/3lQ9uSl5UCpiWXsWvLojGkDBUSw.jpg",
-      "release_date": "2013-12-18",
-      "title": "Неправильные копы",
-      "video": false,
-      "vote_average": 6.055,
-      "vote_count": 319,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2166616",
-      "origin_country": [
-        "BE",
-        "US",
-        "FR",
-        "PT",
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 20856,
-          "logo_path": null,
-          "name": "Realitism Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 318,
-          "logo_path": "/q0UG4oZERwIywJdDPF4lRlvdYGW.png",
-          "name": "CTB Film Company",
-          "origin_country": "RU"
-        },
-        {
-          "id": 20857,
-          "logo_path": null,
-          "name": "Rubber Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 135253,
-          "logo_path": null,
-          "name": "Boîte Noire Productions",
-          "origin_country": "BE"
-        },
-        {
-          "id": 44486,
-          "logo_path": null,
-          "name": "Timwe",
-          "origin_country": "PT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "PT",
-          "name": "Portugal"
-        },
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
+      "revenue": 128769345,
+      "runtime": 95,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -186,69 +102,204 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/64e7pAhWWkls8BJAyNOpjom7256.jpg",
+      "backdrop_path": "/d9xVUFkEKNxyOIihbpvAVdjzcL.jpg",
       "genre_ids": [
+        12,
         35,
-        18
+        10751,
+        878
       ],
-      "id": 1048923,
+      "id": 9354,
       "original_language": "en",
-      "original_title": "Empire Waist",
-      "overview": "Ленор Миллер — неуверенная в себе девушка с пышными формами, чей талант к моде обнаруживает ее уверенная в себе пышная одноклассница, которая выводит ее в центр внимания. Отец Ленор её самый преданный фанат, но страхи её заботящейся об имидже матери и неуверенность самой Ленор не позволяют ей носить собственные наряды. Почувствует ли Ленор когда-нибудь ту любовь к себе, которую она внушает другим?",
-      "popularity": 5.2648,
-      "poster_path": "/cha9illdJQ5CEIrVjsmi57xMFt3.jpg",
-      "release_date": "2024-09-27",
-      "title": "Ампирный силуэт",
+      "original_title": "Honey, I Shrunk the Kids",
+      "overview": "Последнее изобретение великого новатора профессора Залински — электромагнитная машина которая может уменьшать предметы. Когда чудо техники, наконец, заработало, этими предметами оказались… дети изобретателя, попавшие в поле действия прибора.  Они и так не отличались гигантским ростом, а теперь еще и сократились в размере настолько, что их вообще не стало видно. Ничего не подозревающий отец опять же совершенно случайно выбрасывает своих отпрысков в мусорное ведро.  Новоиспеченным лилипутам нужно выбраться из помойки как можно быстрее пока их не затоптали тараканы и вернуться домой чтобы обнять заботливого папочку.",
+      "popularity": 4.7677,
+      "poster_path": "/iyM0c72R2IcT6JELaHt9YPdJRQn.jpg",
+      "release_date": "1989-06-23",
+      "title": "Дорогая, я уменьшил детей",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 22,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.314,
+      "vote_count": 3231,
+      "belongs_to_collection": {
+        "id": 72119,
+        "name": "Дорогая, я уменьшил детей (Коллекция)",
+        "poster_path": "/edimp8STfyhWuenlGCp2sn3Eagq.jpg",
+        "backdrop_path": "/3fvZtWdSdCNkxn1TAKTM042iClY.jpg"
+      },
+      "budget": 18000000,
       "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
         {
           "id": 35,
           "name": "комедия"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt15823456",
+      "imdb_id": "tt0097523",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 112397,
-          "logo_path": "/rFyhrN607SUIlQ7wyH8lQOemqz3.png",
-          "name": "American High",
+          "id": 2,
+          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+          "name": "Walt Disney Pictures",
           "origin_country": "US"
         },
         {
-          "id": 40240,
-          "logo_path": null,
-          "name": "Anyway Productions",
-          "origin_country": ""
-        },
+          "id": 554,
+          "logo_path": "/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png",
+          "name": "Silver Screen Partners III",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
         {
-          "id": 186268,
-          "logo_path": null,
-          "name": "P&G Studios",
-          "origin_country": ""
-        },
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 222724172,
+      "runtime": 93,
+      "spoken_languages": [
         {
-          "id": 144610,
-          "logo_path": "/879WnwsOH1oP6NlLY7ChD6vL6lh.png",
-          "name": "Wayfarer Studios",
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kv6tpMykekRKAiktXJKffAIpdH8.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 9099,
+      "original_language": "en",
+      "original_title": "Sgt. Bilko",
+      "overview": "Сержант Билко — блестящий мошенник, острослов и неисправимый спорщик. Он — самый неблагонадежный человек в округе, и при этом его любят все. Ну, не все, конечно. Трудно любить человека, руку которого обнаруживаешь в своем кармане.  У сержанта Билко есть один заклятый враг, один друг и одна возлюбленная. Эрнест Билко заведует гаражом на военной базе. Он обладает особым даром «ставить диагноз» сломанным машинам, не открывая крышки капота. Кроме того, Эрнест повсюду находит деньги… по запаху.  Сержант Билко глубоко уважает солдат и офицеров армии США. Он считает, что эти патриоты сделали очень много для своей страны и имеют полное право поразвлечься в свободное от муштры время. Сержант Билко по собственной воле возложил на себя обязанность массовика-затейника для отставных офицеров и превратил форт Бакстер в игорный центр.  Общаясь с этим необычным человеком, можно быть уверенным только в одной вещи: если сержант Билко заключил пари, без сомнений, в выигрыше останется именно он.",
+      "popularity": 1.632,
+      "poster_path": "/1RYgf8OTIGqdABu3q2X04bLFiOB.jpg",
+      "release_date": "1996-03-29",
+      "title": "Сержант Билко",
+      "video": false,
+      "vote_average": 5.884,
+      "vote_count": 376,
+      "belongs_to_collection": null,
+      "budget": 39000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0117608",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 23,
+          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+          "name": "Imagine Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 267784,
-          "logo_path": null,
-          "name": "Try Anyway Productions",
-          "origin_country": ""
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 37956793,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ckJPiOT2EMsUOHb0pMdpGmeTtqU.jpg",
+      "genre_ids": [
+        10402,
+        35,
+        10749
+      ],
+      "id": 40867,
+      "original_language": "en",
+      "original_title": "The Pajama Game",
+      "overview": "На фабрику по пошиву пижам «Спокойных снов!» приходит новый управляющий Сид Сорокин. Здесь он знакомится с представителем комитета по жалобам Бэйб Уильямс. Между ними возникает роман. В это время местный профсоюз начинает активную борьбу за надбавку в 7,5 центов. Сид и Бэйб оказываются по разные стороны баррикад.",
+      "popularity": 0.7219,
+      "poster_path": "/71Q9f7byPqH8trF4BvZOlXnhO2D.jpg",
+      "release_date": "1957-08-29",
+      "title": "Пижамная игра",
+      "video": false,
+      "vote_average": 6.258,
+      "vote_count": 66,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0050814",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -258,12 +309,99 @@
         }
       ],
       "revenue": 0,
-      "runtime": 94,
+      "runtime": 103,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9fiwOwDgGEzJtzbm0ghPzbtcGDH.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        28,
+        12
+      ],
+      "id": 13493,
+      "original_language": "en",
+      "original_title": "College Road Trip",
+      "overview": "Недавняя школьница лелеет амбициозные планы поступить в самый лучший юридический институт, но перед тем как подавать документы, хочет сама объездить все подходящие учебные заведения и выбрать место будущей учебы.Дело осложняется, когда сопровождать абитуриентку вызывается ее отец — профессиональный полицейский, слишком усердно старающийся оградить свое чадо от любых волнений и проблем. Будь его воля — вообще бы никуда из дома не отпустил!",
+      "popularity": 5.8196,
+      "poster_path": "/9CdeyW21M1bGu22KN45cYzhWhC2.jpg",
+      "release_date": "2008-03-07",
+      "title": "Папина дочка",
+      "video": false,
+      "vote_average": 5.468,
+      "vote_count": 403,
+      "belongs_to_collection": null,
+      "budget": 25000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0997047",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2,
+          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+          "name": "Walt Disney Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 3538,
+          "logo_path": null,
+          "name": "Gunn Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 51549674,
+      "runtime": 83,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
@@ -347,158 +485,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/rSEfKLHDZKiMQWsyJIfKr9D0CaC.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 41630,
-      "original_language": "en",
-      "original_title": "No Strings Attached",
-      "overview": "Романтическая комедия о том, как легко мужчины и женщины вступают в сексуальную связь, но как трудно им достичь эмоциональной близости. Главных героев связывают только сексуальные отношения, но со временем они понимают, что на смену физиологическим инстинктам приходит нечто большее.",
-      "popularity": 4.6409,
-      "poster_path": "/dM0BadAlEj2ZoHvARBqoTwC1kBZ.jpg",
-      "release_date": "2011-01-21",
-      "title": "Больше, чем секс",
-      "video": false,
-      "vote_average": 6.297,
-      "vote_count": 4901,
-      "belongs_to_collection": null,
-      "budget": 25000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1411238",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 817,
-          "logo_path": null,
-          "name": "Katalyst Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 2364,
-          "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
-          "name": "The Montecito Picture Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 8873,
-          "logo_path": null,
-          "name": "Handsomecharlie Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 149200000,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Сможет ли бабник влюбиться в красотку?»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hJZi4BNyejM0BtBlWsMhGx7dUoq.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 1274837,
-      "original_language": "fr",
-      "original_title": "Le Million",
-      "overview": "Главный герой — менеджер строительства, которого несправедливо уволил тиран-генеральный директор. Он решает украсть 1 млн евро из сейфа компании. Но когда узнает, что на самом деле ему готовили повышение, приходится исправлять свою ошибку.",
-      "popularity": 4.1908,
-      "poster_path": "/jMCBMmbyY6wRT0MD9xrCt3TeVFf.jpg",
-      "release_date": "2025-09-24",
-      "title": "Миллион",
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 12,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32250381",
-      "origin_country": [
-        "BE",
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 77552,
-          "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
-          "name": "Curiosa Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 1115,
-          "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
-          "name": "M6 Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 226209,
-          "logo_path": null,
-          "name": "GV Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 0,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/3XtciJDsxdRS9lflYeO7CeGxt4t.jpg",
       "genre_ids": [
         14,
@@ -509,7 +495,7 @@
       "original_language": "ru",
       "original_title": "Сны",
       "overview": "Аристократка девятнадцатого века, Графиня Призорова, живет в Москве. Она богата, молода, но с некоторых пор ей стали сниться очень странные сны. Будто она не графиня, а уборщица Маша Степанова, работает в Москве, в 1993 году, в столовой № 9. Она лимитчица из глубинки и живет в общежитии. Не найдя объяснений столь странным сновидениям, графиня обращается к доктору.",
-      "popularity": 0.3259,
+      "popularity": 0.2818,
       "poster_path": "/iGEoEW68pMfSBDZ57oi7In2rlBm.jpg",
       "release_date": "1993-09-11",
       "title": "Сны",
@@ -1013,324 +999,73 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/gHFuLHxruielBcMEZx1WowxbRWS.jpg",
+      "backdrop_path": "/hJZi4BNyejM0BtBlWsMhGx7dUoq.jpg",
       "genre_ids": [
-        14,
-        35,
-        10749,
-        878
+        35
       ],
-      "id": 9327,
-      "original_language": "en",
-      "original_title": "The Nutty Professor",
-      "overview": "Любовь заставляет страдающего от чрезмерной полноты профессора Шермана Клампа провести над собой смелый эксперимент. Чудодейственный препарат превращает неуклюжего, но доброго и деликатного толстяка в нахального повесу-ловеласа. Две ипостаси гениального ученого вступают в борьбу за право существования. Неконтролируемые метаморфозы героя порождают множество комических ситуаций.",
-      "popularity": 3.1465,
-      "poster_path": "/voyirXzUJNJH4p50UpbxY9DA7Ab.jpg",
-      "release_date": "1996-06-28",
-      "title": "Чокнутый профессор",
+      "id": 1274837,
+      "original_language": "fr",
+      "original_title": "Le Million",
+      "overview": "Главный герой — менеджер строительства, которого несправедливо уволил тиран-генеральный директор. Он решает украсть 1 млн евро из сейфа компании. Но когда узнает, что на самом деле ему готовили повышение, приходится исправлять свою ошибку.",
+      "popularity": 4.1908,
+      "poster_path": "/jMCBMmbyY6wRT0MD9xrCt3TeVFf.jpg",
+      "release_date": "2025-09-24",
+      "title": "Миллион",
       "video": false,
-      "vote_average": 5.641,
-      "vote_count": 3041,
-      "belongs_to_collection": {
-        "id": 86028,
-        "name": "The Nutty Professor Collection",
-        "poster_path": "/a6zC38ID7EyAflo8tsPDP4IE0Mt.jpg",
-        "backdrop_path": "/mW1NQFOSCwwgk03SpcpwiQEL2Lo.jpg"
-      },
-      "budget": 54000000,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0117218",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 23,
-          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
-          "name": "Imagine Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 30,
-          "logo_path": null,
-          "name": "Eddie Murphy Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 128769345,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cBZscO9bYQ8yjOiJp5VREs4U50C.jpg",
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "id": 335483,
-      "original_language": "de",
-      "original_title": "Vier Frauen sind einfach zuviel",
-      "overview": "Томми живет со своей сестрой, матерью, бабушкой и прабабушкой — все под одной крышей. Устав от этих женщин, Томми сбегает в деревню к своему отцу Хуберту, считая что женщин в одной квартире, для него — слишком много...",
-      "popularity": 0.8491,
-      "poster_path": null,
-      "release_date": "1992-12-07",
-      "title": "Четыре женщины — это слишком много",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 2,
+      "vote_average": 5,
+      "vote_count": 12,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 35,
           "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0105754",
+      "imdb_id": "tt32250381",
       "origin_country": [
-        "AT",
-        "DE"
+        "BE",
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 20521,
-          "logo_path": "/umPV6gEtvSiqGuNyXAuuXdGZRYe.png",
-          "name": "Neue Deutsche Filmgesellschaft",
-          "origin_country": "DE"
-        },
-        {
-          "id": 4606,
-          "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
-          "name": "ZDF",
-          "origin_country": "DE"
-        },
-        {
-          "id": 3391,
-          "logo_path": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
-          "name": "ORF",
-          "origin_country": "AT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AT",
-          "name": "Austria"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nVWd6Z4rfhugkevRBV3KxxGoCKS.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 81872,
-      "original_language": "it",
-      "original_title": "Racconti d'estate",
-      "overview": "Летняя пора — лучшее время для романов. Дорина ищет богатого любовника; Клара увлечена молодым Уолтером, а ее дочь Лиина пытается удержать мать от опрометчивых поступков. Аристарх бросил карьеру, чтобы последовать за Адой, но на самом деле любит Жаклин. А Марчелло, которому нужно отправить Мишлен во Францию, опаздывает на поезд и… влюбляется в нее.",
-      "popularity": 0.4276,
-      "poster_path": "/bXRUgyEkBAEK7CyCvZS3hW3T4um.jpg",
-      "release_date": "1958-11-27",
-      "title": "Летние рассказы",
-      "video": false,
-      "vote_average": 5.2,
-      "vote_count": 15,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0052110",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 52586,
-          "logo_path": null,
-          "name": "Maxima Film",
-          "origin_country": "IT"
-        },
-        {
-          "id": 42378,
-          "logo_path": null,
-          "name": "Monteluce Film",
-          "origin_country": "IT"
-        },
-        {
-          "id": 12692,
-          "logo_path": null,
-          "name": "Gallus Films",
+          "id": 77552,
+          "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
+          "name": "Curiosa Films",
           "origin_country": "FR"
+        },
+        {
+          "id": 1115,
+          "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+          "name": "M6 Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 226209,
+          "logo_path": null,
+          "name": "GV Productions",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "FR",
           "name": "France"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
         }
       ],
       "revenue": 0,
-      "runtime": 113,
+      "runtime": 0,
       "spoken_languages": [
         {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/us8T8e2bSkyORss8xanwCDZCZxG.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 999890,
-      "original_language": "en",
-      "original_title": "Sweethearts",
-      "overview": "Пара первокурсников колледжа пытаются порвать со своими школьными возлюбленными в одну и ту же ночь перед Днём благодарения.",
-      "popularity": 1.7468,
-      "poster_path": "/fIObiDjSRTd36Fyv3nEht47BKc9.jpg",
-      "release_date": "2024-10-31",
-      "title": "Влюблённые",
-      "video": false,
-      "vote_average": 5.7,
-      "vote_count": 86,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt14636214",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 123244,
-          "logo_path": "/7eH1Y4RIuontJJXVmmSRrNUMZhU.png",
-          "name": "Picturestart",
-          "origin_country": "US"
-        },
-        {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
@@ -1602,6 +1337,221 @@
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1FvQxipdYSvLLBeKDQWemSi6CPx.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1438764,
+      "original_language": "nl",
+      "original_title": "Straf",
+      "overview": "Учителю музыки Эду не везёт по всем фронтам: жена бросила, дочь избегает, а на работе его травят и коллеги, и ученики. Однажды директор разбивает мечту Эда стать завучем ввиду его мягкотелости, и тот понимает, что пора что-то менять. Ему берётся помочь физрук Питер, обладающий талантом сделать любую ситуацию хуже.",
+      "popularity": 1.9759,
+      "poster_path": "/iQo8qQx7nZ6x9xf4dPfGH3dSUAE.jpg",
+      "release_date": "2025-10-09",
+      "title": "Строго после уроков",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37676442",
+      "origin_country": [
+        "NL"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "NL",
+          "name": "Netherlands"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rSEfKLHDZKiMQWsyJIfKr9D0CaC.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 41630,
+      "original_language": "en",
+      "original_title": "No Strings Attached",
+      "overview": "Романтическая комедия о том, как легко мужчины и женщины вступают в сексуальную связь, но как трудно им достичь эмоциональной близости. Главных героев связывают только сексуальные отношения, но со временем они понимают, что на смену физиологическим инстинктам приходит нечто большее.",
+      "popularity": 4.6409,
+      "poster_path": "/dM0BadAlEj2ZoHvARBqoTwC1kBZ.jpg",
+      "release_date": "2011-01-21",
+      "title": "Больше, чем секс",
+      "video": false,
+      "vote_average": 6.297,
+      "vote_count": 4901,
+      "belongs_to_collection": null,
+      "budget": 25000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1411238",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 817,
+          "logo_path": null,
+          "name": "Katalyst Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 2364,
+          "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+          "name": "The Montecito Picture Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 8873,
+          "logo_path": null,
+          "name": "Handsomecharlie Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 149200000,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Сможет ли бабник влюбиться в красотку?»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cBZscO9bYQ8yjOiJp5VREs4U50C.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 335483,
+      "original_language": "de",
+      "original_title": "Vier Frauen sind einfach zuviel",
+      "overview": "Томми живет со своей сестрой, матерью, бабушкой и прабабушкой — все под одной крышей. Устав от этих женщин, Томми сбегает в деревню к своему отцу Хуберту, считая что женщин в одной квартире, для него — слишком много...",
+      "popularity": 0.8491,
+      "poster_path": null,
+      "release_date": "1992-12-07",
+      "title": "Четыре женщины — это слишком много",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0105754",
+      "origin_country": [
+        "AT",
+        "DE"
+      ],
+      "production_companies": [
+        {
+          "id": 20521,
+          "logo_path": "/umPV6gEtvSiqGuNyXAuuXdGZRYe.png",
+          "name": "Neue Deutsche Filmgesellschaft",
+          "origin_country": "DE"
+        },
+        {
+          "id": 4606,
+          "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+          "name": "ZDF",
+          "origin_country": "DE"
+        },
+        {
+          "id": 3391,
+          "logo_path": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+          "name": "ORF",
+          "origin_country": "AT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AT",
+          "name": "Austria"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
         }
       ],
       "status": "Released",
