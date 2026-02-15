@@ -5,70 +5,80 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 173,
+  "total": 176,
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/4OpR5ipMysUwIA2QHiH86d9qyP4.jpg",
       "genre_ids": [
-        9648
+        35,
+        10749,
+        10770
       ],
-      "id": 475717,
-      "original_language": "ru",
-      "original_title": "Чёрная Вуаль",
-      "overview": "Андрей Рокшин, ловелас и меценат из Петербурга, убит загадочной женщиной в чёрной вуали. За расследование убийства берётся следователь Синев.",
-      "popularity": 0.3036,
-      "poster_path": "/4EDd080t2lW3XoA4BF82tXJuqTh.jpg",
-      "release_date": "1995-03-02",
-      "title": "Чёрная Вуаль",
+      "id": 127836,
+      "original_language": "en",
+      "original_title": "Pizza My Heart",
+      "overview": "Многовековая вражда между двумя сетями пиццерий в Италии выходит за рамки обычного, когда между сыном и дочерью конфликтующих сторон зарождается любовь.",
+      "popularity": 0.3233,
+      "poster_path": "/iIahmtkvp8wPR2kAwmegV5GyyQU.jpg",
+      "release_date": "2005-07-24",
+      "title": "Любовь и пицца",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 6.1,
+      "vote_count": 26,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0112671",
+      "imdb_id": "tt0446016",
       "origin_country": [
-        "RU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 1859,
+          "id": 146807,
           "logo_path": null,
-          "name": "Ritm",
-          "origin_country": "SU"
+          "name": "GWave Productions",
+          "origin_country": "US"
         },
         {
-          "id": 170585,
-          "logo_path": "/1nUzkMSbZOzoYgHHhBSJ5xGwnIm.png",
-          "name": "Mosfilm",
-          "origin_country": "RU"
-        },
-        {
-          "id": 12785,
-          "logo_path": null,
-          "name": "Roskomkino",
-          "origin_country": "RU"
+          "id": 670,
+          "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+          "name": "Walt Disney Television",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [],
+      "runtime": 89,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_melodrama"
@@ -520,321 +530,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/6r38uhBZTZl0KGfEcfi3HNP2N0z.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        53
-      ],
-      "id": 5852,
-      "original_language": "en",
-      "original_title": "Angel Eyes",
-      "overview": "Шерон работает в полиции и настолько посвящена работе, что до сих пор живет одна. У нее натянутые отношения с родителями и братом, и она нуждается в любви и понимании, и находит их в лице незнакомца по имени Кэтч, спасающего ей жизнь во время вышедшей из под контроля полицейской операции. Кэтч помогает людям, и вскоре Шерон понимает, что все это идет от какой-то трагедии, произошедшей в его прошлом…",
-      "popularity": 1.4965,
-      "poster_path": "/3DXpK5NsvvOZarikvVHSRrJQ3q9.jpg",
-      "release_date": "2001-05-18",
-      "title": "Глаза ангела",
-      "video": false,
-      "vote_average": 6.057,
-      "vote_count": 459,
-      "belongs_to_collection": null,
-      "budget": 53000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0225071",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 22351,
-          "logo_path": null,
-          "name": "The Canton Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 1403,
-          "logo_path": "/pMTQNUhHCwr39CsS7yUmSg503E7.png",
-          "name": "Franchise Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 29700000,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kAgXcVqnIxJILxo7D9RNm7TQ8ka.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 118390,
-      "original_language": "it",
-      "original_title": "Le malizie di Venere",
-      "overview": "Ее тело было создано для любви. Его мозг — для поисков извращенной страсти. Ей нравилось заниматься любовью. А ему — еще и подглядывать. Видение обнаженнойкрасавицы в роскошных мехах и внезапно вспыхнувшее воспоминание детства рождают бурю эмоций в душе молодого писателя Северина.  Странная, неодолимая страсть влечет его к Ванде. «Ты станешь моим рабом, а я постараюсь быть твоей Венерой в мехах»… Прекрасная Венера оказывается жестокой и хладнокровной мучительницей.",
-      "popularity": 0.6782,
-      "poster_path": "/7VTrqzKQU6HryKnkyCH16XEtCFl.jpg",
-      "release_date": "1969-11-25",
-      "title": "Венера в мехах",
-      "video": false,
-      "vote_average": 4.6,
-      "vote_count": 23,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0064626",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 9156,
-          "logo_path": null,
-          "name": "Roxy Films",
-          "origin_country": ""
-        },
-        {
-          "id": 18855,
-          "logo_path": null,
-          "name": "VIP Productions Ltd.",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        },
-        {
-          "iso_3166_1": "CH",
-          "name": "Switzerland"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        10770,
-        18,
-        10749
-      ],
-      "id": 72394,
-      "original_language": "en",
-      "original_title": "The Ring",
-      "overview": "Красавица Ариана фон Готтард, дочь берлинского банкира, лишившись всего, что было ей дорого, уезжает из Европы в Америку, чтобы начать жизнь сначала. Ариана не расстается с единственным напоминанием о матери и потерянной семье — старинным золотым кольцом, которое стало единственным связующим звеном между прошлым и будущим, талисманом надежды и любви.",
-      "popularity": 2.8658,
-      "poster_path": "/13aZNi1Eosj1cVG2tm85z0nHEGB.jpg",
-      "release_date": "1996-10-20",
-      "title": "Кольцо",
-      "video": false,
-      "vote_average": 5.625,
-      "vote_count": 12,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0115150",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 180,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rKStPaSRHTwvdz9EZGZcJeiarR0.jpg",
-      "genre_ids": [
-        10770,
-        35,
-        10749
-      ],
-      "id": 1065022,
-      "original_language": "en",
-      "original_title": "Three Dates to Forever",
-      "overview": "Мэдди Маккензи - ведущая, которая полностью отдаёт себя работе, и чьи энергия и талант сделали её популярной радиоведущей. Джон Рид - беззаботный изобретатель, который любит вечеринки. Они похожи на полные противоположности. Но когда их сводит новое приложение для свиданий, которое разработал Джон, между ними начинают летать искры и в радиоэфире разливается любовь.",
-      "popularity": 0.2756,
-      "poster_path": "/bh8ySBxrCSkLX540Hy7NDW1CD13.jpg",
-      "release_date": "2023-07-03",
-      "title": "Три свидания",
-      "video": false,
-      "vote_average": 6.462,
-      "vote_count": 13,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt25035940",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1311,
-          "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
-          "name": "The Asylum",
-          "origin_country": "US"
-        },
-        {
-          "id": 15645,
-          "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
-          "name": "Reel One Entertainment",
-          "origin_country": "CA"
-        },
-        {
-          "id": 140422,
-          "logo_path": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
-          "name": "Champlain Media",
-          "origin_country": "CA"
-        },
-        {
-          "id": 170910,
-          "logo_path": null,
-          "name": "Acme Holding Company",
-          "origin_country": ""
-        },
-        {
-          "id": 185065,
-          "logo_path": "/jOB4ZZVEepRbkIxSyWfy3pW50pi.png",
-          "name": "Emerald City Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/bY3XwRlFK5ie5jA2iIvem7hvzxC.jpg",
       "genre_ids": [
         10749,
@@ -896,7 +591,564 @@
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
-        "kinozal_movies_ru",
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8XJaZToxpYfpcJWzY5xkIX0MTG2.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1458240,
+      "original_language": "ru",
+      "original_title": "Двое в одной жизни, не считая собаки",
+      "overview": "Фильм про жизнь двух питерских стариков-интеллигентов, мужа и жены. Про их мудрость, спокойствие, оптимизм, терпение и прощение. Про всё то, чего так не хватает современным людям сегодня. Поэтому к ним, к их теплу и дому тянутся, как к огню, те, кому холодно и кому нужна помощь и поддержка.",
+      "popularity": 0.4127,
+      "poster_path": "/vbln7gPAK2YGqnGO1cyw2Gf6ezT.jpg",
+      "release_date": "2025-10-16",
+      "title": "Двое в одной жизни, не считая собаки",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt38504885",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 135327,
+          "logo_path": null,
+          "name": "September Film Studio",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mhf4JUcIzn4kEJUFxJzm4qiYgQY.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        10751,
+        10770
+      ],
+      "id": 235662,
+      "original_language": "en",
+      "original_title": "Snow Bride",
+      "overview": "Грета Кейн всегда в поиске новостей. Она репортер колонки сплетен в одном из таблоидов Лос-Анжелеса. Ее работа — следить за богатыми и знаменитыми, но однажды случается так, что один из сыновей сенатора делает ей предложение руки и сердца.",
+      "popularity": 3.6321,
+      "poster_path": "/QiRWSeBSY2LJxpTXfN5QeyJoLX.jpg",
+      "release_date": "2013-11-09",
+      "title": "Снежная невеста",
+      "video": false,
+      "vote_average": 6.351,
+      "vote_count": 98,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt3214240",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 5225,
+          "logo_path": "/3oajd9v7Zxw7QvnnyhK5TFjDcFB.png",
+          "name": "Johnson Production Group",
+          "origin_country": "CA"
+        },
+        {
+          "id": 4056,
+          "logo_path": "/dnz7zZ2e11usyjPG3mTYvJfyciD.png",
+          "name": "Hallmark Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 85,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hjAmzS9mHOtm0MUZ5FEZIQiQLKW.jpg",
+      "genre_ids": [
+        10770,
+        35,
+        10749
+      ],
+      "id": 1396981,
+      "original_language": "en",
+      "original_title": "The Perfect Setting",
+      "overview": "Эбби, начинающий дизайнер ювелирных украшений, возвращается в родную Бельгию, чтобы навестить своего дедушку. Она решает принять участие в алмазном фестивале, мечтая выиграть призовое место. Девушка знакомится с Александром Рэми, своим конкурентом, отец которого является давним соперником дедушки Эбби. Встреча с Эбби помогает ему заглянуть в себя и переосмыслить отношения с отцом, а девушка наконец понимает где на самом деле её дом.",
+      "popularity": 0.2887,
+      "poster_path": "/lgB3PdIywY6O0jqku4w67TtExpz.jpg",
+      "release_date": "2025-01-25",
+      "title": "Идеальная обстановка",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34783302",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 83228,
+          "logo_path": "/fTcuLdixa608TxDMtjJQRQ85WyF.png",
+          "name": "Leif Films",
+          "origin_country": "CA"
+        },
+        {
+          "id": 859,
+          "logo_path": "/wK6ssskf1QaGp057lSYb6fa3Nwc.png",
+          "name": "Saga Film",
+          "origin_country": "BE"
+        },
+        {
+          "id": 53015,
+          "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+          "name": "Hallmark Media",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 84,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ym5SlqMEpsQNPtDIE7KeVFL2qkz.jpg",
+      "genre_ids": [
+        10770,
+        35,
+        10749
+      ],
+      "id": 348634,
+      "original_language": "en",
+      "original_title": "A Christmas Detour",
+      "overview": "Пейдж, будущая невеста, в канун Рождества отправляется на самолёте в Нью-Йорк, чтобы познакомиться с родственниками своего жениха Джека. По соседству с ней в самолёте сидит Дилан, который недавно пережил расставание с возлюбленной и летит на праздники к брату. Когда из-за метели авиарейс отменяют, Пейдж, Дилан и семейная пара вместе решают добраться до места назначения на арендованном автомобиле.",
+      "popularity": 1.1546,
+      "poster_path": "/ogBVg6Bowu3Y5zagUX4z8x2q4OL.jpg",
+      "release_date": "2015-11-28",
+      "title": "Путь на Рождество",
+      "video": false,
+      "vote_average": 6.086,
+      "vote_count": 105,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4767950",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 3958,
+          "logo_path": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+          "name": "Front Street Pictures",
+          "origin_country": "CA"
+        },
+        {
+          "id": 92735,
+          "logo_path": null,
+          "name": "Axelrod-Ett Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 92734,
+          "logo_path": null,
+          "name": "ACTR Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 85,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Qf6lzJFhNiRVQrS2N05PQbInmY.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10749,
+        37
+      ],
+      "id": 11259,
+      "original_language": "en",
+      "original_title": "Far and Away",
+      "overview": "Рыжеволосая кудрявая красавица и ее скромный, но не имеющий ни гроша за душой возлюбленный, ирландец, отправляются на заокеанский далекий Запад в поисках счастья.",
+      "popularity": 2.9062,
+      "poster_path": "/etyefrqT329orZjg86Hnap2y3az.jpg",
+      "release_date": "1992-05-22",
+      "title": "Далеко - далеко",
+      "video": false,
+      "vote_average": 6.772,
+      "vote_count": 1269,
+      "belongs_to_collection": null,
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 37,
+          "name": "вестерн"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0104231",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 23,
+          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+          "name": "Imagine Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 137783840,
+      "runtime": 140,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Им нужна была страна, которая была бы достаточно большой для их грёз»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8xVvEvOrtxVSWN3wpIdHozozyMb.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1218193,
+      "original_language": "ca",
+      "original_title": "Casa en flames",
+      "overview": "Монтсе, разведенная, с двумя детьми, которые давно ее не замечают, готовится к воссоединению семьи в своем доме на побережье Коста-Брава.",
+      "popularity": 0.5192,
+      "poster_path": "/vp7t59NgPHhfH8LvCcgFQqYacIr.jpg",
+      "release_date": "2024-06-28",
+      "title": "Дом в огне",
+      "video": false,
+      "vote_average": 6.848,
+      "vote_count": 115,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt29793197",
+      "origin_country": [
+        "IT",
+        "ES"
+      ],
+      "production_companies": [
+        {
+          "id": 54844,
+          "logo_path": "/csK90KPmk8f54CQXbVeRUHp7nhM.png",
+          "name": "Sábado Películas",
+          "origin_country": "ES"
+        },
+        {
+          "id": 54843,
+          "logo_path": "/fNx9b6RjiQ8aEneWTy7tvuIpM1R.png",
+          "name": "Playtime Movies",
+          "origin_country": "ES"
+        },
+        {
+          "id": 211922,
+          "logo_path": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+          "name": "3Cat",
+          "origin_country": "ES"
+        },
+        {
+          "id": 29566,
+          "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+          "name": "Atresmedia",
+          "origin_country": "ES"
+        },
+        {
+          "id": 191556,
+          "logo_path": null,
+          "name": "Eliofilm",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 108,
+      "spoken_languages": [
+        {
+          "english_name": "Catalan",
+          "iso_639_1": "ca",
+          "name": "Català"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        9648
+      ],
+      "id": 475717,
+      "original_language": "ru",
+      "original_title": "Чёрная Вуаль",
+      "overview": "Андрей Рокшин, ловелас и меценат из Петербурга, убит загадочной женщиной в чёрной вуали. За расследование убийства берётся следователь Синев.",
+      "popularity": 0.3036,
+      "poster_path": "/4EDd080t2lW3XoA4BF82tXJuqTh.jpg",
+      "release_date": "1995-03-02",
+      "title": "Чёрная Вуаль",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0112671",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 1859,
+          "logo_path": null,
+          "name": "Ritm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 170585,
+          "logo_path": "/1nUzkMSbZOzoYgHHhBSJ5xGwnIm.png",
+          "name": "Mosfilm",
+          "origin_country": "RU"
+        },
+        {
+          "id": 12785,
+          "logo_path": null,
+          "name": "Roskomkino",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 97,
+      "spoken_languages": [],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
         "kinozal_melodrama"
       ]
     },
@@ -982,55 +1234,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/nC57cswfpk1a3sXQjwp5dwxinMl.jpg",
+      "backdrop_path": "/t13F39lA2f4f5F3s3b23Htai1Pf.jpg",
       "genre_ids": [
-        18,
         10749
       ],
-      "id": 38724,
+      "id": 1241980,
       "original_language": "en",
-      "original_title": "Some Came Running",
-      "overview": "Романист-неудачник, ветеран второй мировой Дэйв Хирш, возвращается домой в родной городок Паркмэн, штат Иллинойс, с рукописью нового романа и очаровательной девицей Джинни Мурхед. Их появление в маленьком городишке производит сенсацию. Здесь под внешней респектабельностью скрываются и коррупция, и сексуальные интрижки. Разочарования Дэйва в жизни городка, погрязшего в лицемерии, доводят его до безрассудства и приводят к трагедии...",
-      "popularity": 1.1101,
-      "poster_path": "/1MU776Znpod129nuoZenRhdlALv.jpg",
-      "release_date": "1958-12-25",
-      "title": "И подбежали они",
+      "original_title": "Shifting Gears",
+      "overview": "После того как женщина-механик Джесс с неохотой соглашается принять участие в шоу по восстановлению классических автомобилей, она с шоком узнает, что ее бывший парень Люк - ее главный соперник. Вспыхнет ли искра их отношений снова?",
+      "popularity": 3.4836,
+      "poster_path": "/7khTyvtigzx9NWbrGvFb3HjXacD.jpg",
+      "release_date": "2024-03-23",
+      "title": "Смена передачи",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 139,
+      "vote_average": 6.4,
+      "vote_count": 8,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
         {
           "id": 10749,
           "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0052218",
+      "imdb_id": "tt31519881",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 21,
-          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
-          "name": "Metro-Goldwyn-Mayer",
-          "origin_country": "US"
+          "id": 6438,
+          "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
+          "name": "Muse Entertainment",
+          "origin_country": "CA"
         }
       ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
+      "production_countries": [],
       "revenue": 0,
-      "runtime": 137,
+      "runtime": 84,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1040,7 +1282,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_melodrama"
@@ -1048,260 +1290,31 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9liHkRBT4CJehFlJRWDc7PLGMyN.jpg",
+      "backdrop_path": "/S1tTGf3RdGqW7A9t0SMMQaYoGq.jpg",
       "genre_ids": [
-        10770,
-        35,
         10749
       ],
-      "id": 1035945,
+      "id": 1361222,
       "original_language": "en",
-      "original_title": "Just for Showmance",
-      "overview": "Когда карьера Тары Холмс оказывается в тупике, она соглашается пойти на шоу, чтобы выйти замуж за Джо, с которым до этого ни разу не встречалась.",
-      "popularity": 0.4764,
-      "poster_path": "/76PX6IYzhMkG2r5A9hrkOrjvbRB.jpg",
-      "release_date": "2023-02-09",
-      "title": "Показухи ради",
+      "original_title": "Hanukkah on the Rocks",
+      "overview": "Неожиданно оказавшись без работы, юристка Тори проводит первое за многие годы свободное время, помогая своей бабушке подготовиться к Хануке. Видов свечей для меноры много, но девушке нужны определённые, и она отправляется на поиски последней коробки в Чикаго. Она и не подозревает, что на заветную партию уже положил глаз симпатичный доктор Джей. Эта встреча станет судьбоносной для обоих.",
+      "popularity": 0.2459,
+      "poster_path": "/mJ5eNzCXpOEQN9NA5AsUgsS5Dv0.jpg",
+      "release_date": "2024-12-13",
+      "title": "Ханука со льдом",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 12,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt21960008",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 15645,
-          "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
-          "name": "Reel One Entertainment",
-          "origin_country": "CA"
-        },
-        {
-          "id": 148445,
-          "logo_path": "/3BACAx9dJ0AC3xjGrOZLdz83EgE.png",
-          "name": "Fade to Black Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nIbAh56JRBuPc3FSy3k9EeoabLV.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        35
-      ],
-      "id": 66945,
-      "original_language": "en",
-      "original_title": "Love's Kitchen",
-      "overview": "Роб Хейли — бывший шеф-повар и владелец ресторана высокой кухни в Лондоне. После гибели своей жены в автомобильной аварии, он, убитый горем, бросает все дела и переезжает с дочерью в глубинку. Его навещает приятель, звезда телевизионной кулинарии и владелец собственного ресторана, Гордон Ремси, и уговаривает Роба заняться местным пабом и превратить его в высококлассный ресторан.  Роб берется за дело, и скоро о деревенской забегаловке начинают говорить. Проверить, насколько вкусно готовят в новом ресторане, приезжает известный ресторанный критик Кейт, искренне увлеченная кухней. Она влюбляется и в кухню ресторана, и в повара…",
-      "popularity": 2.9764,
-      "poster_path": "/mKedM3lkGfqrXfbJdRuaerFwC7z.jpg",
-      "release_date": "2011-06-24",
-      "title": "Любовь и кухня",
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 95,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1519663",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 86,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ccwnedVLAmPa99PYuM7TEPtzJVX.jpg",
-      "genre_ids": [
-        10770,
-        35,
-        10749
-      ],
-      "id": 1105787,
-      "original_language": "en",
-      "original_title": "A Royal Recipe for Love",
-      "overview": "Джессика — американский блогер, увлечённый кулинарией и историей. Она выигрывает конкурс на должность личного повара для принца небольшой европейской страны Сан-Амброзия. Чтобы не привлекать к себе лишнего внимания, Джессика решает скрыть свою настоящую профессию и представляется историком. И в первые же дни она случайно знакомится с принцем Алексисом. Он тоже решает не раскрывать своего положения, представившись обычным гидом. Вместе они исследуют страну, её кухню и культуру, и между ними возникает искреннее взаимное притяжение. Джессика с энтузиазмом берётся за работу повара при дворе, не подозревая, что её загадочный новый друг и есть её работодатель.",
-      "popularity": 0.5023,
-      "poster_path": "/7fzp1Fvf60BtwATCoMEBeHG2cgi.jpg",
-      "release_date": "2023-06-30",
-      "title": "Королевский рецепт любви",
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 17,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27156857",
-      "origin_country": [
-        "CA"
-      ],
-      "production_companies": [
-        {
-          "id": 150680,
-          "logo_path": null,
-          "name": "CME Summer Productions",
-          "origin_country": "CA"
-        },
-        {
-          "id": 140422,
-          "logo_path": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
-          "name": "Champlain Media",
-          "origin_country": "CA"
-        },
-        {
-          "id": 15645,
-          "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
-          "name": "Reel One Entertainment",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nETz6bf1OwulMiThXJaQeJdL7SW.jpg",
-      "genre_ids": [
-        10770,
-        10751
-      ],
-      "id": 1458213,
-      "original_language": "en",
-      "original_title": "Hats Off to Love",
-      "overview": "Стелла создает дизайн шляпок и вуалеток для светской львицы Розалинды. Девушка случайно знакомится с ее сыном Кристианом, который тренирует лошадь для участия в дерби. Кристиан видит в Стелле родственную душу и проникается к ней чувствами.",
-      "popularity": 0.2888,
-      "poster_path": "/eSRIZZI8vMDIAQKVpYDs4Cm7PtV.jpg",
-      "release_date": "2025-05-03",
-      "title": "Снимаю шляпу перед сердцем",
-      "video": false,
-      "vote_average": 6,
+      "vote_average": 4.333,
       "vote_count": 6,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt36414389",
+      "imdb_id": "tt33478583",
       "origin_country": [
         "US"
       ],
@@ -1326,60 +1339,61 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/mDVOXpuQ6ImM0jrmts3VbY511dh.jpg",
+      "backdrop_path": "/rcAuDsTPFTAUAB0NNcIMAT3rB3j.jpg",
       "genre_ids": [
-        10749,
+        18,
         10770
       ],
-      "id": 746039,
+      "id": 36494,
       "original_language": "en",
-      "original_title": "A Timeless Christmas",
-      "overview": "Чарльз Уитли, хозяин большой усадьбы и изобретатель, переносится из 1903 года в 2020. В чуждом ему времени он знакомится с Меган Тёрнер. И Чарльз, вначале искавший способ вернуться в своё время, решает остаться в XXI столетии и насладиться прекрасным празднованием Рождества.",
-      "popularity": 1.1664,
-      "poster_path": "/lW6jwqUxXhojjKZ54OGu6KbCcWa.jpg",
-      "release_date": "2020-11-15",
-      "title": "Рождество вне времени",
+      "original_title": "A Different Kind of Christmas",
+      "overview": "Элизабет — городской адвокат. После того, как умерла ее мама, отец превратил свой дом в своего рода круглогодичный замок Санта Клауса.",
+      "popularity": 0.4697,
+      "poster_path": "/vUA6UBJWOxUPjGSwUHDACs7jJUQ.jpg",
+      "release_date": "1996-12-09",
+      "title": "Такое неожиданное Рождество",
       "video": false,
-      "vote_average": 6.397,
-      "vote_count": 78,
+      "vote_average": 4.6,
+      "vote_count": 8,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 18,
+          "name": "драма"
         },
         {
           "id": 10770,
           "name": "телевизионный фильм"
         }
       ],
-      "homepage": "https://www.hallmarkchannel.com/a-timeless-christmas/",
-      "imdb_id": "tt13341414",
+      "homepage": "",
+      "imdb_id": "tt0182983",
       "origin_country": [
-        "CA",
         "US"
       ],
       "production_companies": [
         {
-          "id": 6345,
-          "logo_path": "/pctomojbRLZNdYB0muFoZiaYdPI.png",
-          "name": "Lighthouse Pictures",
-          "origin_country": "CA"
+          "id": 7483,
+          "logo_path": null,
+          "name": "Hearst Entertainment Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 3976,
+          "logo_path": null,
+          "name": "Carroll Newman Productions",
+          "origin_country": ""
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 84,
+      "runtime": 90,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1397,60 +1411,70 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/8XJaZToxpYfpcJWzY5xkIX0MTG2.jpg",
+      "backdrop_path": "/hnRsPyi5Jpp4Hb483v0tflRR6Ui.jpg",
       "genre_ids": [
-        18
+        35,
+        10749,
+        10770
       ],
-      "id": 1458240,
-      "original_language": "ru",
-      "original_title": "Двое в одной жизни, не считая собаки",
-      "overview": "Фильм про жизнь двух питерских стариков-интеллигентов, мужа и жены. Про их мудрость, спокойствие, оптимизм, терпение и прощение. Про всё то, чего так не хватает современным людям сегодня. Поэтому к ним, к их теплу и дому тянутся, как к огню, те, кому холодно и кому нужна помощь и поддержка.",
-      "popularity": 0.4127,
-      "poster_path": "/vbln7gPAK2YGqnGO1cyw2Gf6ezT.jpg",
-      "release_date": "2025-10-16",
-      "title": "Двое в одной жизни, не считая собаки",
+      "id": 149490,
+      "original_language": "en",
+      "original_title": "All About Christmas Eve",
+      "overview": "В это Рождество у Эвелин всё складывается как нельзя лучше: отличная работа в Лос-Анджелесе и чудесный вечер с очаровательным парнем. Но что, если всё пойдёт другим путём? Вдруг судьба уготовила два варианта событий, и только за Эвелин выбор верного?",
+      "popularity": 0.4618,
+      "poster_path": "/ym00MZTI4qg5gLsY7A5eih4VjjR.jpg",
+      "release_date": "2012-12-09",
+      "title": "Всё о сочельнике",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 5,
+      "vote_count": 41,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt38504885",
+      "imdb_id": "tt2444354",
       "origin_country": [
-        "RU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 135327,
+          "id": 17163,
           "logo_path": null,
-          "name": "September Film Studio",
-          "origin_country": "RU"
+          "name": "Production Media Group",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 109,
+      "runtime": 88,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_melodrama"
