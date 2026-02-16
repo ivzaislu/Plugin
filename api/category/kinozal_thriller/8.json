@@ -9,28 +9,38 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/dKJM7ASnbe2owv92S4OwtqBG8wl.jpg",
+      "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
       "genre_ids": [
-        53,
+        28,
+        80,
         18
       ],
-      "id": 43549,
+      "id": 2034,
       "original_language": "en",
-      "original_title": "The Experiment",
-      "overview": "Когда ученые решили провести уникальное исследование психики человека, никто и подумать не мог, чем все это закончится. Двадцать шесть обывателей заперты по разные стороны решетки, одни играют роль заключенных, другие — охранников. Они согласились на это добровольно. Им казалось, что будет весело. Но за железными засовами даже самая невинная шутка может довести человека до безумия. Сколько времени пройдет до того, как прольется первая кровь?",
-      "popularity": 2.1426,
-      "poster_path": "/osahMn7ErF5X69VfMBUsopPBo95.jpg",
-      "release_date": "2010-07-15",
-      "title": "Эксперимент",
+      "original_title": "Training Day",
+      "overview": "Джейк Хойт устраивается на работу в отдел по борьбе с наркотиками полиции Лос-Анджелеса. Его напарником становится опытный полицейский Алонзо Харисс, который в борьбе с преступностью далеко не всегда использует законные методы. И почти сразу Джейк оказывается вовлечённым в стремительный водоворот событий.",
+      "popularity": 7.2667,
+      "poster_path": "/6rt6zNBUHrNjh2pdoZlh3oWuYCC.jpg",
+      "release_date": "2001-10-05",
+      "title": "Тренировочный день",
       "video": false,
-      "vote_average": 6.4,
-      "vote_count": 1282,
-      "belongs_to_collection": null,
-      "budget": 21800000,
+      "vote_average": 7.509,
+      "vote_count": 6357,
+      "belongs_to_collection": {
+        "id": 945477,
+        "name": "Тренировочный день (Коллекция)",
+        "poster_path": "/iGPIVEGgjQjm8WtrbazAz12Rtar.jpg",
+        "backdrop_path": "/7KJGbt6SbAZwgTUqNpoUzsgrAIg.jpg"
+      },
+      "budget": 45000000,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         },
         {
           "id": 18,
@@ -38,64 +48,40 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0997152",
+      "imdb_id": "tt0139654",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 11341,
-          "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
-          "name": "Stage 6 Films",
+          "id": 24939,
+          "logo_path": null,
+          "name": "WV Films II",
+          "origin_country": ""
+        },
+        {
+          "id": 79,
+          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+          "name": "Village Roadshow Pictures",
           "origin_country": "US"
         },
         {
-          "id": 13648,
+          "id": 172,
           "logo_path": null,
-          "name": "Inferno Entertainment",
+          "name": "NPV Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 20659,
-          "logo_path": null,
-          "name": "Cinedigm",
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
           "origin_country": "US"
         },
         {
-          "id": 22545,
-          "logo_path": null,
-          "name": "Magnet Media Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 22546,
-          "logo_path": null,
-          "name": "Magnet Media Group",
-          "origin_country": ""
-        },
-        {
-          "id": 22548,
-          "logo_path": null,
-          "name": "Adelstein/Parouse Productions",
+          "id": 889,
+          "logo_path": "/aqba7mtkseSCXByZiULc0aF2Djq.png",
+          "name": "Outlaw Productions",
           "origin_country": "US"
-        },
-        {
-          "id": 22549,
-          "logo_path": null,
-          "name": "Mercator Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 22550,
-          "logo_path": null,
-          "name": "Natural Selection",
-          "origin_country": ""
-        },
-        {
-          "id": 22551,
-          "logo_path": null,
-          "name": "Westeast Films",
-          "origin_country": ""
         }
       ],
       "production_countries": [
@@ -104,8 +90,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 96,
+      "revenue": 104900000,
+      "runtime": 122,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -113,14 +99,24 @@
           "name": "English"
         },
         {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
           "english_name": "Spanish",
           "iso_639_1": "es",
           "name": "Español"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "",
+      "tagline": "«Опаснее преступника может быть лишь полицейский, нарушающий закон»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"

@@ -5,43 +5,48 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 291,
+  "total": 292,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/kOrl6WQ7bQRTfgRtPwINItDvgBd.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        18
+        35,
+        10402
       ],
-      "id": 921273,
+      "id": 396105,
       "original_language": "ru",
-      "original_title": "Мелодия на два голоса",
-      "overview": "Просто и без особых проблем складывается жизнь Кирилла Воробьева: окончив школу и отслужив армию, он работает на заводе слесарем. Но однажды он встречает Алену, студентку одного из московских вузов. И впервые, Кирилл начинает чувствовать себя скованно и неуютно в обществе понравившейся интеллигентной девушки.",
-      "popularity": 0.3239,
-      "poster_path": "/AcxOu7N3CwbRQvE5ZBWJ68ibXjg.jpg",
-      "release_date": "1980-05-18",
-      "title": "Мелодия на два голоса",
+      "original_title": "Только ты",
+      "overview": "Героиня этой истории - простая одесская девчонка Тоня Чумакова мечтает о море. И вот ее берут радистом на один из кораблей Черноморской китобойной флотилии...",
+      "popularity": 0.1346,
+      "poster_path": "/bpTxEvCsI7dT69kguD7ZFLUxhv7.jpg",
+      "release_date": "1972-06-07",
+      "title": "Только ты",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 7.5,
+      "vote_count": 2,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0230515",
+      "imdb_id": "tt4714098",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 6608,
-          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
-          "name": "Ekran",
+          "id": 4581,
+          "logo_path": "/p858ADU9O67a7ageVEjsk18jqak.png",
+          "name": "Dovzhenko Film Studios",
           "origin_country": "SU"
         }
       ],
@@ -52,7 +57,73 @@
         }
       ],
       "revenue": 0,
-      "runtime": 139,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "По мотивам оперетты Исаака Дунаевского «Белая акация»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sLkp6xv6svct1LTCTK22UtFQQnk.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 409756,
+      "original_language": "ru",
+      "original_title": "Первое свидание",
+      "overview": "Алексей и Валентина встретились в туристическом лагере на Селигере, а спустя две недели отпраздновали свадьбу. Вернувшись домой, юная пара столкнулась с первыми трудностями — появились проблемы с жильем. И молодые вскоре сошлись на том, что свадьба была преждевременной. Постоянные ссоры прекратились, когда случилось несчастье с Валиной подругой и молодая жена взяла на себя заботу о чужих детях...",
+      "popularity": 0.3377,
+      "poster_path": "/zpOOhvsZEquzSb2ktTw20tDGvgH.jpg",
+      "release_date": "1960-06-13",
+      "title": "Первое свидание",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 6,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0054175",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 91,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -70,40 +141,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/jAORH5me1WdIXljaL5rTWgyTySx.jpg",
+      "backdrop_path": "/g2oEVveG0zU99fdGwAnDKEYQQpG.jpg",
       "genre_ids": [
+        10749,
         35
       ],
-      "id": 505887,
+      "id": 142770,
       "original_language": "ru",
-      "original_title": "Аферисты",
-      "overview": "Забавные приключения трех жуликов: Рубика, Маруси и Филимона, промышляющих в поисках икон и выдающих себя попеременно за артистов, художников или искусствоведов…",
-      "popularity": 0.3542,
-      "poster_path": "/qbJKnW2MrDNvsakOmtCjDKhUt7r.jpg",
-      "release_date": "1990-01-01",
-      "title": "Аферисты",
+      "original_title": "Верные друзья",
+      "overview": "Когда-то давно на одной из московских окраин жили три товарища: Сашка - «кошачий барин», Борька - «чижик» и Васька - «индюк». Прошли годы. Чижик стал известным московским хирургом Чижовым, Сашка - профессором-животноводом Лапиным, Васька - академиком архитектуры Нестратовым. Вспомнив когда-то данное всеми обещание, они отправляются на бревенчатом плоту в плавание вниз по реке и претерпевают множество приключений... Для Лапина путешествие оказывается и счастливым: он встречает давно любимую и любящую его женщину... Нестратов, пройдя через все перепетии, невольно меняет свое отношение к жизни, убавляя номенклатурную спесь. А что касается Чижова, то он показывает свой талант хирурга: делает уникальную операцию на черепе девушке Кате, которую сбили лошади.",
+      "popularity": 0.4687,
+      "poster_path": "/mpcxHEJzSC9J44v353WORubvmJX.jpg",
+      "release_date": "1954-04-20",
+      "title": "Верные друзья",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 7.1,
+      "vote_count": 35,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
         {
           "id": 35,
           "name": "комедия"
         }
       ],
-      "homepage": "",
-      "imdb_id": "tt0098988",
+      "homepage": "https://cinema.mosfilm.ru/films/35496/",
+      "imdb_id": "tt0047650",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 127400,
-          "logo_path": null,
-          "name": "Filmmaking on Taganka",
-          "origin_country": ""
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
         }
       ],
       "production_countries": [
@@ -113,7 +189,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 84,
+      "runtime": 102,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -278,6 +354,180 @@
     },
     {
       "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 627150,
+      "original_language": "ru",
+      "original_title": "Бархан",
+      "overview": "Вполне благополучная супружеская пара на собственной новенькой «Волге» заблудилась в пустыне. А когда они радостно бросились навстречу грузовику, рассчитывая на помощь, оказалось, что в кабине находились два рецидивиста, только что сбежавшие из колонии…",
+      "popularity": 0.1932,
+      "poster_path": "/f1G59dEnJ6NNE0kibsKJcJBMeta.jpg",
+      "release_date": "1989-04-19",
+      "title": "Бархан",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0309338",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 81,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 206426,
+      "original_language": "ru",
+      "original_title": "Очарованный странник",
+      "overview": "Между пассажирами парохода возникает спор о том, что есть ли на Руси праведники? Никто не хочет рассказывать о своей жизни. И лишь один священник, хотя и предупреждает, что он «большой грешник», решается поведать свою историю.",
+      "popularity": 0.4826,
+      "poster_path": "/wsDuf54MB7DplmzYxhJ5aR00InN.jpg",
+      "release_date": "1990-01-31",
+      "title": "Очарованный странник",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0186409",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/59EuU6qzCNj0NR7ejykhPZIk2NY.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 574121,
+      "original_language": "ru",
+      "original_title": "Счастливчик",
+      "overview": "Ваня Нечкин возвращается из Афганистана целым и невредимым. Считая себя счастливчиком, он принимает одно за другим предложения от владельцев застрахованных автомобилей - и в одной из спровоцированных им аварий погибает.",
+      "popularity": 0.6587,
+      "poster_path": "/oYV3zcTrzu5SGx5rdfoBR1UhIHM.jpg",
+      "release_date": "1988-07-01",
+      "title": "Счастливчик",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0193484",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 83,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/9NYvNKKsl6p9597l8iGL081NF51.jpg",
       "genre_ids": [
         35
@@ -322,306 +572,6 @@
       ],
       "revenue": 0,
       "runtime": 87,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1kShjfoNZe0wTF16jvPaX8OOel1.jpg",
-      "genre_ids": [
-        10770,
-        35,
-        10749
-      ],
-      "id": 43430,
-      "original_language": "ru",
-      "original_title": "Ирония судьбы, или С легким паром!",
-      "overview": "Лирическая комедия о том, как четверо друзей под Новый год, по традиции, отправились в баню… А получился один из лучших фильмов отечественного кино за всю его историю. Эльдару Рязанову удалось в этой картине все - от мягкой новогодней интонации до великолепного актерского ансамбля: Андрей Мягков (Женя), Барбара Брыльска (Надя), Юрий Яковлев (Ипполит), Александр Ширвиндт (Павел), Георгий Бурков (Миша)…",
-      "popularity": 2.9226,
-      "poster_path": "/b7hCjU6dgJBzXgbC5BUOcrCm9Zj.jpg",
-      "release_date": "1975-12-31",
-      "title": "Ирония судьбы, или С легким паром!",
-      "video": false,
-      "vote_average": 7.273,
-      "vote_count": 251,
-      "belongs_to_collection": {
-        "id": 107473,
-        "name": "Ирония судьбы (Коллекция)",
-        "poster_path": "/1DzMfdobDqF67PhAtLiECqLbsqV.jpg",
-        "backdrop_path": "/gI5Rr5fIzKhRsYDQYjFcttMCQU5.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "https://cinema.mosfilm.ru/films/35162/",
-      "imdb_id": "tt0073179",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 184,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/a7sOwNj0uXTPE8PY2seDlsT41LN.jpg",
-      "genre_ids": [
-        35,
-        10749,
-        14,
-        10770
-      ],
-      "id": 41977,
-      "original_language": "ru",
-      "original_title": "Чародеи",
-      "overview": "Новогодняя сказка о том, что настоящая любовь может творить чудеса. В институте «НУИНУ» (научный универсальный институт необыкновенных услуг) кипит бурная работа по изготовлению волшебной палочки. Презентация изобретения намечена на 31 декабря, в Новогодний вечер.",
-      "popularity": 1.0975,
-      "poster_path": "/1wC5WNWYKxosp9jcKPZvk9Q8HiW.jpg",
-      "release_date": "1982-12-31",
-      "title": "Чародеи",
-      "video": false,
-      "vote_average": 7.042,
-      "vote_count": 59,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0083730",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14620,
-          "logo_path": "/zbQk1aw57z6LUOSQzb0MoZDLiUz.png",
-          "name": "Gosteleradio USSR",
-          "origin_country": "SU"
-        },
-        {
-          "id": 3161,
-          "logo_path": "/p22GDJaOniIWidl1vPqzBv4qxFN.png",
-          "name": "Odessa Film Studio",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 160,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3HAE45owWz4EuxXvCStsjqt5o8F.jpg",
-      "genre_ids": [
-        18,
-        14,
-        35,
-        10770,
-        10402
-      ],
-      "id": 441851,
-      "original_language": "ru",
-      "original_title": "В тринадцатом часу ночи",
-      "overview": "Водяной, Леший, Русалка, Баба Яга, Домовой, Овинный, а также невесть откуда взявшийся Гном, собрались за одним столом, наверное, встретить Новый Год. Многозначные диалоги весьма неожиданно прерываются песнями и плясками популярных по тому времени артистов.",
-      "popularity": 12.1753,
-      "poster_path": "/nC2KT0XKYVO2zO4NXq6OlcpHqY4.jpg",
-      "release_date": "1969-01-01",
-      "title": "В тринадцатом часу ночи",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0166864",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 6608,
-          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
-          "name": "Ekran",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 70,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iD62yuigtoeejF6cl5JFs5Kwqbh.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 624634,
-      "original_language": "ru",
-      "original_title": "Всегда со мною...",
-      "overview": "Известный ученый, академик-искусствовед Андрей Ильин, переживший вместе с коллективом Эрмитажа суровые испытания ленинградской блокады, через много лет возвращается в родной город. С Ленинградом связана вся жизнь Ильина.  Жизнь, которая в далекие годы Великой Отечественной, казалась бы, не имела будущего, но которая, несмотря на непереносимый ужас голода и разрухи, продолжалась только во имя будущего…",
-      "popularity": 0.3623,
-      "poster_path": "/ytiitcdrGe2HzCK4vgh9oj1A0jy.jpg",
-      "release_date": "1976-06-06",
-      "title": "Всегда со мною...",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0337436",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 101,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -769,158 +719,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fvTxcnb0qkxo35gcQTUxBVjrECT.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749,
-        10402
-      ],
-      "id": 65110,
-      "original_language": "ru",
-      "original_title": "Зимний вечер в Гаграх",
-      "overview": "Стремительный ритм, виртуозная и озорная импровизация — вот что такое чечётка.. Главный герой фильма, некогда знаменитый чечёточник, кумир публики, живёт ныне скромно и незаметно. Он репетитор танцев в эстрадном коллективе, где блещут иные «звезды»... И вдруг всё меняется: к старому артисту словно возвращается молодость. Так подействовала на него встреча с несколько странным молодым человеком, который пришёл со сломанной ногой и попросил, чтобы его ни много ни мало научили «бить степ»...",
-      "popularity": 0.2831,
-      "poster_path": "/lSDiTnvE0jnPnHThgoNZs18MWCf.jpg",
-      "release_date": "1985-12-09",
-      "title": "Зимний вечер в Гаграх",
-      "video": false,
-      "vote_average": 6.3,
-      "vote_count": 26,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0090370",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        18,
-        36
-      ],
-      "id": 148858,
-      "original_language": "ru",
-      "original_title": "Лев Толстой",
-      "overview": "Фильм-хроника состоит из двух частей - «Бессонница» и «Уход». Зритель встречается с великим русским писателем в последние годы его жизни (1908-1910), однако воспоминания Льва Толстого возвращают нас и к событиям его молодости, и к поре решительного и страстного перелома в его взглядах. Финал - трагический уход из Ясной Поляны и смерть, ставшая началом бессмертия.",
-      "popularity": 0.4438,
-      "poster_path": "/lwX3eqPpvpAurylPsvhPmsZRMJv.jpg",
-      "release_date": "1984-10-26",
-      "title": "Лев Толстой",
-      "video": false,
-      "vote_average": 4.2,
-      "vote_count": 6,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0087615",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 21978,
-          "logo_path": "/3EP1gJYMGlEt7j17naPMg5e2LH2.png",
-          "name": "Gorky Film Studios",
-          "origin_country": "SU"
-        },
-        {
-          "id": 12514,
-          "logo_path": null,
-          "name": "Slovenská filmová tvorba",
-          "origin_country": "XC"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "XC",
-          "name": "Czechoslovakia"
-        },
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 169,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
@@ -1173,144 +971,46 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/fvTxcnb0qkxo35gcQTUxBVjrECT.jpg",
       "genre_ids": [
+        35,
         18,
-        80
+        10749,
+        10402
       ],
-      "id": 627150,
+      "id": 65110,
       "original_language": "ru",
-      "original_title": "Бархан",
-      "overview": "Вполне благополучная супружеская пара на собственной новенькой «Волге» заблудилась в пустыне. А когда они радостно бросились навстречу грузовику, рассчитывая на помощь, оказалось, что в кабине находились два рецидивиста, только что сбежавшие из колонии…",
-      "popularity": 0.1932,
-      "poster_path": "/f1G59dEnJ6NNE0kibsKJcJBMeta.jpg",
-      "release_date": "1989-04-19",
-      "title": "Бархан",
+      "original_title": "Зимний вечер в Гаграх",
+      "overview": "Стремительный ритм, виртуозная и озорная импровизация — вот что такое чечётка.. Главный герой фильма, некогда знаменитый чечёточник, кумир публики, живёт ныне скромно и незаметно. Он репетитор танцев в эстрадном коллективе, где блещут иные «звезды»... И вдруг всё меняется: к старому артисту словно возвращается молодость. Так подействовала на него встреча с несколько странным молодым человеком, который пришёл со сломанной ногой и попросил, чтобы его ни много ни мало научили «бить степ»...",
+      "popularity": 0.2831,
+      "poster_path": "/lSDiTnvE0jnPnHThgoNZs18MWCf.jpg",
+      "release_date": "1985-12-09",
+      "title": "Зимний вечер в Гаграх",
       "video": false,
-      "vote_average": 5,
-      "vote_count": 2,
+      "vote_average": 6.3,
+      "vote_count": 26,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0309338",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 81,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        18,
-        36
-      ],
-      "id": 206426,
-      "original_language": "ru",
-      "original_title": "Очарованный странник",
-      "overview": "Между пассажирами парохода возникает спор о том, что есть ли на Руси праведники? Никто не хочет рассказывать о своей жизни. И лишь один священник, хотя и предупреждает, что он «большой грешник», решается поведать свою историю.",
-      "popularity": 0.4826,
-      "poster_path": "/wsDuf54MB7DplmzYxhJ5aR00InN.jpg",
-      "release_date": "1990-01-31",
-      "title": "Очарованный странник",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 1,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
+          "id": 10749,
+          "name": "мелодрама"
         },
         {
-          "id": 36,
-          "name": "история"
+          "id": 10402,
+          "name": "музыка"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0186409",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 124,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/59EuU6qzCNj0NR7ejykhPZIk2NY.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 574121,
-      "original_language": "ru",
-      "original_title": "Счастливчик",
-      "overview": "Ваня Нечкин возвращается из Афганистана целым и невредимым. Считая себя счастливчиком, он принимает одно за другим предложения от владельцев застрахованных автомобилей - и в одной из спровоцированных им аварий погибает.",
-      "popularity": 0.6587,
-      "poster_path": "/oYV3zcTrzu5SGx5rdfoBR1UhIHM.jpg",
-      "release_date": "1988-07-01",
-      "title": "Счастливчик",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0193484",
+      "imdb_id": "tt0090370",
       "origin_country": [
         "SU"
       ],
@@ -1329,7 +1029,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 83,
+      "runtime": 90,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1340,6 +1040,259 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iJlwlhM37rx00gXEBIu9ssoC7kZ.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 27940,
+      "original_language": "ru",
+      "original_title": "Формула любви",
+      "overview": "В 1780 году Джузеппе Калиостро прибыл в Россию для представления высшей знати. Умыкнув под предлогом лечения отца юную Марью Ивановну, граф пытается влюбить в себя девицу, но безуспешно. В провинциальном поместье, где волею случая оказались путешественники, живёт юноша, влюблённый в мраморную статую. С помощью Калиостро он надеется оживить мрамор, но встреча с живой Машей всё меняет...",
+      "popularity": 0.5256,
+      "poster_path": "/yAgBjMZMKG9rn0aKZBZ6Prx83T5.jpg",
+      "release_date": "1984-12-30",
+      "title": "Формула любви",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 70,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0216755",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 6608,
+          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
+          "name": "Ekran",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h967ZNW2XNLt9Y35arYYLiyOmOX.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80
+      ],
+      "id": 202239,
+      "original_language": "ru",
+      "original_title": "Приступить к ликвидации",
+      "overview": "Весна 1945 года. Близится победа. А на освобожденной территории Западной Белоруссии тревожно. В окрестностях города Гродно действует вооруженная банда, возглавляемая матерым уголовником, бывшим пособником немецких нацистов Болеславом Круком. Опергруппа МУРа во главе с начальником отдела по борьбе с бандитизмом полковником Даниловым проводит трудную и опасную операцию по ликвидации банды, привлекая к ней Алтунина, бывшего военного летчика, волею случая ставшего дезертиром и пособником бандитов, давая ему шанс искупить свою вину.",
+      "popularity": 0.2296,
+      "poster_path": "/8jdxP0YwWCScBujJG7acuKnd5rZ.jpg",
+      "release_date": "1983-03-12",
+      "title": "Приступить к ликвидации",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 8,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0086142",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 12617,
+          "logo_path": "/9Wf5DFTvzxo0pSqDp8MQWW3d01.png",
+          "name": "Belarusfilm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 21978,
+          "logo_path": "/3EP1gJYMGlEt7j17naPMg5e2LH2.png",
+          "name": "Gorky Film Studios",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 132,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 142879,
+      "original_language": "ru",
+      "original_title": "Коллеги",
+      "overview": "Герои фильма — три выпускника Ленинградского медицинского института. Три совершенно не похожих и очень близких друг другу человека. Жизнь, с которой они столкнутся, окажется гораздо сложнее, чем представлялась, но они сумеют преодолеть трудности, сохранив достоинство и верность студенческой дружбе.",
+      "popularity": 0.2888,
+      "poster_path": "/h2PC5O5aXzKVBC8TS8wj8Co4VTL.jpg",
+      "release_date": "1962-12-18",
+      "title": "Коллеги",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 6,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0141521",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qHBBayX31Ni8sjJMIvsUBbqe9BI.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 71045,
+      "original_language": "ru",
+      "original_title": "Отставной козы барабанщик",
+      "overview": "Уж пятый десяток пошел герою картины, а он все еще продолжает искать свое место в жизни и этой самой жизни смысл. Перепробовав с десяток профессий, работает сантехником — и считает, что тоже временно. Жена в сердцах называет его \"отставной козы барабанщиком\".  Глубоко страдающий, он оставляет семью и едет в деревню к матери, нарядившись при этом в одолженную у соседа форму капитана дальнего плавания. Эта поездка на многое раскроет ему глаза…",
+      "popularity": 0.3073,
+      "poster_path": "/xoCI1zns4ZFamMCPIZxfo5FN7EZ.jpg",
+      "release_date": "1981-06-06",
+      "title": "Отставной козы барабанщик",
+      "video": false,
+      "vote_average": 2,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0237529",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 75,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
