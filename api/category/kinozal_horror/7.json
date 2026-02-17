@@ -9,50 +9,71 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/4KI5Ij6R7L8jCvkgcmrwlQ2zyuK.jpg",
+      "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
       "genre_ids": [
-        27
+        27,
+        53,
+        80
       ],
-      "id": 617772,
+      "id": 1519168,
       "original_language": "en",
-      "original_title": "Doll Cemetery",
-      "overview": "По совету своего агента известный новеллист Брендан Коббс решает отправиться в отдалённую английскую деревушку, чтобы дописать свой третий роман. Здесь он узнаёт местную легенду об Альфреде — живой кукле, которая охотится за людьми. Однажды он получает копию Альфреда по почте и решает сделать его персонажем своей книги, однако со временем он начинает подозревать, что в легенда может быть правдой.",
-      "popularity": 0.4595,
-      "poster_path": "/cAHjOqNIZgU03yieJqyOUTr4yxO.jpg",
-      "release_date": "2019-08-23",
-      "title": "Кладбище кукол",
+      "original_title": "The Jester 2",
+      "overview": "Когда юная фокусница Макс сталкивается с таинственным и жестоким Джестером в ночь Хэллоуина, её обычные трюки превращаются в смертельное испытание. Чтобы выжить, девушке придётся перехитрить сверхъестественного убийцу, чья магия пугающе реальна, а каждая иллюзия заканчивается кровью.  Фильм объединяет ужасы, мистику и элементы слэшера, создавая атмосферу кошмара, где грань между реальностью и иллюзией стирается. Зрителей ждёт напряжённая история о страхе, ловушках и опасной игре с тьмой.",
+      "popularity": 5.8477,
+      "poster_path": "/r94EBiVLlEE8LpJSz0Pot0EgAMM.jpg",
+      "release_date": "2025-09-15",
+      "title": "Джестер 2",
       "video": false,
-      "vote_average": 5.8,
-      "vote_count": 24,
-      "belongs_to_collection": null,
+      "vote_average": 6.271,
+      "vote_count": 48,
+      "belongs_to_collection": {
+        "id": 1526352,
+        "name": "The Jester Collection",
+        "poster_path": "/cq55HSGP1QKUDNePTUOCmlnk3ik.jpg",
+        "backdrop_path": null
+      },
       "budget": 0,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt7446692",
+      "imdb_id": "tt37334010",
       "origin_country": [
-        "GB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 51122,
+          "id": 138068,
           "logo_path": null,
-          "name": "Greenway Entertainment",
+          "name": "Traverse Terror",
+          "origin_country": ""
+        },
+        {
+          "id": 114432,
+          "logo_path": null,
+          "name": "Epic Pictures",
           "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 76,
+      "revenue": 146237,
+      "runtime": 87,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -62,97 +83,6 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        53
-      ],
-      "id": 1933,
-      "original_language": "en",
-      "original_title": "The Others",
-      "overview": "Грейс прячет своих детей в уединенном особняке на острове, где семейство дожидается окончания Второй мировой войны. Войны, с которой должен вернуться муж Грейс.\r Её дочь и сын страдают странным заболеванием, они не выносят прямого дневного света. Когда в доме появляются трое новых слуг, им приходится соблюдать правила: все комнаты всегда должны быть в полумраке, и нельзя открывать дверь, пока не заперта предыдущая. Но мерному течению жизни дома вскоре приходит конец - некая потусторонняя сущность пытается нарушить заведённый порядок.",
-      "popularity": 6.0048,
-      "poster_path": "/whyUni70Oz6S5hvhZsggcTikdAp.jpg",
-      "release_date": "2001-08-02",
-      "title": "Другие",
-      "video": false,
-      "vote_average": 7.616,
-      "vote_count": 7003,
-      "belongs_to_collection": null,
-      "budget": 17000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0230600",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 44,
-          "logo_path": "/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png",
-          "name": "Cruise/Wagner Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 692,
-          "logo_path": "/mKVxLKcaUmevZUfxsuKzfIoeSw.png",
-          "name": "Sogecine",
-          "origin_country": "ES"
-        },
-        {
-          "id": 778,
-          "logo_path": null,
-          "name": "Las Producciones del Escorpión",
-          "origin_country": "ES"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "ES",
-          "name": "Spain"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        }
-      ],
-      "revenue": 210002906,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Рано или поздно они найдут тебя...»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -161,25 +91,215 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9NndEt9B99L7jS2C6vAxhuGljFe.jpg",
+      "backdrop_path": "/qCaDSX1UjgWRGeh5Cmj9SAUbS1L.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 123105,
+      "original_language": "en",
+      "original_title": "The Bay",
+      "overview": "Беспрецедентная биологическая катастрофа постигает небольшой город на берегу залива: паразиты, обитающие в морских глубинах, заражают людей неизлечимой болезнью. Весь ужас произошедших событий жители города запечатлели на видео, которое выкладывали в интернет.",
+      "popularity": 1.2629,
+      "poster_path": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
+      "release_date": "2012-09-13",
+      "title": "Залив",
+      "video": false,
+      "vote_average": 5.773,
+      "vote_count": 841,
+      "belongs_to_collection": null,
+      "budget": 2000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1713476",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 11407,
+          "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+          "name": "Baltimore Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 10936,
+          "logo_path": null,
+          "name": "Hydraulx",
+          "origin_country": ""
+        },
+        {
+          "id": 7625,
+          "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+          "name": "Automatik Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 21742,
+          "logo_path": "/yXilppYmoex6eYFc9RD70gJOcp2.png",
+          "name": "Haunted Movies",
+          "origin_country": "US"
+        },
+        {
+          "id": 911,
+          "logo_path": "/bWlWGUKejrUflSFV2aRG4o98p1D.png",
+          "name": "Roadside Attractions",
+          "origin_country": "US"
+        },
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 2514,
+          "logo_path": "/zEyrFF8Nn325PXG0Q9j7my0JqIJ.png",
+          "name": "Alliance Films",
+          "origin_country": "CA"
+        },
+        {
+          "id": 7437,
+          "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
+          "name": "IM Global",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 1581252,
+      "runtime": 84,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/blOCPsMn7szkQ0b51AIXGgut6WR.jpg",
+      "genre_ids": [
+        27,
+        18,
+        53
+      ],
+      "id": 681986,
+      "original_language": "en",
+      "original_title": "The Last Thing Mary Saw",
+      "overview": "Зимой 1843 года семья собирается в своем старом уединенном фермерском доме, чтобы оплакать потерю своего матриарха. По мере того как траур продолжается, обстоятельства смерти матриарха встают под сомнение.",
+      "popularity": 0.506,
+      "poster_path": "/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg",
+      "release_date": "2021-08-15",
+      "title": "Последнее, что видела Мэри",
+      "video": false,
+      "vote_average": 6.082,
+      "vote_count": 91,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt9741180",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2828,
+          "logo_path": "/lIsBprOFBD4VNs2DnDWO81EcsL9.png",
+          "name": "Intrinsic Value Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 184162,
+          "logo_path": null,
+          "name": "Arachnid Films",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 88,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h3X1YZXNeklLNKRVOS6DHGRosog.jpg",
       "genre_ids": [
         27,
         35,
-        10749
+        14
       ],
-      "id": 1302916,
+      "id": 287903,
       "original_language": "en",
-      "original_title": "Heart Eyes",
-      "overview": "Маньяк преследует и убивает влюбленных в День святого Валентина.",
-      "popularity": 5.6612,
-      "poster_path": "/rPlBXYTq5LqlDqDiLCoRpoNEfHQ.jpg",
-      "release_date": "2025-02-06",
-      "title": "Влюблённые глаза",
+      "original_title": "Krampus",
+      "overview": "Мрачная святочная история о рождественском упыре, раскрывающая темную, бестрепетно искаженную сторону праздника. Когда в праздничные дни в проблемной семье юного Макса вспыхивает ссора, мальчик разочаровывается и заявляет, что ненавидит Рождество. Ему невдомек, что пренебрежение праздником разжигает ярость Крампуса – древнего злого демона, карающего скептиков, неспособных проникнуться духом Рождества. Жизнь расколотой семьи превращается в кромешный ад, когда любимые всеми символы праздника начинают жить своей жизнью и становятся монстрами, которые осаждают их дом и вынуждают людей сражаться друг за друга, чтобы выжить.",
+      "popularity": 3.0736,
+      "poster_path": "/1c4SwXefvz4hfBWlQtoLKklvTZK.jpg",
+      "release_date": "2015-11-26",
+      "title": "Крампус",
       "video": false,
-      "vote_average": 6.368,
-      "vote_count": 418,
+      "vote_average": 6.2,
+      "vote_count": 2355,
       "belongs_to_collection": null,
-      "budget": 18000000,
+      "budget": 15000000,
       "genres": [
         {
           "id": 27,
@@ -190,110 +310,32 @@
           "name": "комедия"
         },
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt32558992",
+      "imdb_id": "tt3850590",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 143790,
-          "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
-          "name": "Spyglass Media Group",
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
           "origin_country": "US"
         },
         {
-          "id": 89115,
-          "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-          "name": "Divide / Conquer",
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
           "origin_country": "US"
         },
         {
-          "id": 3287,
-          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-          "name": "Screen Gems",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 33129099,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1315303,
-      "original_language": "en",
-      "original_title": "Primate",
-      "overview": "Люси вместе с друзьями возвращается домой на Гавайи к своему отцу Адаму, сестре Эрин и их ручному шимпанзе Бену. Когда Адам, писатель, уходит из дома на встречу с поклонниками, Люси решает устроить вечеринку. Однако молодые люди не подозревают, что Бен заразился бешенством от другого животного, и вскоре после начала вечеринки примат становится агрессивным.",
-      "popularity": 250.6141,
-      "poster_path": "/em5M5hFDY5GAKrRP1LdthSvN89S.jpg",
-      "release_date": "2026-01-01",
-      "title": "Примат",
-      "video": false,
-      "vote_average": 6.588,
-      "vote_count": 260,
-      "belongs_to_collection": null,
-      "budget": 21000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33028778",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 225897,
+          "id": 215994,
           "logo_path": null,
-          "name": "18Hz Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
+          "name": "Zam Pictures",
           "origin_country": "US"
         }
       ],
@@ -303,9 +345,14 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 39722402,
-      "runtime": 89,
+      "revenue": 61800000,
+      "runtime": 98,
       "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -313,8 +360,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«С Беном что-то не так»",
-      "release_quality": "2160p",
+      "tagline": "В этом году Санта Клаус не придёт",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
