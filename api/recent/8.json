@@ -1,49 +1,72 @@
 {
   "page": 8,
   "limit": 20,
-  "total": 193,
+  "total": 188,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+      "backdrop_path": "/5UYCuHb0kfFzrZ5l9SKzScguDbu.jpg",
       "genre_ids": [
-        28
+        10749,
+        35
       ],
-      "id": 1584215,
+      "id": 1429605,
       "original_language": "en",
-      "original_title": "The Internship",
-      "overview": "ЦРУ создало программу «Стажировка», чтобы с раннего возраста превращать одаренных детей в идеальных агентов и бойцов, готовых без колебаний выполнять приказы. Годы тренировок, боли и изоляции лишали их нормального детства, заменяя его дисциплиной и жестокими правилами. Одна из самых опасных выпускниц этой программы долгие годы была оружием в руках разведки, выполняя задания и устраняя врагов нации. Однако ненависть к тем, кто украл у нее право выбора, никуда не исчезла. Со временем она решается пойти против системы и объединяется с другими бывшими воспитанниками, такими же сломанными и опасными. Их цель заключается не только в мести, но и в желании остановить механизм, который продолжает создавать новых убийц. В ответ разведка объявляет охоту на своих бывших агентов, не оставляя им шанса на спокойную жизнь.",
-      "popularity": 113.5313,
-      "poster_path": "/a7hTimch8r7UiVcJPkYM4Aj5jyI.jpg",
-      "release_date": "2026-01-13",
-      "title": "Стажировка",
+      "original_title": "F Valentine's Day",
+      "overview": "Джина ненавидит свой день рождения в День святого Валентина и едет в Грецию, чтобы помешать предложению руки и сердца от своего парня. С помощью отдыхающих Джонни и его сестры Микки она придумывает план, как отложить это событие, одновременно сомневаясь в своих отношениях.",
+      "popularity": 27.9403,
+      "poster_path": "/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "release_date": "2026-02-12",
+      "title": "С Днём проклятого Валентина!",
       "video": false,
-      "vote_average": 6.239,
-      "vote_count": 44,
+      "vote_average": 6,
+      "vote_count": 22,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt38238651",
+      "imdb_id": "tt34622232",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 177095,
-          "logo_path": "/nfwWCvMNaK687bjyM7un8p7ilz0.png",
-          "name": "SP Media Group",
+          "id": 44632,
+          "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
+          "name": "Gravitas Ventures",
           "origin_country": "US"
         },
         {
-          "id": 287314,
-          "logo_path": "/o994AgxzhtTiDWFWGOHfQ8AZC7p.png",
-          "name": "Paramount Global Content Distribution",
+          "id": 41945,
+          "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
+          "name": "Indy Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 87472,
+          "logo_path": null,
+          "name": "Showdown Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 258062,
+          "logo_path": null,
+          "name": "Valletta Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 12852,
+          "logo_path": "/a2yqtzhDsTCsgccaed7tVCWjkhD.png",
+          "name": "Shout! Factory",
           "origin_country": "US"
         }
       ],
@@ -54,7 +77,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 91,
+      "runtime": 95,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -72,159 +95,158 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9NndEt9B99L7jS2C6vAxhuGljFe.jpg",
+      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+      "genre_ids": [
+        53,
+        80,
+        9648
+      ],
+      "id": 425274,
+      "original_language": "en",
+      "original_title": "Now You See Me: Now You Don't",
+      "overview": "«4 всадника» возвращаются вместе с молодым поколением иллюзионистов, демонстрируя головокружительные трюки, магию и превращения, каких ещё не видел мир.",
+      "popularity": 180.4383,
+      "poster_path": "/tTBnFolA9nYvoXXb0Jlnn7Gdtnn.jpg",
+      "release_date": "2025-11-12",
+      "title": "Иллюзия обмана 3",
+      "video": false,
+      "vote_average": 6.559,
+      "vote_count": 791,
+      "belongs_to_collection": {
+        "id": 382685,
+        "name": "Иллюзия обмана (Коллекция)",
+        "poster_path": "/9mFcFk0ZyHQK5aAOjMrHtt0Ygd2.jpg",
+        "backdrop_path": "/scBzORmLqP00h8hPKS19TLtyRQm.jpg"
+      },
+      "budget": 90000000,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4712810",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 281285,
+          "logo_path": null,
+          "name": "Cohen Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 221429,
+          "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+          "name": "Media Capital Technologies",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 218339508,
+      "runtime": 112,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Раскрой Тайну Иллюзии»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
       "genre_ids": [
         27,
-        35,
-        10749
+        53
       ],
-      "id": 1302916,
-      "original_language": "en",
-      "original_title": "Heart Eyes",
-      "overview": "Маньяк преследует и убивает влюбленных в День святого Валентина.",
-      "popularity": 5.6612,
-      "poster_path": "/rPlBXYTq5LqlDqDiLCoRpoNEfHQ.jpg",
-      "release_date": "2025-02-06",
-      "title": "Влюблённые глаза",
+      "id": 1306525,
+      "original_language": "id",
+      "original_title": "Abadi Nan Jaya",
+      "overview": "Из-за некоего эликсира в деревне происходит восстание живых мертвецов. Теперь членам семьи, в которой царит разлад, придется объединиться ради борьбы за выживание.",
+      "popularity": 4.253,
+      "poster_path": "/epWmA7nadJE13LlGoqlut0hJWmf.jpg",
+      "release_date": "2025-10-22",
+      "title": "Эликсир",
       "video": false,
-      "vote_average": 6.368,
-      "vote_count": 418,
+      "vote_average": 5.9,
+      "vote_count": 177,
       "belongs_to_collection": null,
-      "budget": 18000000,
+      "budget": 0,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 53,
+          "name": "триллер"
         }
       ],
-      "homepage": "",
-      "imdb_id": "tt32558992",
+      "homepage": "https://www.netflix.com/ru/title/81624009",
+      "imdb_id": "tt32643830",
       "origin_country": [
-        "US"
+        "ID"
       ],
       "production_companies": [
         {
-          "id": 143790,
-          "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
-          "name": "Spyglass Media Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 89115,
-          "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-          "name": "Divide / Conquer",
-          "origin_country": "US"
-        },
-        {
-          "id": 3287,
-          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-          "name": "Screen Gems",
-          "origin_country": "US"
+          "id": 237116,
+          "logo_path": null,
+          "name": "Mowin Pictures",
+          "origin_country": "ID"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 33129099,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1317672,
-      "original_language": "en",
-      "original_title": "Love Me Love Me",
-      "overview": "После смерти брата Джун переезжает в Милан, чтобы начать жизнь с чистого листа. Она находит утешение в Уилле, отличнике из её новой международной школы. Но когда его лучший друг Джеймс, скрывающий свою опасную жизнь за подпольными боями без правил, вызывает у Уилла соперничество, которое быстро перерастает в непреодолимую симпатию, Джун приходится выбирать между безопасностью и любовью, которая переворачивает всё её представления о жизни.",
-      "popularity": 205.1834,
-      "poster_path": "/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
-      "release_date": "2026-02-12",
-      "title": "Люби меня, люби меня",
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 68,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36331860",
-      "origin_country": [
-        "IT",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 19916,
-          "logo_path": "/dOQ7UtUAqydn5zmx3qElFIMqn6t.png",
-          "name": "Lotus Production",
-          "origin_country": "IT"
-        },
-        {
-          "id": 210099,
-          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-          "name": "Amazon MGM Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "ID",
+          "name": "Indonesia"
         }
       ],
       "revenue": 0,
-      "runtime": 99,
+      "runtime": 118,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Indonesian",
+          "iso_639_1": "id",
+          "name": "Bahasa indonesia"
+        },
+        {
+          "english_name": "Javanese",
+          "iso_639_1": "jv",
+          "name": ""
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "2160p",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -366,226 +388,6 @@
       "vote_average": 6.745,
       "vote_count": 186,
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/AkaC3h2NqSYX4NIHlqGKvrGOMeS.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1140498,
-      "original_language": "en",
-      "original_title": "Is This Thing On?",
-      "overview": "Алекс и Тесс соглашаются на развод и стараются сохранить хорошие отношения ради воспитания двух сыновей. Оказавшись порознь, бывшие супруги заново привыкают к самостоятельной жизни: Алекс неожиданно находит отдушину в комедийных выступлениях в клубах Нью-Йорка, а бывшая спортсменка Тесс возвращается в волейбол в качестве тренера.",
-      "popularity": 19.5571,
-      "poster_path": "/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-      "release_date": "2025-12-19",
-      "title": "Эта штука работает?",
-      "video": false,
-      "vote_average": 6.762,
-      "vote_count": 21,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt28083456",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 127929,
-          "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
-          "name": "Searchlight Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 85823,
-          "logo_path": "/vX3emcjqjXse76NAUZikSIzHH4t.png",
-          "name": "Archery Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 201152,
-          "logo_path": null,
-          "name": "Lea Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 866747,
-      "runtime": 121,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9L5Ekpoy4zT6o00qKUmZTeTkaVf.jpg",
-      "genre_ids": [
-        14,
-        27,
-        878,
-        53
-      ],
-      "id": 1339173,
-      "original_language": "en",
-      "original_title": "Honey Bunch",
-      "overview": "Только что вышедшая из комы Диана страдает от невыносимых болей и провалов в памяти. Чтобы улучшить её состояние, её муж Гомер отвозит её в удалённую экспериментальную клинику, где ей обещают скорое и полное выздоровление. Но чем дальше продвигается терапия, тем хуже чувствует себя Диана и тем чаще видит галлюцинации, а возвращение воспоминаний о браке несёт с собой и горькие откровениях об прошлом пары.",
-      "popularity": 6.9218,
-      "poster_path": "/rR6zS2sPpcjND92cCLmsuMNok7M.jpg",
-      "release_date": "2026-01-23",
-      "title": "Сладкая парочка",
-      "video": false,
-      "vote_average": 7.313,
-      "vote_count": 8,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33270103",
-      "origin_country": [
-        "GB",
-        "CA"
-      ],
-      "production_companies": [
-        {
-          "id": 164,
-          "logo_path": "/v3zcUepvKC7Vz36yjklk1rw6k8Q.png",
-          "name": "Rhombus Media",
-          "origin_country": "CA"
-        },
-        {
-          "id": 240088,
-          "logo_path": "/40rBwyJ2c5iPH7U8AHX4YOBfnYj.png",
-          "name": "Cat People",
-          "origin_country": "CA"
-        },
-        {
-          "id": 12142,
-          "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
-          "name": "XYZ Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 142269,
-          "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
-          "name": "IPR.VC",
-          "origin_country": "FI"
-        },
-        {
-          "id": 157740,
-          "logo_path": "/psBLfwHCfU9A4U9bWmeWF8AlSqr.png",
-          "name": "Crave",
-          "origin_country": "CA"
-        },
-        {
-          "id": 239636,
-          "logo_path": null,
-          "name": "Featured Creatures",
-          "origin_country": "CA"
-        },
-        {
-          "id": 806,
-          "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
-          "name": "Téléfilm Canada",
-          "origin_country": "CA"
-        },
-        {
-          "id": 114338,
-          "logo_path": "/iApSXPfwHZdtt3sR2y5VDoS2BRK.png",
-          "name": "Ontario Creates",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "FI",
-          "name": "Finland"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 114,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -1541,23 +1343,124 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/5UYCuHb0kfFzrZ5l9SKzScguDbu.jpg",
+      "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80,
+        18
+      ],
+      "id": 1426964,
+      "original_language": "pt",
+      "original_title": "Salve Geral: Irmandade",
+      "overview": "Сан-Паулу захлестывает беспрецедентная волна насилия. Чтобы спасти похищенную племянницу, ее тетя-адвокат, связанная с преступным миром, заключает сделку с полицией.",
+      "popularity": 214.8217,
+      "poster_path": "/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg",
+      "release_date": "2026-02-10",
+      "title": "Группировка: общий сбор",
+      "video": false,
+      "vote_average": 3.708,
+      "vote_count": 12,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://www.netflix.com/ru/title/81758092",
+      "imdb_id": "tt39369643",
+      "origin_country": [
+        "BR"
+      ],
+      "production_companies": [
+        {
+          "id": 345,
+          "logo_path": "/hj2nqoG2F9COm16fqvM0YpY3jL4.png",
+          "name": "O2 Filmes",
+          "origin_country": "BR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BR",
+          "name": "Brazil"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5Xiqdj6eiitWtyPmy0zakV3GYf.jpg",
       "genre_ids": [
         10749,
-        35
+        18
       ],
-      "id": 1429605,
+      "id": 1592019,
       "original_language": "en",
-      "original_title": "F Valentine's Day",
-      "overview": "Джина ненавидит свой день рождения в День святого Валентина и едет в Грецию, чтобы помешать предложению руки и сердца от своего парня. С помощью отдыхающих Джонни и его сестры Микки она придумывает план, как отложить это событие, одновременно сомневаясь в своих отношениях.",
-      "popularity": 27.9403,
-      "poster_path": "/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "release_date": "2026-02-12",
-      "title": "С Днём проклятого Валентина!",
+      "original_title": "Missing the Boat",
+      "overview": "Незнакомцы Келли и Паркер оказываются на одном круизном лайнере в Италии. Но одна ошибка — и они остаются на берегу, глядя вслед уплывающему кораблю. Теперь, чтобы догнать лайнер, этим полным противоположностям придётся стать напарниками в безумной гонке через весь юг Италии.",
+      "popularity": 1.2005,
+      "poster_path": "/9I1GgqLgnXzUCdhMuR20r4SlajV.jpg",
+      "release_date": "2026-01-31",
+      "title": "Судьбоносное опоздание",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 22,
+      "vote_average": 7,
+      "vote_count": 1,
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 858024,
+      "original_language": "en",
+      "original_title": "Hamnet",
+      "overview": "Вдохновляющая история о любви и потере, которая легла в основу создания бессмертного шедевра Шекспира — \"Гамлет\".",
+      "popularity": 81.0366,
+      "poster_path": "/xheUjXcQ8cwwibYXMdAz5JYTiyw.jpg",
+      "release_date": "2025-11-26",
+      "title": "Гамнет",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 244,
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "movies"
