@@ -5,7 +5,7 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 104,
+  "total": 105,
   "items": [
     {
       "adult": false,
@@ -226,33 +226,141 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
+      "backdrop_path": "/ie827c44beNPNnxIOi8EM9mCI4A.jpg",
       "genre_ids": [
-        28,
-        80,
-        10749
+        27,
+        9648,
+        53
       ],
-      "id": 1271895,
-      "original_language": "zh",
-      "original_title": "96分鐘",
-      "overview": "Бывший сапер Сун Кан Жэнь и его невеста Хуан Синь оказываются в высокоскоростном поезде с заложенной бомбой. К ним в ловушку попадает и учитель физики Лю Кай, который сел на этот поезд, чтобы помириться с женой после скандала с изменой.",
-      "popularity": 243.3152,
-      "poster_path": "/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
-      "release_date": "2025-09-05",
-      "title": "96 минут",
+      "id": 1408208,
+      "original_language": "ja",
+      "original_title": "８番出口",
+      "overview": "Мужчина оказывается заперт в бесконечных коридорах метро, которые начинают сводить его с ума. Единственная возможность выбраться — не упустить ни одной аномалии и найти выход №8.",
+      "popularity": 21.4684,
+      "poster_path": "/afORML1iggGkWf8M0Jsf2PPpIHv.jpg",
+      "release_date": "2025-08-28",
+      "title": "Выход 8",
       "video": false,
-      "vote_average": 6.7,
-      "vote_count": 18,
+      "vote_average": 6.3,
+      "vote_count": 129,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 27,
+          "name": "ужасы"
         },
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt35222590",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        },
+        {
+          "id": 39804,
+          "logo_path": "/bT7wDgMpeT7EAewYfWIHs3gWNYE.png",
+          "name": "AOI Pro.",
+          "origin_country": "JP"
+        },
+        {
+          "id": 128616,
+          "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
+          "name": "Story",
+          "origin_country": "JP"
+        },
+        {
+          "id": 11849,
+          "logo_path": "/ssKAToULWqC6LJXOJWtd0O3VdV0.png",
+          "name": "Lawson",
+          "origin_country": "JP"
+        },
+        {
+          "id": 270390,
+          "logo_path": null,
+          "name": "Suirinsha",
+          "origin_country": "JP"
+        },
+        {
+          "id": 145105,
+          "logo_path": "/oFUDvCLCRmAXlGqjmwO8CN33ygl.png",
+          "name": "Tohan",
+          "origin_country": "JP"
+        },
+        {
+          "id": 270391,
+          "logo_path": null,
+          "name": "Office Nino",
+          "origin_country": "JP"
+        },
+        {
+          "id": 270392,
+          "logo_path": null,
+          "name": "Metro Ad Agency",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 39003150,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Следуй за аномалиями»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hyTOL3dpF42doI9dnQy8cho8qL0.jpg",
+      "genre_ids": [
+        878,
+        10749
+      ],
+      "id": 62385,
+      "original_language": "ja",
+      "original_title": "時をかける少女",
+      "overview": "Однажды, после занятий в школе, Казуко случайно опрокидывает мензурку, наполненную странным белым дымом, пахнущим лавандой. Девушка теряет сознание, а после того как приходит в себя, обнаруживает, что происходит что-то странное со временем. Казуко потрясена, обнаружив, что эти явления в действительности — «телепортация» и «временной скачок».",
+      "popularity": 0.7384,
+      "poster_path": "/4Q9cFnf4EW4vdKoI0xVZeh5YB99.jpg",
+      "release_date": "1983-07-16",
+      "title": "Девочка, покорившая время",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 33,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
         },
         {
           "id": 10749,
@@ -260,31 +368,31 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt34381460",
+      "imdb_id": "tt0086456",
       "origin_country": [
-        "TW"
+        "JP"
       ],
       "production_companies": [
         {
-          "id": 194308,
-          "logo_path": null,
-          "name": "WOWING Entertainment Group",
-          "origin_country": "TW"
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "TW",
-          "name": "Taiwan"
+          "iso_3166_1": "JP",
+          "name": "Japan"
         }
       ],
       "revenue": 0,
-      "runtime": 117,
+      "runtime": 104,
       "spoken_languages": [
         {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
         }
       ],
       "status": "Released",
@@ -689,23 +797,22 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ie827c44beNPNnxIOi8EM9mCI4A.jpg",
+      "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
       "genre_ids": [
         27,
-        9648,
         53
       ],
-      "id": 1408208,
-      "original_language": "ja",
-      "original_title": "８番出口",
-      "overview": "Мужчина оказывается заперт в бесконечных коридорах метро, которые начинают сводить его с ума. Единственная возможность выбраться — не упустить ни одной аномалии и найти выход №8.",
-      "popularity": 21.4684,
-      "poster_path": "/afORML1iggGkWf8M0Jsf2PPpIHv.jpg",
-      "release_date": "2025-08-28",
-      "title": "Выход 8",
+      "id": 1306525,
+      "original_language": "id",
+      "original_title": "Abadi Nan Jaya",
+      "overview": "Из-за некоего эликсира в деревне происходит восстание живых мертвецов. Теперь членам семьи, в которой царит разлад, придется объединиться ради борьбы за выживание.",
+      "popularity": 4.253,
+      "poster_path": "/epWmA7nadJE13LlGoqlut0hJWmf.jpg",
+      "release_date": "2025-10-22",
+      "title": "Эликсир",
       "video": false,
-      "vote_average": 6.3,
-      "vote_count": 129,
+      "vote_average": 5.9,
+      "vote_count": 177,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -714,16 +821,178 @@
           "name": "ужасы"
         },
         {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
           "id": 53,
           "name": "триллер"
         }
       ],
+      "homepage": "https://www.netflix.com/ru/title/81624009",
+      "imdb_id": "tt32643830",
+      "origin_country": [
+        "ID"
+      ],
+      "production_companies": [
+        {
+          "id": 237116,
+          "logo_path": null,
+          "name": "Mowin Pictures",
+          "origin_country": "ID"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "ID",
+          "name": "Indonesia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 118,
+      "spoken_languages": [
+        {
+          "english_name": "Indonesian",
+          "iso_639_1": "id",
+          "name": "Bahasa indonesia"
+        },
+        {
+          "english_name": "Javanese",
+          "iso_639_1": "jv",
+          "name": ""
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rBBwKnpD2PAxES7JQeFgiJbDwcO.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 42507,
+      "original_language": "ko",
+      "original_title": "베스트셀러",
+      "overview": "Известная писательница Баек Хи-су, имеющая на своем счету не одну книгу, ставшую бестселлером, неожиданно, как для всех так и себя самой обвиняется в плагиате. Пережив жуткий эмоциональный шок она отправляется в тихий городок, подальше от глаз людских, для того, чтобы попытаться прийти в себя и продолжить свою работу. Но судьба распоряжается по-своему и отправившись туда она даже не подозревает о том, что за ужасные перемены ждут её в тихом, старом доме, расположенном в живописном уголке природы рядом с озером…",
+      "popularity": 0.519,
+      "poster_path": "/l8rXtUerSc2e1q5oMWsKLzunqZN.jpg",
+      "release_date": "2010-04-15",
+      "title": "Бестселлер",
+      "video": false,
+      "vote_average": 5.944,
+      "vote_count": 54,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
       "homepage": "",
-      "imdb_id": "tt35222590",
+      "imdb_id": "tt1655617",
+      "origin_country": [
+        "KR"
+      ],
+      "production_companies": [
+        {
+          "id": 113587,
+          "logo_path": null,
+          "name": "EchoFilm",
+          "origin_country": "KR"
+        },
+        {
+          "id": 20239,
+          "logo_path": null,
+          "name": "Cinergy House",
+          "origin_country": "KR"
+        },
+        {
+          "id": 140907,
+          "logo_path": null,
+          "name": "Daisy Entertainment",
+          "origin_country": "KR"
+        },
+        {
+          "id": 81594,
+          "logo_path": null,
+          "name": "Michigan Venture Capital",
+          "origin_country": "KR"
+        },
+        {
+          "id": 3491,
+          "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
+          "name": "Showbox",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 117,
+      "spoken_languages": [
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5EK7CSpStxdYYqeGbt360QvywlD.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 40956,
+      "original_language": "ja",
+      "original_title": "出所祝い",
+      "overview": "В 1928 году в честь восшествия на престол императора Хирохито в Японии была объявлена тотальная амнистия. Сотни опасных головорезов, обреченных по приговору суда гнить в тюремных застенках на протяжении долгих десятилетий, были выпущены на свободу и смогли вернуться в свои родные места. Для одних эта неожиданная свобода стала счастьем, для других — настоящим проклятием.  Сэйдзи Ивахаси из клана Энокия получил десять лет за убийство босса клана Канно. Вернувшись после амнистии домой, он обнаруживает, что за время его отсутствия новый босс Канно полностью подмял под себя клан Энокия. Сэйдзи прекрасно понимает, что уже давно не принадлежит этому кругу и его возвращения никто не ждал. Он осознает, что ему нужно побыстрее собирать вещи и ехать в Маньчжурию воплощать свои мечты о мирной жизни. Но честь не позволяет Сэйдзи сделать это.",
+      "popularity": 0.4352,
+      "poster_path": "/29HGSizqjiuVPeHLvTRdEZwun16.jpg",
+      "release_date": "1971-10-30",
+      "title": "Волки",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 20,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0069266",
       "origin_country": [
         "JP"
       ],
@@ -733,48 +1002,6 @@
           "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
           "name": "TOHO",
           "origin_country": "JP"
-        },
-        {
-          "id": 39804,
-          "logo_path": "/bT7wDgMpeT7EAewYfWIHs3gWNYE.png",
-          "name": "AOI Pro.",
-          "origin_country": "JP"
-        },
-        {
-          "id": 128616,
-          "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
-          "name": "Story",
-          "origin_country": "JP"
-        },
-        {
-          "id": 11849,
-          "logo_path": "/ssKAToULWqC6LJXOJWtd0O3VdV0.png",
-          "name": "Lawson",
-          "origin_country": "JP"
-        },
-        {
-          "id": 270390,
-          "logo_path": null,
-          "name": "Suirinsha",
-          "origin_country": "JP"
-        },
-        {
-          "id": 145105,
-          "logo_path": "/oFUDvCLCRmAXlGqjmwO8CN33ygl.png",
-          "name": "Tohan",
-          "origin_country": "JP"
-        },
-        {
-          "id": 270391,
-          "logo_path": null,
-          "name": "Office Nino",
-          "origin_country": "JP"
-        },
-        {
-          "id": 270392,
-          "logo_path": null,
-          "name": "Metro Ad Agency",
-          "origin_country": "JP"
         }
       ],
       "production_countries": [
@@ -783,8 +1010,8 @@
           "name": "Japan"
         }
       ],
-      "revenue": 39003150,
-      "runtime": 95,
+      "revenue": 0,
+      "runtime": 131,
       "spoken_languages": [
         {
           "english_name": "Japanese",
@@ -793,8 +1020,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Следуй за аномалиями»",
-      "release_quality": "1080p",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_asian"
@@ -802,28 +1029,43 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/5NfLEeakUxT0JcU9Q830niu2w8e.jpg",
+      "backdrop_path": "/93BFLgHE0G10hXiDOUDHnRmQzZD.jpg",
       "genre_ids": [
-        80,
+        10752,
+        36,
+        28,
         18
       ],
-      "id": 42506,
-      "original_language": "ko",
-      "original_title": "하녀",
-      "overview": "Семья переезжает в новый дом, и беременная жена с трудом справляется с работой по дому. Ещё она должна изо всех сил работать на швейной машинке — только так они с мужем могут прокормить себя и детей. И тогда муж нанимает служанку.",
-      "popularity": 1.4019,
-      "poster_path": "/rE3kETNUBcxZMZRCMNVhClwc9fP.jpg",
-      "release_date": "1960-11-03",
-      "title": "Служанка",
+      "id": 928123,
+      "original_language": "zh",
+      "original_title": "长津湖之水门桥",
+      "overview": "Во время войны в Корее у Чосинского водохранилища разворачивается второе масштабное противостояние сил китайских добровольцев и войск ООН...",
+      "popularity": 1.6939,
+      "poster_path": "/roR1lsRftT76V7bdpIWgXhP54D0.jpg",
+      "release_date": "2022-02-01",
+      "title": "Битва на озере 2",
       "video": false,
-      "vote_average": 7.1,
-      "vote_count": 189,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.3,
+      "vote_count": 90,
+      "belongs_to_collection": {
+        "id": 930409,
+        "name": "Битва на озере (Коллекция)",
+        "poster_path": "/j9OrzPaEN7y0TtGAEFmhrsAwfy7.jpg",
+        "backdrop_path": "/iMlbc9rkHfcSkXjeOkCbKxtgAem.jpg"
+      },
+      "budget": 200000000,
       "genres": [
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 18,
@@ -831,261 +1073,51 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0150980",
+      "imdb_id": "tt16194408",
       "origin_country": [
-        "KR"
+        "CN"
       ],
       "production_companies": [
         {
-          "id": 80020,
+          "id": 30148,
+          "logo_path": "/zerhOenUD6CkH8SMgZUhrDkOs4w.png",
+          "name": "Bona Film Group",
+          "origin_country": "CN"
+        },
+        {
+          "id": 76473,
           "logo_path": null,
-          "name": "Kim Ki-young Production",
-          "origin_country": ""
-        },
-        {
-          "id": 171213,
-          "logo_path": null,
-          "name": "Korean Literature Films",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 111,
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
-      "genre_ids": [
-        878,
-        12,
-        18
-      ],
-      "id": 982843,
-      "original_language": "ko",
-      "original_title": "대홍수",
-      "overview": "В последний день на Земле борьба за жизнь в затопленной квартире быстро становится единственной надеждой человечества на выживание.",
-      "popularity": 180.5172,
-      "poster_path": "/p9HwH0wTClssSnEDe7Rginknlx2.jpg",
-      "release_date": "2025-09-18",
-      "title": "Всемирный потоп",
-      "video": false,
-      "vote_average": 6.045,
-      "vote_count": 418,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/81579978",
-      "imdb_id": "tt29927663",
-      "origin_country": [
-        "KR"
-      ],
-      "production_companies": [
-        {
-          "id": 220638,
-          "logo_path": null,
-          "name": "Hwansang Studio Seoul",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 109,
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/v8Ma34bNkQaZfeocwDYfVvGXhof.jpg",
-      "genre_ids": [
-        28,
-        80,
-        10749
-      ],
-      "id": 70542,
-      "original_language": "cn",
-      "original_title": "江湖龍虎鬥",
-      "overview": "Тими и Алан — два брата, владеющие небольшим ресторанчиком в Макао. Босс местной мафии хочет использовать их ресторан для своих грязных целей.  Отказавшись подчиниться, братья вынуждены вступить в кровопролитную схватку с мафией, выжить в которой не суждено никому.",
-      "popularity": 1.3978,
-      "poster_path": "/iQ9i2MOAG7IlwYiGfnfbRYdpxQQ.jpg",
-      "release_date": "1987-07-30",
-      "title": "Огненные братья",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 30,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0093305",
-      "origin_country": [
-        "HK"
-      ],
-      "production_companies": [
-        {
-          "id": 7517,
-          "logo_path": null,
-          "name": "In-Gear Film Production Co. Ltd.",
-          "origin_country": "HK"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        },
-        {
-          "english_name": "Thai",
-          "iso_639_1": "th",
-          "name": "ภาษาไทย"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ddDT35DEwlRfEEzgHym4vRb44nR.jpg",
-      "genre_ids": [
-        28,
-        80,
-        9648,
-        53
-      ],
-      "id": 531368,
-      "original_language": "cn",
-      "original_title": "沉默的證人",
-      "overview": "Гонконг накануне Рождества. Три вооруженных человека в масках врываются в Центр судебной медицины, где остались только один патологоанатом, его ассистентка и пожилой охранник. Вторженцы не хотят никого ранить и требуют извлечь и отдать им пулю из недавно поступившего в морг тела дочери главы триады, но ответственный сотрудник выдает им пулю из другого трупа. Покинув здание, вскоре преступники обнаруживают подмену и возвращаются в Центр уже с намерением причинить его работникам боль.",
-      "popularity": 1.7037,
-      "poster_path": "/n4CZLd5gu3W7uOXMxi53HSvbAvZ.jpg",
-      "release_date": "2019-08-16",
-      "title": "Безмолвные свидетели",
-      "video": false,
-      "vote_average": 6.368,
-      "vote_count": 95,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt7937440",
-      "origin_country": [
-        "CN",
-        "HK"
-      ],
-      "production_companies": [
-        {
-          "id": 5552,
-          "logo_path": "/kZB9yp7OoveJ8wdynDcZEDtTbB2.png",
-          "name": "Media Asia Films",
+          "name": "Distribution Workshop",
           "origin_country": "HK"
         },
         {
-          "id": 78952,
-          "logo_path": "/zRBHUxapVA1FLR3dSa0xcLvzn1D.png",
-          "name": "Wanda Pictures",
+          "id": 69484,
+          "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+          "name": "Alibaba Pictures Group",
+          "origin_country": "CN"
+        },
+        {
+          "id": 25660,
+          "logo_path": "/q0418HVUNk0kq15tdU9idy00s11.png",
+          "name": "Huaxia Film Distribution",
+          "origin_country": "CN"
+        },
+        {
+          "id": 235676,
+          "logo_path": null,
+          "name": "Just Creative Studio",
+          "origin_country": "HK"
+        },
+        {
+          "id": 243321,
+          "logo_path": "/MtuMesCMKUNqmtvnph7f6Efv7R.png",
+          "name": "Mandrill Visual Effects",
+          "origin_country": "CN"
+        },
+        {
+          "id": 2270,
+          "logo_path": "/7osqu50JpFIh0klZU0s1CrnNqcc.png",
+          "name": "China Film Group Corporation",
           "origin_country": "CN"
         }
       ],
@@ -1099,258 +1131,23 @@
           "name": "Hong Kong"
         }
       ],
-      "revenue": 25293853,
-      "runtime": 93,
-      "spoken_languages": [
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        },
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4L5bACgIKuVP8IC1tueaSWQHHrz.jpg",
-      "genre_ids": [
-        28,
-        80
-      ],
-      "id": 38034,
-      "original_language": "cn",
-      "original_title": "女警察",
-      "overview": "Незнакомка, спасающаяся от преследования бандитов, оставляет в машине таксиста Чен Чина сумочку, которая исчезает при загадочных обстоятельствах. С этого момента жизнь Чена превращается в сущий ад. С одной стороны его преследует полиция, с другой — бандиты во главе с Джеки Чаном. Оказавшись между двух огней, храбрый таксист начинает собственное расследование.",
-      "popularity": 0.8687,
-      "poster_path": "/eNVNFOShlvdIiQBbscEepnN7FuD.jpg",
-      "release_date": "1973-04-26",
-      "title": "Разборка в Гонконге",
-      "video": false,
-      "vote_average": 4.1,
-      "vote_count": 68,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0124836",
-      "origin_country": [
-        "HK"
-      ],
-      "production_companies": [
-        {
-          "id": 40594,
-          "logo_path": null,
-          "name": "Great Earth Film Company",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 84,
-      "spoken_languages": [
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/AfvV7Fn5sFXxj1x6PCPF1lnDSz6.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
-      "id": 17811,
-      "original_language": "cn",
-      "original_title": "方世玉續集",
-      "overview": "Возвращение легендарного мастера Востока на поле битвы. На этот раз ему предстоит сражение не на турнире, а на просторах своей страны. Фонг Сай-Юк вступает в тайное общество «Красного Лотоса», которое борется за свержение правителя династии Манчу.  Но на пути к достижению цели он должен пройти не только через трупы врагов, но и через испытание своих чувств. Бой продолжается, и за каждым темным углом может таиться враг.",
-      "popularity": 1.5311,
-      "poster_path": "/wrbeF8bn4M6BIvHPlH0RfRAgfyg.jpg",
-      "release_date": "1993-07-30",
-      "title": "Легенда 2",
-      "video": false,
-      "vote_average": 6.677,
-      "vote_count": 110,
-      "belongs_to_collection": {
-        "id": 122945,
-        "name": "Легенда (Коллекция)",
-        "poster_path": "/vm5B9CtZ7Xo5ROOedGkQAlx1sxf.jpg",
-        "backdrop_path": "/fnTo5rQ5hoZ3UKQpuz4QIOadJv6.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0106937",
-      "origin_country": [
-        "HK"
-      ],
-      "production_companies": [
-        {
-          "id": 3359,
-          "logo_path": null,
-          "name": "Eastern Productions",
-          "origin_country": "HK"
-        },
-        {
-          "id": 2521,
-          "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
-          "name": "Orange Sky Golden Harvest",
-          "origin_country": "HK"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        }
-      ],
-      "revenue": 2967668,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/h4O5b44rCwSQpdEazekNKkdrPTZ.jpg",
-      "genre_ids": [
-        35,
-        10749,
-        14,
-        9648
-      ],
-      "id": 733573,
-      "original_language": "zh",
-      "original_title": "消失的情人節",
-      "overview": "Сяо-чи делает всё так быстро, что на шаг опережает других. На работе дела идут отлично, а вот личная жизнь не складывается. Перед днём Святого Валентина Сяо-Чи наконец встречает симпатичного парня и собирается провести день всех влюблённых с ним. Однако проснувшись на следующее утро, она с ужасом обнаруживает, что наступило 15 февраля.",
-      "popularity": 1.2744,
-      "poster_path": "/qzzoKV9hVVKVTR5hYlAt2SCn3mz.jpg",
-      "release_date": "2020-09-18",
-      "title": "Мой пропавший Валентин",
-      "video": false,
-      "vote_average": 6.821,
-      "vote_count": 42,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt13105824",
-      "origin_country": [
-        "TW"
-      ],
-      "production_companies": [
-        {
-          "id": 109444,
-          "logo_path": null,
-          "name": "MandarinVision",
-          "origin_country": "TW"
-        },
-        {
-          "id": 73451,
-          "logo_path": null,
-          "name": "1 Production Film",
-          "origin_country": "TW"
-        },
-        {
-          "id": 233358,
-          "logo_path": null,
-          "name": "Warner Bros. (F.E.)",
-          "origin_country": "PH"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "PH",
-          "name": "Philippines"
-        },
-        {
-          "iso_3166_1": "TW",
-          "name": "Taiwan"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 119,
+      "revenue": 626203271,
+      "runtime": 149,
       "spoken_languages": [
         {
           "english_name": "Mandarin",
           "iso_639_1": "zh",
           "name": "普通话"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_asian"
@@ -1468,6 +1265,78 @@
           "english_name": "Mandarin",
           "iso_639_1": "zh",
           "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5NfLEeakUxT0JcU9Q830niu2w8e.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 42506,
+      "original_language": "ko",
+      "original_title": "하녀",
+      "overview": "Семья переезжает в новый дом, и беременная жена с трудом справляется с работой по дому. Ещё она должна изо всех сил работать на швейной машинке — только так они с мужем могут прокормить себя и детей. И тогда муж нанимает служанку.",
+      "popularity": 1.4019,
+      "poster_path": "/rE3kETNUBcxZMZRCMNVhClwc9fP.jpg",
+      "release_date": "1960-11-03",
+      "title": "Служанка",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 189,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0150980",
+      "origin_country": [
+        "KR"
+      ],
+      "production_companies": [
+        {
+          "id": 80020,
+          "logo_path": null,
+          "name": "Kim Ki-young Production",
+          "origin_country": ""
+        },
+        {
+          "id": 171213,
+          "logo_path": null,
+          "name": "Korean Literature Films",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 111,
+      "spoken_languages": [
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
@@ -1783,49 +1652,49 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/urBBFQrrVxy7T8uytrn7dOoHqZn.jpg",
+      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
       "genre_ids": [
-        80,
-        53,
-        28
+        878,
+        12,
+        18
       ],
-      "id": 13855,
+      "id": 982843,
       "original_language": "ko",
-      "original_title": "추격자",
-      "overview": "Раньше Чун Хо служил в элитном подразделении полиции Сеула. Теперь он — обыкновенный сутенер, но в целом доволен жизнью, если бы только его «девочки по вызову» не сбегали так часто. Какие же они неблагодарные! Он выдает им авансы, жестко разбирается с клиентами-извращенцами, создает все условия для работы, но терпит убытки…  Однажды Чун Хо замечает странную закономерность: всех беглянок заказывали с одного и того же телефонного номера. Его последняя девушка, Ми Чжин, как раз уехала к этому клиенту… Чун Хо не знает адреса, а связь с Ми Чжин обрывается. Он должен найти подонка, который, как он считает, продает его сотрудниц…  По странному стечению обстоятельств найти преступника — зловеще-невозмутимого маньяка-убийцу оказывается легко и просто. Но «найти» еще не значит «остановить». Начинается «гонка на выживание» — жизнь девушки и ее ребенка зависит от того, кто первым найдет последнюю жертву — маньяк, полиция или сам Чун Хо.",
-      "popularity": 3.0406,
-      "poster_path": "/67BZKVbK7jQEnzvSbgB3xMAAlQg.jpg",
-      "release_date": "2008-02-14",
-      "title": "Преследователь",
+      "original_title": "대홍수",
+      "overview": "В последний день на Земле борьба за жизнь в затопленной квартире быстро становится единственной надеждой человечества на выживание.",
+      "popularity": 180.5172,
+      "poster_path": "/p9HwH0wTClssSnEDe7Rginknlx2.jpg",
+      "release_date": "2025-09-18",
+      "title": "Всемирный потоп",
       "video": false,
-      "vote_average": 7.76,
-      "vote_count": 1475,
+      "vote_average": 6.045,
+      "vote_count": 418,
       "belongs_to_collection": null,
-      "budget": 2600000,
+      "budget": 0,
       "genres": [
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 878,
+          "name": "фантастика"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 12,
+          "name": "приключения"
         },
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 18,
+          "name": "драма"
         }
       ],
-      "homepage": "",
-      "imdb_id": "tt1190539",
+      "homepage": "https://www.netflix.com/ru/title/81579978",
+      "imdb_id": "tt29927663",
       "origin_country": [
         "KR"
       ],
       "production_companies": [
         {
-          "id": 11589,
+          "id": 220638,
           "logo_path": null,
-          "name": "Bidangil Pictures",
+          "name": "Hwansang Studio Seoul",
           "origin_country": "KR"
         }
       ],
@@ -1836,12 +1705,190 @@
         }
       ],
       "revenue": 0,
-      "runtime": 125,
+      "runtime": 109,
       "spoken_languages": [
         {
           "english_name": "Korean",
           "iso_639_1": "ko",
           "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v8Ma34bNkQaZfeocwDYfVvGXhof.jpg",
+      "genre_ids": [
+        28,
+        80,
+        10749
+      ],
+      "id": 70542,
+      "original_language": "cn",
+      "original_title": "江湖龍虎鬥",
+      "overview": "Тими и Алан — два брата, владеющие небольшим ресторанчиком в Макао. Босс местной мафии хочет использовать их ресторан для своих грязных целей.  Отказавшись подчиниться, братья вынуждены вступить в кровопролитную схватку с мафией, выжить в которой не суждено никому.",
+      "popularity": 1.3978,
+      "poster_path": "/iQ9i2MOAG7IlwYiGfnfbRYdpxQQ.jpg",
+      "release_date": "1987-07-30",
+      "title": "Огненные братья",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 30,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0093305",
+      "origin_country": [
+        "HK"
+      ],
+      "production_companies": [
+        {
+          "id": 7517,
+          "logo_path": null,
+          "name": "In-Gear Film Production Co. Ltd.",
+          "origin_country": "HK"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 101,
+      "spoken_languages": [
+        {
+          "english_name": "Cantonese",
+          "iso_639_1": "cn",
+          "name": "广州话 / 廣州話"
+        },
+        {
+          "english_name": "Thai",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ddDT35DEwlRfEEzgHym4vRb44nR.jpg",
+      "genre_ids": [
+        28,
+        80,
+        9648,
+        53
+      ],
+      "id": 531368,
+      "original_language": "cn",
+      "original_title": "沉默的證人",
+      "overview": "Гонконг накануне Рождества. Три вооруженных человека в масках врываются в Центр судебной медицины, где остались только один патологоанатом, его ассистентка и пожилой охранник. Вторженцы не хотят никого ранить и требуют извлечь и отдать им пулю из недавно поступившего в морг тела дочери главы триады, но ответственный сотрудник выдает им пулю из другого трупа. Покинув здание, вскоре преступники обнаруживают подмену и возвращаются в Центр уже с намерением причинить его работникам боль.",
+      "popularity": 1.7037,
+      "poster_path": "/n4CZLd5gu3W7uOXMxi53HSvbAvZ.jpg",
+      "release_date": "2019-08-16",
+      "title": "Безмолвные свидетели",
+      "video": false,
+      "vote_average": 6.368,
+      "vote_count": 95,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt7937440",
+      "origin_country": [
+        "CN",
+        "HK"
+      ],
+      "production_companies": [
+        {
+          "id": 5552,
+          "logo_path": "/kZB9yp7OoveJ8wdynDcZEDtTbB2.png",
+          "name": "Media Asia Films",
+          "origin_country": "HK"
+        },
+        {
+          "id": 78952,
+          "logo_path": "/zRBHUxapVA1FLR3dSa0xcLvzn1D.png",
+          "name": "Wanda Pictures",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        }
+      ],
+      "revenue": 25293853,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "Cantonese",
+          "iso_639_1": "cn",
+          "name": "广州话 / 廣州話"
+        },
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
         }
       ],
       "status": "Released",
