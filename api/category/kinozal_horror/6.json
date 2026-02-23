@@ -5,79 +5,314 @@
   },
   "page": 6,
   "limit": 20,
-  "total": 128,
+  "total": 132,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/jZu09TyQAiUaQRHa7L18eVBPzdS.jpg",
+      "backdrop_path": "/x3YFn10ehQKMRIJwIfiDAX8S9Xt.jpg",
       "genre_ids": [
+        14,
+        28,
         27
       ],
-      "id": 14098,
+      "id": 561,
       "original_language": "en",
-      "original_title": "100 Feet",
-      "overview": "Марни Уотсон освобождают из тюрьмы, где она отбывала наказание за убийство своего жестокого мужа. Теперь главная героиня сидит под домашним арестом с электронным устройством на ноге, которое не позволяет ей покинуть 100-футовый радиус. Тем временем в доме появляется призрак убиенного супруга, желающий мести…",
-      "popularity": 3.3129,
-      "poster_path": "/bYR5O7QEjxXtgw0UethBp3BqrVt.jpg",
-      "release_date": "2008-07-22",
-      "title": "100 футов",
+      "original_title": "Constantine",
+      "overview": "Джону Константину удалось не только побывать в аду, но и вернуться обратно. Родившись с неугодным самому себе талантом — способностью распознавать помесь ангелов и демонов, которые бродят по земле в облике людей, — Константин под давлением обстоятельств пытается совершить самоубийство, лишь бы избавиться от мучительных видений. Но неудачно. Воскрешенный против собственной воли он снова оказывается в мире живых. Теперь, отмеченный печатью суицида и получивший временное право на жизнь, он патрулирует границу, разделяющую рай и ад, тщетно надеясь на обретение спасения путем сражения с земными ставленниками зла.",
+      "popularity": 9.4291,
+      "poster_path": "/j8gHObFvjqgE7XVgO9bFphZIEAq.jpg",
+      "release_date": "2005-02-08",
+      "title": "Константин: Повелитель тьмы",
       "video": false,
-      "vote_average": 5.7,
-      "vote_count": 335,
-      "belongs_to_collection": null,
-      "budget": 10000000,
+      "vote_average": 7.12,
+      "vote_count": 7832,
+      "belongs_to_collection": {
+        "id": 1025281,
+        "name": "Константин (Коллекция)",
+        "poster_path": "/g6OwMtTM69CfwMAjf6NQKeoewoW.jpg",
+        "backdrop_path": "/44TlYuWbWBpRY3i0Ch7MJtLv4Yd.jpg"
+      },
+      "budget": 100000000,
       "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
         {
           "id": 27,
           "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0899128",
+      "imdb_id": "tt0360486",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 24447,
-          "logo_path": null,
-          "name": "Grand Illusions Entertainment",
-          "origin_country": ""
-        },
-        {
-          "id": 24446,
-          "logo_path": null,
-          "name": "Film Visions Funding",
-          "origin_country": ""
-        },
-        {
-          "id": 24445,
-          "logo_path": null,
-          "name": "New Deal Studios",
-          "origin_country": ""
-        },
-        {
-          "id": 2881,
-          "logo_path": null,
-          "name": "100 Feet Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 7733,
-          "logo_path": null,
-          "name": "Laurinfilm",
-          "origin_country": ""
-        },
-        {
-          "id": 2623,
-          "logo_path": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
-          "name": "Blue Rider Pictures",
+          "id": 79,
+          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+          "name": "Village Roadshow Pictures",
           "origin_country": "US"
         },
         {
-          "id": 6626,
-          "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
-          "name": "Voltage Pictures",
+          "id": 430,
+          "logo_path": null,
+          "name": "Lonely Film Productions",
+          "origin_country": "DE"
+        },
+        {
+          "id": 431,
+          "logo_path": "/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png",
+          "name": "The Donners' Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 432,
+          "logo_path": null,
+          "name": "Batfilm Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 433,
+          "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
+          "name": "Weed Road Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 787,
+          "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+          "name": "3 Arts Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 165407,
+          "logo_path": "/73fMdMsX7azqI6ZveqtlzTnKdtu.png",
+          "name": "DC Vertigo",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 230900000,
+      "runtime": 121,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "Tagalog",
+          "iso_639_1": "tl",
+          "name": ""
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Ад и Рай держат пари на Земле»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+      "genre_ids": [
+        27,
+        53,
+        80
+      ],
+      "id": 1519168,
+      "original_language": "en",
+      "original_title": "The Jester 2",
+      "overview": "Когда юная фокусница Макс сталкивается с таинственным и жестоким Джестером в ночь Хэллоуина, её обычные трюки превращаются в смертельное испытание. Чтобы выжить, девушке придётся перехитрить сверхъестественного убийцу, чья магия пугающе реальна, а каждая иллюзия заканчивается кровью.  Фильм объединяет ужасы, мистику и элементы слэшера, создавая атмосферу кошмара, где грань между реальностью и иллюзией стирается. Зрителей ждёт напряжённая история о страхе, ловушках и опасной игре с тьмой.",
+      "popularity": 5.8477,
+      "poster_path": "/r94EBiVLlEE8LpJSz0Pot0EgAMM.jpg",
+      "release_date": "2025-09-15",
+      "title": "Джестер 2",
+      "video": false,
+      "vote_average": 6.271,
+      "vote_count": 48,
+      "belongs_to_collection": {
+        "id": 1526352,
+        "name": "The Jester Collection",
+        "poster_path": "/cq55HSGP1QKUDNePTUOCmlnk3ik.jpg",
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37334010",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 138068,
+          "logo_path": null,
+          "name": "Traverse Terror",
+          "origin_country": ""
+        },
+        {
+          "id": 114432,
+          "logo_path": null,
+          "name": "Epic Pictures",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 146237,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qCaDSX1UjgWRGeh5Cmj9SAUbS1L.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 123105,
+      "original_language": "en",
+      "original_title": "The Bay",
+      "overview": "Беспрецедентная биологическая катастрофа постигает небольшой город на берегу залива: паразиты, обитающие в морских глубинах, заражают людей неизлечимой болезнью. Весь ужас произошедших событий жители города запечатлели на видео, которое выкладывали в интернет.",
+      "popularity": 1.2629,
+      "poster_path": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
+      "release_date": "2012-09-13",
+      "title": "Залив",
+      "video": false,
+      "vote_average": 5.773,
+      "vote_count": 841,
+      "belongs_to_collection": null,
+      "budget": 2000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1713476",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 11407,
+          "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+          "name": "Baltimore Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 10936,
+          "logo_path": null,
+          "name": "Hydraulx",
+          "origin_country": ""
+        },
+        {
+          "id": 7625,
+          "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+          "name": "Automatik Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 21742,
+          "logo_path": "/yXilppYmoex6eYFc9RD70gJOcp2.png",
+          "name": "Haunted Movies",
+          "origin_country": "US"
+        },
+        {
+          "id": 911,
+          "logo_path": "/bWlWGUKejrUflSFV2aRG4o98p1D.png",
+          "name": "Roadside Attractions",
+          "origin_country": "US"
+        },
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 2514,
+          "logo_path": "/zEyrFF8Nn325PXG0Q9j7my0JqIJ.png",
+          "name": "Alliance Films",
+          "origin_country": "CA"
+        },
+        {
+          "id": 7437,
+          "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
+          "name": "IM Global",
           "origin_country": "US"
         }
       ],
@@ -87,8 +322,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 1415804,
-      "runtime": 96,
+      "revenue": 1581252,
+      "runtime": 84,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -97,8 +332,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Пока смерть не разлучит нас...и дольше...»",
-      "release_quality": "",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -106,85 +341,76 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/6LJUfxWh7Ru42pClv2wwPZKEja0.jpg",
+      "backdrop_path": "/blOCPsMn7szkQ0b51AIXGgut6WR.jpg",
       "genre_ids": [
-        53,
+        27,
         18,
-        27
+        53
       ],
-      "id": 19236,
+      "id": 681986,
       "original_language": "en",
-      "original_title": "Santa Sangre",
-      "overview": "Молодой парень по имени Феникс находится в больнице для душевнобольных. В детстве он стал свидетелем того, как его отец-циркач отрезал руки своей жене, религиозной фанатичке и лидеру секты «Святой крови», и покончил с собой. Парень сбегает из лечебницы и находит свою выжившую безрукую мать. Феникс сидит целыми днями дома, помогает матери готовить еду и пытается изобрести формулу невидимости. По мере того, как Феникса начинают посещать воспоминания детства, в городе начинается череда жестоких убийств…",
-      "popularity": 1.5861,
-      "poster_path": "/sAsmJDUDoyw4zdt5vm6ZpDTVYn1.jpg",
-      "release_date": "1989-11-24",
-      "title": "Святая кровь",
+      "original_title": "The Last Thing Mary Saw",
+      "overview": "Зимой 1843 года семья собирается в своем старом уединенном фермерском доме, чтобы оплакать потерю своего матриарха. По мере того как траур продолжается, обстоятельства смерти матриарха встают под сомнение.",
+      "popularity": 0.506,
+      "poster_path": "/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg",
+      "release_date": "2021-08-15",
+      "title": "Последнее, что видела Мэри",
       "video": false,
-      "vote_average": 7.151,
-      "vote_count": 486,
+      "vote_average": 6.082,
+      "vote_count": 91,
       "belongs_to_collection": null,
-      "budget": 787000,
+      "budget": 0,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 27,
+          "name": "ужасы"
         },
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 27,
-          "name": "ужасы"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0098253",
+      "imdb_id": "tt9741180",
       "origin_country": [
-        "MX"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 13122,
-          "logo_path": null,
-          "name": "Productora Fílmica Real",
-          "origin_country": "MX"
+          "id": 2828,
+          "logo_path": "/lIsBprOFBD4VNs2DnDWO81EcsL9.png",
+          "name": "Intrinsic Value Films",
+          "origin_country": "US"
         },
         {
-          "id": 11757,
+          "id": 184162,
           "logo_path": null,
-          "name": "Produzioni Intersound",
-          "origin_country": "IT"
+          "name": "Arachnid Films",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        },
-        {
-          "iso_3166_1": "MX",
-          "name": "Mexico"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 123,
+      "runtime": 88,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -435,168 +661,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/qCaDSX1UjgWRGeh5Cmj9SAUbS1L.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        27,
-        878,
-        53
+        27
       ],
-      "id": 123105,
+      "id": 224328,
       "original_language": "en",
-      "original_title": "The Bay",
-      "overview": "Беспрецедентная биологическая катастрофа постигает небольшой город на берегу залива: паразиты, обитающие в морских глубинах, заражают людей неизлечимой болезнью. Весь ужас произошедших событий жители города запечатлели на видео, которое выкладывали в интернет.",
-      "popularity": 1.2629,
-      "poster_path": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
-      "release_date": "2012-09-13",
-      "title": "Залив",
+      "original_title": "The Cemetery",
+      "overview": "Все, что вызывает большой интерес в этом мире, может, также, нести в себе погибель.  Отважные ребята направились на кладбище, чтобы пощекотать нервы чувством леденящего страха. Бесстрашным приятелям было невдомёк, что придётся испытать в реальности. Теперь, после того, как компания выпустила из одной могилы злого демона, ситуация приняла нешуточный оборот. Парни пытаются загнать демона обратно. Но у них ничего не получается, и теперь  само потустороннее зло охотится за ними. Исследователи паранормального еще не сталкивались с таким случаем, и потому это их очень пугает. Что же ждет команду борцов против зла? Кто выживет? И каковы будут последствия их неразумных действий?",
+      "popularity": 0.2808,
+      "poster_path": "/mVAsW6zKNEwFK3itCjZ7znok3Ru.jpg",
+      "release_date": "2013-01-12",
+      "title": "Кладбище",
       "video": false,
-      "vote_average": 5.773,
-      "vote_count": 841,
-      "belongs_to_collection": null,
-      "budget": 2000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1713476",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 11407,
-          "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
-          "name": "Baltimore Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 10936,
-          "logo_path": null,
-          "name": "Hydraulx",
-          "origin_country": ""
-        },
-        {
-          "id": 7625,
-          "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
-          "name": "Automatik Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 21742,
-          "logo_path": "/yXilppYmoex6eYFc9RD70gJOcp2.png",
-          "name": "Haunted Movies",
-          "origin_country": "US"
-        },
-        {
-          "id": 911,
-          "logo_path": "/bWlWGUKejrUflSFV2aRG4o98p1D.png",
-          "name": "Roadside Attractions",
-          "origin_country": "US"
-        },
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 2514,
-          "logo_path": "/zEyrFF8Nn325PXG0Q9j7my0JqIJ.png",
-          "name": "Alliance Films",
-          "origin_country": "CA"
-        },
-        {
-          "id": 7437,
-          "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
-          "name": "IM Global",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1581252,
-      "runtime": 84,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/blOCPsMn7szkQ0b51AIXGgut6WR.jpg",
-      "genre_ids": [
-        27,
-        18,
-        53
-      ],
-      "id": 681986,
-      "original_language": "en",
-      "original_title": "The Last Thing Mary Saw",
-      "overview": "Зимой 1843 года семья собирается в своем старом уединенном фермерском доме, чтобы оплакать потерю своего матриарха. По мере того как траур продолжается, обстоятельства смерти матриарха встают под сомнение.",
-      "popularity": 0.506,
-      "poster_path": "/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg",
-      "release_date": "2021-08-15",
-      "title": "Последнее, что видела Мэри",
-      "video": false,
-      "vote_average": 6.082,
-      "vote_count": 91,
+      "vote_average": 4.367,
+      "vote_count": 15,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt9741180",
+      "imdb_id": "tt1844793",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 2828,
-          "logo_path": "/lIsBprOFBD4VNs2DnDWO81EcsL9.png",
-          "name": "Intrinsic Value Films",
-          "origin_country": "US"
+          "id": 27791,
+          "logo_path": null,
+          "name": "Backseat Conceptions",
+          "origin_country": ""
         },
         {
-          "id": 184162,
+          "id": 27792,
           "logo_path": null,
-          "name": "Arachnid Films",
+          "name": "Adversary Films",
           "origin_country": ""
         }
       ],
@@ -607,12 +710,83 @@
         }
       ],
       "revenue": 0,
-      "runtime": 88,
+      "runtime": 85,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7F8fRuCj9cntBNxjxXmVXyPPGOV.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 522655,
+      "original_language": "en",
+      "original_title": "You're Not Alone",
+      "overview": "После смерти мужа, бывшая наркоманка Эмма решает начать всё с чистого листа и в надежде сбежать от призраков прошлого переезжает вместе с дочерью в старый семейный дом. Однако жизнь на новом месте не ладится: девочку начинают мучить кошмары, а в доме происходят жуткие события, указывающие на то, что у него появился новый хозяин.",
+      "popularity": 0.4257,
+      "poster_path": "/3aBF1D5CXnYZ4eWLHHP3HtKCFph.jpg",
+      "release_date": "2020-04-16",
+      "title": "Вы не одни",
+      "video": false,
+      "vote_average": 5.839,
+      "vote_count": 62,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6332158",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 104291,
+          "logo_path": null,
+          "name": "Vital Pictures",
+          "origin_country": "GE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
@@ -905,7 +1079,7 @@
       "original_language": "en",
       "original_title": "Boo",
       "overview": "Группа студентов в ночь на Хэллоуин решает поразвлечься в заброшенном госпитале. Но почему лифт поднимается только до третьего этажа, на котором когда-то находилось отделение для душевнобольных?  И почему они никак не могут выбраться из зловещего лабиринта коридоров, кишащих зомби-двойниками и взрывающимися привидениями? Только призрак медсестры знает ответ… И далеко не всем суждено пережить эту ночь…",
-      "popularity": 0.4076,
+      "popularity": 0.4937,
       "poster_path": "/9VyMAPsjUIeLf71J2OG5V8DO7Jj.jpg",
       "release_date": "2005-05-13",
       "title": "Буу!",
@@ -1152,166 +1326,24 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/x3YFn10ehQKMRIJwIfiDAX8S9Xt.jpg",
-      "genre_ids": [
-        14,
-        28,
-        27
-      ],
-      "id": 561,
-      "original_language": "en",
-      "original_title": "Constantine",
-      "overview": "Джону Константину удалось не только побывать в аду, но и вернуться обратно. Родившись с неугодным самому себе талантом — способностью распознавать помесь ангелов и демонов, которые бродят по земле в облике людей, — Константин под давлением обстоятельств пытается совершить самоубийство, лишь бы избавиться от мучительных видений. Но неудачно. Воскрешенный против собственной воли он снова оказывается в мире живых. Теперь, отмеченный печатью суицида и получивший временное право на жизнь, он патрулирует границу, разделяющую рай и ад, тщетно надеясь на обретение спасения путем сражения с земными ставленниками зла.",
-      "popularity": 9.4291,
-      "poster_path": "/j8gHObFvjqgE7XVgO9bFphZIEAq.jpg",
-      "release_date": "2005-02-08",
-      "title": "Константин: Повелитель тьмы",
-      "video": false,
-      "vote_average": 7.12,
-      "vote_count": 7832,
-      "belongs_to_collection": {
-        "id": 1025281,
-        "name": "Константин (Коллекция)",
-        "poster_path": "/g6OwMtTM69CfwMAjf6NQKeoewoW.jpg",
-        "backdrop_path": "/44TlYuWbWBpRY3i0Ch7MJtLv4Yd.jpg"
-      },
-      "budget": 100000000,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0360486",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 79,
-          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
-          "name": "Village Roadshow Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 430,
-          "logo_path": null,
-          "name": "Lonely Film Productions",
-          "origin_country": "DE"
-        },
-        {
-          "id": 431,
-          "logo_path": "/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png",
-          "name": "The Donners' Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 432,
-          "logo_path": null,
-          "name": "Batfilm Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 433,
-          "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
-          "name": "Weed Road Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 787,
-          "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
-          "name": "3 Arts Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 165407,
-          "logo_path": "/73fMdMsX7azqI6ZveqtlzTnKdtu.png",
-          "name": "DC Vertigo",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 230900000,
-      "runtime": 121,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        },
-        {
-          "english_name": "Tagalog",
-          "iso_639_1": "tl",
-          "name": ""
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Ад и Рай держат пари на Земле»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+      "backdrop_path": "/i3fdtDIpJ9uDsZcZHWoyWADb9DA.jpg",
       "genre_ids": [
         27,
-        53,
-        80
+        9648,
+        53
       ],
-      "id": 1519168,
-      "original_language": "en",
-      "original_title": "The Jester 2",
-      "overview": "Когда юная фокусница Макс сталкивается с таинственным и жестоким Джестером в ночь Хэллоуина, её обычные трюки превращаются в смертельное испытание. Чтобы выжить, девушке придётся перехитрить сверхъестественного убийцу, чья магия пугающе реальна, а каждая иллюзия заканчивается кровью.  Фильм объединяет ужасы, мистику и элементы слэшера, создавая атмосферу кошмара, где грань между реальностью и иллюзией стирается. Зрителей ждёт напряжённая история о страхе, ловушках и опасной игре с тьмой.",
-      "popularity": 5.8477,
-      "poster_path": "/r94EBiVLlEE8LpJSz0Pot0EgAMM.jpg",
-      "release_date": "2025-09-15",
-      "title": "Джестер 2",
+      "id": 64624,
+      "original_language": "es",
+      "original_title": "La residencia",
+      "overview": "Мадам Фурно владеет школой для трудновоспитуемых девушек во Франции. В школе царит строгая дисциплина, порядок, которые вызваны суровыми наказаниями, издевательствами и пытками учениц. У мадам Фурно есть юный сын Луис, которого она старается держать подальше от девушек.  Тем временем в школе начинают происходить странные исчезновения учениц...",
+      "popularity": 0.9879,
+      "poster_path": "/ytMzNNbnvJxwwRaVYrAKfuKUTNS.jpg",
+      "release_date": "1969-12-01",
+      "title": "Дом, который кричит",
       "video": false,
-      "vote_average": 6.271,
-      "vote_count": 48,
-      "belongs_to_collection": {
-        "id": 1526352,
-        "name": "The Jester Collection",
-        "poster_path": "/cq55HSGP1QKUDNePTUOCmlnk3ik.jpg",
-        "backdrop_path": null
-      },
+      "vote_average": 6.508,
+      "vote_count": 122,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
@@ -1319,46 +1351,156 @@
           "name": "ужасы"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 9648,
+          "name": "детектив"
         },
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt37334010",
+      "imdb_id": "tt0064888",
       "origin_country": [
-        "US"
+        "ES"
       ],
       "production_companies": [
         {
-          "id": 138068,
+          "id": 15265,
           "logo_path": null,
-          "name": "Traverse Terror",
-          "origin_country": ""
-        },
-        {
-          "id": 114432,
-          "logo_path": null,
-          "name": "Epic Pictures",
-          "origin_country": ""
+          "name": "Anabel Films",
+          "origin_country": "ES"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "ES",
+          "name": "Spain"
         }
       ],
-      "revenue": 146237,
-      "runtime": 87,
+      "revenue": 0,
+      "runtime": 99,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sP3xtGBYcQejqkTn22aZz8c3U8v.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 477033,
+      "original_language": "eu",
+      "original_title": "Errementari",
+      "overview": "Страна Басков, Испания, 1843 год. Полицейский констебль приезжает в маленькую деревню в Алаве, чтобы расследовать дело о таинственном кузнеце, который живет один в глубине леса.",
+      "popularity": 1.1056,
+      "poster_path": "/40RqV4IQrY1iypopyo9YYxVCqiP.jpg",
+      "release_date": "2018-03-02",
+      "title": "Дьявольский кузнец",
+      "video": false,
+      "vote_average": 6.36,
+      "vote_count": 587,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt5592878",
+      "origin_country": [
+        "ES"
+      ],
+      "production_companies": [
+        {
+          "id": 32485,
+          "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+          "name": "Pokeepsie Films",
+          "origin_country": "ES"
+        },
+        {
+          "id": 87322,
+          "logo_path": null,
+          "name": "Kinoskopik",
+          "origin_country": "ES"
+        },
+        {
+          "id": 110359,
+          "logo_path": null,
+          "name": "Ikusgarri Films",
+          "origin_country": "ES"
+        },
+        {
+          "id": 74608,
+          "logo_path": null,
+          "name": "Gariza Produkzioak",
+          "origin_country": ""
+        },
+        {
+          "id": 110360,
+          "logo_path": null,
+          "name": "The Project",
+          "origin_country": "FR"
+        },
+        {
+          "id": 10012,
+          "logo_path": "/p2lszp9t84Mq9H87ITBCzopuUu4.png",
+          "name": "Nadie es Perfecto",
+          "origin_country": "ES"
+        },
+        {
+          "id": 110361,
+          "logo_path": null,
+          "name": "Platanobolígrafo",
+          "origin_country": "ES"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "Basque",
+          "iso_639_1": "eu",
+          "name": "euskera"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
         }
       ],
       "status": "Released",
@@ -1512,164 +1654,6 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iuRLTifCZqm3GVpaJBHFco6knDY.jpg",
-      "genre_ids": [
-        27,
-        35,
-        9648
-      ],
-      "id": 548064,
-      "original_language": "en",
-      "original_title": "You Might Be the Killer",
-      "overview": "Сэм устроил летний лагерь на участке, который принадлежит его семье много лет. Но что-то пошло не так, и парень обнаруживает себя убегающим от маньяка в маске, который уже зверски покрошил его друзей. Сэм звонит подруге Чак, работнице магазина комиксов и большой специалистке по слэшерам, а та, задав несколько наводящих вопросов, делает ужасающее открытие — Сэм и есть убийца. Теперь парень пытается восполнить пробелы в памяти и выяснить, как же это так вышло.",
-      "popularity": 0.5859,
-      "poster_path": "/gXsEtbNmY2hLQg49T3GvOLKdVyE.jpg",
-      "release_date": "2019-05-21",
-      "title": "Ты, должно быть, убийца",
-      "video": false,
-      "vote_average": 5.86,
-      "vote_count": 186,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt8998472",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 12029,
-          "logo_path": "/8PAf5K4VVI6xO9SjB7bxLtpi4xH.png",
-          "name": "Curmudgeon Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 88,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 397243,
-      "original_language": "en",
-      "original_title": "The Autopsy of Jane Doe",
-      "overview": "Патологоанатомы маленького городка получают обнаруженное при странных обстоятельствах и хорошо сохранившееся тело молодой красивой девушки без видимой причины смерти. Они пытаются выяснить, кто она и как умерла, обнаруживая все более причудливые подсказки, которые ведут к тайнам её жизни и смерти.",
-      "popularity": 4.3271,
-      "poster_path": "/3xOfFiGZ8PK8PxRvVc7kjqyMqZU.jpg",
-      "release_date": "2016-12-21",
-      "title": "Демон внутри",
-      "video": false,
-      "vote_average": 6.832,
-      "vote_count": 4613,
-      "belongs_to_collection": null,
-      "budget": 4000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3289956",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 7437,
-          "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
-          "name": "IM Global",
-          "origin_country": "US"
-        },
-        {
-          "id": 53247,
-          "logo_path": null,
-          "name": "Impostor Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 84988,
-          "logo_path": "/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png",
-          "name": "42",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 6170043,
-      "runtime": 86,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Есть вещи страшнее смерти",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
