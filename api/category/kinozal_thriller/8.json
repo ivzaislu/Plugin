@@ -9,52 +9,85 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/1Ono37IyA39prIoYkA2qNmMi3WF.jpg",
+      "backdrop_path": "/3284esJ3fFNgceQGAjnrBt3Blg8.jpg",
       "genre_ids": [
+        9648,
         53,
-        10770
+        27,
+        12
       ],
-      "id": 1550330,
-      "original_language": "en",
-      "original_title": "Girlfriend Missing",
-      "overview": "Молодой человек должен доказать свою невиновность, когда его невеста и маленький сын бесследно исчезают. По мере того как против него накапливаются необъяснимые улики, он начинает понимать, что кто-то намеренно пытается его подставить.",
-      "popularity": 0.9639,
-      "poster_path": "/67YXIeAnyEXjNdMzbbqwyEFP0px.jpg",
-      "release_date": "2025-10-07",
-      "title": "Исчезнувшая девушка",
+      "id": 479001,
+      "original_language": "ru",
+      "original_title": "Гоголь. Страшная месть",
+      "overview": "Две сотни лет назад малороссийские хутора разоряла шайка нехристей-ляхов во главе с могущественным колдуном. С тех пор рыщет в окрестностях Диканьки неизвестный Чёрный Всадник, ловит молодых девушек и жестоко расправляется с ними, будто мстит за что. И следующей его жертвой может стать Лиза. Чтобы спасти возлюбленную, дознователь Николай Гоголь должен разбить злые чары и победить древнее проклятье. Ни одному из смертных ещё не удавалось это. К счастью, на помощь Гоголю приходит гениальный столичный сыщик Яков Гуро, и у него уже есть главный подозреваемый…",
+      "popularity": 0.6518,
+      "poster_path": "/ii2RilqsgRZw2dhpS56nwIr516g.jpg",
+      "release_date": "2018-08-30",
+      "title": "Гоголь. Страшная месть",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 1,
-      "belongs_to_collection": null,
+      "vote_average": 6.43,
+      "vote_count": 72,
+      "belongs_to_collection": {
+        "id": 479002,
+        "name": "Гоголь (Коллекция)",
+        "poster_path": "/84ZGQPW7bInTidOVi0c8v5M8yFx.jpg",
+        "backdrop_path": "/9E3UKhlGkTBFudtANJVNZU1ifPN.jpg"
+      },
       "budget": 0,
       "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
         {
           "id": 53,
           "name": "триллер"
         },
         {
-          "id": 10770,
-          "name": "телевизионный фильм"
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt35049100",
+      "imdb_id": "tt8744094",
       "origin_country": [
-        "US"
+        "RU"
       ],
-      "production_companies": [],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 90,
+      "production_companies": [
+        {
+          "id": 86842,
+          "logo_path": "/uCPNeQLSVrSsOtLejsNRZTvnFab.png",
+          "name": "Sreda",
+          "origin_country": "RU"
+        },
+        {
+          "id": 113707,
+          "logo_path": "/12CETnhPLK0KzlHdBt9FvI6lRqz.png",
+          "name": "1-2-3 Production",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 7141571,
+      "runtime": 106,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "Начни с финала",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
