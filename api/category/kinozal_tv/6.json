@@ -5,489 +5,122 @@
   },
   "page": 6,
   "limit": 20,
-  "total": 104,
+  "total": 102,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/x8CuZ8uuqtUePAbfSglBzZBE0ub.jpg",
-      "genre_ids": [],
-      "id": 310925,
+      "backdrop_path": "/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 289560,
       "origin_country": [
-        "NZ"
+        "US"
       ],
       "original_language": "en",
-      "original_name": "Blue Murder Motel",
-      "overview": "Когда супружеская пара из Австралии меняет свои  полицейские значки  на прибрежный мотель в Новой Зеландии, они оставляют детективную работу в прошлом, и планируют наслаждаться спокойной жизнью. До тех пор, пока преступность не приходит к ним сама.",
-      "popularity": 1.9653,
-      "poster_path": "/18EbloIIjvhLG9h8uW1d3jqeY3M.jpg",
-      "first_air_date": "2026-01-18",
-      "name": "Убийство в мотеле \"Синева\"",
-      "vote_average": 7,
-      "vote_count": 1,
+      "original_name": "CIA",
+      "overview": "История о сотрудничестве агента ФБР и агента ЦРУ, которые вместе работают в секретной оперативной группе, занимающейся борьбой с внутренним терроризмом в Нью‑Йорке.",
+      "popularity": 27.85,
+      "poster_path": "/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+      "first_air_date": "2026-02-23",
+      "name": "ЦРУ",
+      "vote_average": 9.467,
+      "vote_count": 15,
       "created_by": [
         {
-          "id": 209843,
-          "credit_id": "696749d71f38c5f08170357a",
-          "name": "Kate McDermott",
-          "original_name": "Kate McDermott",
-          "gender": 1,
-          "profile_path": null
+          "id": 117443,
+          "credit_id": "6990595a2dbbfd220e3470ec",
+          "name": "Дик Вульф",
+          "original_name": "Dick Wolf",
+          "gender": 2,
+          "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
         },
         {
-          "id": 1653847,
-          "credit_id": "696749e51f38c5f08170357d",
-          "name": "Steven Zanoski",
-          "original_name": "Steven Zanoski",
-          "gender": 0,
+          "id": 1228311,
+          "credit_id": "69905985fe6c0c50dac8f324",
+          "name": "Дэвид Хаджинс",
+          "original_name": "David Hudgins",
+          "gender": 2,
           "profile_path": null
         }
       ],
-      "episode_run_time": [],
-      "genres": [],
-      "homepage": "https://www.tvnz.co.nz/shows/blue-murder-motel",
+      "episode_run_time": [
+        43
+      ],
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://www.cbs.com/shows/cia",
       "in_production": true,
       "languages": [
         "en"
       ],
-      "last_air_date": "2026-01-18",
+      "last_air_date": "2026-02-23",
       "last_episode_to_air": {
-        "id": 6847309,
+        "id": 6156693,
+        "name": "Эпизод 1",
+        "overview": "",
+        "vote_average": 8.2,
+        "vote_count": 3,
+        "air_date": "2026-02-23",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 43,
+        "season_number": 1,
+        "show_id": 289560,
+        "still_path": "/7QuzsX5OE1bNOscdUO6RhzNUJFC.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 6943389,
         "name": "Эпизод 2",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-01-25",
+        "air_date": "2026-03-02",
         "episode_number": 2,
         "episode_type": "standard",
         "production_code": "",
         "runtime": null,
         "season_number": 1,
-        "show_id": 310925,
-        "still_path": null
-      },
-      "next_episode_to_air": {
-        "id": 6867656,
-        "name": "Эпизод 3",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-02-01",
-        "episode_number": 3,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 310925,
+        "show_id": 289560,
         "still_path": null
       },
       "networks": [
         {
-          "id": 1376,
-          "logo_path": "/tRUJaANZCvxWQbQfdWcP8UvOjTG.png",
-          "name": "TVNZ 1",
-          "origin_country": "NZ"
+          "id": 16,
+          "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+          "name": "CBS",
+          "origin_country": "US"
         }
       ],
-      "number_of_episodes": 6,
+      "number_of_episodes": 5,
       "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 46039,
-          "logo_path": "/mfuFaF7xG2QfKAdBYSLmlziVAa5.png",
-          "name": "Great Southern Television",
-          "origin_country": "NZ"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "NZ",
-          "name": "New Zealand"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-01-18",
-          "episode_count": 6,
-          "id": 494562,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 1,
-          "vote_average": 1
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/o6QdTyYqpZuCtNTqDJGLY1MZ5L7.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 259270,
-      "origin_country": [
-        "GB"
-      ],
-      "original_language": "en",
-      "original_name": "Piglets",
-      "overview": "Комедийная драма \"Поросята\" рассказывает о группе из шести совершенно разных новобранцев в вымышленном полицейском колледже и сотрудниках, ответственных за их обучение.",
-      "popularity": 2.4428,
-      "poster_path": "/nip9oujWVVxMHgVcwnJu9qSr2W5.jpg",
-      "first_air_date": "2024-07-20",
-      "name": "Поросята",
-      "vote_average": 6.188,
-      "vote_count": 16,
-      "created_by": [
-        {
-          "id": 1720833,
-          "credit_id": "669ca15d54f5c6a5807795bd",
-          "name": "Sam Leifer",
-          "original_name": "Sam Leifer",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [
-        30
-      ],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "https://www.itv.com/watch/piglets/10a4958",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2026-01-29",
-      "last_episode_to_air": {
-        "id": 6850144,
-        "name": "Эпизод 6",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-02-19",
-        "episode_number": 6,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 23,
-        "season_number": 2,
-        "show_id": 259270,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 9,
-          "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
-          "name": "ITV1",
-          "origin_country": "GB"
-        },
-        {
-          "id": 149,
-          "logo_path": "/fYi08k1rC5L0OOqgwyXfcAKCZ2H.png",
-          "name": "ITV2",
-          "origin_country": "GB"
-        },
-        {
-          "id": 5871,
-          "logo_path": "/9NZkB99XBofL8XCBV19lKEfhAkU.png",
-          "name": "ITVX",
-          "origin_country": "GB"
-        }
-      ],
-      "number_of_episodes": 12,
-      "number_of_seasons": 2,
-      "production_companies": [
-        {
-          "id": 234055,
-          "logo_path": null,
-          "name": "Monicker Pictures",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2024-07-20",
-          "episode_count": 6,
-          "id": 402431,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/iuV4eZymMNYn142rULt4OTMUEi5.jpg",
-          "season_number": 1,
-          "vote_average": 6.3
-        },
-        {
-          "air_date": "2026-01-15",
-          "episode_count": 6,
-          "id": 494754,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/jxEpjIrQkRSIQnqatmmPPjInNGW.jpg",
-          "season_number": 2,
-          "vote_average": 6
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
-      "genre_ids": [
-        18,
-        10751
-      ],
-      "id": 306118,
-      "origin_country": [
-        "TR"
-      ],
-      "original_language": "tr",
-      "original_name": "Arafta",
-      "overview": "Это история, где любовь и месть переплетаются так тесно, что трудно понять, чем движимы герои — чувствами или тьмой. Атеш возвращается в прошлое, чтобы отомстить семье, разрушившей его детство, и выбирает для этого холодно рассчитанный брак с их дочерью Меркан. Но она не хочет быть частью чужой игры: уже обещанная другому, Меркан разрывается между долгом, страхом и честью. Пока Атеш уверен, что контролирует ситуацию, его планы рушатся, а ревнивая Аслы лишь усиливает напряжение. Меркан предстоит сделать выбор — поддаться мести или вырваться из порочного круга. История о страсти, боли и цене, которую приходится платить за любовь.",
-      "popularity": 4.7459,
-      "poster_path": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
-      "first_air_date": "2025-11-21",
-      "name": "Между",
-      "vote_average": 9.6,
-      "vote_count": 5,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "https://goquestmedia.com/arafta-bound-by-fate.html",
-      "in_production": true,
-      "languages": [
-        "tr"
-      ],
-      "last_air_date": "2026-01-12",
-      "last_episode_to_air": {
-        "id": 6831866,
-        "name": "Эпизод 45",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-12",
-        "episode_number": 45,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 306118,
-        "still_path": null
-      },
-      "next_episode_to_air": {
-        "id": 6831867,
-        "name": "Эпизод 46",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-01-16",
-        "episode_number": 46,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 306118,
-        "still_path": null
-      },
-      "networks": [],
-      "number_of_episodes": 65,
-      "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
-      "seasons": [
-        {
-          "air_date": "2025-11-21",
-          "episode_count": 65,
-          "id": 485720,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/2VmcX0Cb4suECDLQG0Xc3fTZIDl.jpg",
-          "season_number": 1,
-          "vote_average": 8
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Turkish",
-          "iso_639_1": "tr",
-          "name": "Türkçe"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-      "genre_ids": [
-        18,
-        10751,
-        10759
-      ],
-      "id": 85077,
-      "origin_country": [
-        "US"
-      ],
-      "original_language": "en",
-      "original_name": "The Chosen",
-      "overview": "«Избранные» — историческая драма, основанная на жизни Иисуса и тех, кто его знал. Сериал, действие которого происходит на фоне римского угнетения в Палестине первого века, демонстрирует подлинный взгляд на революционную жизнь и учение Иисуса.",
-      "popularity": 47.5024,
-      "poster_path": "/loocNikWYS4KSZNrTFQWSKADpSd.jpg",
-      "first_air_date": "2019-04-21",
-      "name": "Избранные",
-      "vote_average": 8.671,
-      "vote_count": 756,
-      "created_by": [
-        {
-          "id": 78013,
-          "credit_id": "5c1c6601c3a3685117ebe645",
-          "name": "Dallas Jenkins",
-          "original_name": "Dallas Jenkins",
-          "gender": 2,
-          "profile_path": "/wT8IWvvUtGgBAy1vkSObQgfA4e8.jpg"
-        }
-      ],
-      "episode_run_time": [
-        60
-      ],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 10759,
-          "name": "Боевик и Приключения"
-        }
-      ],
-      "homepage": "https://watch.thechosen.tv",
-      "in_production": true,
-      "languages": [
-        "en"
-      ],
-      "last_air_date": "2025-06-29",
-      "last_episode_to_air": {
-        "id": 5992644,
-        "name": "Эпизод 8",
-        "overview": "",
-        "vote_average": 9,
-        "vote_count": 5,
-        "air_date": "2025-06-29",
-        "episode_number": 8,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 66,
-        "season_number": 5,
-        "show_id": 85077,
-        "still_path": "/lafv8JbwffijVKk9twFcp4tI5Wb.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 1024,
-          "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
-          "name": "Prime Video",
-          "origin_country": ""
-        },
-        {
-          "id": 2858,
-          "logo_path": "/sAjGRESY88vDlneZxANanA6JKrd.png",
-          "name": "VidAngel",
+          "id": 1081,
+          "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+          "name": "CBS Studios",
           "origin_country": "US"
         },
         {
-          "id": 3081,
-          "logo_path": "/wYXsUOYlzzXbRFB9ynGleXVWL66.png",
-          "name": "Angel",
+          "id": 25545,
+          "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+          "name": "Wolf Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 7577,
-          "logo_path": "/sEXC5OpPVQoOWe7VMJDBJzKvnxJ.png",
-          "name": "TheChosen.tv",
-          "origin_country": ""
-        }
-      ],
-      "number_of_episodes": 40,
-      "number_of_seasons": 5,
-      "production_companies": [
-        {
-          "id": 212920,
-          "logo_path": null,
-          "name": "Loaves & Fishes Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 211135,
-          "logo_path": "/1uhHByM5SFurZw4OxYDCLPa9zPJ.png",
-          "name": "Out of Order Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 226339,
-          "logo_path": null,
-          "name": "Come and See",
-          "origin_country": ""
-        },
-        {
-          "id": 254639,
-          "logo_path": "/n3pI0U0pXZjESr0WlLeqZxZnxp0.png",
-          "name": "5&2 Studios",
+          "id": 26727,
+          "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+          "name": "Universal Television",
           "origin_country": "US"
         }
       ],
@@ -499,64 +132,14 @@
       ],
       "seasons": [
         {
-          "air_date": "2017-12-01",
-          "episode_count": 330,
-          "id": 123367,
-          "name": "Спецматериалы",
-          "overview": "",
-          "poster_path": "/wNyVhOgNDk4ssSGuKFjYFh1gbCw.jpg",
-          "season_number": 0,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2019-04-21",
-          "episode_count": 8,
-          "id": 114668,
+          "air_date": "2026-02-23",
+          "episode_count": 5,
+          "id": 452893,
           "name": "Сезон 1",
           "overview": "",
-          "poster_path": "/z5aVnxOQzrLhP2QXd605vVMDWlD.jpg",
+          "poster_path": "/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
           "season_number": 1,
           "vote_average": 8.2
-        },
-        {
-          "air_date": "2021-04-04",
-          "episode_count": 8,
-          "id": 188921,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/h1gDWOLatQBeqYnDLPUXtgFjWXL.jpg",
-          "season_number": 2,
-          "vote_average": 7.8
-        },
-        {
-          "air_date": "2022-12-11",
-          "episode_count": 8,
-          "id": 317067,
-          "name": "Сезон 3",
-          "overview": "",
-          "poster_path": "/j9gxEiXVW15iQBt3A8Bles9pOZC.jpg",
-          "season_number": 3,
-          "vote_average": 8.1
-        },
-        {
-          "air_date": "2024-06-02",
-          "episode_count": 8,
-          "id": 361545,
-          "name": "Сезон 4",
-          "overview": "",
-          "poster_path": "/eFBDG9k86EGzryACIHfZdEaLPp4.jpg",
-          "season_number": 4,
-          "vote_average": 7.3
-        },
-        {
-          "air_date": "2025-06-15",
-          "episode_count": 8,
-          "id": 431717,
-          "name": "Сезон 5",
-          "overview": "",
-          "poster_path": "/AobxCDBPhzV5rgNapLTVGb6Crir.jpg",
-          "season_number": 5,
-          "vote_average": 9.1
         }
       ],
       "spoken_languages": [
@@ -570,6 +153,150 @@
       "tagline": "",
       "type": "Scripted",
       "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8SSZiqgUUUtqhZB2KuWle5q9lxg.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        80
+      ],
+      "id": 220564,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Perfect Couple",
+      "overview": "Амелия готовится выйти замуж за наследника одной из самых богатых семей Нантакета, но неожиданная смерть срывает свадьбу, и под подозрением оказываются все.",
+      "popularity": 7.1506,
+      "poster_path": "/xMTwCRUMKTbAdo4hUaiTIpuRh6.jpg",
+      "first_air_date": "2024-09-05",
+      "name": "Идеальная пара",
+      "vote_average": 6.752,
+      "vote_count": 303,
+      "created_by": [
+        {
+          "id": 155595,
+          "credit_id": "6427e344960cde0126345b08",
+          "name": "Дженна Ламия",
+          "original_name": "Jenna Lamia",
+          "gender": 1,
+          "profile_path": "/qFHKebDa8juuH6Aw4pCIOgHC8UJ.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "https://www.netflix.com/title/81474158",
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2024-09-05",
+      "last_episode_to_air": {
+        "id": 5569764,
+        "name": "Теперь мне лучше",
+        "overview": "Неожиданный поворот в полицейском расследовании погружает семью Уинбери в еще больший кризис. На поверхность всплывают давние тайны, а вместе с ними и правда о случившемся.",
+        "vote_average": 6.3,
+        "vote_count": 6,
+        "air_date": "2024-09-05",
+        "episode_number": 6,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 64,
+        "season_number": 1,
+        "show_id": 220564,
+        "still_path": "/aFHJyNQUoYCNsGqyaZLnWU8BjvE.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "name": "Netflix",
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 6,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 2575,
+          "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+          "name": "21 Laps Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 75060,
+          "logo_path": "/iS6njjhHMBYIcwcBrjNfd53dyXQ.png",
+          "name": "The Jackal Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 238221,
+          "logo_path": null,
+          "name": "Pathless Woods Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 32537,
+          "logo_path": "/7fUmRWUJgO4grf61sPMmc4kVYVR.png",
+          "name": "Blossom Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 238223,
+          "logo_path": null,
+          "name": "Two-Four Two-Four Go",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2024-09-05",
+          "episode_count": 6,
+          "id": 329200,
+          "name": "Мини-сериал",
+          "overview": "",
+          "poster_path": "/weyR73iYr1lWg17Q2r4sc7aEr2p.jpg",
+          "season_number": 1,
+          "vote_average": 6.6
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Miniseries",
+      "release_quality": "2160p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv"
