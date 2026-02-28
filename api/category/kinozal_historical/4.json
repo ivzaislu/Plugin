@@ -5,7 +5,7 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 116,
+  "total": 117,
   "items": [
     {
       "adult": false,
@@ -1119,31 +1119,30 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ycII7Hmh0NizxZd4flyfkDwG6Jq.jpg",
+      "backdrop_path": "/uP3nXeSH6ZD9L76ycGHH9JmUhIf.jpg",
       "genre_ids": [
+        10752,
         18,
-        36,
-        10752
+        36
       ],
-      "id": 10655,
-      "original_language": "en",
-      "original_title": "Gettysburg",
-      "overview": "Осень 1863 года. Армия конфедератов продвигается к северу Пенсильвании. Впереди их ожидают вражеские дивизии. Две великие армии встретятся в Геттисбурге. Три долгих дня судьба будущей неделимой нации будет висеть на волоске…",
-      "popularity": 5.1504,
-      "poster_path": "/otIFbuGvJWMAqYqYxMGits1NMyn.jpg",
-      "release_date": "1993-10-08",
-      "title": "Геттисбург",
+      "id": 149511,
+      "original_language": "pl",
+      "original_title": "Popioły",
+      "overview": "К концу 18 века, Польское государство оказывается под властью сразу трех стран — России, Австрии и Пруссии. Последняя надежда свободолюбивых поляков — французская армия, под чьи знамена добровольно встают герои фильма.  Однако участие в наполеоновских походах приводит не к долгожданной независимости и объединению Польши, а к позорному созданию вассального Варшавского герцогства. Судьбы героев исторической драмы так же трагичны, как и судьба, их родины.",
+      "popularity": 0.4119,
+      "poster_path": "/t0ytkejwNei7UbArOj8nPs4wC8r.jpg",
+      "release_date": "1965-09-25",
+      "title": "Пепел",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 315,
-      "belongs_to_collection": {
-        "id": 725681,
-        "name": "Американская Гражданская война (Коллекция)",
-        "poster_path": "/vydnEk3SkgPJfhBgqDcPImkQ0FL.jpg",
-        "backdrop_path": "/9Sc9W1BPw2zK30GlL8AerDBTrRW.jpg"
-      },
-      "budget": 25000000,
+      "vote_average": 6.5,
+      "vote_count": 16,
+      "belongs_to_collection": null,
+      "budget": 0,
       "genres": [
+        {
+          "id": 10752,
+          "name": "военный"
+        },
         {
           "id": 18,
           "name": "драма"
@@ -1151,62 +1150,55 @@
         {
           "id": 36,
           "name": "история"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0107007",
+      "imdb_id": "tt0060847",
       "origin_country": [
-        "US"
+        "PL"
       ],
       "production_companies": [
         {
-          "id": 9313,
+          "id": 52346,
           "logo_path": null,
-          "name": "Esparza / Katz Productions",
-          "origin_country": "US"
+          "name": "Zespół Filmowy \"Rytm\"",
+          "origin_country": "PL"
         },
         {
-          "id": 1765,
-          "logo_path": "/oqMb5Xwbvvle7riett66WbI06fQ.png",
-          "name": "Turner Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 2767,
+          "id": 206223,
           "logo_path": null,
-          "name": "Mace Neufeld Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 211576,
-          "logo_path": null,
-          "name": "Robert Rehme Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 8609,
-          "logo_path": "/aX7HQqzdIV7ttd90u4L1H643ZNa.png",
-          "name": "TriStar Television",
-          "origin_country": "US"
+          "name": "Kinocenter",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "PL",
+          "name": "Poland"
         }
       ],
-      "revenue": 12700000,
-      "runtime": 254,
+      "revenue": 0,
+      "runtime": 234,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Polish",
+          "iso_639_1": "pl",
+          "name": "Polski"
         }
       ],
       "status": "Released",
