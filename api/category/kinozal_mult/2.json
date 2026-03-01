@@ -9,78 +9,370 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/dPPjBf74W1j8va6KvDGePaJcqm7.jpg",
+      "backdrop_path": "/9Xz0bzUFTVgDZd4WZz1cJDQjLkB.jpg",
       "genre_ids": [
-        14,
         16,
-        27,
-        28
+        18,
+        10402,
+        10749
       ],
-      "id": 539517,
-      "original_language": "en",
-      "original_title": "Constantine: City of Demons - The Movie",
-      "overview": "Жизнь экзорциста Джона Константина может закончится в любой момент. Его убивает не только пагубная привычка выкуривать по десятку сигарет в день, но и утомительная работа, ведь изгонять демонов из человеческого мира — дело непростое. Каждое новое столкновение с силами зла заставляет Джона вступать в схватку, где победу способны принести не только острый ум и знание врага, но и любимый дробовик.",
-      "popularity": 2.1542,
-      "poster_path": "/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg",
-      "release_date": "2018-10-04",
-      "title": "Константин: Город демонов",
+      "id": 632632,
+      "original_language": "ja",
+      "original_title": "映画 ギヴン",
+      "overview": "Продолжение одноименного сериала про любовную драму одного из участников группы - Акихико Кадзи.",
+      "popularity": 2.0061,
+      "poster_path": "/x53z2oKgpz1twX1FuhSL0tyIc4w.jpg",
+      "release_date": "2020-08-22",
+      "title": "Дарованный. Фильм",
       "video": false,
-      "vote_average": 7.685,
-      "vote_count": 644,
-      "belongs_to_collection": null,
+      "vote_average": 8.251,
+      "vote_count": 412,
+      "belongs_to_collection": {
+        "id": 1389956,
+        "name": "given Collection",
+        "poster_path": "/hm7TfSB6QjT4dtaskCB0RNZFUWi.jpg",
+        "backdrop_path": "/ailTW5OrjQ7rPGOYtHuaDfgzDaB.jpg"
+      },
       "budget": 0,
       "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
         {
           "id": 16,
           "name": "мультфильм"
         },
         {
-          "id": 27,
-          "name": "ужасы"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "https://given-anime.com/",
+      "imdb_id": "tt11802992",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 42811,
+          "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
+          "name": "Lerche",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2883,
+          "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+          "name": "Aniplex",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1778,
+          "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+          "name": "dentsu",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3341,
+          "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+          "name": "Fuji Television Network",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3466,
+          "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+          "name": "movic",
+          "origin_country": "JP"
+        },
+        {
+          "id": 233952,
+          "logo_path": null,
+          "name": "Shinshokan",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 930363,
+      "runtime": 60,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 410071,
+      "original_language": "ru",
+      "original_title": "Молодильные яблоки",
+      "overview": "Крестьянин посылает своих сыновей на поиски молодильных яблок. Старшие сыновья отправляются в кабак, а младший при помощи Серого Волка, добывает яблоки для отца и женится на красавице Синеглазке.",
+      "popularity": 0.3242,
+      "poster_path": "/2HeFwK2BGhK9aiXWDmK1tueqpU4.jpg",
+      "release_date": "1974-01-01",
+      "title": "Молодильные яблоки",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 8,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1070820",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 19,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+      "genre_ids": [
+        16,
+        14,
+        28,
+        10749,
+        10751
+      ],
+      "id": 496450,
+      "original_language": "fr",
+      "original_title": "Miraculous - le film",
+      "overview": "В обыкновенной французской школе учатся девочка Маринетт и её одноклассник Андриан, в которого она влюблена. Казалось бы, классическая история первой любви, но... Эти ребята – совсем не те, за кого себя выдают. Когда городу угрожает опасность, Маринетт превращается в супергероиню Леди Баг, а Адриан – в Супер-Кота. Их невероятные способности помогают бороться со злом, но при этом никто из них не знает, кто на самом деле скрывается под маской.",
+      "popularity": 6.6264,
+      "poster_path": "/1JICWbOCkUnNi0oDYA07XoTLKBB.jpg",
+      "release_date": "2023-07-05",
+      "title": "Леди Баг и Супер-Кот: Пробуждение силы",
+      "video": false,
+      "vote_average": 7.608,
+      "vote_count": 936,
+      "belongs_to_collection": {
+        "id": 1241422,
+        "name": "Леди Баг и Супер Кот: Коллекция",
+        "poster_path": "/tkcFT5Rwn0gpZhnIvrsVWwVZShK.jpg",
+        "backdrop_path": "/9wJOhep2U74V4hUuMa64eKCXawX.jpg"
+      },
+      "budget": 86000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
         },
         {
           "id": 28,
           "name": "боевик"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt9177882",
+      "imdb_id": "tt10364034",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 140008,
+          "logo_path": null,
+          "name": "The Awakening Production",
+          "origin_country": "FR"
+        },
+        {
+          "id": 2902,
+          "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+          "name": "SND",
+          "origin_country": "FR"
+        },
+        {
+          "id": 200503,
+          "logo_path": "/lCHoMUzKtkc8PYeFKF843lFvjWK.png",
+          "name": "Fantawild",
+          "origin_country": "CN"
+        },
+        {
+          "id": 82973,
+          "logo_path": null,
+          "name": "Zag Animation Studios",
+          "origin_country": "FR"
+        },
+        {
+          "id": 84713,
+          "logo_path": "/jrdDt2pV5OF6f4JLOhaGUMT3QO9.png",
+          "name": "ON Animation Studios",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 40208268,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+      "genre_ids": [
+        16,
+        28,
+        35,
+        10751,
+        878
+      ],
+      "id": 38055,
+      "original_language": "en",
+      "original_title": "Megamind",
+      "overview": "Мегамозг — самый гениальный и самый неудачливый злодей в мире. Вот уже много лет он пытается покорить Метро-Сити самыми разнообразными способами. Но каждая такая попытка кончается провалом по вине супергероя по имени Метро-Мэн. Но злодей убивает супергероя, и внезапно Мегамозг лишается цели в жизни. Суперзлодей без супергероя. Единственный выход — создать нового супергероя, которого он называет Титаном. Но Титан решает, что быть злодеем куда интереснее.",
+      "popularity": 11.8853,
+      "poster_path": "/wmbjH9s0mu5gv1WX3v8n9IwbbHq.jpg",
+      "release_date": "2010-10-28",
+      "title": "Мегамозг",
+      "video": false,
+      "vote_average": 7.017,
+      "vote_count": 7317,
+      "belongs_to_collection": {
+        "id": 1239518,
+        "name": "Мегамозг (Коллекция)",
+        "poster_path": "/E1eYcIkFaFOw1vKXwqyaW7gL9.jpg",
+        "backdrop_path": "/1VtW2AWO5OtJ5qi86kxP4xlRdh6.jpg"
+      },
+      "budget": 130000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1001526",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 2785,
-          "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
-          "name": "Warner Bros. Animation",
+          "id": 521,
+          "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+          "name": "DreamWorks Animation",
           "origin_country": "US"
         },
         {
-          "id": 9993,
-          "logo_path": "/53WLa6t6HKBpIEUSmsit29kBUOV.png",
-          "name": "DC Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 27711,
-          "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
-          "name": "Berlanti Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 72489,
-          "logo_path": "/ekwQYn2gVl2Y1UAYlIFgMbWGviI.png",
-          "name": "Blue Ribbon Content",
-          "origin_country": "US"
-        },
-        {
-          "id": 423,
-          "logo_path": "/uvA6e2O31qaonsbYd8tjvgqmNXh.png",
-          "name": "Phantom Four",
+          "id": 520,
+          "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+          "name": "Pacific Data Images",
           "origin_country": "US"
         }
       ],
@@ -90,8 +382,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 90,
+      "revenue": 321885765,
+      "runtime": 96,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -101,7 +393,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -109,60 +401,125 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/rQNWdUtbZxkvbFRfGZr9iUOizfs.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        16,
-        28,
-        12,
-        27
+        16
       ],
-      "id": 791348,
-      "original_language": "en",
-      "original_title": "DC Showcase - Constantine: The House of Mystery",
-      "overview": "Джон становится узником Дома Тайн после того, как он спровоцировал второй Флэшпоинт. Похоже, даже опытному магу не в силах выбраться из этого заточения.",
-      "popularity": 2.3228,
-      "poster_path": "/6vKXMJw8y6l2K7CAiZXdbJlKzsY.jpg",
-      "release_date": "2022-05-02",
-      "title": "Константин: Дом тайн",
+      "id": 448399,
+      "original_language": "ru",
+      "original_title": "Можно и нельзя",
+      "overview": "Сказка для маленьких зрителей. В нем рассказывается о том, как два волшебных человечка Можно и Нельзя помогают Малышу, который остается дома один, познакомится с окружающим миром и понять, что можно делать и чего - нельзя.",
+      "popularity": 0.1093,
+      "poster_path": "/dCWFFAzwRX23cgEHl4RTApYmN0l.jpg",
+      "release_date": "1964-03-22",
+      "title": "Можно и нельзя",
       "video": false,
-      "vote_average": 6.854,
-      "vote_count": 178,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6056934",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 18,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        10751,
+        9648
+      ],
+      "id": 1084242,
+      "original_language": "en",
+      "original_title": "Zootopia 2",
+      "overview": "Джуди и Ник теперь полноценная команда в полиции. Но их спокойная служба резко меняется, когда в городе появляется загадочный преступник-рептилия, способный ставить под угрозу весь порядок в Зверополисе. Чтобы разобраться в деле, героям приходится углубиться в новые районы города, куда обычным жителям лучше не соваться. Расследование быстро выходит за рамки привычных правил: Джуди и Ник работают под прикрытием, сталкиваются с непредсказуемыми союзниками и опасными врагами, а также вынуждены доверять друг другу сильнее, чем когда-либо.",
+      "popularity": 349.0251,
+      "poster_path": "/j29hoRvpGshWDaOBVIogkRpi6JS.jpg",
+      "release_date": "2025-11-26",
+      "title": "Зверополис 2",
+      "video": false,
+      "vote_average": 7.628,
+      "vote_count": 958,
+      "belongs_to_collection": {
+        "id": 1084247,
+        "name": "Зверополис (Коллекция)",
+        "poster_path": "/xeTBqRz5LQ55mgETK0if54U5lzO.jpg",
+        "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
+      },
+      "budget": 150000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
         },
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 12,
           "name": "приключения"
         },
         {
-          "id": 27,
-          "name": "ужасы"
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt18305072",
+      "imdb_id": "tt26443597",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 2785,
-          "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
-          "name": "Warner Bros. Animation",
-          "origin_country": "US"
-        },
-        {
-          "id": 429,
-          "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
-          "name": "DC",
+          "id": 6125,
+          "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+          "name": "Walt Disney Animation Studios",
           "origin_country": "US"
         }
       ],
@@ -172,100 +529,28 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 27,
+      "revenue": 1588069590,
+      "runtime": 107,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/645T4C9rip5mvK2UrwTmLPIuKYd.jpg",
-      "genre_ids": [
-        878,
-        16
-      ],
-      "id": 537055,
-      "original_language": "en",
-      "original_title": "Wonder Woman: Bloodlines",
-      "overview": "На острове, скрытом от людских глаз, живут прекрасные и воинственные амазонки. Однажды туда попадает американский пилот Стив Тревор. Диана, принцесса амазонок, решает помочь Стиву добраться домой и отправляется вместе с ним в США, где она начинает бороться с преступностью и несправедливостью.",
-      "popularity": 2.1179,
-      "poster_path": "/w1SBqj0fn1j72ST5i1jauWo3swT.jpg",
-      "release_date": "2019-10-04",
-      "title": "Чудо-женщина: Кровные узы",
-      "video": false,
-      "vote_average": 6.866,
-      "vote_count": 509,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
         },
         {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt8752498",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2785,
-          "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
-          "name": "Warner Bros. Animation",
-          "origin_country": "US"
-        },
-        {
-          "id": 429,
-          "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
-          "name": "DC",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         },
         {
           "english_name": "Spanish",
           "iso_639_1": "es",
           "name": "Español"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
         }
       ],
       "status": "Released",
-      "tagline": "Ее величайший бой будет тем, чтобы вернуться домой",
-      "release_quality": "1080p",
+      "tagline": "«Не каждый, кто скользит в тени - враг»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -704,489 +989,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
-      "genre_ids": [
-        16,
-        14,
-        28,
-        10749,
-        10751
-      ],
-      "id": 496450,
-      "original_language": "fr",
-      "original_title": "Miraculous - le film",
-      "overview": "В обыкновенной французской школе учатся девочка Маринетт и её одноклассник Андриан, в которого она влюблена. Казалось бы, классическая история первой любви, но... Эти ребята – совсем не те, за кого себя выдают. Когда городу угрожает опасность, Маринетт превращается в супергероиню Леди Баг, а Адриан – в Супер-Кота. Их невероятные способности помогают бороться со злом, но при этом никто из них не знает, кто на самом деле скрывается под маской.",
-      "popularity": 6.6264,
-      "poster_path": "/1JICWbOCkUnNi0oDYA07XoTLKBB.jpg",
-      "release_date": "2023-07-05",
-      "title": "Леди Баг и Супер-Кот: Пробуждение силы",
-      "video": false,
-      "vote_average": 7.608,
-      "vote_count": 936,
-      "belongs_to_collection": {
-        "id": 1241422,
-        "name": "Леди Баг и Супер Кот: Коллекция",
-        "poster_path": "/tkcFT5Rwn0gpZhnIvrsVWwVZShK.jpg",
-        "backdrop_path": "/9wJOhep2U74V4hUuMa64eKCXawX.jpg"
-      },
-      "budget": 86000000,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt10364034",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 140008,
-          "logo_path": null,
-          "name": "The Awakening Production",
-          "origin_country": "FR"
-        },
-        {
-          "id": 2902,
-          "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
-          "name": "SND",
-          "origin_country": "FR"
-        },
-        {
-          "id": 200503,
-          "logo_path": "/lCHoMUzKtkc8PYeFKF843lFvjWK.png",
-          "name": "Fantawild",
-          "origin_country": "CN"
-        },
-        {
-          "id": 82973,
-          "logo_path": null,
-          "name": "Zag Animation Studios",
-          "origin_country": "FR"
-        },
-        {
-          "id": 84713,
-          "logo_path": "/jrdDt2pV5OF6f4JLOhaGUMT3QO9.png",
-          "name": "ON Animation Studios",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 40208268,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
-      "genre_ids": [
-        16,
-        28,
-        35,
-        10751,
-        878
-      ],
-      "id": 38055,
-      "original_language": "en",
-      "original_title": "Megamind",
-      "overview": "Мегамозг — самый гениальный и самый неудачливый злодей в мире. Вот уже много лет он пытается покорить Метро-Сити самыми разнообразными способами. Но каждая такая попытка кончается провалом по вине супергероя по имени Метро-Мэн. Но злодей убивает супергероя, и внезапно Мегамозг лишается цели в жизни. Суперзлодей без супергероя. Единственный выход — создать нового супергероя, которого он называет Титаном. Но Титан решает, что быть злодеем куда интереснее.",
-      "popularity": 11.8853,
-      "poster_path": "/wmbjH9s0mu5gv1WX3v8n9IwbbHq.jpg",
-      "release_date": "2010-10-28",
-      "title": "Мегамозг",
-      "video": false,
-      "vote_average": 7.017,
-      "vote_count": 7317,
-      "belongs_to_collection": {
-        "id": 1239518,
-        "name": "Мегамозг (Коллекция)",
-        "poster_path": "/E1eYcIkFaFOw1vKXwqyaW7gL9.jpg",
-        "backdrop_path": "/1VtW2AWO5OtJ5qi86kxP4xlRdh6.jpg"
-      },
-      "budget": 130000000,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1001526",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 521,
-          "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
-          "name": "DreamWorks Animation",
-          "origin_country": "US"
-        },
-        {
-          "id": 520,
-          "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
-          "name": "Pacific Data Images",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 321885765,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16
-      ],
-      "id": 448399,
-      "original_language": "ru",
-      "original_title": "Можно и нельзя",
-      "overview": "Сказка для маленьких зрителей. В нем рассказывается о том, как два волшебных человечка Можно и Нельзя помогают Малышу, который остается дома один, познакомится с окружающим миром и понять, что можно делать и чего - нельзя.",
-      "popularity": 0.1093,
-      "poster_path": "/dCWFFAzwRX23cgEHl4RTApYmN0l.jpg",
-      "release_date": "1964-03-22",
-      "title": "Можно и нельзя",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt6056934",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 18,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9Xz0bzUFTVgDZd4WZz1cJDQjLkB.jpg",
-      "genre_ids": [
-        16,
-        18,
-        10402,
-        10749
-      ],
-      "id": 632632,
-      "original_language": "ja",
-      "original_title": "映画 ギヴン",
-      "overview": "Продолжение одноименного сериала про любовную драму одного из участников группы - Акихико Кадзи.",
-      "popularity": 2.0061,
-      "poster_path": "/x53z2oKgpz1twX1FuhSL0tyIc4w.jpg",
-      "release_date": "2020-08-22",
-      "title": "Дарованный. Фильм",
-      "video": false,
-      "vote_average": 8.251,
-      "vote_count": 412,
-      "belongs_to_collection": {
-        "id": 1389956,
-        "name": "given Collection",
-        "poster_path": "/hm7TfSB6QjT4dtaskCB0RNZFUWi.jpg",
-        "backdrop_path": "/ailTW5OrjQ7rPGOYtHuaDfgzDaB.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "https://given-anime.com/",
-      "imdb_id": "tt11802992",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 42811,
-          "logo_path": "/2ZPUk3aYOtKbZk1W4Kp6mfeays8.png",
-          "name": "Lerche",
-          "origin_country": "JP"
-        },
-        {
-          "id": 2883,
-          "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
-          "name": "Aniplex",
-          "origin_country": "JP"
-        },
-        {
-          "id": 1778,
-          "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
-          "name": "dentsu",
-          "origin_country": "JP"
-        },
-        {
-          "id": 3341,
-          "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
-          "name": "Fuji Television Network",
-          "origin_country": "JP"
-        },
-        {
-          "id": 3466,
-          "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
-          "name": "movic",
-          "origin_country": "JP"
-        },
-        {
-          "id": 233952,
-          "logo_path": null,
-          "name": "Shinshokan",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 930363,
-      "runtime": 60,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "genre_ids": [
-        16,
-        35,
-        12,
-        10751,
-        9648
-      ],
-      "id": 1084242,
-      "original_language": "en",
-      "original_title": "Zootopia 2",
-      "overview": "Джуди и Ник теперь полноценная команда в полиции. Но их спокойная служба резко меняется, когда в городе появляется загадочный преступник-рептилия, способный ставить под угрозу весь порядок в Зверополисе. Чтобы разобраться в деле, героям приходится углубиться в новые районы города, куда обычным жителям лучше не соваться. Расследование быстро выходит за рамки привычных правил: Джуди и Ник работают под прикрытием, сталкиваются с непредсказуемыми союзниками и опасными врагами, а также вынуждены доверять друг другу сильнее, чем когда-либо.",
-      "popularity": 349.0251,
-      "poster_path": "/j29hoRvpGshWDaOBVIogkRpi6JS.jpg",
-      "release_date": "2025-11-26",
-      "title": "Зверополис 2",
-      "video": false,
-      "vote_average": 7.628,
-      "vote_count": 958,
-      "belongs_to_collection": {
-        "id": 1084247,
-        "name": "Зверополис (Коллекция)",
-        "poster_path": "/xeTBqRz5LQ55mgETK0if54U5lzO.jpg",
-        "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
-      },
-      "budget": 150000000,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt26443597",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6125,
-          "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
-          "name": "Walt Disney Animation Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1588069590,
-      "runtime": 107,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Не каждый, кто скользит в тени - враг»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/qK7Ssnrfvrt65F66A1thvehfQg2.jpg",
       "genre_ids": [
         16,
@@ -1274,78 +1076,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/3HgusBIQh8ZGVHczzYhmgJPv9Kq.jpg",
-      "genre_ids": [
-        16
-      ],
-      "id": 1467307,
-      "original_language": "ru",
-      "original_title": "Три богатыря и свет клином",
-      "overview": "Загадочная огромная туча грозит затмить весь белый свет и превратить день в ночь, и только отважным Богатырям под силу остановить ненастье мирового масштаба.",
-      "popularity": 1.0703,
-      "poster_path": "/mR2tYl6lsNJNg95Ig8vsgOaW3Pe.jpg",
-      "release_date": "2025-12-25",
-      "title": "Три богатыря и свет клином",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": {
-        "id": 122123,
-        "name": "Три богатыря (Коллекция)",
-        "poster_path": "/slZBC6TbA7cltdrNcGGr7MERYtO.jpg",
-        "backdrop_path": "/T3QrSbo0NKKxtm7sUq5MlJgRPA.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt37244653",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 318,
-          "logo_path": "/q0UG4oZERwIywJdDPF4lRlvdYGW.png",
-          "name": "CTB Film Company",
-          "origin_country": "RU"
-        },
-        {
-          "id": 5306,
-          "logo_path": "/pKJoVsFJklsUEOSUDPnmAJsxEXg.png",
-          "name": "Melnitsa Animation Studio",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 75,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/yPRnoFEhj09i824pqmE2cwfedsN.jpg",
       "genre_ids": [
         12,
@@ -1415,6 +1145,78 @@
       "status": "Released",
       "tagline": "«От одной лжи все изменится»",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3HgusBIQh8ZGVHczzYhmgJPv9Kq.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 1467307,
+      "original_language": "ru",
+      "original_title": "Три богатыря и свет клином",
+      "overview": "Загадочная огромная туча грозит затмить весь белый свет и превратить день в ночь, и только отважным Богатырям под силу остановить ненастье мирового масштаба.",
+      "popularity": 1.0703,
+      "poster_path": "/mR2tYl6lsNJNg95Ig8vsgOaW3Pe.jpg",
+      "release_date": "2025-12-25",
+      "title": "Три богатыря и свет клином",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": {
+        "id": 122123,
+        "name": "Три богатыря (Коллекция)",
+        "poster_path": "/slZBC6TbA7cltdrNcGGr7MERYtO.jpg",
+        "backdrop_path": "/T3QrSbo0NKKxtm7sUq5MlJgRPA.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37244653",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 318,
+          "logo_path": "/q0UG4oZERwIywJdDPF4lRlvdYGW.png",
+          "name": "CTB Film Company",
+          "origin_country": "RU"
+        },
+        {
+          "id": 5306,
+          "logo_path": "/pKJoVsFJklsUEOSUDPnmAJsxEXg.png",
+          "name": "Melnitsa Animation Studio",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 75,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -1556,6 +1358,204 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+      "genre_ids": [
+        16,
+        878,
+        12,
+        10751
+      ],
+      "id": 698687,
+      "original_language": "en",
+      "original_title": "Transformers One",
+      "overview": "Действие разворачивается за три миллиарда лет до основных событий фильмов о трансформерах. Орион Пакс — простой рабочий на Кибертроне. Он трудится на благо общества роботов вместе со своим лучшим другом D-16. Однако все в жизни парней меняется, когда Кибертрон сталкивается с новой угрозой. Прайм Альфа Трион наделяет Ориона, D-16, а также их товарищей Бамблби и Элиту способностью трансформироваться. Орион берёт имя Оптимус Прайм и, как лидер команды автоботов, дает мощный отпор врагам. D-16 же решает на фоне конфликта возглавить армию десептиконов и захватить власть на Кибертроне. Он становится Мегатроном — будущим заклятым врагом Оптимуса Прайма.",
+      "popularity": 9.8092,
+      "poster_path": "/lcfOnii9C1Qd01BiEb5hhHh9u6e.jpg",
+      "release_date": "2024-09-11",
+      "title": "Трансформеры: Начало",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 1499,
+      "belongs_to_collection": null,
+      "budget": 75000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt8864596",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 24955,
+          "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+          "name": "Paramount Animation",
+          "origin_country": "US"
+        },
+        {
+          "id": 435,
+          "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+          "name": "di Bonaventura Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 38831,
+          "logo_path": null,
+          "name": "DeSanto/Murphy Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 6734,
+          "logo_path": "/u55FhlG6vFNzSVKLcmnFFwLb2cc.png",
+          "name": "Bay Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 114732,
+          "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+          "name": "New Republic Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 207846,
+          "logo_path": "/1UwpJ4CSWXRN5tu1mMQOfQV4WfX.png",
+          "name": "Hasbro Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 129408392,
+      "runtime": 104,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Станьте Свидетелем Происхождения»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        878,
+        28
+      ],
+      "id": 519182,
+      "original_language": "en",
+      "original_title": "Despicable Me 4",
+      "overview": "Грю, с недавних пор ставший агентом Антизлодейской лиги, способствует аресту своего давнего врага Максима Ле Маль, который после инъекции специальной сыворотки превратился в гибрид человека и таракана. Злодей почти сразу же сбегает из тюрьмы, поэтому Грю вместе с семьей попадает под программу защиты свидетелей: после смены места жительства он становится Четом, продавцом солнечных батарей. Тем временем Максим Ле Маль, вместе со своей сообщницей Валентиной возглавляющий армию тараканов, стремится во что бы то ни стало отомстить.",
+      "popularity": 19.7514,
+      "poster_path": "/tHqeQqruCLFA0CO7gzyyHoZlZgo.jpg",
+      "release_date": "2024-06-20",
+      "title": "Гадкий я 4",
+      "video": false,
+      "vote_average": 6.993,
+      "vote_count": 3065,
+      "belongs_to_collection": {
+        "id": 86066,
+        "name": "Гадкий я (Коллекция)",
+        "poster_path": "/cynhRoDW6WOToNhGgheomiOW4lz.jpg",
+        "backdrop_path": "/37xamYKRUGCRux532lKcZdVGYuR.jpg"
+      },
+      "budget": 100000000,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt7510222",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 6704,
+          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+          "name": "Illumination",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 969597394,
+      "runtime": 94,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Мега-Миньоны. Мега-Безумие»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
