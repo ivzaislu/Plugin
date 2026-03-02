@@ -9,66 +9,55 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/iI0n28l5vn3K1GdXHVoA54kRemv.jpg",
+      "backdrop_path": "/5jCpCFrku6wmCZOYZWhHOC2j8IU.jpg",
       "genre_ids": [
-        53,
         28,
-        80,
-        18
+        53
       ],
-      "id": 9594,
+      "id": 1669,
       "original_language": "en",
-      "original_title": "Double Impact",
-      "overview": "Когда-то мафия из Гонконга жестоко и безжалостно расправилась с родителями братьев-близнецов Чеда и Алекса, которых чудом удалось спасти в давней кровавой перестрелке. Судьба раскидала братьев по разные стороны океана: один рос в Калифорнии, другой остался в Гонконге. И вот спустя 25 лет стараниями верного друга их погибших родителей два брата встречаются, чтобы заставить виновников того преступления сильно раскаяться в некогда содеянном.",
-      "popularity": 4.2249,
-      "poster_path": "/sai1XRaEkBwDXblaiPIifdOhk1G.jpg",
-      "release_date": "1991-07-31",
-      "title": "Двойной удар",
+      "original_title": "The Hunt for Red October",
+      "overview": "Новейшая советская атомная подводная лодка «Красный Октябрь» способна нарушить хрупкий стратегический баланс между США и СССР. Ее капитан Рамиус решает передать субмарину в руки американцев.",
+      "popularity": 6.89,
+      "poster_path": "/vmyOjOViYpw6PalLEvQdAP2bKFY.jpg",
+      "release_date": "1990-03-02",
+      "title": "Охота за «Красным Октябрем»",
       "video": false,
-      "vote_average": 6.193,
-      "vote_count": 1160,
-      "belongs_to_collection": null,
-      "budget": 15000000,
+      "vote_average": 7.377,
+      "vote_count": 3555,
+      "belongs_to_collection": {
+        "id": 192492,
+        "name": "Джек Райан (Коллекция)",
+        "poster_path": "/jYGQtO2bvueZ0YRBv0yfa5VRWcb.jpg",
+        "backdrop_path": "/plXRyDY6H9RolPVkVvWpPyjWnkX.jpg"
+      },
+      "budget": 30000000,
       "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0101764",
+      "imdb_id": "tt0099810",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 3470,
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 264010,
           "logo_path": null,
-          "name": "Stone Group Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 3603,
-          "logo_path": "/eobbNnKZHAh6orRLKEduWRmZtBu.png",
-          "name": "Vision International",
-          "origin_country": ""
-        },
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
+          "name": "Mace Neufeld/Jerry Sherlock Productions",
           "origin_country": "US"
         }
       ],
@@ -78,18 +67,23 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 30102717,
-      "runtime": 110,
+      "revenue": 200512643,
+      "runtime": 134,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
-      "tagline": "Два брата, разлученные насилием. Теперь вместе в миссии мести.",
-      "release_quality": "",
+      "tagline": "Охота началась.",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_action"
