@@ -5,43 +5,48 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 275,
+  "total": 273,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/oj1PeRv0926dRsJxleck30DeHMj.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        18
+        35,
+        10770
       ],
-      "id": 688158,
+      "id": 886950,
       "original_language": "ru",
-      "original_title": "Карантин",
-      "overview": "Во время эксперимента в институте эпидемиологии происходит авария. Чтобы вирус смертельной болезни не проник за стены лаборатории, пять сотрудников остаются на карантинном режиме. В этой ситуации люди раскрываются самым неожиданным образом.",
-      "popularity": 0.2397,
-      "poster_path": "/pqQdvHSM5wAzMYeRscATwT3op7B.jpg",
-      "release_date": "1968-01-01",
-      "title": "Карантин",
+      "original_title": "Экзамен на чин",
+      "overview": "Готовился чиновник к экзамену, чтобы чин повыше получить. Сидел, зубрил всю ночь, но не выдержал и заснул. А утром пришлось ему все-таки встать и отправиться на экзамен. Встретился ему по дороге сын. Выгнали его с урока, учитель дал нелестную характеристику сыну, а заодно и его папаше. Видно, что не в первый раз папаша идет на экзамен, неприятность вышла у него с учителем географии. Пришел как-то учитель в почтовый департамент, а папаша, который там работал, возьми да и сделай ему замечание - чтобы в очередь встал вместе со всеми. А тот взял да и обиделся, и не хочет у него экзамен принимать. Но, на счастье старика, приехал на экзамен инспектор, и оказал снисхождение чиновнику. После экзамена отправился он с комиссией в трактир, отпраздновать получение нового чина, да от радости-то и напился.",
+      "popularity": 0.0676,
+      "poster_path": null,
+      "release_date": "1969-01-01",
+      "title": "Экзамен на чин",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 1,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt5074666",
+      "imdb_id": "tt8952400",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 13896,
-          "logo_path": null,
-          "name": "Kyiv Film Studio",
+          "id": 8192,
+          "logo_path": "/94hIRFCuSVrpCGMeabDrLIDuAX7.png",
+          "name": "Lentelefilm",
           "origin_country": "SU"
         }
       ],
@@ -52,7 +57,68 @@
         }
       ],
       "revenue": 0,
-      "runtime": 78,
+      "runtime": 30,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Pt69wFaET2FrMRJWeWp7ptZnlu.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "id": 383036,
+      "original_language": "ru",
+      "original_title": "Инспектор Гулл",
+      "overview": "В доме Артура Берлинга, богатого промышленника, семейное торжество — помолвка. Но семейный праздник прерван неожиданным визитом инспектора Гулла.  Инспектор рассказывает, что под колесами поезда погибла девушка. Вопросы инспектора вызывают у всех присутствующих смятение — каждый из них мог быть причастен к судьбе погибшей.",
+      "popularity": 0.147,
+      "poster_path": "/46wB376utONt8GyXQ4hZ6dbMWqh.jpg",
+      "release_date": "1979-09-13",
+      "title": "Инспектор Гулл",
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt3171718",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 6608,
+          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
+          "name": "Ekran",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 136,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -449,67 +515,6 @@
       ],
       "revenue": 0,
       "runtime": 135,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/96TNINo47jSaxMF7Prifzrs5kvP.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 150225,
-      "original_language": "ru",
-      "original_title": "Васса",
-      "overview": "В этом доме детей с юных лет приучали всегда отчетливо говорить «мой»: мой пароход, мой дом, моя фабрика. Здесь считали деньги, нажитые чужим трудом, и за ночь спускали в карты целое состояние; здесь развратничали напропалую и втихомолку шпионили друг за другом; молились и совершали именем господа темные дела. Все было у Вассы - деньги, сила, власть, ум и хватка. Но не было у нее одного - будущего...",
-      "popularity": 0.7599,
-      "poster_path": "/pm0uoozOMWQoyhMcyJuBFu8X4Nz.jpg",
-      "release_date": "1983-09-12",
-      "title": "Васса",
-      "video": false,
-      "vote_average": 6.194,
-      "vote_count": 18,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0086527",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 138,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1264,39 +1269,49 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9Pt69wFaET2FrMRJWeWp7ptZnlu.jpg",
+      "backdrop_path": "/qpcSVUuTDH9nkQVYMdp9OJiXD9Z.jpg",
       "genre_ids": [
-        9648
+        9648,
+        80
       ],
-      "id": 383036,
+      "id": 92529,
       "original_language": "ru",
-      "original_title": "Инспектор Гулл",
-      "overview": "В доме Артура Берлинга, богатого промышленника, семейное торжество — помолвка. Но семейный праздник прерван неожиданным визитом инспектора Гулла.  Инспектор рассказывает, что под колесами поезда погибла девушка. Вопросы инспектора вызывают у всех присутствующих смятение — каждый из них мог быть причастен к судьбе погибшей.",
-      "popularity": 0.147,
-      "poster_path": "/46wB376utONt8GyXQ4hZ6dbMWqh.jpg",
-      "release_date": "1979-09-13",
-      "title": "Инспектор Гулл",
+      "original_title": "Чёрный принц",
+      "overview": "Полковник Зорин, знакомый зрителям по фильму «Возвращение «Святого Луки», расследует очередное преступление. Неизвестными совершено дерзкое ограбление. На этот раз из ценнейшей коллекции похищен уникальный бриллиант «Черный принц». Этот камень стоит баснословную сумму денег...",
+      "popularity": 0.3336,
+      "poster_path": "/xZZAXorFkmnXqCjovEDdTLSxmuc.jpg",
+      "release_date": "1973-06-25",
+      "title": "Чёрный принц",
       "video": false,
-      "vote_average": 4.6,
-      "vote_count": 5,
-      "belongs_to_collection": null,
+      "vote_average": 5.625,
+      "vote_count": 8,
+      "belongs_to_collection": {
+        "id": 92533,
+        "name": "Трилогия о полковнике Зорине",
+        "poster_path": "/pjp6D14oFXtApQ6MvWIvDirDv7M.jpg",
+        "backdrop_path": "/dxGHk4ESPcLIcd3ShPAjAXKblCU.jpg"
+      },
       "budget": 0,
       "genres": [
         {
           "id": 9648,
           "name": "детектив"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt3171718",
+      "imdb_id": "tt0313899",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 6608,
-          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
-          "name": "Ekran",
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
           "origin_country": "SU"
         }
       ],
@@ -1307,7 +1322,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 136,
+      "runtime": 96,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1317,7 +1332,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
