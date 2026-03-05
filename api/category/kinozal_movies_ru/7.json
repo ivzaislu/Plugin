@@ -5,7 +5,7 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 273,
+  "total": 275,
   "items": [
     {
       "adult": false,
@@ -205,6 +205,104 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 196803,
+      "original_language": "ru",
+      "original_title": "Красные колокола. Я видел рождение нового мира. Фильм второй.",
+      "overview": "Дело происходит в 1913 году - кровавом году для мексиканского народа. В самый разгар Гражданской войны америкнаский репортер Джон Рид приезжает в пограничную северную зону, чтобы освещать события. Армии, возглавляемые крестьянами Эмилиано Салатой и Франциско Вильей (так же известным, как Панчо Вилья), с юга и с севера пытаются захватить столицу, которая занята диктатором Уэртой.",
+      "popularity": 0.3883,
+      "poster_path": "/b7FSfQCOll4HNAv7AeWWeeG5j1Z.jpg",
+      "release_date": "1982-10-18",
+      "title": "Красные колокола. Я видел рождение нового мира. Фильм второй.",
+      "video": false,
+      "vote_average": 4.2,
+      "vote_count": 14,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [],
+      "homepage": "",
+      "imdb_id": "tt0084223",
+      "origin_country": [
+        "IT",
+        "MX",
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 5001,
+          "logo_path": null,
+          "name": "Conacite Dos",
+          "origin_country": "MX"
+        },
+        {
+          "id": 141689,
+          "logo_path": null,
+          "name": "Cinefin",
+          "origin_country": "IT"
+        },
+        {
+          "id": 1583,
+          "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+          "name": "RAI",
+          "origin_country": "IT"
+        },
+        {
+          "id": 103558,
+          "logo_path": null,
+          "name": "Vides International",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "MX",
+          "name": "Mexico"
+        },
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 139,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
@@ -471,111 +569,49 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/zjaZGwS55VP5gyt5T9iMIfmtujz.jpg",
       "genre_ids": [
-        18,
-        10770
-      ],
-      "id": 346006,
-      "original_language": "ru",
-      "original_title": "Вкус хлеба",
-      "overview": "Посвящен покорению целины и состоит из четырех фильмов: «Хлеб наш насущный», «Хлеб и земля», «Хлеб и люди», «Хлеб отечества». Действие киноромана построено на раскрытии судеб трех героев: директора совхоза Степана Сечкина, партийного работника Владимира Ерошина и ученого-агронома Сергея Игнатьева.",
-      "popularity": 0.1942,
-      "poster_path": "/hfMHaAk7oNpJo5l4yojJLsaloSy.jpg",
-      "release_date": "1979-10-08",
-      "title": "Вкус хлеба",
-      "video": false,
-      "vote_average": 4.5,
-      "vote_count": 4,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0332493",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        },
-        {
-          "id": 232195,
-          "logo_path": "/v7fKAcO8gOG0VEqxK8VvsPx30PG.png",
-          "name": "Kazakhfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 336,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
+        10749,
+        35,
         18
       ],
-      "id": 396229,
+      "id": 81214,
       "original_language": "ru",
-      "original_title": "Небо со мной",
-      "overview": "Лётчик-испытатель Иван Клинов был тяжело ранен в бою, попал в плен, бежал из лагеря. С войны вернулся в свой город и узнал, что жена похоронила его, вышла замуж и живёт неплохо. Он перестал летать, женился и пытался не думать о небе...",
-      "popularity": 0.0936,
-      "poster_path": "/cE4FIw0eKS7auZXFbzVyB4lXxd6.jpg",
-      "release_date": "1974-06-06",
-      "title": "Небо со мной",
+      "original_title": "Медовый месяц",
+      "overview": "Выпускница медицинского института Людочка «выскакивает» замуж за инженера Алексея для того, чтобы после распределения остаться в Ленинграде. Но неожиданно, Алексей дает согласие на работу в Сибири, и бедной Людочке пришлось последовать за мужем на сибирскую стройку и начать свою трудовую деятельность врачом в крохотном медпункте рабочего посёлка...",
+      "popularity": 0.1396,
+      "poster_path": "/oVAEYAepDq2mneZZCu2osBgOcdy.jpg",
+      "release_date": "1956-12-10",
+      "title": "Медовый месяц",
       "video": false,
-      "vote_average": 7,
-      "vote_count": 2,
+      "vote_average": 6.8,
+      "vote_count": 6,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
         {
           "id": 18,
           "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0300254",
+      "imdb_id": "tt0049489",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
+          "id": 10845,
+          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+          "name": "Lenfilm",
           "origin_country": "SU"
         }
       ],
@@ -586,7 +622,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 96,
+      "runtime": 93,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -604,19 +640,18 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ioqZt0sycwcHsaUKh4mCl1QYuy3.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        18,
-        80
+        10749
       ],
-      "id": 1285821,
+      "id": 617438,
       "original_language": "ru",
-      "original_title": "В русском стиле",
-      "overview": "Пропажа пятнадцатилетней дочери и равнодушное отношение к этому факту органов милиции толкнуло героя фильма на самостоятельные поиски. Помочь ему в этом берется «случайно» встреченная молодая женщина, у которой имеются свои планы.",
-      "popularity": 0.1253,
-      "poster_path": "/gRtHQCAcSRjWUTsVEPS5hYcP2Ty.jpg",
-      "release_date": "1991-11-01",
-      "title": "В русском стиле",
+      "original_title": "Мой старший брат",
+      "overview": "После автомобильной катастрофы Бахтияр взял на себя вину жены, управлявшей машиной. Но это не изменило плохих отношений между ними, жена ушла к другому, пока Бахтияр выздоравливал в больнице. После случившегося трудно было Бахтияру верить людям. Только Вере, школьной подруге его младшего брата, удалось вселить в него надежду на любовь…",
+      "popularity": 0.0521,
+      "poster_path": "/oQaoZ9FZXl6eJeX4uo2aRGbayy.jpg",
+      "release_date": "1976-11-24",
+      "title": "Мой старший брат",
       "video": false,
       "vote_average": 0,
       "vote_count": 0,
@@ -624,25 +659,80 @@
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0331043",
+      "imdb_id": "tt5378052",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 67,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        10402
+      ],
+      "id": 263465,
+      "original_language": "ru",
+      "original_title": "Гармонь",
+      "overview": "По одноименной поэме Александра Жарова. В основе сюжета первого советского музыкального фильма — поэма автора популярных официальных песен 20-х годов, прославлявших энтузиазм комсомольцев новой деревни. В одной из таких деревень веселый гармонист Тимошка избран секретарем партячейки.  Отложив гаpмонь в стоpону, герой пpинимается наводить поpядок в селе. Затянувшаяся непривычная тишина быстро приводит к раздору между истинными комсомольцами и подкулачниками. Тогда Тимошка снова берет свою гармонь и снова звучит дружная комсомольская песня…",
+      "popularity": 0.1494,
+      "poster_path": "/qzIudBhMUSExxul63fLsiPBnj32.jpg",
+      "release_date": "1934-01-01",
+      "title": "Гармонь",
+      "video": false,
+      "vote_average": 3.2,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0025162",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 228202,
+          "id": 8970,
           "logo_path": null,
-          "name": "Pari",
-          "origin_country": ""
+          "name": "Mezhrabpomfilm",
+          "origin_country": "SU"
         }
       ],
       "production_countries": [
@@ -652,7 +742,74 @@
         }
       ],
       "revenue": 0,
-      "runtime": 80,
+      "runtime": 66,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lbH7Odj08NKYWrk5Eyv9tUD5xs6.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 65099,
+      "original_language": "ru",
+      "original_title": "Благочестивая Марта",
+      "overview": "По мотивам одноименной комедии Тирсо Де Молины в переводе М. Донского. Прекрасная история о всепобеждающей любви гордых испанцев и еще более гордых испанок. Двухсерийная музыкальная комедия в духе \"Собаки на сене\". Актеры подобраны изумительно, и роли свои они сыграли с блеском. Как приятно посмотреть такой фильм вечером после работы, забыть обо всем, вытянувшись на диване. Испания, Мадрид, XVII век. Вполне традиционный средневековый сюжет: тиран - отец пытается выдать красавицу - дочь замуж за богатого старика. Девушка вынуждена объявить, что уходит в монастырь, только бы отложить день свадьбы...",
+      "popularity": 1.9841,
+      "poster_path": "/m48SyYxMkjjujuiXmXKHFj3mZ3w.jpg",
+      "release_date": "1980-06-06",
+      "title": "Благочестивая Марта",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 9,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0193017",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 10845,
+          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+          "name": "Lenfilm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 14620,
+          "logo_path": "/zbQk1aw57z6LUOSQzb0MoZDLiUz.png",
+          "name": "Gosteleradio USSR",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 135,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -736,41 +893,133 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/85EWIZMtXFx1thzTJul5IIRYSxI.jpg",
+      "backdrop_path": "/cgrinWrD4jsYq6h11gKU5yX0paS.jpg",
       "genre_ids": [
-        9648,
-        80,
-        18
+        28,
+        18,
+        10749,
+        35,
+        12,
+        10752
       ],
-      "id": 149426,
+      "id": 20848,
       "original_language": "ru",
-      "original_title": "Дело «пёстрых»",
-      "overview": "По рекомендации райкома партии молодой офицер Сергей Коршунов становится работником уголовного розыска. На войне действовать приходилось молниеносно, и Сергей решает свои боевые навыки задействовать на гражданке, но это оказалось не так просто.  При расследовании серии преступлений, начавшихся с убийства женщины, ему приходится понять, что в мирной жизни гораздо труднее найти линию фронта, на полковой карте её не нарисуешь.",
-      "popularity": 0.4504,
-      "poster_path": "/6hiezNKmYS1k9twhetp9DJXbjW0.jpg",
-      "release_date": "1958-04-21",
-      "title": "Дело «пёстрых»",
+      "original_title": "Белое солнце пустыни",
+      "overview": "Восточный берег Каспия. Гражданская война. Отряд красного командира Рахимова гоняется по пескам за бандитом Абдуллой и его головорезами. Погоня осложняется тем, что приходится возить с собой жён жестокого басмача, спасая их от верной гибели. Возиться с пугливыми восточными красавицами, укутанными в паранджу, нет уже никаких сил. Рахимов перепоручает заботу о женском коллективе случайно встреченному посреди унылых пейзажей товарищу Сухову, определив ему в помощь молодого бойца Петруху.",
+      "popularity": 0.8854,
+      "poster_path": "/slUxfkPILNh9iZPhuhMSf8C1TsR.jpg",
+      "release_date": "1969-12-14",
+      "title": "Белое солнце пустыни",
       "video": false,
-      "vote_average": 5.4,
-      "vote_count": 5,
+      "vote_average": 7.2,
+      "vote_count": 160,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "https://www.mosfilm.ru/cinema/films/beloe-solntse-pustyni/",
+      "imdb_id": "tt0066565",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 10845,
+          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+          "name": "Lenfilm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 81,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Таможня даёт добро!»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10752,
+        18,
+        12
+      ],
+      "id": 674590,
+      "original_language": "ru",
+      "original_title": "Они были актёрами",
+      "overview": "Когда фашисты заняли Крым, актеры драматического театра г. Симферополя вошли в подпольную группу «Сокол». Деятельность подпольщиков была многообразна: они расклеивали листовки с информацией Совинформбюро, составляли карты с указанием стратегических объектов врага, снабжали партизан лекарствами...Но не все люди вели себя на оккупированной территории одинаково достойно. Многие действительно вступили в противоборство с врагом, но были и те, кто пошел на службу к захватчикам и стал предателем.",
+      "popularity": 0.1973,
+      "poster_path": "/vOunCfl3tgGmkKE9f8FyfKHZqIr.jpg",
+      "release_date": "1981-12-12",
+      "title": "Они были актёрами",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0051527",
+      "imdb_id": "tt0082852",
       "origin_country": [
         "SU"
       ],
@@ -789,7 +1038,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 102,
+      "runtime": 88,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -799,7 +1048,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
@@ -807,45 +1056,44 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/tOOeCGK7tmWlj4HVdpD09CGAJz0.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        18
+        18,
+        10752
       ],
-      "id": 48676,
+      "id": 428530,
       "original_language": "ru",
-      "original_title": "Первый учитель",
-      "overview": "Действие фильма происходит в 1923 году. Только что закончилась гражданская война. Вчерашний красноармеец, учитель Дюйшен, приезжает по комсомольской путевке работать в далекий киргизский аул.  Пылкий, вдохновенный фанатизм в утверждении прогресса сталкивается с многовековым укладом в жестоком и кровавом поединке. Но ничто не может сломить учителя Дюйшена.",
-      "popularity": 1.0084,
-      "poster_path": "/tNUTDXlmOVdT0gJYC26E7rB4Hwj.jpg",
-      "release_date": "1965-10-31",
-      "title": "Первый учитель",
+      "original_title": "Освобожденная земля",
+      "overview": "Красная Армия выбивала немцев с Кубани. Хозяева земли двигались вслед за фронтом в освобожденные станицы и хутора и начинали восстанавливать разрушенное хозяйство. Осенью крестьяне убирают первый урожай на освобожденной земле, а весной встречают фронтовиков, возвращающихся после победы домой…",
+      "popularity": 0.2678,
+      "poster_path": "/rs3VUpPMsbBIQaTwR7CLFXkPi8z.jpg",
+      "release_date": "1946-02-02",
+      "title": "Освобожденная земля",
       "video": false,
-      "vote_average": 5.2,
-      "vote_count": 24,
+      "vote_average": 7,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0059585",
+      "imdb_id": "tt0038811",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        },
-        {
-          "id": 40456,
-          "logo_path": "/7aU4xI1sq3ZGXbNsX6uP0Z6VYlU.png",
-          "name": "Kirghizfilm",
+          "id": 11436,
+          "logo_path": "/zvvXyn4CvHqmBX7X6zdbDOCGG3M.png",
+          "name": "Sverdlovsk Film Studio",
           "origin_country": "SU"
         }
       ],
@@ -856,7 +1104,134 @@
         }
       ],
       "revenue": 0,
-      "runtime": 102,
+      "runtime": 83,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        28
+      ],
+      "id": 441919,
+      "original_language": "ru",
+      "original_title": "Фанат",
+      "overview": "Непобедимый «Малыш» - фанат карате, полон светлых планов на будущее. Однако, невольное соучастие в ограблении, и только чудом вместо тюрьмы он попадает в армию. Оттуда возвращается жестокий зверь, боец без тени жалости даже к друзьям. Теперь его жизнь - рэкет и подпольные бои без правил. Он лучший всюду, но в финальном бою Малыш должен «лечь» - босс мафии по прозвищу Мэтр поставил огромные деньги на его противника. Малыш побеждает…",
+      "popularity": 0.1778,
+      "poster_path": "/cgjN9L4tWmaUFgkrQ9Hkt0LfdSz.jpg",
+      "release_date": "1989-01-01",
+      "title": "Фанат",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 9,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1555803",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 3161,
+          "logo_path": "/p22GDJaOniIWidl1vPqzBv4qxFN.png",
+          "name": "Odessa Film Studio",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 81,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28
+      ],
+      "id": 395914,
+      "original_language": "ru",
+      "original_title": "Курьер на восток",
+      "overview": "Двое бывших детдомовцев связали свои судьбы с мафией. Один погиб, а другой был арестован в среднеазиатском городке. Поняв, что они с другом стали жертвами обмана и «шестерками» в чужой игре, он решил отомстить…",
+      "popularity": 0.141,
+      "poster_path": "/AaPMhDBk54ZUrXg6hFYVCweN0CL.jpg",
+      "release_date": "1991-09-07",
+      "title": "Курьер на восток",
+      "video": false,
+      "vote_average": 3.3,
+      "vote_count": 3,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2365172",
+      "origin_country": [
+        "UA"
+      ],
+      "production_companies": [
+        {
+          "id": 3161,
+          "logo_path": "/p22GDJaOniIWidl1vPqzBv4qxFN.png",
+          "name": "Odessa Film Studio",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "UA",
+          "name": "Ukraine"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 89,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1016,332 +1391,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uNrsWlYXn8jtMuQHQsgSqV4oCqq.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 79231,
-      "original_language": "ru",
-      "original_title": "Неисправимый лгун",
-      "overview": "Доброму и доверчивому парикмахеру давно уже никто не верит, когда он подробнейшим образом оправдывается за свои опоздания. Но ведь с ним действительно каждый раз происходит что-то необыкновенное: то обед у эмира Бурухтании, то встреча с Эдитой Пьехой, то он мчится за мячиком своего соседа Вовки навстречу потоку автомашин...",
-      "popularity": 0.2991,
-      "poster_path": "/bZj3QzEsbeic6XXM1LOts6qmqXQ.jpg",
-      "release_date": "1973-05-24",
-      "title": "Неисправимый лгун",
-      "video": false,
-      "vote_average": 6.941,
-      "vote_count": 17,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0185532",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 71,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1OAYkCBRZZaAUwPvcnhMEfvAliG.jpg",
-      "genre_ids": [
-        12,
-        35,
-        10749
-      ],
-      "id": 456869,
-      "original_language": "ru",
-      "original_title": "Первая перчатка",
-      "overview": "Молодой сибиряк Никита Крутиков — начинающий боксер. Ему прочат блестящую спортивную карьеру, чемпионский титул, но он влюблен, готов жениться и уехать с любимой домой, в Сибирь. Его тренер прилагает массу усилий, чтобы вернуть Никиту в спорт…",
-      "popularity": 0.1751,
-      "poster_path": "/lU6Wf0gqJILtqLmPcnvnUzbA0dr.jpg",
-      "release_date": "1946-12-29",
-      "title": "Первая перчатка",
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 6,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0039699",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 79,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        35,
-        10402
-      ],
-      "id": 263465,
-      "original_language": "ru",
-      "original_title": "Гармонь",
-      "overview": "По одноименной поэме Александра Жарова. В основе сюжета первого советского музыкального фильма — поэма автора популярных официальных песен 20-х годов, прославлявших энтузиазм комсомольцев новой деревни. В одной из таких деревень веселый гармонист Тимошка избран секретарем партячейки.  Отложив гаpмонь в стоpону, герой пpинимается наводить поpядок в селе. Затянувшаяся непривычная тишина быстро приводит к раздору между истинными комсомольцами и подкулачниками. Тогда Тимошка снова берет свою гармонь и снова звучит дружная комсомольская песня…",
-      "popularity": 0.1494,
-      "poster_path": "/qzIudBhMUSExxul63fLsiPBnj32.jpg",
-      "release_date": "1934-01-01",
-      "title": "Гармонь",
-      "video": false,
-      "vote_average": 3.2,
-      "vote_count": 4,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0025162",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 8970,
-          "logo_path": null,
-          "name": "Mezhrabpomfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 66,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lbH7Odj08NKYWrk5Eyv9tUD5xs6.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 65099,
-      "original_language": "ru",
-      "original_title": "Благочестивая Марта",
-      "overview": "По мотивам одноименной комедии Тирсо Де Молины в переводе М. Донского. Прекрасная история о всепобеждающей любви гордых испанцев и еще более гордых испанок. Двухсерийная музыкальная комедия в духе \"Собаки на сене\". Актеры подобраны изумительно, и роли свои они сыграли с блеском. Как приятно посмотреть такой фильм вечером после работы, забыть обо всем, вытянувшись на диване. Испания, Мадрид, XVII век. Вполне традиционный средневековый сюжет: тиран - отец пытается выдать красавицу - дочь замуж за богатого старика. Девушка вынуждена объявить, что уходит в монастырь, только бы отложить день свадьбы...",
-      "popularity": 1.9841,
-      "poster_path": "/m48SyYxMkjjujuiXmXKHFj3mZ3w.jpg",
-      "release_date": "1980-06-06",
-      "title": "Благочестивая Марта",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 9,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0193017",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
-          "origin_country": "SU"
-        },
-        {
-          "id": 14620,
-          "logo_path": "/zbQk1aw57z6LUOSQzb0MoZDLiUz.png",
-          "name": "Gosteleradio USSR",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 135,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vt1rvMfyip6eaeSa1BhVKqbQfky.jpg",
-      "genre_ids": [
-        10751
-      ],
-      "id": 620038,
-      "original_language": "ru",
-      "original_title": "Центр нападения",
-      "overview": "В разгар сезона известный футболист покидает свою команду: он конструктор мотоциклов и необходимо его присутствие на заводе.  Футбола, однако, он не бросает, а становится центром нападения городской команды. Его друг-вратарь упорно расценивает уход героя как предательство…",
-      "popularity": 0.5992,
-      "poster_path": "/ilFCL5MDgEM4YaM12ezN8xQWZ21.jpg",
-      "release_date": "1946-06-25",
-      "title": "Центр нападения",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0240135",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 4581,
-          "logo_path": "/p858ADU9O67a7ageVEjsk18jqak.png",
-          "name": "Dovzhenko Film Studios",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 71,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"

@@ -9,72 +9,6 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/oP79fXClGr3Qb51DBIEuJAOwgGp.jpg",
-      "genre_ids": [
-        36,
-        10752
-      ],
-      "id": 1491518,
-      "original_language": "ru",
-      "original_title": "Дороги Победы",
-      "overview": "Идёт Великая Отечественная война. Тысячи семей ждут заветных весточек с фронта от своих мужей, сыновей и братьев. Полевые почтальоны и сотрудники железнодорожных служб доставляют письма солдат из районов ожесточённых боевых действий в разные уголки страны под обстрелами и бомбёжками. Одна почтовая карточка проходит долгий путь от отправителя к адресату, попадая в руки неопытного мальчишки-кочегара, медсестры санитарного поезда и начальника управления военных сообщений РККА. Каждый из них героически сражается на своём участке фронта, пытаясь любой ценой приблизить долгожданную Победу.",
-      "popularity": 0.2727,
-      "poster_path": "/9pyDFkpmxhUuHnh7bxFGpJkqe4w.jpg",
-      "release_date": "2025-05-08",
-      "title": "Дороги Победы",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": null,
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 224274,
-          "logo_path": null,
-          "name": "Russian Military Historical Society",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 69,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_historical"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/bDsXa3PV3biQ8ZK1tQyK4vlkvCc.jpg",
       "genre_ids": [
         18,
@@ -622,6 +556,93 @@
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_historical"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/leDO2O7HywKWZhk15feAQ3Gc37p.jpg",
+      "genre_ids": [
+        10752,
+        12,
+        36,
+        37
+      ],
+      "id": 11209,
+      "original_language": "en",
+      "original_title": "The Alamo",
+      "overview": "США, 1836 год. Генерал Санта Анна во главе огромной армии мексиканских повстанцев терроризирует Техас. Американское военное командование решает положить конец бесчинствам Санта Анны, но для этого необходимо собрать разрозненные силы. Чтобы замедлить продвижение противника, начальство приказывает полковнику Трэвису и небольшой группе его солдат любой ценой удержать форт Аламо, лежащий на пути мексиканцев.",
+      "popularity": 1.9646,
+      "poster_path": "/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
+      "release_date": "1960-10-23",
+      "title": "Аламо",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 380,
+      "belongs_to_collection": null,
+      "budget": 12000000,
+      "genres": [
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 37,
+          "name": "вестерн"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0053580",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2532,
+          "logo_path": "/qxGytGpK9htSl6xxv9qP1dG656e.png",
+          "name": "Batjac Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 12187,
+          "logo_path": null,
+          "name": "The Alamo Company",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 7900000,
+      "runtime": 162,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
