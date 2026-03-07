@@ -9,23 +9,28 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
+      "backdrop_path": "/3B7KJva0uuF0CqihJeQozImiiqo.jpg",
       "genre_ids": [
         35,
-        36
+        80
       ],
-      "id": 1433680,
-      "original_language": "es",
-      "original_title": "La cena",
-      "overview": "Испания, 15 апреля 1939 года. Прошло две недели после окончания войны. Франко приглашает своих главных генералов на ночь триумфа. Но на кухне отеля группа побежденных поваров-республиканцев тайно готовит еду, одновременно пытаясь использовать свой последний шанс сбежать из страны.",
-      "popularity": 13.9758,
-      "poster_path": "/fyWqPumuqXk32OICtKV58gFfIoq.jpg",
-      "release_date": "2025-10-17",
-      "title": "Ужин",
+      "id": 56078,
+      "original_language": "pl",
+      "original_title": "Vabank II czyli Riposta",
+      "overview": "Май 1936 года. Мошенник Крамер, получивший 8 лет по обвинению в грабеже собственного банка, который инсценировали Квинто и его друзья, сбегает из тюрьмы. Скрыться он может только в Швейцарии, где у него еще остались немалые деньги. Но прежде он хочет отомстить своему ненавистному врагу медвежатнику Квинто. Реванш почти удается. Но неистощимый на выдумку Квинто снова проводит блестящую операцию и оставляет Крамера с носом.",
+      "popularity": 0.3954,
+      "poster_path": "/11Ej8r3NmCE7FX1xfPw5sxlxgEx.jpg",
+      "release_date": "1985-05-06",
+      "title": "Ва-банк 2, или Ответный удар",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 52,
-      "belongs_to_collection": null,
+      "vote_average": 7.53,
+      "vote_count": 84,
+      "belongs_to_collection": {
+        "id": 140126,
+        "name": "Ва-банк (Коллекция)",
+        "poster_path": "/3ECwqUamSd0tyEDpAVemgEZweq7.jpg",
+        "backdrop_path": "/tUzaGA1ftDu16AxgWnsOzS78Uis.jpg"
+      },
       "budget": 0,
       "genres": [
         {
@@ -33,101 +38,36 @@
           "name": "комедия"
         },
         {
-          "id": 36,
-          "name": "история"
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt35657504",
+      "imdb_id": "tt0090246",
       "origin_country": [
-        "ES",
-        "FR"
+        "PL"
       ],
       "production_companies": [
         {
-          "id": 113812,
-          "logo_path": "/n6SBbqa2mu8YLm6dIhxjDaWWZM7.png",
-          "name": "La Terraza Films",
-          "origin_country": "ES"
-        },
-        {
-          "id": 85835,
-          "logo_path": "/6i9V3Pc7R2wAECl8QNtUJgxSQh6.png",
-          "name": "Turanga Films",
-          "origin_country": "ES"
-        },
-        {
-          "id": 201424,
-          "logo_path": "/sppjVS3RjKTFeeHcBBvXhaYjG0J.png",
-          "name": "Sideral Cinema",
-          "origin_country": "ES"
-        },
-        {
-          "id": 158078,
-          "logo_path": "/f6aLJ65GNQ3TYdPQZ67Y7C8MYjC.png",
-          "name": "Halley Production",
-          "origin_country": "FR"
-        },
-        {
-          "id": 107262,
-          "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
-          "name": "Crea SGR",
-          "origin_country": "ES"
-        },
-        {
-          "id": 265749,
-          "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
-          "name": "RTVE",
-          "origin_country": "ES"
-        },
-        {
-          "id": 201633,
-          "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
-          "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
-          "origin_country": "ES"
-        },
-        {
-          "id": 121972,
-          "logo_path": "/x2Umogd8FZBK2Pg09Wug28kv2er.png",
-          "name": "À Punt",
-          "origin_country": "ES"
-        },
-        {
-          "id": 53491,
-          "logo_path": "/7BYQ4l3DvvYYAGmxucVst5nLOJX.png",
-          "name": "Generalitat Valenciana",
-          "origin_country": "ES"
-        },
-        {
-          "id": 246607,
-          "logo_path": "/oYKOJecKAu9LU0iXCByWmQeY1qu.png",
-          "name": "Ayuntamiento de Madrid",
-          "origin_country": "ES"
-        },
-        {
-          "id": 29259,
+          "id": 257646,
           "logo_path": null,
-          "name": "ICO",
-          "origin_country": "ES"
+          "name": "Zespół Filmowy Kadr",
+          "origin_country": "PL"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "ES",
-          "name": "Spain"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
+          "iso_3166_1": "PL",
+          "name": "Poland"
         }
       ],
       "revenue": 0,
-      "runtime": 106,
+      "runtime": 101,
       "spoken_languages": [
         {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
+          "english_name": "Polish",
+          "iso_639_1": "pl",
+          "name": "Polski"
         }
       ],
       "status": "Released",
