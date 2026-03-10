@@ -1,8 +1,79 @@
 {
   "page": 7,
   "limit": 20,
-  "total": 183,
+  "total": 190,
   "items": [
+    {
+      "adult": false,
+      "backdrop_path": "/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
+      "genre_ids": [
+        36,
+        10752,
+        18
+      ],
+      "id": 1196946,
+      "original_language": "hi",
+      "original_title": "इक्कीस",
+      "overview": "Фильм рассказывает о короткой, но яркой жизни офицера Аруна Кетапала, павшего в битве при Басантаре в ходе индо-пакистанской войны 1971 года. Параллельно разворачивается история его отца, который спустя 30 лет отправляется в Пакистан, чтобы пройти по следам сына. Картина соткана из воспоминаний: военные будни, юношеская любовь и последний бой с превосходящими силами противника. Прошлое и настоящее сходятся воедино, чтобы сохранить память о подвиге.",
+      "popularity": 20.3341,
+      "poster_path": "/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg",
+      "release_date": "2026-01-01",
+      "title": "Двадцать один",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 11,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt15464188",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 86699,
+          "logo_path": null,
+          "name": "Maddock Films",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 148,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
     {
       "adult": false,
       "backdrop_path": "/2nMCDgLekQA2mumJLXJvGY4RUx0.jpg",
@@ -93,6 +164,98 @@
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3FgFKX1gW21LzjT0Yniflaqmhpr.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1142921,
+      "original_language": "hi",
+      "original_title": "तेरे इश्क़ में",
+      "overview": "Шанкар, лучший летчик-истребитель ВВС Индии, спустя много лет после расставания, волею судьбы снова встречает свою бывшую возлюбленную Мукти, которая выбрала другого мужчину. Вспоминая прошлое в своих отношениях, они вновь переживают те чувства, включая ярость Шанкара от неразделённой любви.",
+      "popularity": 2.3945,
+      "poster_path": "/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg",
+      "release_date": "2025-11-28",
+      "title": "Именем твоей любви",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 12,
+      "belongs_to_collection": {
+        "id": 1425100,
+        "name": "World Of Raanjhanaa",
+        "poster_path": "/odV8XsZyUrDsHIou9Fr0CWsu1AS.jpg",
+        "backdrop_path": "/8aWG8SzVovCSP5DP8wSrllOsybc.jpg"
+      },
+      "budget": 9505286,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt28142095",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 93991,
+          "logo_path": "/qFcZA3BpKxAsy8QBGlDVc9X1dDy.png",
+          "name": "Colour Yellow Productions",
+          "origin_country": "IN"
+        },
+        {
+          "id": 3522,
+          "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+          "name": "T-Series",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 169,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Tamil",
+          "iso_639_1": "ta",
+          "name": "தமிழ்"
+        },
+        {
+          "english_name": "Telugu",
+          "iso_639_1": "te",
+          "name": "తెలుగు"
+        },
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
         }
       ],
       "status": "Released",
@@ -220,6 +383,364 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/yMgpIzfqHZXbEN8ar9EAHJvdYJj.jpg",
+      "genre_ids": [
+        36,
+        18,
+        28,
+        10749
+      ],
+      "id": 965483,
+      "original_language": "ta",
+      "original_title": "பராசக்தி",
+      "overview": "В 1959 году радикальная студенческая группа «Отряд Пуранануру», выступающая против насаждения хинди, останавливает и сжигает поезд. Среди пассажиров — Тиру, агент разведки, прошедший подготовку в КГБ. В схватке с лидером группы Чежияном он теряет палец. Чежиян, потрясённый гибелью друга в пожаре, распускает отряд и устраивается кочегаром, чтобы содержать брата. Но, столкнувшись с несправедливостью, брат вскоре сам встаёт на путь борьбы.",
+      "popularity": 4.3134,
+      "poster_path": "/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg",
+      "release_date": "2026-01-09",
+      "title": "Верховная власть",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 7,
+      "belongs_to_collection": null,
+      "budget": 24000000,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt35019998",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 239277,
+          "logo_path": "/dAeMSR2v8ydq78smbSI5gdKWoks.png",
+          "name": "Dawn Pictures",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 5900000,
+      "runtime": 163,
+      "spoken_languages": [
+        {
+          "english_name": "Tamil",
+          "iso_639_1": "ta",
+          "name": "தமிழ்"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 1119449,
+      "original_language": "en",
+      "original_title": "Good Luck, Have Fun, Don't Die",
+      "overview": "Мужчина из будущего появляется в небольшом динере в Лос-Анджелесе, где ему нужно собрать идеальную команду из недовольных посетителей. Всего одна ночь и шесть кварталов отделяют их от миссии, способной спасти мир от смертельной угрозы — вышедшего из-под контроля искусственного интеллекта.",
+      "popularity": 17.0944,
+      "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "release_date": "2026-02-13",
+      "title": "Удачи, веселитесь, не умрите",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 45,
+      "belongs_to_collection": null,
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1341338",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 10262,
+          "logo_path": "/zpPSqldofcdVAsdJrYQbggxFM1F.png",
+          "name": "Blind Wink",
+          "origin_country": "US"
+        },
+        {
+          "id": 787,
+          "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+          "name": "3 Arts Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 214700,
+          "logo_path": null,
+          "name": "Robert Kulzer Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        }
+      ],
+      "revenue": 6720070,
+      "runtime": 134,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+      "genre_ids": [
+        878,
+        80
+      ],
+      "id": 701387,
+      "original_language": "en",
+      "original_title": "Bugonia",
+      "overview": "Одержимый теориями заговора рабочий Тедди при помощи не слишком сообразительного кузена похищает руководительницу крупной компании, так как считает, что она — пришелец из галактики Андромеды, жаждущий уничтожить жизнь на Земле. Он запирает женщину в подвале и требует составить послание андромедийскому императору, чтобы тот принял Тедди на своем корабле и обсудил с ним план ухода инопланетян с нашей зелёной планеты.",
+      "popularity": 53.4804,
+      "poster_path": "/obeihpiGpQTdE7rPoWy1BVQsumY.jpg",
+      "release_date": "2025-10-23",
+      "title": "Бугония",
+      "video": false,
+      "vote_average": 7.407,
+      "vote_count": 1052,
+      "belongs_to_collection": null,
+      "budget": 50000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt12300742",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 3353,
+          "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+          "name": "Element Pictures",
+          "origin_country": "IE"
+        },
+        {
+          "id": 123620,
+          "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+          "name": "Square Peg",
+          "origin_country": "US"
+        },
+        {
+          "id": 121813,
+          "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+          "name": "Fremantle",
+          "origin_country": "US"
+        },
+        {
+          "id": 264539,
+          "logo_path": null,
+          "name": "Pith Quest Films",
+          "origin_country": "CA"
+        },
+        {
+          "id": 138287,
+          "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+          "name": "Fruit Tree",
+          "origin_country": "US"
+        },
+        {
+          "id": 128404,
+          "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+          "name": "CJ ENM",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IE",
+          "name": "Ireland"
+        },
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 40293453,
+      "runtime": 118,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Из всех похищений это – отличается»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3vKHSEXp0jzKdY6OBn24FfCfaGW.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        14
+      ],
+      "id": 1374087,
+      "original_language": "nl",
+      "original_title": "Love Fail Repeat",
+      "overview": "Когда в курортный отель приезжает кинозвезда Натан Леви, молодая сотрудница внезапно обнаруживает, что застряла во временной петле. Девушка вынуждена постоянно переживать один и тот же безумный день, где она вновь и вновь знакомится с Натаном. Вскоре она понимает, что её единственный шанс вырваться из замкнутого круга как раз связан с её новым знакомым и их (не)случайной встречей.",
+      "popularity": 0.4497,
+      "poster_path": "/dAxwI9EHci78lHTgLxhcsjvfl5f.jpg",
+      "release_date": "2025-02-20",
+      "title": "Любовный переполох",
+      "video": false,
+      "vote_average": 4.2,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31487517",
+      "origin_country": [
+        "NL"
+      ],
+      "production_companies": [
+        {
+          "id": 25351,
+          "logo_path": null,
+          "name": "AM Pictures",
+          "origin_country": "NL"
+        },
+        {
+          "id": 8146,
+          "logo_path": "/etoxfrvduHZMLHpYE2uPkicheX2.png",
+          "name": "Splendid Film",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "NL",
+          "name": "Netherlands"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 79,
+      "spoken_languages": [
+        {
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/xGPb3wI8lhBxAvUbIM2hRtm8S6b.jpg",
       "genre_ids": [
         80,
@@ -324,171 +845,72 @@
       "original_language": "en",
       "original_title": "Bad Man",
       "overview": "Сэм Эванс, заместитель шерифа из небольшого города Колт-Лейк в Теннесси, борется с наркоторговлей. Вклад Сэма в борьбу отходит на второй план, когда в город прибывает обаятельный агент под прикрытием Бобби Гейнс, которого провозглашают героем. Вскоре у заместителя шерифа начинают возникать подозрения в отношении Гейнса.",
-      "popularity": 10.283,
+      "popularity": 10.9972,
       "poster_path": "/geLRWWfV1RrLnetzGoY4I9a1ssB.jpg",
       "release_date": "2025-09-05",
       "title": "Плохой человек",
       "video": false,
       "vote_average": 5.32,
       "vote_count": 25,
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1159206,
-      "original_language": "en",
-      "original_title": "Father Mother Sister Brother",
-      "overview": "Три истории об отношениях между взрослыми детьми, их несколько отстраненным родителем (или родителями) и друг другом.",
-      "popularity": 11.5068,
-      "poster_path": "/d94bvM8xrLcj6m5oqF7tN8lF20B.jpg",
-      "release_date": "2025-12-01",
-      "title": "Отец, мать, сестра, брат",
-      "video": false,
-      "vote_average": 6.581,
-      "vote_count": 173,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
         {
           "id": 35,
           "name": "комедия"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt31189315",
+      "imdb_id": "tt30057173",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 229363,
-          "logo_path": null,
-          "name": "Badjetlag",
+          "id": 78984,
+          "logo_path": "/vJLYh9YHQaEryuzu7GNUa1zwKG1.png",
+          "name": "Entertainment 360",
           "origin_country": "US"
         },
         {
-          "id": 142776,
+          "id": 158516,
           "logo_path": null,
-          "name": "Hail Mary Pictures",
-          "origin_country": "IE"
-        },
-        {
-          "id": 237344,
-          "logo_path": "/3fFS8oipevuYlXVbOaqmHYUTyBx.png",
-          "name": "Saint Laurent Productions",
-          "origin_country": "FR"
-        },
-        {
-          "id": 204957,
-          "logo_path": "/16gclYCHdh6QFQyBRNOo3DuaqDT.png",
-          "name": "MUBI",
-          "origin_country": "GB"
-        },
-        {
-          "id": 128344,
-          "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png",
-          "name": "The Apartment Pictures",
-          "origin_country": "IT"
-        },
-        {
-          "id": 223,
-          "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
-          "name": "Les Films du Losange",
-          "origin_country": "FR"
-        },
-        {
-          "id": 132579,
-          "logo_path": null,
-          "name": "Weltkino",
-          "origin_country": "DE"
-        },
-        {
-          "id": 204575,
-          "logo_path": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
-          "name": "Cinema Inutile",
+          "name": "Hemlock Circle Productions",
           "origin_country": "US"
         },
         {
-          "id": 1898,
-          "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
-          "name": "Fís Éireann/Screen Ireland",
-          "origin_country": "IE"
-        },
-        {
-          "id": 272664,
-          "logo_path": null,
-          "name": "Vague Notion",
+          "id": 65649,
+          "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+          "name": "SSS Entertainment",
           "origin_country": "US"
-        },
-        {
-          "id": 51696,
-          "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
-          "name": "CG Cinéma",
-          "origin_country": "FR"
-        },
-        {
-          "id": 139680,
-          "logo_path": "/kfmKLkXqqrScA5l7aYcROQSqeTz.png",
-          "name": "Saint Laurent",
-          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "US",
           "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IE",
-          "name": "Ireland"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
         }
       ],
-      "revenue": 2000000,
-      "runtime": 110,
+      "revenue": 0,
+      "runtime": 98,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -1241,341 +1663,6 @@
       "status": "Post Production",
       "tagline": "",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
-      "genre_ids": [
-        10402,
-        35
-      ],
-      "id": 1422562,
-      "original_language": "en",
-      "original_title": "The Moment",
-      "overview": "Восходящая поп-сенсация пытается справиться со славой и давлением индустрии, готовясь к своему дебюту в турне по аренам, раскрывая трансформацию андеграундной культуры в мейнстримный успех.",
-      "popularity": 25.9732,
-      "poster_path": "/eSQOocg7IhMd6SOP8yfWxmdXWta.jpg",
-      "release_date": "2026-01-30",
-      "title": "Момент",
-      "video": false,
-      "vote_average": 5.875,
-      "vote_count": 24,
-      "belongs_to_collection": null,
-      "budget": 4000000,
-      "genres": [
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "https://a24films.com/films/the-moment",
-      "imdb_id": "tt35524793",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 251194,
-          "logo_path": "/7nVN7amzP6W7G4wXekGzxwT83SI.png",
-          "name": "Studio365",
-          "origin_country": "US"
-        },
-        {
-          "id": 41077,
-          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
-          "name": "A24",
-          "origin_country": "US"
-        },
-        {
-          "id": 65827,
-          "logo_path": "/ztmpPuqN85InzAin8A3u0woCvbk.png",
-          "name": "Atlantic Records",
-          "origin_country": "US"
-        },
-        {
-          "id": 280955,
-          "logo_path": "/b7EkdDavF2Q1TN08mgapQ7zgvzx.png",
-          "name": "Good World",
-          "origin_country": "US"
-        },
-        {
-          "id": 158407,
-          "logo_path": "/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png",
-          "name": "2AM",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 3804949,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "genre_ids": [
-        878,
-        28,
-        53
-      ],
-      "id": 1236153,
-      "original_language": "en",
-      "original_title": "Mercy",
-      "overview": "Недалёкое будущее, уровень преступности, караемой смертной казнью, резко возрос. Детектива обвиняют в совершении тяжкого преступления, и он вынужден доказывать свою невиновность.",
-      "popularity": 275.8216,
-      "poster_path": "/kRnAyc7cGQQBnPrKlLvGefnv1yh.jpg",
-      "release_date": "2026-01-20",
-      "title": "Казнить нельзя помиловать",
-      "video": false,
-      "vote_average": 6.745,
-      "vote_count": 186,
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ryynYdXgP2vLZKH3154bLkNp1kx.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "id": 1272837,
-      "original_language": "en",
-      "original_title": "28 Years Later: The Bone Temple",
-      "overview": "Доктор Келсон вступает в опасный союз, который может перекроить будущее человечества. Тем временем Спайк попадает в ловушку Джимми Кристала и превращает собственную жизнь в кошмар, из которого нет выхода. Но настоящая угроза — не заражённые. Самые страшные монстры уже среди выживших, и их жестокость страшнее любого вируса",
-      "popularity": 32.3189,
-      "poster_path": "/lCel0uHnVgCGihg4xrWSPzOMnV4.jpg",
-      "release_date": "2026-01-14",
-      "title": "28 лет спустя: Храм костей",
-      "video": false,
-      "vote_average": 7.253,
-      "vote_count": 328,
-      "belongs_to_collection": {
-        "id": 1565,
-        "name": "28 дней (Коллекция)",
-        "poster_path": "/rkFqzEiZZoccSbeDigGnIlF4iM0.jpg",
-        "backdrop_path": "/liImaqVpPGo3ddLWkJPeJxvaqCI.jpg"
-      },
-      "budget": 63000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32141377",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 284,
-          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
-          "name": "DNA Films",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 58586229,
-      "runtime": 109,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Страх - это новая вера»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/af7mgiKiFRdlsv01F18AP5rHEz6.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1239288,
-      "original_language": "en",
-      "original_title": "Atropia",
-      "overview": "2000-е годы. Файруз, американская актриса иракского происхождения, работает в военном тренировочном городке на юге Калифорнии, где проходят подготовку американские военные перед отправкой на Ближний Восток. Файруз приходится играть разные роли: от простой местной жительницы до специалиста по химическому оружию. Когда она влюбляется в солдата, который играет роль повстанца, реконструкция оказывается под угрозой срыва.",
-      "popularity": 25.7797,
-      "poster_path": "/a0KAyTinqkckfBQKEPCIGpkr1A8.jpg",
-      "release_date": "2025-11-15",
-      "title": "Атропия",
-      "video": false,
-      "vote_average": 4.8,
-      "vote_count": 4,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31122579",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 82469,
-          "logo_path": "/qrmls7RvN6iT4tNgFiqfUFRcXcK.png",
-          "name": "Ways & Means",
-          "origin_country": "US"
-        },
-        {
-          "id": 46344,
-          "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
-          "name": "Frenesy Film",
-          "origin_country": "IT"
-        },
-        {
-          "id": 28360,
-          "logo_path": "/juWn38bElYfPvCCu8OUR1ovDBbO.png",
-          "name": "Paradise City",
-          "origin_country": "FR"
-        },
-        {
-          "id": 210065,
-          "logo_path": null,
-          "name": "Big Creek Projects",
-          "origin_country": "US"
-        },
-        {
-          "id": 247050,
-          "logo_path": null,
-          "name": "Mary of Exeter Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 252059,
-          "logo_path": null,
-          "name": "Mercy Buckets",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 104,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/isVOgjdMMWDpJCQEB2mwvg6KLSv.jpg",
-      "genre_ids": [
-        18,
-        80
-      ],
-      "id": 1429348,
-      "original_language": "fr",
-      "original_title": "L'Étranger",
-      "overview": "Алжир, 1938 год. Мерсо, скромный служащий тридцати с небольшим лет, посещает похороны матери, не пролив ни слезы. На следующий день он заводит роман с коллегой по работе Марией и быстро возвращается к обычной жизни. Однако сосед Раймон Синтес втягивает Мерсо в свои сомнительные дела — и однажды на пляже происходит трагедия.",
-      "popularity": 7.1671,
-      "poster_path": "/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
-      "release_date": "2026-03-05",
-      "title": "Посторонний",
-      "video": false,
-      "vote_average": 6.853,
-      "vote_count": 109,
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
