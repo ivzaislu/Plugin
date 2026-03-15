@@ -5,29 +5,45 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 73,
+  "total": 72,
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/cH5mdqHFVUuZ7Votxfkki4pd4HT.jpg",
       "genre_ids": [
+        35,
+        12,
         16,
-        14
+        14,
+        10751
       ],
-      "id": 440286,
+      "id": 597845,
       "original_language": "ru",
-      "original_title": "В гостях у гномов",
-      "overview": "Мультипликационный фильм о приключениях деревянного человечка-амулета геологов в царстве гномов, в ходе которых он узнает много интересного о природе некоторых полезных ископаемых.",
-      "popularity": 2.5201,
-      "poster_path": "/zuuRWt2zn3NQpSdET9DYHm2aApa.jpg",
-      "release_date": "1975-02-07",
-      "title": "В гостях у гномов",
+      "original_title": "Финник",
+      "overview": "Мало кто знает, но в каждом доме живет… свой домовой! Это забавное мохнатое существо тайно обитает в мире людей и хранит домашний очаг. Домовой Финник — добрый, озорной, но немного вредный. Он любит подшутить над жильцами своего дома, поэтому ни одна семья не задерживается в его владениях надолго. Но все меняется, когда в дом въезжают находчивая девочка Кристина и ее родители: на них уловки домового совсем не действуют! Вскоре Кристина знакомится с Финником и узнает тайны жизни домовых. Тем временем, в их городке начинают происходить странные и пугающие события… Отважной девочке и домовому придется стать командой, чтобы разобраться в происходящем и спасти город.",
+      "popularity": 2.7961,
+      "poster_path": "/lA9wFnUOwPabUuYqL2Sp2Ivyl7O.jpg",
+      "release_date": "2022-03-24",
+      "title": "Финник",
       "video": false,
-      "vote_average": 10,
-      "vote_count": 1,
-      "belongs_to_collection": null,
+      "vote_average": 7.4,
+      "vote_count": 119,
+      "belongs_to_collection": {
+        "id": 1582249,
+        "name": "Финник",
+        "poster_path": null,
+        "backdrop_path": null
+      },
       "budget": 0,
       "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
         {
           "id": 16,
           "name": "мультфильм"
@@ -35,99 +51,54 @@
         {
           "id": 14,
           "name": "фэнтези"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt8977284",
+      "imdb_id": "tt15547806",
       "origin_country": [
-        "SU"
+        "RU"
       ],
       "production_companies": [
         {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
+          "id": 123331,
+          "logo_path": null,
+          "name": "Riki Group",
+          "origin_country": "RU"
+        },
+        {
+          "id": 8910,
+          "logo_path": null,
+          "name": "Animation Studio \"Petersburg\"",
+          "origin_country": "RU"
+        },
+        {
+          "id": 76049,
+          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+          "name": "Cinema Foundation of Russia",
+          "origin_country": "RU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "RU",
+          "name": "Russia"
         }
       ],
-      "revenue": 0,
-      "runtime": 15,
+      "revenue": 7523353,
+      "runtime": 85,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zaQip0Mcla6Exh4Uc28Irqldm1v.jpg",
-      "genre_ids": [
-        16
-      ],
-      "id": 454176,
-      "original_language": "ru",
-      "original_title": "Хитрая ворона",
-      "overview": "Мультипликационный фильм о том, как хитрая Ворона решила поменяться образом жизни с домашним котом, но из этого ничего не вышло.",
-      "popularity": 0.2032,
-      "poster_path": "/7fpMEoMjXZOzlcsNJE9uZXa2UD0.jpg",
-      "release_date": "1980-04-23",
-      "title": "Хитрая ворона",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 1,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": null,
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 8,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
+      "tagline": "«В семье не без домового»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -359,60 +330,86 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9kxEuXr6FJOZNty5KKwnaitHVDk.jpg",
+      "backdrop_path": "/sLAjNl9GqHgOXUDQE0OTpWcHHG2.jpg",
       "genre_ids": [
-        28
+        16,
+        10751,
+        10770
       ],
-      "id": 438455,
+      "id": 748440,
       "original_language": "en",
-      "original_title": "The Archer",
-      "overview": "Лорен Пирс только что стала чемпионкой штата по стрельбе из лука. После победы на чемпионате они с подругой возвращаются в номер отеля, чтобы отпраздновать и выпить, однако на пороге появляется парень подруги и портит девушкам вечер. Лорен выходит из себя и избивает наглого парня, после чего её отправляют в исправительное учреждение для несовершеннолетних. Там она знакомится с прекрасной, независимой и сильной духом девушкой Ребеккой, с которой они постараются сбежать.",
-      "popularity": 4.4307,
-      "poster_path": "/x59nM0V4T0fRVtorpAv2zxgjzZg.jpg",
-      "release_date": "2017-03-11",
-      "title": "Лучница",
+      "original_title": "A Go! Go! Cory Carson Halloween",
+      "overview": "Кори, Крисси и Фредди на охоте за шоколадными батончиками королевского размера в этот Хэллоуин! Но стоят ли все сладости того, чтобы отправиться в жуткую часть города?",
+      "popularity": 1.6092,
+      "poster_path": "/tEE93qOoF24wFaqNjd7fxyZz8Ni.jpg",
+      "release_date": "2020-10-02",
+      "title": "Кори Карсон Хэллоуин",
       "video": false,
-      "vote_average": 5.4,
-      "vote_count": 83,
-      "belongs_to_collection": null,
+      "vote_average": 6.8,
+      "vote_count": 25,
+      "belongs_to_collection": {
+        "id": 903955,
+        "name": "Go! Go! Cory Carson Collection",
+        "poster_path": null,
+        "backdrop_path": null
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
         }
       ],
-      "homepage": "",
-      "imdb_id": "tt5806646",
+      "homepage": "https://www.netflix.com/title/81021357",
+      "imdb_id": "tt13058374",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 6679,
-          "logo_path": "/r3r7qbHKgo8N0yr7r1TjLmzLXfQ.png",
-          "name": "MarVista Entertainment",
+          "id": 107169,
+          "logo_path": null,
+          "name": "Tonko House",
           "origin_country": "US"
-        }
-      ],
-      "production_countries": [
+        },
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "id": 106612,
+          "logo_path": "/ygHUNIBl4C8KjYI25iDVOtdaGwr.png",
+          "name": "Superprod",
+          "origin_country": "FR"
         }
       ],
+      "production_countries": [],
       "revenue": 0,
-      "runtime": 86,
+      "runtime": 21,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -618,48 +615,87 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cH5mdqHFVUuZ7Votxfkki4pd4HT.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        35,
-        12,
-        16,
-        14,
-        10751
+        36
       ],
-      "id": 597845,
+      "id": 1519630,
       "original_language": "ru",
-      "original_title": "Финник",
-      "overview": "Мало кто знает, но в каждом доме живет… свой домовой! Это забавное мохнатое существо тайно обитает в мире людей и хранит домашний очаг. Домовой Финник — добрый, озорной, но немного вредный. Он любит подшутить над жильцами своего дома, поэтому ни одна семья не задерживается в его владениях надолго. Но все меняется, когда в дом въезжают находчивая девочка Кристина и ее родители: на них уловки домового совсем не действуют! Вскоре Кристина знакомится с Финником и узнает тайны жизни домовых. Тем временем, в их городке начинают происходить странные и пугающие события… Отважной девочке и домовому придется стать командой, чтобы разобраться в происходящем и спасти город.",
-      "popularity": 2.7961,
-      "poster_path": "/lA9wFnUOwPabUuYqL2Sp2Ivyl7O.jpg",
-      "release_date": "2022-03-24",
-      "title": "Финник",
+      "original_title": "Чингис-Хан",
+      "overview": "История жизни Чингисхана — от юности до покорения половины мира.",
+      "popularity": 0.0143,
+      "poster_path": "/9Iyb0JN4UsIOruPk7p5cG9gbEi9.jpg",
+      "release_date": "2025-06-26",
+      "title": "Чингис-Хан",
       "video": false,
-      "vote_average": 7.4,
-      "vote_count": 119,
-      "belongs_to_collection": {
-        "id": 1582249,
-        "name": "Финник",
-        "poster_path": null,
-        "backdrop_path": null
-      },
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
-        },
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37231972",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [],
+      "production_countries": [
         {
-          "id": 12,
-          "name": "приключения"
-        },
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 61,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Завоеватель тысячелетия",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mumFSy0Vtprxttcs5oExzELg8m4.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 696048,
+      "original_language": "en",
+      "original_title": "Go! Go! Cory Carson: The Chrissy",
+      "overview": "Дети семьи Карсонов выигрывают шоу талантов с танцем, который придумал Кори. Но звездой становится его младшая сестра и именно она получает все внимание.",
+      "popularity": 0.4079,
+      "poster_path": "/9fkF6afirsffAIWYSqcLbgue8jv.jpg",
+      "release_date": "2020-05-01",
+      "title": "Бип-бип! Машинка Карсон: Танец Крисси",
+      "video": false,
+      "vote_average": 4.75,
+      "vote_count": 8,
+      "belongs_to_collection": {
+        "id": 903955,
+        "name": "Go! Go! Cory Carson Collection",
+        "poster_path": null,
+        "backdrop_path": null
+      },
+      "budget": 50000,
+      "genres": [
         {
           "id": 16,
           "name": "мультфильм"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
         },
         {
           "id": 10751,
@@ -667,39 +703,58 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt15547806",
+      "imdb_id": "tt12240368",
       "origin_country": [
-        "RU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 123331,
+          "id": 107169,
           "logo_path": null,
-          "name": "Riki Group",
-          "origin_country": "RU"
+          "name": "Tonko House",
+          "origin_country": "US"
         },
         {
-          "id": 8910,
-          "logo_path": null,
-          "name": "Animation Studio \"Petersburg\"",
-          "origin_country": "RU"
+          "id": 106612,
+          "logo_path": "/ygHUNIBl4C8KjYI25iDVOtdaGwr.png",
+          "name": "Superprod",
+          "origin_country": "FR"
         },
         {
-          "id": 76049,
-          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
-          "name": "Cinema Foundation of Russia",
-          "origin_country": "RU"
+          "id": 144322,
+          "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
+          "name": "Kuku Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 144323,
+          "logo_path": null,
+          "name": "VTech",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 7523353,
-      "runtime": 85,
+      "revenue": 34,
+      "runtime": 42,
       "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -707,7 +762,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«В семье не без домового»",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -836,93 +891,6 @@
           "english_name": "Russian",
           "iso_639_1": "ru",
           "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sLAjNl9GqHgOXUDQE0OTpWcHHG2.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        10770
-      ],
-      "id": 748440,
-      "original_language": "en",
-      "original_title": "A Go! Go! Cory Carson Halloween",
-      "overview": "Кори, Крисси и Фредди на охоте за шоколадными батончиками королевского размера в этот Хэллоуин! Но стоят ли все сладости того, чтобы отправиться в жуткую часть города?",
-      "popularity": 1.6092,
-      "poster_path": "/tEE93qOoF24wFaqNjd7fxyZz8Ni.jpg",
-      "release_date": "2020-10-02",
-      "title": "Кори Карсон Хэллоуин",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 25,
-      "belongs_to_collection": {
-        "id": 903955,
-        "name": "Go! Go! Cory Carson Collection",
-        "poster_path": null,
-        "backdrop_path": null
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "https://www.netflix.com/title/81021357",
-      "imdb_id": "tt13058374",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 107169,
-          "logo_path": null,
-          "name": "Tonko House",
-          "origin_country": "US"
-        },
-        {
-          "id": 106612,
-          "logo_path": "/ygHUNIBl4C8KjYI25iDVOtdaGwr.png",
-          "name": "Superprod",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 21,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
         }
       ],
       "status": "Released",
