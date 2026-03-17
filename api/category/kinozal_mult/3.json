@@ -5,34 +5,32 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 75,
+  "total": 76,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
+      "backdrop_path": "/reQELo8rDiLIOoYIA7M6q7KGRW0.jpg",
       "genre_ids": [
         16,
         12,
-        14
+        14,
+        10751,
+        18,
+        878
       ],
-      "id": 532321,
-      "original_language": "ja",
-      "original_title": "Re:ゼロから始める異世界生活 Memory Snow",
-      "overview": "Одолев грозных магверей и чудом избежав смерти, Субару надеялся наконец-то получить заслуженный отдых и сходить на рандеву с Эмилией, но внезапные пришедшие холода смешали все карты.",
-      "popularity": 1.8873,
-      "poster_path": "/7TkhMjF2kkEujwt0MNyBcPr68Z6.jpg",
-      "release_date": "2018-10-06",
-      "title": "Re: Жизнь в другом мире с нуля: Снежные воспоминания",
+      "id": 804370,
+      "original_language": "fr",
+      "original_title": "Arco",
+      "overview": "2075 год. 10-летняя Айрис становится свидетелем падения с неба загадочного мальчика. Вскоре выясняется, что мальчика зовут Арко и он из идиллического далёкого будущего, где возможны путешествия во времени. Айрис решает спрятать Арко и помочь ему вернуться в его время.",
+      "popularity": 31.2617,
+      "poster_path": "/90rmTz3oU6opl6flsR2CqLzSvxz.jpg",
+      "release_date": "2025-10-22",
+      "title": "Арко",
       "video": false,
-      "vote_average": 7.202,
-      "vote_count": 287,
-      "belongs_to_collection": {
-        "id": 689287,
-        "name": "Re:Zero. Жизнь с нуля в альтернативном мире (Коллекция)",
-        "poster_path": "/hHb5t1GltLgoi66R4QcqApjLMVQ.jpg",
-        "backdrop_path": "/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
-      },
-      "budget": 0,
+      "vote_average": 7.527,
+      "vote_count": 112,
+      "belongs_to_collection": null,
+      "budget": 10000000,
       "genres": [
         {
           "id": 16,
@@ -45,44 +43,259 @@
         {
           "id": 14,
           "name": "фэнтези"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt8565186",
+      "imdb_id": "tt14883538",
       "origin_country": [
-        "JP"
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 12569,
-          "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png",
-          "name": "White Fox",
-          "origin_country": "JP"
+          "id": 172827,
+          "logo_path": "/u1uwRTWA4wOB0ZNm5xm0hDGx6n1.png",
+          "name": "Remembers",
+          "origin_country": "FR"
         },
         {
-          "id": 2073,
-          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
-          "name": "KADOKAWA",
-          "origin_country": "JP"
+          "id": 157532,
+          "logo_path": "/dUCUH5Rt8Mq9oG5fucrLPs2oABT.png",
+          "name": "MountainA",
+          "origin_country": "US"
+        },
+        {
+          "id": 591,
+          "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+          "name": "France 3 Cinéma",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "JP",
-          "name": "Japan"
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 1725339,
-      "runtime": 64,
+      "revenue": 4570178,
+      "runtime": 82,
       "spoken_languages": [
         {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
-      "tagline": "Чтобы спасти тебя, я готов умирать снова и снова.",
+      "tagline": "А что, если радуги — это люди из будущего, путешествующие во времени?",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 446967,
+      "original_language": "ru",
+      "original_title": "Верлиока",
+      "overview": "Мультипликационный фильм по мотивам народных сказок.",
+      "popularity": 0.405,
+      "poster_path": "/76fDp3uQ1ZC9Afu3JWk5CbbXUt.jpg",
+      "release_date": "1957-03-14",
+      "title": "Верлиока",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4109038",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 9,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 280217,
+      "original_language": "en",
+      "original_title": "The Lego Movie 2: The Second Part",
+      "overview": "Прошло несколько лет с того момента, как в последний раз все было прекрасно. На мир надвигается новая угроза из космоса. Теперь Эммет обязан спасти Люси и других героев от печальной участи.",
+      "popularity": 5.5754,
+      "poster_path": "/7tzu62WY1W3whNAvs5Ih2qszLvh.jpg",
+      "release_date": "2019-02-06",
+      "title": "ЛЕГО Фильм 2",
+      "video": false,
+      "vote_average": 6.656,
+      "vote_count": 2379,
+      "belongs_to_collection": {
+        "id": 325470,
+        "name": "Лего Фильм (Коллекция)",
+        "poster_path": "/qwuwukEjuh6Zs51NnhtPVriARey.jpg",
+        "backdrop_path": "/vAyMNou7M2SOXjPIzLhltTvAqD1.jpg"
+      },
+      "budget": 99000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt3513498",
+      "origin_country": [
+        "DK",
+        "CA",
+        "AU",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 829,
+          "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+          "name": "Vertigo Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 25120,
+          "logo_path": "/6RLMWBcGF2COzjjBORPUy705yF7.png",
+          "name": "Warner Animation Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 77973,
+          "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+          "name": "Lord Miller",
+          "origin_country": "US"
+        },
+        {
+          "id": 118854,
+          "logo_path": "/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png",
+          "name": "Rideback",
+          "origin_country": "US"
+        },
+        {
+          "id": 4081,
+          "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+          "name": "The LEGO Group",
+          "origin_country": "DK"
+        },
+        {
+          "id": 231732,
+          "logo_path": "/kEUAzsG2hZcCV7rmSCozgLhGWaa.png",
+          "name": "Animal Logic",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "DK",
+          "name": "Denmark"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 199603202,
+      "runtime": 106,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Они придут с миром»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -635,219 +848,43 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+      "backdrop_path": "/hyQPfCbALQmi0FQc2vLFyfENpHM.jpg",
       "genre_ids": [
-        878,
         12,
-        28
-      ],
-      "id": 653346,
-      "original_language": "en",
-      "original_title": "Kingdom of the Planet of the Apes",
-      "overview": "Спустя много лет после правления Цезаря молодая обезьяна отправляется в путешествие, которое заставит его подвергнуть сомнению все, чему его учили о прошлом, и сделать выбор, который определит будущее как для обезьян, так и для людей.",
-      "popularity": 13.1291,
-      "poster_path": "/vezz0JilN14exbpzlcaBJad46KJ.jpg",
-      "release_date": "2024-05-08",
-      "title": "Планета обезьян: Новое царство",
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 4140,
-      "belongs_to_collection": {
-        "id": 173710,
-        "name": "Планета обезьян (Перезапуск) | (Коллекция)",
-        "poster_path": "/tyq7eXeZUd8AVvAS04Mco3sEZX9.jpg",
-        "backdrop_path": "/iMhm0g555HgQNIXAMvnlgOiW5Rz.jpg"
-      },
-      "budget": 160000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt11389872",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 127928,
-          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-          "name": "20th Century Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 133024,
-          "logo_path": null,
-          "name": "Oddball Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 89254,
-          "logo_path": null,
-          "name": "Jason T. Reed Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 397378150,
-      "runtime": 145,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Никто не может остановить правление»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic",
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/reQELo8rDiLIOoYIA7M6q7KGRW0.jpg",
-      "genre_ids": [
         16,
-        12,
-        14,
+        35,
         10751,
-        18,
-        878
-      ],
-      "id": 804370,
-      "original_language": "fr",
-      "original_title": "Arco",
-      "overview": "2075 год. 10-летняя Айрис становится свидетелем падения с неба загадочного мальчика. Вскоре выясняется, что мальчика зовут Арко и он из идиллического далёкого будущего, где возможны путешествия во времени. Айрис решает спрятать Арко и помочь ему вернуться в его время.",
-      "popularity": 31.2617,
-      "poster_path": "/90rmTz3oU6opl6flsR2CqLzSvxz.jpg",
-      "release_date": "2025-10-22",
-      "title": "Арко",
-      "video": false,
-      "vote_average": 7.527,
-      "vote_count": 112,
-      "belongs_to_collection": null,
-      "budget": 10000000,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt14883538",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 172827,
-          "logo_path": "/u1uwRTWA4wOB0ZNm5xm0hDGx6n1.png",
-          "name": "Remembers",
-          "origin_country": "FR"
-        },
-        {
-          "id": 157532,
-          "logo_path": "/dUCUH5Rt8Mq9oG5fucrLPs2oABT.png",
-          "name": "MountainA",
-          "origin_country": "US"
-        },
-        {
-          "id": 591,
-          "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
-          "name": "France 3 Cinéma",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 4570178,
-      "runtime": 82,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "А что, если радуги — это люди из будущего, путешествующие во времени?",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16,
         14
       ],
-      "id": 446967,
-      "original_language": "ru",
-      "original_title": "Верлиока",
-      "overview": "Мультипликационный фильм по мотивам народных сказок.",
-      "popularity": 0.405,
-      "poster_path": "/76fDp3uQ1ZC9Afu3JWk5CbbXUt.jpg",
-      "release_date": "1957-03-14",
-      "title": "Верлиока",
+      "id": 680770,
+      "original_language": "fi",
+      "original_title": "Fleak",
+      "overview": "Однажды с двенадцатилетним Томасом произошло несчастье - он потерял способность ходить и теперь будет прикован к инвалидной коляске. Однако в этот момент у него появляются новые друзья - весёлые и озорные существа из другого измерения. Их ждут совместные приключения и важная миссия - нужно спасти все миры от коварного и опасного монстра по имени Тень и не дать погрузить их во мрак. Мальчику-подростку предстоит пройти множество испытаний, а его доброе сердце поможет ему справиться с обидой на весь мир.",
+      "popularity": 1.1401,
+      "poster_path": "/12uHcRnSJroTOMyjpgkx3M6pSX6.jpg",
+      "release_date": "2025-08-06",
+      "title": "Флибубу",
       "video": false,
-      "vote_average": 10,
-      "vote_count": 1,
+      "vote_average": 7.3,
+      "vote_count": 6,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 4500000,
       "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
         {
           "id": 16,
           "name": "мультфильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         },
         {
           "id": 14,
@@ -855,341 +892,72 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt4109038",
+      "imdb_id": "tt14813764",
       "origin_country": [
-        "SU"
+        "FI"
       ],
       "production_companies": [
         {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
+          "id": 11851,
+          "logo_path": "/vSYOpJKsujv4m2jSSeFUILOc5F1.png",
+          "name": "Anima Vitae",
+          "origin_country": "FI"
+        },
+        {
+          "id": 130126,
+          "logo_path": null,
+          "name": "Anima Vitae Point",
+          "origin_country": ""
+        },
+        {
+          "id": 88672,
+          "logo_path": "/meFXC1APvM2kb6nxpOhHF1I9w9G.png",
+          "name": "Animoon",
+          "origin_country": "PL"
+        },
+        {
+          "id": 130127,
+          "logo_path": null,
+          "name": "Godo Films",
+          "origin_country": ""
+        },
+        {
+          "id": 250,
+          "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+          "name": "CANAL+ Polska",
+          "origin_country": "PL"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 9,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2U2h8PpsaWn90jdtyG0tu9ZxttZ.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        35,
-        10751
-      ],
-      "id": 280217,
-      "original_language": "en",
-      "original_title": "The Lego Movie 2: The Second Part",
-      "overview": "Прошло несколько лет с того момента, как в последний раз все было прекрасно. На мир надвигается новая угроза из космоса. Теперь Эммет обязан спасти Люси и других героев от печальной участи.",
-      "popularity": 5.5754,
-      "poster_path": "/7tzu62WY1W3whNAvs5Ih2qszLvh.jpg",
-      "release_date": "2019-02-06",
-      "title": "ЛЕГО Фильм 2",
-      "video": false,
-      "vote_average": 6.656,
-      "vote_count": 2379,
-      "belongs_to_collection": {
-        "id": 325470,
-        "name": "Лего Фильм (Коллекция)",
-        "poster_path": "/qwuwukEjuh6Zs51NnhtPVriARey.jpg",
-        "backdrop_path": "/vAyMNou7M2SOXjPIzLhltTvAqD1.jpg"
-      },
-      "budget": 99000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3513498",
-      "origin_country": [
-        "DK",
-        "CA",
-        "AU",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 829,
-          "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-          "name": "Vertigo Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 25120,
-          "logo_path": "/6RLMWBcGF2COzjjBORPUy705yF7.png",
-          "name": "Warner Animation Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 77973,
-          "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
-          "name": "Lord Miller",
-          "origin_country": "US"
-        },
-        {
-          "id": 118854,
-          "logo_path": "/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png",
-          "name": "Rideback",
-          "origin_country": "US"
-        },
-        {
-          "id": 4081,
-          "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
-          "name": "The LEGO Group",
-          "origin_country": "DK"
-        },
-        {
-          "id": 231732,
-          "logo_path": "/kEUAzsG2hZcCV7rmSCozgLhGWaa.png",
-          "name": "Animal Logic",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "DK",
-          "name": "Denmark"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 199603202,
-      "runtime": 106,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Они придут с миром»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u6GALns99aM7nDdcY4Cxf6sACdC.jpg",
-      "genre_ids": [
-        16,
-        12,
-        10751
-      ],
-      "id": 702525,
-      "original_language": "en",
-      "original_title": "Bigfoot Family",
-      "overview": "Все семьи разные, но эта — самая разношёрстная. Папа когда-то превратился в Бигфута, сын унаследовал его суперспособности и умение понимать язык животных, так ещё и в доме вместе с ними и мамой живёт целый зоопарк — огромный медведь, неутомимая белка и беспокойный енот со множеством очаровательных детёнышей. Когда же уникальному заповеднику на Аляске понадобится помощь, вся семейка Бигфутов отправится в большое путешествие и покажет всему миру, на что способна их команда...",
-      "popularity": 2.9112,
-      "poster_path": "/9yxgExh8LeLh6yJRLdBuWfHTj0F.jpg",
-      "release_date": "2020-07-23",
-      "title": "Семейка Бигфутов",
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 225,
-      "belongs_to_collection": {
-        "id": 761648,
-        "name": "Бигфуты (Коллекция)",
-        "poster_path": "/6SDjMM2uGNzJF6ILpZIHjKcfyUb.jpg",
-        "backdrop_path": "/9VVEj8y7k72bRkcUhVn60dYgnp4.jpg"
-      },
-      "budget": 17520000,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt9204164",
-      "origin_country": [
-        "BE",
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 10159,
-          "logo_path": "/5JOsh2wI3joS6LyGwIJ7I4WopbZ.png",
-          "name": "nWave Pictures",
-          "origin_country": "BE"
-        },
-        {
-          "id": 146118,
-          "logo_path": "/qnwbrI1QEvUG3blDWmUolg0BjLs.png",
-          "name": "Octopolis",
-          "origin_country": "FR"
-        },
-        {
-          "id": 78298,
-          "logo_path": "/9U7x4fLDn8EVEZTc4usYeJV1uHF.png",
-          "name": "Belga Productions",
-          "origin_country": "BE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
+          "iso_3166_1": "FI",
+          "name": "Finland"
         },
         {
           "iso_3166_1": "FR",
           "name": "France"
         },
         {
-          "iso_3166_1": "FO",
-          "name": "Faeroe Islands"
-        }
-      ],
-      "revenue": 10855626,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Все семьи как семьи... Но эта - самая разношёрстная",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/etpXcGhqdSkpXpiw3Jh1E509YFc.jpg",
-      "genre_ids": [
-        16,
-        12,
-        35,
-        37
-      ],
-      "id": 194395,
-      "original_language": "ja",
-      "original_title": "ながぐつ三銃士",
-      "overview": "Всеми любимый Кот в сапогах попадает на Дикий Запад. В этих неизведанных краях романтика освоения новых земель уживается с неисчислимыми опасностями, а смелость и благородство настоящих героев противостоят коварству подлых бандитов. Конечно, справедливость и порядок восторжествуют в затерянном среди прерий городке — но только после череды увлекательных перестрелок и погонь, насквозь пронизанных искрометными шутками весельчака Кота!",
-      "popularity": 3.1023,
-      "poster_path": "/uILdNMQpdLPp6ZxFqBXbJejuKum.jpg",
-      "release_date": "1972-03-17",
-      "title": "Возвращение кота в сапогах",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 10,
-      "belongs_to_collection": {
-        "id": 317299,
-        "name": "Кот в сапогах (аниме)",
-        "poster_path": "/hOTHkHv9qAWNIGVNLw1qe451WHw.jpg",
-        "backdrop_path": "/5jfqMomBuXSwawPy4eZeHfYsWad.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
+          "iso_3166_1": "MY",
+          "name": "Malaysia"
         },
         {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 37,
-          "name": "вестерн"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1073670",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 5542,
-          "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
-          "name": "Toei Animation",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
+          "iso_3166_1": "PL",
+          "name": "Poland"
         }
       ],
       "revenue": 0,
-      "runtime": 53,
+      "runtime": 83,
       "spoken_languages": [
         {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
+          "english_name": "Finnish",
+          "iso_639_1": "fi",
+          "name": "suomi"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -1412,33 +1180,37 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cH5mdqHFVUuZ7Votxfkki4pd4HT.jpg",
+      "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "genre_ids": [
+        16,
         35,
         12,
-        16,
-        14,
-        10751
+        10751,
+        9648
       ],
-      "id": 597845,
-      "original_language": "ru",
-      "original_title": "Финник",
-      "overview": "Мало кто знает, но в каждом доме живет… свой домовой! Это забавное мохнатое существо тайно обитает в мире людей и хранит домашний очаг. Домовой Финник — добрый, озорной, но немного вредный. Он любит подшутить над жильцами своего дома, поэтому ни одна семья не задерживается в его владениях надолго. Но все меняется, когда в дом въезжают находчивая девочка Кристина и ее родители: на них уловки домового совсем не действуют! Вскоре Кристина знакомится с Финником и узнает тайны жизни домовых. Тем временем, в их городке начинают происходить странные и пугающие события… Отважной девочке и домовому придется стать командой, чтобы разобраться в происходящем и спасти город.",
-      "popularity": 2.7961,
-      "poster_path": "/lA9wFnUOwPabUuYqL2Sp2Ivyl7O.jpg",
-      "release_date": "2022-03-24",
-      "title": "Финник",
+      "id": 1084242,
+      "original_language": "en",
+      "original_title": "Zootopia 2",
+      "overview": "Джуди и Ник теперь полноценная команда в полиции. Но их спокойная служба резко меняется, когда в городе появляется загадочный преступник-рептилия, способный ставить под угрозу весь порядок в Зверополисе. Чтобы разобраться в деле, героям приходится углубиться в новые районы города, куда обычным жителям лучше не соваться. Расследование быстро выходит за рамки привычных правил: Джуди и Ник работают под прикрытием, сталкиваются с непредсказуемыми союзниками и опасными врагами, а также вынуждены доверять друг другу сильнее, чем когда-либо.",
+      "popularity": 349.0251,
+      "poster_path": "/j29hoRvpGshWDaOBVIogkRpi6JS.jpg",
+      "release_date": "2025-11-26",
+      "title": "Зверополис 2",
       "video": false,
-      "vote_average": 7.4,
-      "vote_count": 119,
+      "vote_average": 7.628,
+      "vote_count": 958,
       "belongs_to_collection": {
-        "id": 1582249,
-        "name": "Финник",
-        "poster_path": null,
-        "backdrop_path": null
+        "id": 1084247,
+        "name": "Зверополис (Коллекция)",
+        "poster_path": "/xeTBqRz5LQ55mgETK0if54U5lzO.jpg",
+        "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
       },
-      "budget": 0,
+      "budget": 150000000,
       "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
         {
           "id": 35,
           "name": "комедия"
@@ -1447,6 +1219,388 @@
           "id": 12,
           "name": "приключения"
         },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt26443597",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 6125,
+          "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+          "name": "Walt Disney Animation Studios",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 1588069590,
+      "runtime": 107,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Не каждый, кто скользит в тени - враг»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9kxEuXr6FJOZNty5KKwnaitHVDk.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 438455,
+      "original_language": "en",
+      "original_title": "The Archer",
+      "overview": "Лорен Пирс только что стала чемпионкой штата по стрельбе из лука. После победы на чемпионате они с подругой возвращаются в номер отеля, чтобы отпраздновать и выпить, однако на пороге появляется парень подруги и портит девушкам вечер. Лорен выходит из себя и избивает наглого парня, после чего её отправляют в исправительное учреждение для несовершеннолетних. Там она знакомится с прекрасной, независимой и сильной духом девушкой Ребеккой, с которой они постараются сбежать.",
+      "popularity": 4.4307,
+      "poster_path": "/x59nM0V4T0fRVtorpAv2zxgjzZg.jpg",
+      "release_date": "2017-03-11",
+      "title": "Лучница",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 83,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt5806646",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 6679,
+          "logo_path": "/r3r7qbHKgo8N0yr7r1TjLmzLXfQ.png",
+          "name": "MarVista Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u6GALns99aM7nDdcY4Cxf6sACdC.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751
+      ],
+      "id": 702525,
+      "original_language": "en",
+      "original_title": "Bigfoot Family",
+      "overview": "Все семьи разные, но эта — самая разношёрстная. Папа когда-то превратился в Бигфута, сын унаследовал его суперспособности и умение понимать язык животных, так ещё и в доме вместе с ними и мамой живёт целый зоопарк — огромный медведь, неутомимая белка и беспокойный енот со множеством очаровательных детёнышей. Когда же уникальному заповеднику на Аляске понадобится помощь, вся семейка Бигфутов отправится в большое путешествие и покажет всему миру, на что способна их команда...",
+      "popularity": 2.9112,
+      "poster_path": "/9yxgExh8LeLh6yJRLdBuWfHTj0F.jpg",
+      "release_date": "2020-07-23",
+      "title": "Семейка Бигфутов",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 225,
+      "belongs_to_collection": {
+        "id": 761648,
+        "name": "Бигфуты (Коллекция)",
+        "poster_path": "/6SDjMM2uGNzJF6ILpZIHjKcfyUb.jpg",
+        "backdrop_path": "/9VVEj8y7k72bRkcUhVn60dYgnp4.jpg"
+      },
+      "budget": 17520000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt9204164",
+      "origin_country": [
+        "BE",
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 10159,
+          "logo_path": "/5JOsh2wI3joS6LyGwIJ7I4WopbZ.png",
+          "name": "nWave Pictures",
+          "origin_country": "BE"
+        },
+        {
+          "id": 146118,
+          "logo_path": "/qnwbrI1QEvUG3blDWmUolg0BjLs.png",
+          "name": "Octopolis",
+          "origin_country": "FR"
+        },
+        {
+          "id": 78298,
+          "logo_path": "/9U7x4fLDn8EVEZTc4usYeJV1uHF.png",
+          "name": "Belga Productions",
+          "origin_country": "BE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "FO",
+          "name": "Faeroe Islands"
+        }
+      ],
+      "revenue": 10855626,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Все семьи как семьи... Но эта - самая разношёрстная",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/etpXcGhqdSkpXpiw3Jh1E509YFc.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        37
+      ],
+      "id": 194395,
+      "original_language": "ja",
+      "original_title": "ながぐつ三銃士",
+      "overview": "Всеми любимый Кот в сапогах попадает на Дикий Запад. В этих неизведанных краях романтика освоения новых земель уживается с неисчислимыми опасностями, а смелость и благородство настоящих героев противостоят коварству подлых бандитов. Конечно, справедливость и порядок восторжествуют в затерянном среди прерий городке — но только после череды увлекательных перестрелок и погонь, насквозь пронизанных искрометными шутками весельчака Кота!",
+      "popularity": 3.1023,
+      "poster_path": "/uILdNMQpdLPp6ZxFqBXbJejuKum.jpg",
+      "release_date": "1972-03-17",
+      "title": "Возвращение кота в сапогах",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 10,
+      "belongs_to_collection": {
+        "id": 317299,
+        "name": "Кот в сапогах (аниме)",
+        "poster_path": "/hOTHkHv9qAWNIGVNLw1qe451WHw.jpg",
+        "backdrop_path": "/5jfqMomBuXSwawPy4eZeHfYsWad.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 37,
+          "name": "вестерн"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1073670",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 5542,
+          "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+          "name": "Toei Animation",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 53,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6epuNuChZyTLGUoZSdmS3Y8O9RO.jpg",
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 542315,
+      "original_language": "ru",
+      "original_title": "Стрекоза и муравей",
+      "overview": "Всё лето муравьишка усердно трудился и строил себе теплый домик к зиме. Стрекоза, напротив, ни о чём не задумывалась: спала до поздна, много гуляла и веселилась, и даже мешала другим работать. А когда подкрались холода, то ей негде стало согреться и решила она попроситься жить к муравью...",
+      "popularity": 0.1778,
+      "poster_path": "/n9DN5FnrpRfhl8DXQKVPzNjy1a9.jpg",
+      "release_date": "1961-01-01",
+      "title": "Стрекоза и муравей",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6235220",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 11,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ynzNHqyCETAxPwyfVIHRaBLgHfL.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "id": 144989,
+      "original_language": "ru",
+      "original_title": "В яранге горит огонь",
+      "overview": "Фильм по мотивам северных народных сказок.  Далеко на Севере в маленькой бедной яранге жила вдова с сыном Ятто и дочерью Тэюне. Дети были ленивые и непослушные, они не хотели помогать матери и собирать хворост для костра (Тэюне больше заботили её длинные красивые косы). И когда огонь в очаге погас, злая старуха Пурга ворвалась в ярангу. Мать пыталась защитить своих детей, но Пурга унесла её. Брату и сестре пришлось забыть про свою лень и отправиться на поиски. Они проделали долгий путь и преодолели много опасностей, прежде чем смогли найти жилище Пурги и спасти свою маму.",
+      "popularity": 0.1626,
+      "poster_path": "/e3oD6kXL85SxDEvkDcBMWptLqqb.jpg",
+      "release_date": "1956-01-01",
+      "title": "В яранге горит огонь",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
         {
           "id": 16,
           "name": "мультфильм"
@@ -1461,175 +1615,36 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt15547806",
+      "imdb_id": "tt0219384",
       "origin_country": [
-        "RU"
+        "SU"
       ],
       "production_companies": [
         {
-          "id": 123331,
-          "logo_path": null,
-          "name": "Riki Group",
-          "origin_country": "RU"
-        },
-        {
-          "id": 8910,
-          "logo_path": null,
-          "name": "Animation Studio \"Petersburg\"",
-          "origin_country": "RU"
-        },
-        {
-          "id": 76049,
-          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
-          "name": "Cinema Foundation of Russia",
-          "origin_country": "RU"
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
         }
       ],
-      "revenue": 7523353,
-      "runtime": 85,
+      "revenue": 0,
+      "runtime": 21,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
-      "tagline": "«В семье не без домового»",
+      "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8BD2cEWfuduvgbWlHbjqgWHssoB.jpg",
-      "genre_ids": [
-        16
-      ],
-      "id": 77294,
-      "original_language": "ru",
-      "original_title": "Трое из Простоквашино",
-      "overview": "Жил-был мальчик по прозвищу Дядя Фёдор. Он очень любил животных, но его родители и слышать ничего не хотели о том, чтобы в их квартире завёлся кто-то хвостатый и лохматый. И пришлось Дяде Фёдору со своими новыми приятелями — котом Матроскиным и верным пёсиком Шариком — отправиться в деревню Простоквашино.",
-      "popularity": 0.3614,
-      "poster_path": "/wA46TGkU7lz7QvkiemrwvpN0A29.jpg",
-      "release_date": "1978-06-06",
-      "title": "Трое из Простоквашино",
-      "video": false,
-      "vote_average": 7.332,
-      "vote_count": 113,
-      "belongs_to_collection": {
-        "id": 219363,
-        "name": "Трое из Простоквашино (Коллекция)",
-        "poster_path": "/1N7zEgnwBQ4j7JuvXiIVBWWE0is.jpg",
-        "backdrop_path": "/rf6J0AtrpHgm8qRmTV7zlJmN8jU.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0189160",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 19,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/h0G9y4fwJ6r6k5x8Q3Xh4QsYBRc.jpg",
-      "genre_ids": [
-        16
-      ],
-      "id": 72204,
-      "original_language": "ru",
-      "original_title": "Летучий корабль",
-      "overview": "Цветной рисованный фильм по мотивам русской сказки о том, что доброта, бескорыстная любовь и честность всегда побеждают коварство, злобу и чванство.",
-      "popularity": 1.5234,
-      "poster_path": "/8288F5qz16IoGz5O1RFH3onAMU.jpg",
-      "release_date": "1979-12-25",
-      "title": "Летучий корабль",
-      "video": false,
-      "vote_average": 7.269,
-      "vote_count": 54,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0210804",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 18,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
