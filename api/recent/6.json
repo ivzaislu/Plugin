@@ -1,49 +1,60 @@
 {
   "page": 6,
   "limit": 20,
-  "total": 197,
+  "total": 196,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+      "backdrop_path": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
       "genre_ids": [
-        28
+        35,
+        18
       ],
-      "id": 1584215,
+      "id": 1206008,
       "original_language": "en",
-      "original_title": "The Internship",
-      "overview": "ЦРУ создало программу «Стажировка», чтобы с раннего возраста превращать одаренных детей в идеальных агентов и бойцов, готовых без колебаний выполнять приказы. Годы тренировок, боли и изоляции лишали их нормального детства, заменяя его дисциплиной и жестокими правилами. Одна из самых опасных выпускниц этой программы долгие годы была оружием в руках разведки, выполняя задания и устраняя врагов нации. Однако ненависть к тем, кто украл у нее право выбора, никуда не исчезла. Со временем она решается пойти против системы и объединяется с другими бывшими воспитанниками, такими же сломанными и опасными. Их цель заключается не только в мести, но и в желании остановить механизм, который продолжает создавать новых убийц. В ответ разведка объявляет охоту на своих бывших агентов, не оставляя им шанса на спокойную жизнь.",
-      "popularity": 113.5313,
-      "poster_path": "/a7hTimch8r7UiVcJPkYM4Aj5jyI.jpg",
-      "release_date": "2026-01-13",
-      "title": "Стажировка",
+      "original_title": "Ella McCay",
+      "overview": "Молодая девушка становится губернатором своего штата и пытается удержать баланс между работой и обычной жизнью.",
+      "popularity": 42.0637,
+      "poster_path": "/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+      "release_date": "2025-12-11",
+      "title": "Элла Маккей",
       "video": false,
-      "vote_average": 6.239,
-      "vote_count": 44,
+      "vote_average": 5.684,
+      "vote_count": 49,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 35000000,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt38238651",
+      "imdb_id": "tt30096221",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 177095,
-          "logo_path": "/nfwWCvMNaK687bjyM7un8p7ilz0.png",
-          "name": "SP Media Group",
+          "id": 127928,
+          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+          "name": "20th Century Studios",
           "origin_country": "US"
         },
         {
-          "id": 287314,
-          "logo_path": "/o994AgxzhtTiDWFWGOHfQ8AZC7p.png",
-          "name": "Paramount Global Content Distribution",
+          "id": 18,
+          "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+          "name": "Gracie Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
           "origin_country": "US"
         }
       ],
@@ -53,8 +64,81 @@
           "name": "United States of America"
         }
       ],
+      "revenue": 4546837,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/15sarvi4KF6WFtCQbKgcxG8iOj.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1146344,
+      "original_language": "en",
+      "original_title": "Misdirection",
+      "overview": "Чтобы отдать долги мафии, семейная пара должна совершить серию ограблений. Но во время последнего ограбления роскошного особняка они оказываются в ловушке.",
+      "popularity": 17.7014,
+      "poster_path": "/zqEJum03kBVPN3cgygxImL1Fvus.jpg",
+      "release_date": "2026-01-13",
+      "title": "Ложный след",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6374142",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 110831,
+          "logo_path": null,
+          "name": "Storyoscopic Films",
+          "origin_country": ""
+        },
+        {
+          "id": 2373,
+          "logo_path": "/wcQ30Rj2FP8d8VkAcOYqXCHCmsq.png",
+          "name": "Patriot Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 203245,
+          "logo_path": null,
+          "name": "Abbott Street Films",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [],
       "revenue": 0,
-      "runtime": 91,
+      "runtime": 84,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -143,89 +227,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9NndEt9B99L7jS2C6vAxhuGljFe.jpg",
-      "genre_ids": [
-        27,
-        35,
-        10749
-      ],
-      "id": 1302916,
-      "original_language": "en",
-      "original_title": "Heart Eyes",
-      "overview": "Маньяк преследует и убивает влюбленных в День святого Валентина.",
-      "popularity": 5.6612,
-      "poster_path": "/rPlBXYTq5LqlDqDiLCoRpoNEfHQ.jpg",
-      "release_date": "2025-02-06",
-      "title": "Влюблённые глаза",
-      "video": false,
-      "vote_average": 6.368,
-      "vote_count": 418,
-      "belongs_to_collection": null,
-      "budget": 18000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32558992",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 143790,
-          "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
-          "name": "Spyglass Media Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 89115,
-          "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-          "name": "Divide / Conquer",
-          "origin_country": "US"
-        },
-        {
-          "id": 3287,
-          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-          "name": "Screen Gems",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 33129099,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
       "genre_ids": [
         10749,
@@ -286,6 +287,96 @@
       ],
       "revenue": 0,
       "runtime": 99,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5UYCuHb0kfFzrZ5l9SKzScguDbu.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1429605,
+      "original_language": "en",
+      "original_title": "F Valentine's Day",
+      "overview": "Джина ненавидит свой день рождения в День святого Валентина и едет в Грецию, чтобы помешать предложению руки и сердца от своего парня. С помощью отдыхающих Джонни и его сестры Микки она придумывает план, как отложить это событие, одновременно сомневаясь в своих отношениях.",
+      "popularity": 27.9403,
+      "poster_path": "/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
+      "release_date": "2026-02-12",
+      "title": "С Днём проклятого Валентина!",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 22,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34622232",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 44632,
+          "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
+          "name": "Gravitas Ventures",
+          "origin_country": "US"
+        },
+        {
+          "id": 41945,
+          "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
+          "name": "Indy Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 87472,
+          "logo_path": null,
+          "name": "Showdown Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 258062,
+          "logo_path": null,
+          "name": "Valletta Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 12852,
+          "logo_path": "/a2yqtzhDsTCsgccaed7tVCWjkhD.png",
+          "name": "Shout! Factory",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 95,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -477,96 +568,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/5UYCuHb0kfFzrZ5l9SKzScguDbu.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "id": 1429605,
-      "original_language": "en",
-      "original_title": "F Valentine's Day",
-      "overview": "Джина ненавидит свой день рождения в День святого Валентина и едет в Грецию, чтобы помешать предложению руки и сердца от своего парня. С помощью отдыхающих Джонни и его сестры Микки она придумывает план, как отложить это событие, одновременно сомневаясь в своих отношениях.",
-      "popularity": 27.9403,
-      "poster_path": "/8zPExowfpfZOTpS1W4J7G27lH4H.jpg",
-      "release_date": "2026-02-12",
-      "title": "С Днём проклятого Валентина!",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 22,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34622232",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 44632,
-          "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
-          "name": "Gravitas Ventures",
-          "origin_country": "US"
-        },
-        {
-          "id": 41945,
-          "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
-          "name": "Indy Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 87472,
-          "logo_path": null,
-          "name": "Showdown Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 258062,
-          "logo_path": null,
-          "name": "Valletta Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 12852,
-          "logo_path": "/a2yqtzhDsTCsgccaed7tVCWjkhD.png",
-          "name": "Shout! Factory",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
       "genre_ids": [
         80,
@@ -630,6 +631,191 @@
       ],
       "status": "Released",
       "tagline": "«Доверие имеет свою цену»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wxxSyWPPgssnkO6FbCAVyntLLSr.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "id": 1100988,
+      "original_language": "en",
+      "original_title": "28 Years Later",
+      "overview": "28 лет в Великобритании бушует вирус, превращающий заражённых в агрессивных плотоядных тварей. В этом ужасном мире маленький мальчик пытается найти врача для умирающей мамы.",
+      "popularity": 29.0988,
+      "poster_path": "/1GPXjQNumrQp5TSfdWxGvIhxYL9.jpg",
+      "release_date": "2025-06-18",
+      "title": "28 лет спустя",
+      "video": false,
+      "vote_average": 6.637,
+      "vote_count": 1926,
+      "belongs_to_collection": {
+        "id": 1565,
+        "name": "28 дней (Коллекция)",
+        "poster_path": "/rkFqzEiZZoccSbeDigGnIlF4iM0.jpg",
+        "backdrop_path": "/liImaqVpPGo3ddLWkJPeJxvaqCI.jpg"
+      },
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt10548174",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 284,
+          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
+          "name": "DNA Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 8286,
+          "logo_path": null,
+          "name": "Decibel Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 151308832,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Время ничего не вылечило»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 533533,
+      "original_language": "en",
+      "original_title": "TRON: Ares",
+      "overview": "Как и предсказывал Кевин Флинн, стало возможным перемещение предметов и человекоподобных программ из виртуального мира в реальный. Джулиан Диллинджер, глава компании Dillinger Systems, привлекает инвесторов демонстрацией невероятных возможностей новой технологии, не упоминая, что в нашем мире воссозданные объекты могут существовать только 29 минут. А тем временем руководительница ENCOM Ева Ким находит так называемый код устойчивости — программу, которая снимает это ограничение по времени. Узнав об успехе конкурентов, Джулиан приказывает поймать Еву и забрать у неё ценный код своим лучшим солдатам — извлечённым из виртуального мира ИИ по имени Арес и Афина.",
+      "popularity": 94.6376,
+      "poster_path": "/3YMaZ7A8wKs0gngDdexs0pLkAnR.jpg",
+      "release_date": "2025-10-08",
+      "title": "Трон: Арес",
+      "video": false,
+      "vote_average": 6.583,
+      "vote_count": 878,
+      "belongs_to_collection": {
+        "id": 63043,
+        "name": "Трон (Коллекция)",
+        "poster_path": "/l0iZbJXY8MPLSqibet4M2rzrBw4.jpg",
+        "backdrop_path": "/4INQEOQ96EvYmANsCZaad9VvRWW.jpg"
+      },
+      "budget": 220000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6604188",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2,
+          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+          "name": "Walt Disney Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 23791,
+          "logo_path": null,
+          "name": "Sean Bailey Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 142249983,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Назад пути нет»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -737,109 +923,6 @@
       ],
       "status": "Released",
       "tagline": "«Он Ограбил 45 Ресторанов McDonald's и Это не Самое Безумное»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wxxSyWPPgssnkO6FbCAVyntLLSr.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "id": 1100988,
-      "original_language": "en",
-      "original_title": "28 Years Later",
-      "overview": "28 лет в Великобритании бушует вирус, превращающий заражённых в агрессивных плотоядных тварей. В этом ужасном мире маленький мальчик пытается найти врача для умирающей мамы.",
-      "popularity": 29.0988,
-      "poster_path": "/1GPXjQNumrQp5TSfdWxGvIhxYL9.jpg",
-      "release_date": "2025-06-18",
-      "title": "28 лет спустя",
-      "video": false,
-      "vote_average": 6.637,
-      "vote_count": 1926,
-      "belongs_to_collection": {
-        "id": 1565,
-        "name": "28 дней (Коллекция)",
-        "poster_path": "/rkFqzEiZZoccSbeDigGnIlF4iM0.jpg",
-        "backdrop_path": "/liImaqVpPGo3ddLWkJPeJxvaqCI.jpg"
-      },
-      "budget": 60000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt10548174",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 284,
-          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
-          "name": "DNA Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 8286,
-          "logo_path": null,
-          "name": "Decibel Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 151308832,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Swedish",
-          "iso_639_1": "sv",
-          "name": "svenska"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Время ничего не вылечило»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1036,60 +1119,78 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
       "genre_ids": [
-        878,
-        12,
-        28
+        28,
+        35,
+        80,
+        9648
       ],
-      "id": 533533,
+      "id": 1168190,
       "original_language": "en",
-      "original_title": "TRON: Ares",
-      "overview": "Как и предсказывал Кевин Флинн, стало возможным перемещение предметов и человекоподобных программ из виртуального мира в реальный. Джулиан Диллинджер, глава компании Dillinger Systems, привлекает инвесторов демонстрацией невероятных возможностей новой технологии, не упоминая, что в нашем мире воссозданные объекты могут существовать только 29 минут. А тем временем руководительница ENCOM Ева Ким находит так называемый код устойчивости — программу, которая снимает это ограничение по времени. Узнав об успехе конкурентов, Джулиан приказывает поймать Еву и забрать у неё ценный код своим лучшим солдатам — извлечённым из виртуального мира ИИ по имени Арес и Афина.",
-      "popularity": 94.6376,
-      "poster_path": "/3YMaZ7A8wKs0gngDdexs0pLkAnR.jpg",
-      "release_date": "2025-10-08",
-      "title": "Трон: Арес",
+      "original_title": "The Wrecking Crew",
+      "overview": "После 20 лет вражды сводные братья Джонни и Джеймс вынуждены объединиться, чтобы выяснить, кто убил их отца.",
+      "popularity": 267.0247,
+      "poster_path": "/5Mx3ibPKBMYE1ivGq8M9Q92jqeL.jpg",
+      "release_date": "2026-01-28",
+      "title": "Опасный дуэт",
       "video": false,
-      "vote_average": 6.583,
-      "vote_count": 878,
-      "belongs_to_collection": {
-        "id": 63043,
-        "name": "Трон (Коллекция)",
-        "poster_path": "/l0iZbJXY8MPLSqibet4M2rzrBw4.jpg",
-        "backdrop_path": "/4INQEOQ96EvYmANsCZaad9VvRWW.jpg"
-      },
-      "budget": 220000000,
+      "vote_average": 6.2,
+      "vote_count": 37,
+      "belongs_to_collection": null,
+      "budget": 0,
       "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
         {
           "id": 28,
           "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt6604188",
+      "imdb_id": "tt33046197",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 2,
-          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-          "name": "Walt Disney Pictures",
+          "id": 210099,
+          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+          "name": "Amazon MGM Studios",
           "origin_country": "US"
         },
         {
-          "id": 23791,
+          "id": 159602,
+          "logo_path": "/e3KodIPxOSC6xpzgIBISB4COQcu.png",
+          "name": "On the Roam",
+          "origin_country": "US"
+        },
+        {
+          "id": 183234,
           "logo_path": null,
-          "name": "Sean Bailey Productions",
+          "name": "Dogbone Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 287578,
+          "logo_path": null,
+          "name": "Henness Ridge Films",
+          "origin_country": ""
+        },
+        {
+          "id": 101405,
+          "logo_path": "/iusVPF9AJD1DiHEWbZEXgn1hpOf.png",
+          "name": "6th & Idaho Motion Picture Company",
           "origin_country": "US"
         }
       ],
@@ -1099,8 +1200,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 142249983,
-      "runtime": 119,
+      "revenue": 0,
+      "runtime": 124,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1109,7 +1210,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Назад пути нет»",
+      "tagline": "«Сражаются как братья. Громят, как легенды»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1357,106 +1458,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
-      "genre_ids": [
-        28,
-        35,
-        80,
-        9648
-      ],
-      "id": 1168190,
-      "original_language": "en",
-      "original_title": "The Wrecking Crew",
-      "overview": "После 20 лет вражды сводные братья Джонни и Джеймс вынуждены объединиться, чтобы выяснить, кто убил их отца.",
-      "popularity": 267.0247,
-      "poster_path": "/5Mx3ibPKBMYE1ivGq8M9Q92jqeL.jpg",
-      "release_date": "2026-01-28",
-      "title": "Опасный дуэт",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 37,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33046197",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 210099,
-          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-          "name": "Amazon MGM Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 159602,
-          "logo_path": "/e3KodIPxOSC6xpzgIBISB4COQcu.png",
-          "name": "On the Roam",
-          "origin_country": "US"
-        },
-        {
-          "id": 183234,
-          "logo_path": null,
-          "name": "Dogbone Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 287578,
-          "logo_path": null,
-          "name": "Henness Ridge Films",
-          "origin_country": ""
-        },
-        {
-          "id": 101405,
-          "logo_path": "/iusVPF9AJD1DiHEWbZEXgn1hpOf.png",
-          "name": "6th & Idaho Motion Picture Company",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 124,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Сражаются как братья. Громят, как легенды»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/39Niij05MXfibXBsHiUU0Ml0POX.jpg",
       "genre_ids": [
         27,
@@ -1557,98 +1558,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/1ktHy4yBupG3JzYoFsQ8DFoqZh4.jpg",
-      "genre_ids": [
-        80,
-        53,
-        35
-      ],
-      "id": 639988,
-      "original_language": "ko",
-      "original_title": "어쩔수가없다",
-      "overview": "Четверть века проработав в бумажной промышленности, Ю Ман-су стал высококлассным специалистом. Он выкупил и отремонтировал принадлежавший отцу загородный дом и считает себя счастливым семьянином и состоявшимся человеком, поэтому сильным шоком для мужчины становится внезапное увольнение. За несколько месяцев так и не найдя работу по специальности, Ман-су сталкивается с перспективой потери дома и от отчаяния решает физически устранить конкурентов на должность в компании мечты — таких же безработных бедолаг с блестящими резюме.",
-      "popularity": 57.5514,
-      "poster_path": "/wJw2YFDNv4UcygxZevDz5snPvTw.jpg",
-      "release_date": "2025-09-24",
-      "title": "Метод исключения",
-      "video": false,
-      "vote_average": 7.693,
-      "vote_count": 220,
-      "belongs_to_collection": null,
-      "budget": 12200000,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1527793",
-      "origin_country": [
-        "KR"
-      ],
-      "production_companies": [
-        {
-          "id": 199265,
-          "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png",
-          "name": "CJ ENM Studios",
-          "origin_country": "KR"
-        },
-        {
-          "id": 34725,
-          "logo_path": "/cRqXC6Dy6AvTGS2wiMt26yGJgZA.png",
-          "name": "Moho Film",
-          "origin_country": "KR"
-        },
-        {
-          "id": 123220,
-          "logo_path": "/78WFEzOdyyCUrglTfnZi0CIYXsD.png",
-          "name": "KG Productions",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        }
-      ],
-      "revenue": 20072255,
-      "runtime": 139,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
       "genre_ids": [
         27,
@@ -1735,6 +1644,98 @@
       ],
       "status": "Released",
       "tagline": "«Мёртвый всего лишь слово»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1ktHy4yBupG3JzYoFsQ8DFoqZh4.jpg",
+      "genre_ids": [
+        80,
+        53,
+        35
+      ],
+      "id": 639988,
+      "original_language": "ko",
+      "original_title": "어쩔수가없다",
+      "overview": "Четверть века проработав в бумажной промышленности, Ю Ман-су стал высококлассным специалистом. Он выкупил и отремонтировал принадлежавший отцу загородный дом и считает себя счастливым семьянином и состоявшимся человеком, поэтому сильным шоком для мужчины становится внезапное увольнение. За несколько месяцев так и не найдя работу по специальности, Ман-су сталкивается с перспективой потери дома и от отчаяния решает физически устранить конкурентов на должность в компании мечты — таких же безработных бедолаг с блестящими резюме.",
+      "popularity": 57.5514,
+      "poster_path": "/wJw2YFDNv4UcygxZevDz5snPvTw.jpg",
+      "release_date": "2025-09-24",
+      "title": "Метод исключения",
+      "video": false,
+      "vote_average": 7.693,
+      "vote_count": 220,
+      "belongs_to_collection": null,
+      "budget": 12200000,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1527793",
+      "origin_country": [
+        "KR"
+      ],
+      "production_companies": [
+        {
+          "id": 199265,
+          "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png",
+          "name": "CJ ENM Studios",
+          "origin_country": "KR"
+        },
+        {
+          "id": 34725,
+          "logo_path": "/cRqXC6Dy6AvTGS2wiMt26yGJgZA.png",
+          "name": "Moho Film",
+          "origin_country": "KR"
+        },
+        {
+          "id": 123220,
+          "logo_path": "/78WFEzOdyyCUrglTfnZi0CIYXsD.png",
+          "name": "KG Productions",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 20072255,
+      "runtime": 139,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [

@@ -5,39 +5,56 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 261,
+  "total": 265,
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/nJHttrdgznKG4lvQRj8lQEuHNCK.jpg",
       "genre_ids": [
-        18
+        35,
+        14,
+        10749
       ],
-      "id": 663856,
+      "id": 83429,
       "original_language": "ru",
-      "original_title": "Тростинка на ветру",
-      "overview": "Варя заканчивает школу, её родители разводятся, а бабушка философствует о смысле жизни. Друг Вари Миша в неё влюблён, но не до конца понимает. Не имея с собой документов, Варя решает поехать к своей сестре в город, ведь там кипит настоящая жизнь. Сосед сестры Виссарион Аркадьевич помогает Варе поступить в институт, но вскоре его переводят по службе в Ленинград, и Варя возвращается в свою деревню, а потом и Мишу забирают в армию…",
-      "popularity": 0.103,
-      "poster_path": "/apm1dobh7yzHNQoJD0dFcavY9se.jpg",
-      "release_date": "1980-01-01",
-      "title": "Тростинка на ветру",
+      "original_title": "Вечера на хуторе близ Диканьки",
+      "overview": "Весёлая история про то, как в рождественскую ночь в украинском селе всех попутал бес и как могучему кузнецу Вакуле удалось одолеть нечистую силу и добыть для своей невесты царские черевички. Экранизация повести Н. В. Гоголя «Ночь перед Рождеством».",
+      "popularity": 0.2861,
+      "poster_path": "/yBzyHEDJyA0BwTUd2kSo8TnNLIt.jpg",
+      "release_date": "1961-12-15",
+      "title": "Вечера на хуторе близ Диканьки",
       "video": false,
-      "vote_average": 8.5,
-      "vote_count": 2,
+      "vote_average": 7.22,
+      "vote_count": 66,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0232855",
+      "imdb_id": "tt0057637",
       "origin_country": [
         "SU"
       ],
-      "production_companies": [],
+      "production_companies": [
+        {
+          "id": 21978,
+          "logo_path": "/3EP1gJYMGlEt7j17naPMg5e2LH2.png",
+          "name": "Gorky Film Studios",
+          "origin_country": "SU"
+        }
+      ],
       "production_countries": [
         {
           "iso_3166_1": "SU",
@@ -45,7 +62,78 @@
         }
       ],
       "revenue": 0,
-      "runtime": 149,
+      "runtime": 69,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "Ukrainian",
+          "iso_639_1": "uk",
+          "name": "Український"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eMfQcoIgIh3nLSxEPydcycmN827.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 76277,
+      "original_language": "ru",
+      "original_title": "Женитьба Бальзаминова",
+      "overview": "По мотивам трилогии А. Н. Островского «Праздничный сон до обеда», «За чем пойдёшь, то и найдешь», «Две собаки дерутся — третья не приставай». Мелкий чиновник Бальзаминов мечтает жениться — и обязательно на богатой. Забавные ситуации, в которых то и дело оказывается герой, пытающийся найти невесту, составляют сюжет одной из популярнейших советских кинолент.",
+      "popularity": 0.6132,
+      "poster_path": "/ueENoMrWYpx0Xx7tkEFNDhshn4S.jpg",
+      "release_date": "1964-12-25",
+      "title": "Женитьба Бальзаминова",
+      "video": false,
+      "vote_average": 6.75,
+      "vote_count": 26,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "https://cinema.mosfilm.ru/films/35657/",
+      "imdb_id": "tt0058770",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 85,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -66,19 +154,20 @@
       "backdrop_path": null,
       "genre_ids": [
         10752,
-        18
+        18,
+        10749
       ],
-      "id": 92183,
+      "id": 398752,
       "original_language": "ru",
-      "original_title": "Особо важное задание",
-      "overview": "О героизме тружеников тыла во время Великой Отечественной войны. Работники крупного авиационного завода, оказавшись в эвакуации и ни на минуту не останавливая производство самолетов, буквально на пустом месте возводят новый завод...",
-      "popularity": 2.1307,
-      "poster_path": "/qzMQG6VmOpzcrNEZxDg7yEmoJ4d.jpg",
-      "release_date": "1980-06-01",
-      "title": "Особо важное задание",
+      "original_title": "Не забудь... станция Луговая",
+      "overview": "Больше двадцати лет прошло с того дня 1942 года, когда на небольшой железнодорожной станции Луговая встретились недавняя школьница Люся и молодой лейтенант Рябов. Встретились и вскоре расстались, условившись писать друг другу на эту станцию. И вот спустя много лет выясняется, что для Люси эта встреча стала смыслом её жизни. Она все эти годы писала Рябову, а он ... забыл о ней. И теперь, оказавшись проездом на станции Луговая, он получил целую пачку писем Люси и понял, что потерял настоящую любовь...",
+      "popularity": 4.0854,
+      "poster_path": "/lhX1ESXh9GNOukzRiyjP7pZbVHW.jpg",
+      "release_date": "1966-06-01",
+      "title": "Не забудь... станция Луговая",
       "video": false,
       "vote_average": 6.8,
-      "vote_count": 5,
+      "vote_count": 6,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -89,85 +178,22 @@
         {
           "id": 18,
           "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0079680",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 138,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/teOjwe16ztp0OAdOGhmuxCgWMWY.jpg",
-      "genre_ids": [
-        10749
-      ],
-      "id": 512679,
-      "original_language": "ru",
-      "original_title": "Прошлогодняя кадриль",
-      "overview": "Студенты-энергетики Юра, Леня и Жанна проходят практику в деревне. На танцах в доме культуры ребята замечают симпатичную девушку Тоню, которая прекрасно танцует кадриль, и начинают ухаживать за ней на спор — чья возьмет. Тоне явно нравится Леня. И Леня наверняка бы выиграл спор, если бы о нем не забыл, потому что действительно влюбился.",
-      "popularity": 0.1341,
-      "poster_path": "/z35BQCfQTMr3BPSMD9NeXUk4F3X.jpg",
-      "release_date": "1978-12-24",
-      "title": "Прошлогодняя кадриль",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
+        },
         {
           "id": 10749,
           "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt2449870",
+      "imdb_id": "tt0060744",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 12617,
-          "logo_path": "/9Wf5DFTvzxo0pSqDp8MQWW3d01.png",
-          "name": "Belarusfilm",
-          "origin_country": "SU"
-        },
-        {
-          "id": 14620,
-          "logo_path": "/zbQk1aw57z6LUOSQzb0MoZDLiUz.png",
-          "name": "Gosteleradio USSR",
+          "id": 10845,
+          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+          "name": "Lenfilm",
           "origin_country": "SU"
         }
       ],
@@ -178,7 +204,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 71,
+      "runtime": 83,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -438,6 +464,148 @@
       ],
       "revenue": 0,
       "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wm6EmOjTLGWVfRkbmrijZWGXWZs.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 247976,
+      "original_language": "ru",
+      "original_title": "Его звали Роберт",
+      "overview": "Учёный Сергей Сергеевич создаёт экспериментального человекоподобного робота, предназначенного, по его замыслу, для освоения дальнего космоса, недоступного людям, и даёт ему имя Роберт. Роберт внешне похож на своего создателя, как близнец. Сергей Сергеевич решает провести испытание робота на существование в человеческой среде и отправляет его на свидание с невестой одного из своих сотрудников Таней, однако робот выходит из-под контроля. Надвигаются опасные последствия…",
+      "popularity": 1.3119,
+      "poster_path": "/oYwxYxyi7EOFLgRjIiAkBRXpayC.jpg",
+      "release_date": "1967-06-12",
+      "title": "Его звали Роберт",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 9,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0062508",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 10845,
+          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+          "name": "Lenfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wjijUF4WhDjpPA7dedCUMxIY79B.jpg",
+      "genre_ids": [
+        10402,
+        10749,
+        10770,
+        35
+      ],
+      "id": 892294,
+      "original_language": "ru",
+      "original_title": "Свадьба соек",
+      "overview": "Своеобразная \"птичья\" версия \"Ромео и Джульетты\".  Две сойки, самец и самочка, любят друг друга. Вредные родители, озабоченные чистотой породы и ходом эволюции, не дают им воссоединиться. Тогда за дело принимается добрый старый ворон, и всё, естественно, заканчивается большим свадебным пиром.",
+      "popularity": 0.0281,
+      "poster_path": "/tLotsxBRsoXftTE80f0tkv7bOra.jpg",
+      "release_date": "1984-01-01",
+      "title": "Свадьба соек",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0491339",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 6608,
+          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
+          "name": "Ekran",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 71,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -861,219 +1029,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        10752,
-        18,
-        10749
-      ],
-      "id": 398752,
-      "original_language": "ru",
-      "original_title": "Не забудь... станция Луговая",
-      "overview": "Больше двадцати лет прошло с того дня 1942 года, когда на небольшой железнодорожной станции Луговая встретились недавняя школьница Люся и молодой лейтенант Рябов. Встретились и вскоре расстались, условившись писать друг другу на эту станцию. И вот спустя много лет выясняется, что для Люси эта встреча стала смыслом её жизни. Она все эти годы писала Рябову, а он ... забыл о ней. И теперь, оказавшись проездом на станции Луговая, он получил целую пачку писем Люси и понял, что потерял настоящую любовь...",
-      "popularity": 4.0854,
-      "poster_path": "/lhX1ESXh9GNOukzRiyjP7pZbVHW.jpg",
-      "release_date": "1966-06-01",
-      "title": "Не забудь... станция Луговая",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 6,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0060744",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wm6EmOjTLGWVfRkbmrijZWGXWZs.jpg",
-      "genre_ids": [
-        35,
-        878
-      ],
-      "id": 247976,
-      "original_language": "ru",
-      "original_title": "Его звали Роберт",
-      "overview": "Учёный Сергей Сергеевич создаёт экспериментального человекоподобного робота, предназначенного, по его замыслу, для освоения дальнего космоса, недоступного людям, и даёт ему имя Роберт. Роберт внешне похож на своего создателя, как близнец. Сергей Сергеевич решает провести испытание робота на существование в человеческой среде и отправляет его на свидание с невестой одного из своих сотрудников Таней, однако робот выходит из-под контроля. Надвигаются опасные последствия…",
-      "popularity": 1.3119,
-      "poster_path": "/oYwxYxyi7EOFLgRjIiAkBRXpayC.jpg",
-      "release_date": "1967-06-12",
-      "title": "Его звали Роберт",
-      "video": false,
-      "vote_average": 4.8,
-      "vote_count": 9,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0062508",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 93,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wjijUF4WhDjpPA7dedCUMxIY79B.jpg",
-      "genre_ids": [
-        10402,
-        10749,
-        10770,
-        35
-      ],
-      "id": 892294,
-      "original_language": "ru",
-      "original_title": "Свадьба соек",
-      "overview": "Своеобразная \"птичья\" версия \"Ромео и Джульетты\".  Две сойки, самец и самочка, любят друг друга. Вредные родители, озабоченные чистотой породы и ходом эволюции, не дают им воссоединиться. Тогда за дело принимается добрый старый ворон, и всё, естественно, заканчивается большим свадебным пиром.",
-      "popularity": 0.0281,
-      "poster_path": "/tLotsxBRsoXftTE80f0tkv7bOra.jpg",
-      "release_date": "1984-01-01",
-      "title": "Свадьба соек",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0491339",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 6608,
-          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
-          "name": "Ekran",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 71,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/q2TAcRloRNjPIdJbROmqKmwZD7n.jpg",
       "genre_ids": [
         18,
@@ -1083,7 +1038,7 @@
       "original_language": "ru",
       "original_title": "Шут",
       "overview": "Валентин Успенский считает себя «психологом по призванию». Используя особую систему приёмов, которые он называет шутэнами, юноша постоянно производит психологические эксперименты над окружающими. Порой его развлечения бывают достаточно жестокими, с другой стороны неординарность юноши вызывает интерес со стороны симпатичной одноклассницы Ирины Богдановой. Девушка в свою очередь начинает провоцировать юношу — сперва предлагает ему вступить в интимную связь, а после отказа приводит Валю к своим друзьям, где уединяется с одним из них. Раздосадованный, Успенский вызывающе себя ведёт, чем вызывает агрессию к себе со стороны хозяев. Вернувшись после этого домой, юноша в оскорбительной форме демонстрирует своё непризнание ценностей своих родителей — профессора-япониста и его преданной жены. Теперь Валя решает создать ловушку для молодого учителя математики Игоря Александровича, однако тому удаётся просчитать логику подростка, в итоге Успенский терпит свой самый сокрушительный проигрыш.",
-      "popularity": 0.3277,
+      "popularity": 0.2727,
       "poster_path": "/pcsIGH3azcQTgOia7LIevAC5QIb.jpg",
       "release_date": "1988-10-31",
       "title": "Шут",
@@ -1199,22 +1154,113 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/c5aLYCHDF2Dph7DtKxFSghEc0yP.jpg",
+      "backdrop_path": "/i8dWxOTaDnxFYRf6fKGXxVNpB25.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10402,
+        10749
+      ],
+      "id": 215478,
+      "original_language": "ru",
+      "original_title": "Русалочка",
+      "overview": "Маленькая Русалочка полюбила Принца, однажды спасенного ею во время шторма. Ради этой любви Русалочка пожертвовала многим: она не побоялась покинуть свой дом, вступила в сделку с колдуньей. Колдунья, используя различные магические заклятия, сотворила ей вместо рыбьего хвоста человеческие ноги и сделала так, чтобы Русалочка смогла ходить и жить на земле.",
+      "popularity": 1.0609,
+      "poster_path": "/ePjh9sY0eN2W7c1YYsVR3wDkA3B.jpg",
+      "release_date": "1976-12-17",
+      "title": "Русалочка",
+      "video": false,
+      "vote_average": 6.577,
+      "vote_count": 26,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0160801",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 15567,
+          "logo_path": null,
+          "name": "Boyana Film",
+          "origin_country": "BG"
+        },
+        {
+          "id": 21978,
+          "logo_path": "/3EP1gJYMGlEt7j17naPMg5e2LH2.png",
+          "name": "Gorky Film Studios",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        },
+        {
+          "iso_3166_1": "BG",
+          "name": "Bulgaria"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 84,
+      "spoken_languages": [
+        {
+          "english_name": "Bulgarian",
+          "iso_639_1": "bg",
+          "name": "български език"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rH9DmTh7tVmhE5RU4QvieSqdEwN.jpg",
       "genre_ids": [
         18,
         10752
       ],
-      "id": 71356,
+      "id": 274835,
       "original_language": "ru",
-      "original_title": "Встреча на Эльбе",
-      "overview": "Советские и американские войска встречаются на берегах Эльбы в последние дни Великой отечественной войны. Советское командование пытается наладить мирную жизнь в разоренной Германии. Американцы же с помощью бывшего нациста пытаются получить секретные военные разработки...",
-      "popularity": 0.3019,
-      "poster_path": "/m8vIl5VIp2r6onJScnMUevEi56d.jpg",
-      "release_date": "1949-03-16",
-      "title": "Встреча на Эльбе",
+      "original_title": "Секретная миссия",
+      "overview": "Советская разведчица Марта Ширке с честью выполняет задание командования, но гитлеровцы разоблачают ее…",
+      "popularity": 0.4138,
+      "poster_path": "/foaLEBT1EFM6eIJv7rj38Dyqmfq.jpg",
+      "release_date": "1950-08-21",
+      "title": "Секретная миссия",
       "video": false,
-      "vote_average": 4,
-      "vote_count": 6,
+      "vote_average": 3.4,
+      "vote_count": 5,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -1228,7 +1274,7 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0042029",
+      "imdb_id": "tt0175148",
       "origin_country": [
         "SU"
       ],
@@ -1247,7 +1293,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 104,
+      "runtime": 91,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1265,58 +1311,57 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/tinzdtP3olS0ZUznIrC25K3UTmP.jpg",
       "genre_ids": [
-        28
+        18
       ],
-      "id": 1577384,
+      "id": 589752,
       "original_language": "ru",
-      "original_title": "Тропа гнева",
-      "overview": "Пограничник в отставке Сергей Марков в поисках пропавшей дочери возвращается на границу, где служил в молодости. Чтобы вернуть дочь, ему предстоит распутать детективный клубок вопросов, столкнуться с призраками прошлого: криминалом, местью, собственными ошибками, исправить которые можно только вернувшись к началу — в горы.",
-      "popularity": 0.0936,
-      "poster_path": "/rHv1tOnmkeBzTk3Lgqnfh55UZ8e.jpg",
-      "release_date": "2025-12-11",
-      "title": "Тропа гнева",
+      "original_title": "Чемпион мира",
+      "overview": "История матча за звание чемпиона мира, который прошел на Филиппинах в 1978 году, между действующим чемпионом Анатолием Карповым и претендентом на этот титул - гроссмейстером Виктором Корчным, несколько лет назад эмигрировавшим из СССР.",
+      "popularity": 1.0829,
+      "poster_path": "/sNJg8VCcg4WVzVSpGB2rEAW0rGq.jpg",
+      "release_date": "2021-12-30",
+      "title": "Чемпион мира",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 6.1,
+      "vote_count": 36,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 7535000,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": null,
+      "imdb_id": "tt13930782",
       "origin_country": [
-        "RU",
-        "TJ"
+        "RU"
       ],
       "production_companies": [
         {
-          "id": 54667,
-          "logo_path": null,
-          "name": "Studio Lendoc",
+          "id": 3467,
+          "logo_path": "/pumbDNR4udEagb3ldNUMFSA85Fn.png",
+          "name": "Studio Trite",
           "origin_country": "RU"
         },
         {
-          "id": 81997,
-          "logo_path": "/otfBTkUJTyZnn82pvq6kxJNdQEk.png",
-          "name": "REN TV",
+          "id": 3419,
+          "logo_path": "/byrxE2pJD9JLyBCIzyK0pYVanyG.png",
+          "name": "Central Partnership",
           "origin_country": "RU"
         },
         {
-          "id": 23332,
-          "logo_path": "/7DAK0C5Ftkm9cpnhjwpRhpYq6t7.png",
-          "name": "Tajikfilm",
-          "origin_country": "TJ"
+          "id": 99796,
+          "logo_path": "/9mf2AFZUoQP4ovnNiSOg7SKJjZa.png",
+          "name": "KIT Film Studio",
+          "origin_country": "RU"
         },
         {
-          "id": 15755,
-          "logo_path": "/cZDbkvJPOnzHlmu2CDx05DcEnaf.png",
-          "name": "Ministry of Culture of the Russian Federation",
+          "id": 76049,
+          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+          "name": "Cinema Foundation of Russia",
           "origin_country": "RU"
         }
       ],
@@ -1324,14 +1369,10 @@
         {
           "iso_3166_1": "RU",
           "name": "Russia"
-        },
-        {
-          "iso_3166_1": "TJ",
-          "name": "Tajikistan"
         }
       ],
       "revenue": 0,
-      "runtime": 91,
+      "runtime": 145,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1341,7 +1382,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"

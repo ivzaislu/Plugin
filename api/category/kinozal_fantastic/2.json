@@ -5,35 +5,34 @@
   },
   "page": 2,
   "limit": 20,
-  "total": 237,
+  "total": 238,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/6cYPpzjHcxcSaXEQc8s3sMbcfZS.jpg",
+      "backdrop_path": "/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
       "genre_ids": [
+        28,
         12,
-        14,
-        28
+        14
       ],
-      "id": 9387,
+      "id": 1729,
       "original_language": "en",
-      "original_title": "Conan the Barbarian",
-      "overview": "В детстве Конан стал свидетелем жестокого убийства своих родителей беспощадным Тулсой Думом. Его обезумевшие от запаха крови солдаты разорилии сожгли дотла родную деревню Конана. Мальчик вырастает в рабстве и превращается в обладающего неимоверной силой и мышечной массой непобедимого воина. Поклявшись отомстить за родителей, он отправляется на поиски своего врага. Его путь полон невероятных приключений, отчаянных поединков, неожиданных встреч и опасностей. Конан с достоинством проходит все испытания, но сможет ли он победить в последней и самой опасной битве в его жизни, битве с непобедимым Тулсой Думом?",
-      "popularity": 11.0425,
-      "poster_path": "/jHDxG1eGYaXAMJxATwiUBVB0N6.jpg",
-      "release_date": "1982-03-16",
-      "title": "Конан Варвар",
+      "original_title": "The Forbidden Kingdom",
+      "overview": "Американский подросток Джейсон, основательно помешанный на кунг-фу во всех его проявлениях, от самого спорта до фильмов про него, делает удивительное открытие: в одном из магазинчиков в китайском квартале он находит легендарный посох великого воина Царя Обезьян…",
+      "popularity": 5.2214,
+      "poster_path": "/q50W8qS34nQWXRjHAXiiyl1Om3l.jpg",
+      "release_date": "2008-04-17",
+      "title": "Запретное царство",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 2693,
-      "belongs_to_collection": {
-        "id": 43055,
-        "name": "Конан - Варвар (Коллекция)",
-        "poster_path": "/oIOuhJaDU18u1jrYAKmL0UeqnYu.jpg",
-        "backdrop_path": "/rJw7mflYzuHXBdRYEJyjAXDru5t.jpg"
-      },
-      "budget": 20000000,
+      "vote_average": 6.627,
+      "vote_count": 1849,
+      "belongs_to_collection": null,
+      "budget": 55000000,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
         {
           "id": 12,
           "name": "приключения"
@@ -41,40 +40,93 @@
         {
           "id": 14,
           "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0082198",
+      "imdb_id": "tt0865556",
       "origin_country": [
-        "US"
+        "CN",
+        "US",
+        "HK"
       ],
       "production_companies": [
         {
-          "id": 10308,
-          "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png",
-          "name": "The De Laurentiis Company",
+          "id": 877,
+          "logo_path": "/n8gjQIrJ77CSFroDCuQbj5cqOaQ.png",
+          "name": "Casey Silver Productions",
           "origin_country": "US"
         },
         {
-          "id": 6455,
-          "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
-          "name": "Pressman Film",
+          "id": 2269,
+          "logo_path": null,
+          "name": "China Film Co-Production Corp.",
+          "origin_country": "CN"
+        },
+        {
+          "id": 7295,
+          "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+          "name": "Relativity Media",
           "origin_country": "US"
+        },
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 308,
+          "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+          "name": "The Weinstein Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 2520,
+          "logo_path": null,
+          "name": "Arclight Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 3393,
+          "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+          "name": "Huayi Brothers Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 200407,
+          "logo_path": null,
+          "name": "J&J Project",
+          "origin_country": "HK"
+        },
+        {
+          "id": 194859,
+          "logo_path": "/pG7MJ556xsjrvVosg4TWmMLWV9v.png",
+          "name": "Salon Films",
+          "origin_country": "HK"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 68851475,
-      "runtime": 130,
+      "revenue": 127906624,
+      "runtime": 104,
       "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -82,7 +134,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Вор. Воин. Гладиатор. Король.»",
+      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -174,60 +226,60 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+      "backdrop_path": "/6cYPpzjHcxcSaXEQc8s3sMbcfZS.jpg",
       "genre_ids": [
-        35,
-        10751,
-        14
+        12,
+        14,
+        28
       ],
-      "id": 2758,
+      "id": 9387,
       "original_language": "en",
-      "original_title": "Addams Family Values",
-      "overview": "Мортиция ожидает появления третьего ребёнка. Малыша нарекают Пубертом. Венсди и Пагсли недовольны тем, что им теперь уделяется мало внимания. Тем более, что существует поверье: когда рождается новый ребёнок, один из предыдущих должен умереть.",
-      "popularity": 7.6181,
-      "poster_path": "/2oy4UnBjHdUMzyxKVMqPbU5vGHi.jpg",
-      "release_date": "1993-11-19",
-      "title": "Ценности семейки Аддамс",
+      "original_title": "Conan the Barbarian",
+      "overview": "В детстве Конан стал свидетелем жестокого убийства своих родителей беспощадным Тулсой Думом. Его обезумевшие от запаха крови солдаты разорилии сожгли дотла родную деревню Конана. Мальчик вырастает в рабстве и превращается в обладающего неимоверной силой и мышечной массой непобедимого воина. Поклявшись отомстить за родителей, он отправляется на поиски своего врага. Его путь полон невероятных приключений, отчаянных поединков, неожиданных встреч и опасностей. Конан с достоинством проходит все испытания, но сможет ли он победить в последней и самой опасной битве в его жизни, битве с непобедимым Тулсой Думом?",
+      "popularity": 11.0425,
+      "poster_path": "/jHDxG1eGYaXAMJxATwiUBVB0N6.jpg",
+      "release_date": "1982-03-16",
+      "title": "Конан Варвар",
       "video": false,
-      "vote_average": 6.969,
-      "vote_count": 3230,
+      "vote_average": 6.8,
+      "vote_count": 2693,
       "belongs_to_collection": {
-        "id": 11716,
-        "name": "Семейка Аддамс (Коллекция)",
-        "poster_path": "/yZSdUJ4VwvlEG9LRt6QrMV4oF7I.jpg",
-        "backdrop_path": "/jYIY5lqbFStLuqcwi0d1GtKA4p6.jpg"
+        "id": 43055,
+        "name": "Конан - Варвар (Коллекция)",
+        "poster_path": "/oIOuhJaDU18u1jrYAKmL0UeqnYu.jpg",
+        "backdrop_path": "/rJw7mflYzuHXBdRYEJyjAXDru5t.jpg"
       },
-      "budget": 47000000,
+      "budget": 20000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
+          "id": 12,
+          "name": "приключения"
         },
         {
           "id": 14,
           "name": "фэнтези"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0106220",
+      "imdb_id": "tt0082198",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 258,
-          "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
-          "name": "Scott Rudin Productions",
+          "id": 10308,
+          "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png",
+          "name": "The De Laurentiis Company",
           "origin_country": "US"
         },
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 6455,
+          "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+          "name": "Pressman Film",
           "origin_country": "US"
         }
       ],
@@ -237,8 +289,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 48919043,
-      "runtime": 94,
+      "revenue": 68851475,
+      "runtime": 130,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -247,7 +299,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "\"Семья просто стала немного чужой\"",
+      "tagline": "«Вор. Воин. Гладиатор. Король.»",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -336,293 +388,6 @@
       "status": "Released",
       "tagline": "«Все, берегитесь: он злой и зелёный!»",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
-      "genre_ids": [
-        35,
-        14
-      ],
-      "id": 1114967,
-      "original_language": "en",
-      "original_title": "Good Fortune",
-      "overview": "Добродушный, но не слишком умелый ангел по имени Габриэль вмешивается в жизни работника-фрилансера и богатого венчурного капиталиста.",
-      "popularity": 13.5329,
-      "poster_path": "/smgLN6330v7F1spPzAHd789yiZh.jpg",
-      "release_date": "2025-10-14",
-      "title": "Везунчики",
-      "video": false,
-      "vote_average": 7.075,
-      "vote_count": 380,
-      "belongs_to_collection": null,
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27543578",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 221429,
-          "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-          "name": "Media Capital Technologies",
-          "origin_country": "US"
-        },
-        {
-          "id": 168945,
-          "logo_path": null,
-          "name": "Oh Brudder Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 26114174,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Нужно Чудо?»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
-      "id": 1253000,
-      "original_language": "en",
-      "original_title": "Deathstalker",
-      "overview": "Ловчий смерти, легендарный воин и бывший рыцарь, однажды среди трупов на поле боя находит таинственный амулет и становится жертвой древнего проклятия. Теперь ему предстоит найти способ снять проклятие и спасти королевство Абраксеон от зла.",
-      "popularity": 3.5148,
-      "poster_path": "/8ueAPhe6tRBuzjrtmLwBT3zXGFV.jpg",
-      "release_date": "2025-10-10",
-      "title": "Ловчий смерти",
-      "video": false,
-      "vote_average": 6.339,
-      "vote_count": 28,
-      "belongs_to_collection": {
-        "id": 48655,
-        "name": "Deathstalker Collection",
-        "poster_path": "/lXxbywRtTyCBY6PhrRHV8RHwNUN.jpg",
-        "backdrop_path": "/t96b8refI7jfKTWBhW6go68rLd6.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33996087",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 166352,
-          "logo_path": "/iGT88rHQbaTOqlGka0FcDA7Yudw.png",
-          "name": "Hangar 18 Media",
-          "origin_country": "CA"
-        },
-        {
-          "id": 272552,
-          "logo_path": "/qEdWbPT5fq85RjpcAJ2RY1dpGlY.png",
-          "name": "BerserkerGang",
-          "origin_country": "US"
-        },
-        {
-          "id": 118155,
-          "logo_path": "/gZh4ZgiE9bNfDvdhwKE2peIhOY9.png",
-          "name": "Shout! Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 25884,
-          "logo_path": null,
-          "name": "Raven Banner Entertainment",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«У зла много имён»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/aRYR8DSht5aVzaAQ2s31L4y0jK.jpg",
-      "genre_ids": [
-        14,
-        18,
-        28,
-        35,
-        53,
-        10751,
-        10770
-      ],
-      "id": 26381,
-      "original_language": "en",
-      "original_title": "Christmas Town",
-      "overview": "Риэлтор Элизабет — законченный трудоголик. Она отдает работе все время, без праздников и выходных. Элизабет одна воспитывает сына Мэйсона, недовольного тем, что ему уделяется слишком мало внимания.  С большим трудом мальчику удается уговорить маму поехать на Рождество к дедушке, живущему в городке Холливилл, которого нет ни на одной карте. Элизабет не любит праздники и, разумеется, не чувствует духа Рождества. Но в Холливилле женщине приходится убедиться в том, что чудеса существуют…",
-      "popularity": 3.2298,
-      "poster_path": "/59lgpjWNZUSFTETgKYymPkROFFw.jpg",
-      "release_date": "2008-12-09",
-      "title": "Рождественский городок",
-      "video": false,
-      "vote_average": 4.9,
-      "vote_count": 25,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1330015",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6521,
-          "logo_path": null,
-          "name": "CanWest MediaWorks",
-          "origin_country": ""
-        },
-        {
-          "id": 6522,
-          "logo_path": null,
-          "name": "Christmas Town Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 7119,
-          "logo_path": "/2aFVtrHVcqGOq1qwYlPZ7VQ67Oi.png",
-          "name": "Hybrid",
-          "origin_country": "US"
-        },
-        {
-          "id": 2865,
-          "logo_path": "/5O0gp5QS3n9ZPRvWFxaWa6QPpGX.png",
-          "name": "Insight Film Studios",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -978,6 +743,293 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 1114967,
+      "original_language": "en",
+      "original_title": "Good Fortune",
+      "overview": "Добродушный, но не слишком умелый ангел по имени Габриэль вмешивается в жизни работника-фрилансера и богатого венчурного капиталиста.",
+      "popularity": 13.5329,
+      "poster_path": "/smgLN6330v7F1spPzAHd789yiZh.jpg",
+      "release_date": "2025-10-14",
+      "title": "Везунчики",
+      "video": false,
+      "vote_average": 7.075,
+      "vote_count": 380,
+      "belongs_to_collection": null,
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt27543578",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 221429,
+          "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+          "name": "Media Capital Technologies",
+          "origin_country": "US"
+        },
+        {
+          "id": 168945,
+          "logo_path": null,
+          "name": "Oh Brudder Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 26114174,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Нужно Чудо?»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1253000,
+      "original_language": "en",
+      "original_title": "Deathstalker",
+      "overview": "Ловчий смерти, легендарный воин и бывший рыцарь, однажды среди трупов на поле боя находит таинственный амулет и становится жертвой древнего проклятия. Теперь ему предстоит найти способ снять проклятие и спасти королевство Абраксеон от зла.",
+      "popularity": 3.5148,
+      "poster_path": "/8ueAPhe6tRBuzjrtmLwBT3zXGFV.jpg",
+      "release_date": "2025-10-10",
+      "title": "Ловчий смерти",
+      "video": false,
+      "vote_average": 6.339,
+      "vote_count": 28,
+      "belongs_to_collection": {
+        "id": 48655,
+        "name": "Deathstalker Collection",
+        "poster_path": "/lXxbywRtTyCBY6PhrRHV8RHwNUN.jpg",
+        "backdrop_path": "/t96b8refI7jfKTWBhW6go68rLd6.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33996087",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 166352,
+          "logo_path": "/iGT88rHQbaTOqlGka0FcDA7Yudw.png",
+          "name": "Hangar 18 Media",
+          "origin_country": "CA"
+        },
+        {
+          "id": 272552,
+          "logo_path": "/qEdWbPT5fq85RjpcAJ2RY1dpGlY.png",
+          "name": "BerserkerGang",
+          "origin_country": "US"
+        },
+        {
+          "id": 118155,
+          "logo_path": "/gZh4ZgiE9bNfDvdhwKE2peIhOY9.png",
+          "name": "Shout! Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 25884,
+          "logo_path": null,
+          "name": "Raven Banner Entertainment",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«У зла много имён»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aRYR8DSht5aVzaAQ2s31L4y0jK.jpg",
+      "genre_ids": [
+        14,
+        18,
+        28,
+        35,
+        53,
+        10751,
+        10770
+      ],
+      "id": 26381,
+      "original_language": "en",
+      "original_title": "Christmas Town",
+      "overview": "Риэлтор Элизабет — законченный трудоголик. Она отдает работе все время, без праздников и выходных. Элизабет одна воспитывает сына Мэйсона, недовольного тем, что ему уделяется слишком мало внимания.  С большим трудом мальчику удается уговорить маму поехать на Рождество к дедушке, живущему в городке Холливилл, которого нет ни на одной карте. Элизабет не любит праздники и, разумеется, не чувствует духа Рождества. Но в Холливилле женщине приходится убедиться в том, что чудеса существуют…",
+      "popularity": 3.2298,
+      "poster_path": "/59lgpjWNZUSFTETgKYymPkROFFw.jpg",
+      "release_date": "2008-12-09",
+      "title": "Рождественский городок",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 25,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1330015",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 6521,
+          "logo_path": null,
+          "name": "CanWest MediaWorks",
+          "origin_country": ""
+        },
+        {
+          "id": 6522,
+          "logo_path": null,
+          "name": "Christmas Town Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 7119,
+          "logo_path": "/2aFVtrHVcqGOq1qwYlPZ7VQ67Oi.png",
+          "name": "Hybrid",
+          "origin_country": "US"
+        },
+        {
+          "id": 2865,
+          "logo_path": "/5O0gp5QS3n9ZPRvWFxaWa6QPpGX.png",
+          "name": "Insight Film Studios",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 83,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": null,
       "genre_ids": [
         9648
@@ -1027,6 +1079,300 @@
           "english_name": "Russian",
           "iso_639_1": "ru",
           "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90IcDDC47Rck4D2fyZbpZ1rbFZW.jpg",
+      "genre_ids": [
+        18,
+        14,
+        10749
+      ],
+      "id": 556694,
+      "original_language": "en",
+      "original_title": "Three Thousand Years of Longing",
+      "overview": "Британская лингвистка Алетея прилетает из Лондона в Стамбул, чтобы прочитать курс лекций по нарративу. Уже в аэропорту женщина начинает видеть загадочных существ, а когда в одной из многочисленных сувенирных лавочек покупает стеклянную бутылочку и пытается её отмыть, перед ней возникает самый настоящий джинн. Алетея не торопится загадывать три желания, ей интереснее послушать его историю. Джинн начинает свой рассказ.",
+      "popularity": 4.5093,
+      "poster_path": "/tb3967BJu5QbZgiIh715pAigywF.jpg",
+      "release_date": "2022-08-24",
+      "title": "Три тысячи лет желаний",
+      "video": false,
+      "vote_average": 6.887,
+      "vote_count": 1586,
+      "belongs_to_collection": null,
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt9198364",
+      "origin_country": [
+        "AU",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 7493,
+          "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+          "name": "FilmNation Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 142069,
+          "logo_path": null,
+          "name": "Elevate Production Finance",
+          "origin_country": "AU"
+        },
+        {
+          "id": 192426,
+          "logo_path": "/ux0PrwWFqzjqYx0i2SieggC7ML6.png",
+          "name": "Sunac Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 28382,
+          "logo_path": "/eaQ9IuuaSNBeSdocdtGLvhXAHfg.png",
+          "name": "Kennedy Miller Mitchell",
+          "origin_country": "AU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
+        },
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 20300000,
+      "runtime": 108,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Greek",
+          "iso_639_1": "el",
+          "name": "ελληνικά"
+        },
+        {
+          "english_name": "Turkish",
+          "iso_639_1": "tr",
+          "name": "Türkçe"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Что пожелаете?»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 18823,
+      "original_language": "en",
+      "original_title": "Clash of the Titans",
+      "overview": "Персей, сын бога, воспитанный человеком, не смог защитить свою семью от Аида, мстительного повелителя подземного мира. Теперь ему уже нечего терять, и он добровольно соглашается возглавить опасную миссию, чтобы одержать победу над Аидом до того, как тот отберет власть у Зевса и выпустит демонов подземного царства на Землю.Возглавляя отряд бесстрашных воинов, Персей отправляется в рискованное путешествие по лабиринту запретных миров.",
+      "popularity": 7.2767,
+      "poster_path": "/43f3EqCTpw1hrvzhmOSSIQGMD0N.jpg",
+      "release_date": "2010-03-26",
+      "title": "Битва титанов",
+      "video": false,
+      "vote_average": 5.92,
+      "vote_count": 6537,
+      "belongs_to_collection": {
+        "id": 86780,
+        "name": "Битва Титанов (Коллекция)",
+        "poster_path": "/qAWlk7u3ysGhFpuMHBdBj3E7qNc.jpg",
+        "backdrop_path": "/vmE52XvE2yWWQFt4g1x17K070gY.jpg"
+      },
+      "budget": 125000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0800320",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 80,
+          "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
+          "name": "The Zanuck Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 3528,
+          "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+          "name": "Thunder Road",
+          "origin_country": "US"
+        },
+        {
+          "id": 20478,
+          "logo_path": "/gSS2OBc6dRsK2ewRx5lcwnARrpl.png",
+          "name": "Moving Picture Company",
+          "origin_country": "GB"
+        },
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 493214993,
+      "runtime": 106,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Легенды оживают в 3D»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dMgqhtGylb0ajUFRHsflAjDkv2C.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35
+      ],
+      "id": 84379,
+      "original_language": "de",
+      "original_title": "Es ist ein Elch entsprungen",
+      "overview": "Накануне Рождества на крышу дома Вагнеров с неба упал лось. Каково же было удивление детей, когда летающий лось представился: «Муз, мистер Муз. Семейство оленевых». Оказалось, что лось вез на санях своего хозяина Санта-Клауса и не вписался в поворот. Рождество не наступит, если лось вовремя не вернется к Санте.",
+      "popularity": 0.1816,
+      "poster_path": "/3fXmQh34Y5QP6R09UqWpbB9oiRp.jpg",
+      "release_date": "2005-10-30",
+      "title": "Сбежавший лось",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 12,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0449011",
+      "origin_country": [
+        "DE"
+      ],
+      "production_companies": [
+        {
+          "id": 13016,
+          "logo_path": null,
+          "name": "Cine Tirol",
+          "origin_country": "AT"
+        },
+        {
+          "id": 1251,
+          "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+          "name": "ARD",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        }
+      ],
+      "revenue": 7157118,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
         }
       ],
       "status": "Released",
@@ -1442,236 +1788,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/skmFqH67nh8zJacf7WcR204Kgvl.jpg",
-      "genre_ids": [
-        14,
-        10749
-      ],
-      "id": 1354518,
-      "original_language": "en",
-      "original_title": "100 Nights of Hero",
-      "overview": "Черри и её муж Джером вызваны к деспоту Бердмену, который требует от них зачать ребёнка, поскольку они этого не сделали за месяцы после свадьбы. Черри предупреждают о последствиях, если через сто одну ночь не будет результата.\r Джером, не любящий жену и мало интересующийся её судьбой, заключает пари со своим обаятельным другом Манфредом: если другу удастся соблазнить Черри, то он получит жену и замок в качестве награды. Джером уезжает в путешествие, а Манфред принимается за дело. Однако Хиро, подруга и служанка Черри, пытается помешать новому гостю, и каждый день она рассказывает интересные истории, чтобы отвлечь его от Черри.",
-      "popularity": 3.112,
-      "poster_path": "/yday2nUwR9amqp6YGGQ5wF47qWJ.jpg",
-      "release_date": "2025-12-05",
-      "title": "100 ночей Хиро",
-      "video": false,
-      "vote_average": 5.313,
-      "vote_count": 8,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33350512",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 88645,
-          "logo_path": "/tvN8hY2RKdiFepU7jJ51JDVq5bV.png",
-          "name": "Erebus Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 173619,
-          "logo_path": null,
-          "name": "Project Infinity",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 91,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/AtwEQgJ07mzy7WvfQcLfjdKgaXT.jpg",
-      "genre_ids": [
-        10751,
-        35,
-        14
-      ],
-      "id": 454467,
-      "original_language": "en",
-      "original_title": "Noelle",
-      "overview": "Дочь Санта-Клауса вынуждена взять на себя семейный бизнес, когда ее отец решает уйти в отставку…",
-      "popularity": 6.205,
-      "poster_path": "/ojKDqtp81mJx8Sqpe2G8rPzcw9x.jpg",
-      "release_date": "2019-11-12",
-      "title": "Николь",
-      "video": false,
-      "vote_average": 6.592,
-      "vote_count": 721,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt5097410",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2,
-          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-          "name": "Walt Disney Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Saving Christmas together? Oh, joy»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bHHyjodPqQVlNiRR9g6L5ar5JOy.jpg",
-      "genre_ids": [
-        14,
-        18,
-        10751
-      ],
-      "id": 13765,
-      "original_language": "en",
-      "original_title": "Scrooge",
-      "overview": "1860 год. Скупой и капризный Эбенезер Скрудж влюблён лишь в своё богатство. Он не разделяет общей радости от приближающегося Рождества. В вечер сочельника Скруджу предстаёт дух его покойного компаньона Джейкоба Марли. Дух Марли сожалеет, что после смерти был наказан за чёрствость и корысть. Он не хочет такой же участи для Скруджа. По его просьбе Скруджа посетят три духа, которые помогут ему измениться. Они будут являться один за другим в течение трёх ночей…",
-      "popularity": 2.1674,
-      "poster_path": "/eadjJGFdbZdhXSjtokmay7NjVHi.jpg",
-      "release_date": "1970-11-05",
-      "title": "Скрудж",
-      "video": false,
-      "vote_average": 6.813,
-      "vote_count": 160,
-      "belongs_to_collection": null,
-      "budget": 5000000,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0066344",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 3070,
-          "logo_path": "/HpLKMqrVxDIm3k6WE33aqN0H5M.png",
-          "name": "Cinema Center Films",
-          "origin_country": ""
-        },
-        {
-          "id": 18817,
-          "logo_path": null,
-          "name": "Waterbury Films",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 6000000,
-      "runtime": 113,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Что, черт возьми, они сделали со Скруджем?»",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
