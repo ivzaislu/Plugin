@@ -5,8 +5,190 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 82,
+  "total": 83,
   "items": [
+    {
+      "adult": false,
+      "backdrop_path": "/uDPNsFzBeAjGve3xyo30V7FfqsL.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1318234,
+      "original_language": "cs",
+      "original_title": "Neporazitelní",
+      "overview": "Этот фильм заставит вас смеяться и плакать одновременно. Эта вдохновляющая история о стремлении к мечте и использовании второго шанса в жизни. Сюжет разворачивается на фоне выдающегося события мирового масштаба.",
+      "popularity": 8.6542,
+      "poster_path": "/mhruR1AKOY5idWWbK21gzlHdUFa.jpg",
+      "release_date": "2025-11-19",
+      "title": "Непобедимые",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31411053",
+      "origin_country": [
+        "CZ"
+      ],
+      "production_companies": [
+        {
+          "id": 234176,
+          "logo_path": null,
+          "name": "Visual Riders s.r.o.",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CZ",
+          "name": "Czech Republic"
+        }
+      ],
+      "revenue": 981542,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Czech",
+          "iso_639_1": "cs",
+          "name": "Český"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama",
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbUPJoJJquPbX1AiV6GzOqcmJME.jpg",
+      "genre_ids": [
+        28,
+        16,
+        14,
+        27,
+        10752
+      ],
+      "id": 587092,
+      "original_language": "es",
+      "original_title": "Unicorn Wars",
+      "overview": "Много лет между мишками и единорогами идёт жестокая война, хотя никто уже и не помнит, почему. Молодой рядовой Блюэт жаждет крови единорогов, потому что согласно пророчеству она дарует вечную красоту. Вместе с мишками своего полка он отправляется из тренировочного лагеря прямо в гущу кровопролитной бойни.",
+      "popularity": 1.3821,
+      "poster_path": "/cGCFmyYK0n6mK1lfRTSj86Y89xK.jpg",
+      "release_date": "2022-10-21",
+      "title": "Война единорогов",
+      "video": false,
+      "vote_average": 7.604,
+      "vote_count": 207,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt10483152",
+      "origin_country": [
+        "FR",
+        "ES"
+      ],
+      "production_companies": [
+        {
+          "id": 80052,
+          "logo_path": "/eqzVWXXSQUd1pD8gQMPhYaVEQr0.png",
+          "name": "UniKo",
+          "origin_country": "ES"
+        },
+        {
+          "id": 83401,
+          "logo_path": null,
+          "name": "Schmuby Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 12434,
+          "logo_path": "/9rfMaAC5f84cCmmVmYv29nGkdY1.png",
+          "name": "Autour de Minuit",
+          "origin_country": "FR"
+        },
+        {
+          "id": 34069,
+          "logo_path": "/i8ALsnHxQ5JsQdoiHY1vxEmoEnJ.png",
+          "name": "Panique!",
+          "origin_country": "BE"
+        },
+        {
+          "id": 115713,
+          "logo_path": null,
+          "name": "Abano Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 981,
+          "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+          "name": "TVE",
+          "origin_country": "ES"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        }
+      ],
+      "revenue": 28809,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
     {
       "adult": false,
       "backdrop_path": "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
@@ -97,88 +279,6 @@
           "english_name": "Japanese",
           "iso_639_1": "ja",
           "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ipkrxvlu0j5h7yNn5gT1SMSALcr.jpg",
-      "genre_ids": [
-        16,
-        10751
-      ],
-      "id": 893366,
-      "original_language": "fr",
-      "original_title": "Le Petit Nicolas - Qu'est-ce qu'on attend pour être heureux ?",
-      "overview": "Жили в Париже два друга – писатель и художник. И придумали они однажды маленького Николя – озорного мальчугана, который любит своих родителей, ходит в школу, проказничает с друзьями и мечтает стать пилотом. Главное качество Николя – умение видеть что-то забавное даже в самых обычных вещах, так что каждый его день наполнен удивительными приключениями...",
-      "popularity": 0.9141,
-      "poster_path": "/jyWXpI7TexZaezNJaWj4dDqGbcy.jpg",
-      "release_date": "2022-02-15",
-      "title": "Маленький Николя",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 106,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt10290244",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 20338,
-          "logo_path": "/yCTqaPPzFfjqKU2YAGWce4qQk1S.png",
-          "name": "Bidibul Productions",
-          "origin_country": "LU"
-        },
-        {
-          "id": 288175,
-          "logo_path": null,
-          "name": "ON Classics",
-          "origin_country": "FR"
-        },
-        {
-          "id": 144803,
-          "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
-          "name": "Align",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "LU",
-          "name": "Luxembourg"
-        }
-      ],
-      "revenue": 3813788,
-      "runtime": 82,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
         }
       ],
       "status": "Released",

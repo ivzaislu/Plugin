@@ -1,80 +1,155 @@
 {
   "page": 3,
   "limit": 20,
-  "total": 199,
+  "total": 201,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/bWXZPEtHyQm9rhzWB92quG9raHZ.jpg",
+      "backdrop_path": "/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
       "genre_ids": [
-        53,
-        28,
-        12
+        35,
+        18
       ],
-      "id": 1575718,
-      "original_language": "ko",
-      "original_title": "콘크리트 마켓",
-      "overview": "После землетрясения, разрушившего Сеул, люди выживают в единственной уцелевшей многоэтажке.",
-      "popularity": 0.8637,
-      "poster_path": "/chM70fQbuh2JmYgjcCQZQrHPWiL.jpg",
-      "release_date": "2025-12-03",
-      "title": "Бетонный рынок",
+      "id": 1159206,
+      "original_language": "en",
+      "original_title": "Father Mother Sister Brother",
+      "overview": "Три истории об отношениях между взрослыми детьми, их несколько отстраненным родителем (или родителями) и друг другом.",
+      "popularity": 11.5068,
+      "poster_path": "/d94bvM8xrLcj6m5oqF7tN8lF20B.jpg",
+      "release_date": "2025-12-01",
+      "title": "Отец, мать, сестра, брат",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 2,
-      "belongs_to_collection": {
-        "id": 1196130,
-        "name": "Бетонная утопия",
-        "poster_path": "/l4emA6jN9YQxhdpoZ4IThpMofc6.jpg",
-        "backdrop_path": "/9iJi448p9cvnpnLN7C0jBFjSseX.jpg"
-      },
+      "vote_average": 6.581,
+      "vote_count": 173,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 35,
+          "name": "комедия"
         },
         {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt38954189",
+      "imdb_id": "tt31189315",
       "origin_country": [
-        "KR"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 127541,
-          "logo_path": "/Aq35mXuZv7lhPm8a60YKRaB9Vek.png",
-          "name": "Climax Studios",
-          "origin_country": "KR"
+          "id": 229363,
+          "logo_path": null,
+          "name": "Badjetlag",
+          "origin_country": "US"
         },
         {
-          "id": 145236,
-          "logo_path": "/tTDE3bxNHe2eYlFwLATWGSdJzQN.png",
-          "name": "ANDMARQ Studio",
-          "origin_country": "KR"
+          "id": 142776,
+          "logo_path": null,
+          "name": "Hail Mary Pictures",
+          "origin_country": "IE"
+        },
+        {
+          "id": 237344,
+          "logo_path": "/3fFS8oipevuYlXVbOaqmHYUTyBx.png",
+          "name": "Saint Laurent Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 204957,
+          "logo_path": "/16gclYCHdh6QFQyBRNOo3DuaqDT.png",
+          "name": "MUBI",
+          "origin_country": "GB"
+        },
+        {
+          "id": 128344,
+          "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png",
+          "name": "The Apartment Pictures",
+          "origin_country": "IT"
+        },
+        {
+          "id": 223,
+          "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+          "name": "Les Films du Losange",
+          "origin_country": "FR"
+        },
+        {
+          "id": 132579,
+          "logo_path": null,
+          "name": "Weltkino",
+          "origin_country": "DE"
+        },
+        {
+          "id": 204575,
+          "logo_path": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
+          "name": "Cinema Inutile",
+          "origin_country": "US"
+        },
+        {
+          "id": 1898,
+          "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+          "name": "Fís Éireann/Screen Ireland",
+          "origin_country": "IE"
+        },
+        {
+          "id": 272664,
+          "logo_path": null,
+          "name": "Vague Notion",
+          "origin_country": "US"
+        },
+        {
+          "id": 51696,
+          "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+          "name": "CG Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 139680,
+          "logo_path": "/kfmKLkXqqrScA5l7aYcROQSqeTz.png",
+          "name": "Saint Laurent",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IE",
+          "name": "Ireland"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
-      "revenue": 0,
-      "runtime": 123,
+      "revenue": 2000000,
+      "runtime": 110,
       "spoken_languages": [
         {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
@@ -169,83 +244,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/h7zeuEREJowXbOOEtjSWab3rJzb.jpg",
-      "genre_ids": [
-        53,
-        18
-      ],
-      "id": 1535733,
-      "original_language": "kk",
-      "original_title": "Ауру",
-      "overview": "Сюжет фильма разворачивается вокруг пары, которая запускает фальшивый сбор средств на лечение «онкобольной» жены.",
-      "popularity": 0.548,
-      "poster_path": "/wlMAlSdWGxjlgzKForR7OJxTlAL.jpg",
-      "release_date": "2025-11-13",
-      "title": "Ауру",
-      "video": false,
-      "vote_average": 6.333,
-      "vote_count": 3,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt37455979",
-      "origin_country": [
-        "KZ"
-      ],
-      "production_companies": [
-        {
-          "id": 235269,
-          "logo_path": null,
-          "name": "Tartaria Films",
-          "origin_country": "KZ"
-        },
-        {
-          "id": 120883,
-          "logo_path": null,
-          "name": "Star.KZ Tandem Production",
-          "origin_country": "KZ"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KZ",
-          "name": "Kazakhstan"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 117,
-      "spoken_languages": [
-        {
-          "english_name": "Kazakh",
-          "iso_639_1": "kk",
-          "name": "қазақ"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/yMpLgrUs5AILPQwXO2eMtgEEar0.jpg",
       "genre_ids": [
         18,
@@ -327,93 +325,157 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/yKWZIDo4ixcDUeelk2QGVA1EVmC.jpg",
+      "backdrop_path": "/bWXZPEtHyQm9rhzWB92quG9raHZ.jpg",
       "genre_ids": [
-        27,
-        9648
+        53,
+        28,
+        12
       ],
-      "id": 1078605,
-      "original_language": "en",
-      "original_title": "Weapons",
-      "overview": "Однажды ночью в небольшом городке 17 младшеклассников одновременно убежали из дома и бесследно исчезли. Все они учились в одном классе, и кроме них не пропал только один мальчик. Уже месяц полиция не может найти никаких зацепок, а безутешные родители считают, что с этим как-то связана новая классная руководительница.",
-      "popularity": 25.6248,
-      "poster_path": "/iIUK6jA6ZmJ4mxZsolYFsWONd2A.jpg",
-      "release_date": "2025-08-04",
-      "title": "Орудия",
+      "id": 1575718,
+      "original_language": "ko",
+      "original_title": "콘크리트 마켓",
+      "overview": "После землетрясения, разрушившего Сеул, люди выживают в единственной уцелевшей многоэтажке.",
+      "popularity": 0.8637,
+      "poster_path": "/chM70fQbuh2JmYgjcCQZQrHPWiL.jpg",
+      "release_date": "2025-12-03",
+      "title": "Бетонный рынок",
       "video": false,
-      "vote_average": 7.267,
-      "vote_count": 3037,
+      "vote_average": 6,
+      "vote_count": 2,
       "belongs_to_collection": {
-        "id": 1531466,
-        "name": "Орудия (Коллекция)",
-        "poster_path": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
-        "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
+        "id": 1196130,
+        "name": "Бетонная утопия",
+        "poster_path": "/l4emA6jN9YQxhdpoZ4IThpMofc6.jpg",
+        "backdrop_path": "/9iJi448p9cvnpnLN7C0jBFjSseX.jpg"
       },
-      "budget": 38000000,
+      "budget": 0,
       "genres": [
         {
-          "id": 27,
-          "name": "ужасы"
+          "id": 53,
+          "name": "триллер"
         },
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
-      "homepage": "https://www.warnerbros.com/movies/weapons",
-      "imdb_id": "tt26581740",
+      "homepage": "",
+      "imdb_id": "tt38954189",
       "origin_country": [
-        "US"
+        "KR"
       ],
       "production_companies": [
         {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
+          "id": 127541,
+          "logo_path": "/Aq35mXuZv7lhPm8a60YKRaB9Vek.png",
+          "name": "Climax Studios",
+          "origin_country": "KR"
         },
         {
-          "id": 240675,
-          "logo_path": null,
-          "name": "Subconscious",
-          "origin_country": "US"
-        },
-        {
-          "id": 829,
-          "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-          "name": "Vertigo Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 18609,
-          "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
-          "name": "BoulderLight Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
+          "id": 145236,
+          "logo_path": "/tTDE3bxNHe2eYlFwLATWGSdJzQN.png",
+          "name": "ANDMARQ Studio",
+          "origin_country": "KR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "KR",
+          "name": "South Korea"
         }
       ],
-      "revenue": 269072492,
-      "runtime": 128,
+      "revenue": 0,
+      "runtime": 123,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
-      "tagline": "«17 детей вышли из своих домов в 2:17 ночи... и больше не вернулись»",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h7zeuEREJowXbOOEtjSWab3rJzb.jpg",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 1535733,
+      "original_language": "kk",
+      "original_title": "Ауру",
+      "overview": "Сюжет фильма разворачивается вокруг пары, которая запускает фальшивый сбор средств на лечение «онкобольной» жены.",
+      "popularity": 0.548,
+      "poster_path": "/wlMAlSdWGxjlgzKForR7OJxTlAL.jpg",
+      "release_date": "2025-11-13",
+      "title": "Ауру",
+      "video": false,
+      "vote_average": 6.333,
+      "vote_count": 3,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37455979",
+      "origin_country": [
+        "KZ"
+      ],
+      "production_companies": [
+        {
+          "id": 235269,
+          "logo_path": null,
+          "name": "Tartaria Films",
+          "origin_country": "KZ"
+        },
+        {
+          "id": 120883,
+          "logo_path": null,
+          "name": "Star.KZ Tandem Production",
+          "origin_country": "KZ"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KZ",
+          "name": "Kazakhstan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 117,
+      "spoken_languages": [
+        {
+          "english_name": "Kazakh",
+          "iso_639_1": "kk",
+          "name": "қазақ"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -532,6 +594,101 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/yKWZIDo4ixcDUeelk2QGVA1EVmC.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1078605,
+      "original_language": "en",
+      "original_title": "Weapons",
+      "overview": "Однажды ночью в небольшом городке 17 младшеклассников одновременно убежали из дома и бесследно исчезли. Все они учились в одном классе, и кроме них не пропал только один мальчик. Уже месяц полиция не может найти никаких зацепок, а безутешные родители считают, что с этим как-то связана новая классная руководительница.",
+      "popularity": 25.6248,
+      "poster_path": "/iIUK6jA6ZmJ4mxZsolYFsWONd2A.jpg",
+      "release_date": "2025-08-04",
+      "title": "Орудия",
+      "video": false,
+      "vote_average": 7.267,
+      "vote_count": 3037,
+      "belongs_to_collection": {
+        "id": 1531466,
+        "name": "Орудия (Коллекция)",
+        "poster_path": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
+        "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
+      },
+      "budget": 38000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "https://www.warnerbros.com/movies/weapons",
+      "imdb_id": "tt26581740",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 240675,
+          "logo_path": null,
+          "name": "Subconscious",
+          "origin_country": "US"
+        },
+        {
+          "id": 829,
+          "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+          "name": "Vertigo Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 18609,
+          "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
+          "name": "BoulderLight Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 269072492,
+      "runtime": 128,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«17 детей вышли из своих домов в 2:17 ночи... и больше не вернулись»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
       "genre_ids": [
         28,
@@ -628,51 +785,63 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg",
+      "backdrop_path": "/5iLtvZuiM7QmNjIUXVajdjtCXwb.jpg",
       "genre_ids": [
-        18
+        35
       ],
-      "id": 1033148,
+      "id": 1337562,
       "original_language": "en",
-      "original_title": "Die My Love",
-      "overview": "Грейс и Джексон сбегают из Нью-Йорка в горы Монтаны, чтобы начать жизнь заново — только они и их любовь. Но страсть постепенно сменяется одержимостью. Их уединённый рай превращается в кошмар, где любовь и безумие идут рука об руку.",
-      "popularity": 35.264,
-      "poster_path": "/61qjG6UQwBynB1e4pFNs9DKi1HN.jpg",
-      "release_date": "2025-10-06",
-      "title": "Умри, моя любовь",
+      "original_title": "Splitsville",
+      "overview": "У Конора и Эшли кризис, и они решают вслед за друзьями Полом и Джули попробовать открытые отношения. Но сексуальный эксперимент быстро выходит из-под контроля. Конор начинает тайком встречаться с Джули, Эшли пускается во все тяжкие, а Пол мечтает лишь об одном — вернуть все как было. Оказывается, закрыть отношения куда сложнее, чем их открыть.",
+      "popularity": 7.7733,
+      "poster_path": "/6a5ZSY09wl3qMwtkoujSELTKxp1.jpg",
+      "release_date": "2025-08-21",
+      "title": "Нескромные",
       "video": false,
-      "vote_average": 6.32,
-      "vote_count": 270,
+      "vote_average": 6.348,
+      "vote_count": 128,
       "belongs_to_collection": null,
       "budget": 20000000,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt9362736",
+      "imdb_id": "tt33247023",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 117188,
-          "logo_path": null,
-          "name": "Excellent Cadaver",
+          "id": 90733,
+          "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
+          "name": "NEON",
           "origin_country": "US"
         },
         {
-          "id": 23243,
-          "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
-          "name": "Sikelia Productions",
+          "id": 99366,
+          "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+          "name": "Topic Studios",
           "origin_country": "US"
         },
         {
-          "id": 33681,
-          "logo_path": "/dHx2nsV9AC7IBlKN2dk1FDImvOz.png",
-          "name": "Black Label Media",
+          "id": 118408,
+          "logo_path": "/9OFbJA1VPxwzOxHh8idAQX67W4D.png",
+          "name": "Watch This Ready",
+          "origin_country": "US"
+        },
+        {
+          "id": 148258,
+          "logo_path": "/7jE6IT7EMkC7g6frJUZRLFrdgNe.png",
+          "name": "TeaTime Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 168539,
+          "logo_path": "/sn968qmNPfPDbiYts8c5eDvjo4S.png",
+          "name": "FirstGen Content",
           "origin_country": "US"
         }
       ],
@@ -682,13 +851,18 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 7421995,
-      "runtime": 119,
+      "revenue": 3255315,
+      "runtime": 100,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
@@ -833,63 +1007,51 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/5iLtvZuiM7QmNjIUXVajdjtCXwb.jpg",
+      "backdrop_path": "/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg",
       "genre_ids": [
-        35
+        18
       ],
-      "id": 1337562,
+      "id": 1033148,
       "original_language": "en",
-      "original_title": "Splitsville",
-      "overview": "У Конора и Эшли кризис, и они решают вслед за друзьями Полом и Джули попробовать открытые отношения. Но сексуальный эксперимент быстро выходит из-под контроля. Конор начинает тайком встречаться с Джули, Эшли пускается во все тяжкие, а Пол мечтает лишь об одном — вернуть все как было. Оказывается, закрыть отношения куда сложнее, чем их открыть.",
-      "popularity": 7.7733,
-      "poster_path": "/6a5ZSY09wl3qMwtkoujSELTKxp1.jpg",
-      "release_date": "2025-08-21",
-      "title": "Нескромные",
+      "original_title": "Die My Love",
+      "overview": "Грейс и Джексон сбегают из Нью-Йорка в горы Монтаны, чтобы начать жизнь заново — только они и их любовь. Но страсть постепенно сменяется одержимостью. Их уединённый рай превращается в кошмар, где любовь и безумие идут рука об руку.",
+      "popularity": 35.264,
+      "poster_path": "/61qjG6UQwBynB1e4pFNs9DKi1HN.jpg",
+      "release_date": "2025-10-06",
+      "title": "Умри, моя любовь",
       "video": false,
-      "vote_average": 6.348,
-      "vote_count": 128,
+      "vote_average": 6.32,
+      "vote_count": 270,
       "belongs_to_collection": null,
       "budget": 20000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33247023",
+      "imdb_id": "tt9362736",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 90733,
-          "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
-          "name": "NEON",
+          "id": 117188,
+          "logo_path": null,
+          "name": "Excellent Cadaver",
           "origin_country": "US"
         },
         {
-          "id": 99366,
-          "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
-          "name": "Topic Studios",
+          "id": 23243,
+          "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+          "name": "Sikelia Productions",
           "origin_country": "US"
         },
         {
-          "id": 118408,
-          "logo_path": "/9OFbJA1VPxwzOxHh8idAQX67W4D.png",
-          "name": "Watch This Ready",
-          "origin_country": "US"
-        },
-        {
-          "id": 148258,
-          "logo_path": "/7jE6IT7EMkC7g6frJUZRLFrdgNe.png",
-          "name": "TeaTime Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 168539,
-          "logo_path": "/sn968qmNPfPDbiYts8c5eDvjo4S.png",
-          "name": "FirstGen Content",
+          "id": 33681,
+          "logo_path": "/dHx2nsV9AC7IBlKN2dk1FDImvOz.png",
+          "name": "Black Label Media",
           "origin_country": "US"
         }
       ],
@@ -899,18 +1061,13 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 3255315,
-      "runtime": 100,
+      "revenue": 7421995,
+      "runtime": 119,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
         }
       ],
       "status": "Released",
@@ -1331,6 +1488,167 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/vcrwsAYYYmVLX0c7iFqlV1pZRdT.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1144443,
+      "original_language": "es",
+      "original_title": "Sigue mi voz",
+      "overview": "После кризиса со здоровьем, из-за которого она провела дома 76 дней, Клара только и делает, что слушает свою любимую радиопередачу «Sigue Mi Voz».",
+      "popularity": 17.7985,
+      "poster_path": "/saNidIuqNyFSkCoW60cybQg3tL3.jpg",
+      "release_date": "2025-09-12",
+      "title": "Следуй за моим голосом",
+      "video": false,
+      "vote_average": 7.605,
+      "vote_count": 43,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt23899310",
+      "origin_country": [
+        "ES"
+      ],
+      "production_companies": [
+        {
+          "id": 182897,
+          "logo_path": "/5jZX93pvheCYowROn9LAz499FC5.png",
+          "name": "Wattpad WEBTOON Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 9967,
+          "logo_path": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
+          "name": "Zeta Studios",
+          "origin_country": "ES"
+        },
+        {
+          "id": 210208,
+          "logo_path": "/nGtf6nkEsTYTxtBo7FKV3gmU7lo.png",
+          "name": "Beta Fiction Spain",
+          "origin_country": "ES"
+        },
+        {
+          "id": 228291,
+          "logo_path": null,
+          "name": "Sigue y No Pares",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 101,
+      "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ptHXfOc0gEIG8CrieQ3t8MUBuiP.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1522923,
+      "original_language": "en",
+      "original_title": "Safe House",
+      "overview": "Существует секретная правительственная программа по устройству в больших городах специальных укреплённых убежищ на случай экстремальных угроз первым лицам государства. Понеся тяжёлые потери во время масштабного террористического нападения на правительственный кортеж, шесть агентов спецслужб прячутся в одном из таких мест. Отбиваясь от атак извне, они пытаются восстановить события и приходят к заключению, что среди них находится предатель.",
+      "popularity": 7.1585,
+      "poster_path": "/rCSA1THALPb32bM5Jp5QiviXTqu.jpg",
+      "release_date": "2025-10-30",
+      "title": "Укрытие номер один",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 44,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt30954952",
+      "origin_country": [
+        "US",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 6626,
+          "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+          "name": "Voltage Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 116018,
+          "logo_path": null,
+          "name": "Green Light Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
       "genre_ids": [
         878,
@@ -1489,275 +1807,6 @@
       ],
       "status": "Released",
       "tagline": "«В отпуске вы можете свободно следовать за своим сердцем»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
-      "genre_ids": [
-        18,
-        53,
-        80
-      ],
-      "id": 1456349,
-      "original_language": "fa",
-      "original_title": "یک تصادف ساده",
-      "overview": "Семья едет домой, и внезапно их машина попадает в аварию. В автомастерской механик Вахид узнает по скрипу протеза отца семейства — это человек, которому он давно мечтал отомстить. Вахид готовит похищение, но все сильнее сомневается, не ошибся ли он. Простая случайность приводит к череде серьезных последствий.",
-      "popularity": 24.2979,
-      "poster_path": "/4Y1uQ0i4BSvoLL7qUzIWK7UsoBD.jpg",
-      "release_date": "2025-09-27",
-      "title": "Простая случайность",
-      "video": false,
-      "vote_average": 7.195,
-      "vote_count": 249,
-      "belongs_to_collection": null,
-      "budget": 6000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36491653",
-      "origin_country": [
-        "IR"
-      ],
-      "production_companies": [
-        {
-          "id": 2835,
-          "logo_path": null,
-          "name": "Jafar Panahi Productions",
-          "origin_country": "IR"
-        },
-        {
-          "id": 12389,
-          "logo_path": "/6yilbEvoHtPcTb4LwAueAq091iT.png",
-          "name": "Les Films Pelléas",
-          "origin_country": "FR"
-        },
-        {
-          "id": 20338,
-          "logo_path": "/yCTqaPPzFfjqKU2YAGWce4qQk1S.png",
-          "name": "Bidibul Productions",
-          "origin_country": "LU"
-        },
-        {
-          "id": 165898,
-          "logo_path": "/vBrwZHCYcp8T23rE3AsQu4ffA3J.png",
-          "name": "Pio & Co",
-          "origin_country": "FR"
-        },
-        {
-          "id": 94,
-          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
-          "name": "ARTE France Cinéma",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IR",
-          "name": "Iran"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "LU",
-          "name": "Luxembourg"
-        }
-      ],
-      "revenue": 9044840,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "Azerbaijani",
-          "iso_639_1": "az",
-          "name": "Azərbaycan"
-        },
-        {
-          "english_name": "Persian",
-          "iso_639_1": "fa",
-          "name": "فارسی"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vcrwsAYYYmVLX0c7iFqlV1pZRdT.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1144443,
-      "original_language": "es",
-      "original_title": "Sigue mi voz",
-      "overview": "После кризиса со здоровьем, из-за которого она провела дома 76 дней, Клара только и делает, что слушает свою любимую радиопередачу «Sigue Mi Voz».",
-      "popularity": 17.7985,
-      "poster_path": "/saNidIuqNyFSkCoW60cybQg3tL3.jpg",
-      "release_date": "2025-09-12",
-      "title": "Следуй за моим голосом",
-      "video": false,
-      "vote_average": 7.605,
-      "vote_count": 43,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt23899310",
-      "origin_country": [
-        "ES"
-      ],
-      "production_companies": [
-        {
-          "id": 182897,
-          "logo_path": "/5jZX93pvheCYowROn9LAz499FC5.png",
-          "name": "Wattpad WEBTOON Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 9967,
-          "logo_path": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
-          "name": "Zeta Studios",
-          "origin_country": "ES"
-        },
-        {
-          "id": 210208,
-          "logo_path": "/nGtf6nkEsTYTxtBo7FKV3gmU7lo.png",
-          "name": "Beta Fiction Spain",
-          "origin_country": "ES"
-        },
-        {
-          "id": 228291,
-          "logo_path": null,
-          "name": "Sigue y No Pares",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "ES",
-          "name": "Spain"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ptHXfOc0gEIG8CrieQ3t8MUBuiP.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1522923,
-      "original_language": "en",
-      "original_title": "Safe House",
-      "overview": "Существует секретная правительственная программа по устройству в больших городах специальных укреплённых убежищ на случай экстремальных угроз первым лицам государства. Понеся тяжёлые потери во время масштабного террористического нападения на правительственный кортеж, шесть агентов спецслужб прячутся в одном из таких мест. Отбиваясь от атак извне, они пытаются восстановить события и приходят к заключению, что среди них находится предатель.",
-      "popularity": 7.1585,
-      "poster_path": "/rCSA1THALPb32bM5Jp5QiviXTqu.jpg",
-      "release_date": "2025-10-30",
-      "title": "Укрытие номер один",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 44,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt30954952",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 6626,
-          "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
-          "name": "Voltage Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 116018,
-          "logo_path": null,
-          "name": "Green Light Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 86,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
