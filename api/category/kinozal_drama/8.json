@@ -5,49 +5,75 @@
   },
   "page": 8,
   "limit": 20,
-  "total": 157,
+  "total": 160,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/oNg8dOrAXyxv3mJr6vShmTHlfA9.jpg",
+      "backdrop_path": "/ogKegWajhtkFUmDbCqsa2rJLwbn.jpg",
       "genre_ids": [
-        18
+        18,
+        37,
+        10749,
+        10752,
+        28
       ],
-      "id": 156277,
+      "id": 4476,
       "original_language": "en",
-      "original_title": "Big Sur",
-      "overview": "Писатель Джек Дулуоз ведет крайне самоубийственное существование – алкоголь и наркотики разрушают его жизнь. Он начинает терять веру в себя, в свой талант, и, стремясь вновь обрести силы, уезжает из Нью-Йорка. В изоляции, среди живописных пейзажей Биг-Сюра, района в центральной Калифорнии, он надеется вновь встать на ноги.",
-      "popularity": 1.9916,
-      "poster_path": "/kflrKGGliVnIURJG3W1DcEXyTHH.jpg",
-      "release_date": "2013-11-01",
-      "title": "Биг-Сюр",
+      "original_title": "Legends of the Fall",
+      "overview": "«Некоторые люди очень ясно слышат свой внутренний голос и живут так, как он им подсказывает. Такие люди сходят с ума. Или становятся легендами». Так начинается история семьи Ладлоу — стремительный и романтический рассказ о трёх братьях, их отце и молодой и неотразимой женщине, которая роковым образом изменяет жизнь каждого из них.",
+      "popularity": 4.7244,
+      "poster_path": "/kuVyJSbu9CEsjVoQ5w31Su9ezfc.jpg",
+      "release_date": "1994-12-23",
+      "title": "Легенды осени",
       "video": false,
-      "vote_average": 4.703,
-      "vote_count": 32,
+      "vote_average": 7.382,
+      "vote_count": 2787,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 30000000,
       "genres": [
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 37,
+          "name": "вестерн"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1462411",
+      "imdb_id": "tt0110322",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 19632,
-          "logo_path": "/q2kFlMm4C9UTWgSrJA6iSmDvWMI.png",
-          "name": "3311 Productions",
+          "id": 348,
+          "logo_path": "/mztvNjgx77cXUL6vWR3r7fyeZCa.png",
+          "name": "Bedford Falls Productions",
           "origin_country": "US"
         },
         {
-          "id": 65466,
+          "id": 559,
+          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+          "name": "TriStar Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 1656,
           "logo_path": null,
-          "name": "Troy Entertainment",
+          "name": "Pangaea",
           "origin_country": ""
         }
       ],
@@ -57,8 +83,399 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 33621,
-      "runtime": 100,
+      "revenue": 160638883,
+      "runtime": 133,
+      "spoken_languages": [
+        {
+          "english_name": "Cornish",
+          "iso_639_1": "kw",
+          "name": ""
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Мужчины из семьи Ладлоу. Грация женщины свела их вместе. Затем её страсть разлучила их»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zG2tzaQpTpBKFbgWksJo2uo4ylK.jpg",
+      "genre_ids": [
+        10749,
+        36,
+        18
+      ],
+      "id": 71623,
+      "original_language": "fr",
+      "original_title": "La Putain du roi",
+      "overview": "XVII век, Италия. Придворный короля Витторио Амедео граф Алессандро Веруа привозит из Франции юную и любимую красавицу-жену Жанну. Молодая пара очень счастлива до тех пор, пока Жанну не представили королю, который страстно влюбляется в нее…",
+      "popularity": 1.0333,
+      "poster_path": "/aaoFzT4nzBmGvdsuX2fc63BZo8Y.jpg",
+      "release_date": "1990-11-14",
+      "title": "Королевская шлюха",
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 25,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0100440",
+      "origin_country": [
+        "FR",
+        "IT"
+      ],
+      "production_companies": [
+        {
+          "id": 52085,
+          "logo_path": null,
+          "name": "Cinema & Cinem",
+          "origin_country": ""
+        },
+        {
+          "id": 52086,
+          "logo_path": null,
+          "name": "AFC",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 138,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/56sP9s7qT9y3kL57e3GHVhZfrrV.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 1266359,
+      "original_language": "bn",
+      "original_title": "জংলী",
+      "overview": "Его считали чудовищем: драки, ненависть отца, предательство любимой. Джонни выбрал одиночество, решив, что люди приносят лишь боль. Но однажды в его жизни появляется маленькая Бахи - такая же ненужная своим родителям. Два разбитых сердца. Одна надежда на двоих. Только вместе они смогут собрать по осколкам то, что потеряли - любовь, способную исцелить даже самые глубокие раны...",
+      "popularity": 0.4517,
+      "poster_path": "/xTTtWOfTbn72RsUu7iT3YWgarzs.jpg",
+      "release_date": "2025-03-31",
+      "title": "Дикарь",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31951179",
+      "origin_country": [
+        "BD"
+      ],
+      "production_companies": [
+        {
+          "id": 163835,
+          "logo_path": null,
+          "name": "Filman Entertainment",
+          "origin_country": "BD"
+        },
+        {
+          "id": 224764,
+          "logo_path": null,
+          "name": "MIB Studios",
+          "origin_country": "BD"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BD",
+          "name": "Bangladesh"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 152,
+      "spoken_languages": [
+        {
+          "english_name": "Bengali",
+          "iso_639_1": "bn",
+          "name": "বাংলা"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7EFotxDpmKp2eqWD7C4pGUorpDR.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 115616,
+      "original_language": "en",
+      "original_title": "Hawks",
+      "overview": "Адвокат Бэнкрофт и американский футболист Деккер пересекают Ла-Манш, чтобы отдохнуть в голландском борделе. Отдохнуть напоследок. Это последнее путешествие двух молодых людей — перед тем, как уйти в небытие. Бэнкрофт и Деккер впервые встретились в онкологическом отделении лондонской больницы и решили бросить вызов смерти…",
+      "popularity": 0.9301,
+      "poster_path": "/3nSwYUFp1qEIULwtx2K8jg8DtnI.jpg",
+      "release_date": "1988-08-05",
+      "title": "Ястребы",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 19,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0097487",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 10740,
+          "logo_path": null,
+          "name": "Producers Representative Organization",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d6ELJEiJDoOZhoGe48o4L7qTQKa.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        53
+      ],
+      "id": 58925,
+      "original_language": "fr",
+      "original_title": "Mr. Klein",
+      "overview": "Париж. 1942. Робер Кляйн, эльзасец по происхождению, католик по воспитанию, несмотря на немецкую оккупацию, вполне преуспевает, скупая по дешевке у евреев произведения искусства, мебель. Но вся его жизнь резко меняется, когда он получает по почте газету, предназначенную для евреев, и обнаруживает, что у него есть двойник…",
+      "popularity": 2.6509,
+      "poster_path": "/7nrQxtiRjbJYnWpAhDsGieoaDfT.jpg",
+      "release_date": "1976-09-23",
+      "title": "Мсье Кляйн",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 281,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0074916",
+      "origin_country": [
+        "FR",
+        "IT"
+      ],
+      "production_companies": [
+        {
+          "id": 1713,
+          "logo_path": null,
+          "name": "Adel Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 10522,
+          "logo_path": "/yah2JnPzeYIjOMq7YsCMoPvnFIs.png",
+          "name": "Lira Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 81779,
+          "logo_path": null,
+          "name": "Nova Films",
+          "origin_country": ""
+        },
+        {
+          "id": 10523,
+          "logo_path": null,
+          "name": "Mondial Televisione Film",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 123,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rSK14QXt6TZmGnPWB8Lpt1AqwHn.jpg",
+      "genre_ids": [
+        18,
+        10770,
+        10749
+      ],
+      "id": 421628,
+      "original_language": "en",
+      "original_title": "A Rose for Christmas",
+      "overview": "Энди — увлечённая художница, семья которой поколениями создавала платформы для Парада роз. Когда отец Энди заболевает, ей приходится возглавить работу над заказом. В придачу ко всем проблемам ей приходится иметь дело с требовательным бизнесменом Клиффом — представителем компании-клиента.",
+      "popularity": 0.7478,
+      "poster_path": "/a0dQslu3wI8nPgXuVF2vlOTEtZm.jpg",
+      "release_date": "2017-01-01",
+      "title": "Роза на Рождество",
+      "video": false,
+      "vote_average": 5.718,
+      "vote_count": 55,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6284950",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 6438,
+          "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
+          "name": "Muse Entertainment",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 120,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -284,165 +701,89 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/resjA0V2CB4fx5p332KNoNVQvfL.jpg",
+      "backdrop_path": "/j5qlN86CVojseTMpFVJe92rwlKL.jpg",
       "genre_ids": [
+        35,
         18,
-        10752,
-        36
+        10749
       ],
-      "id": 332179,
-      "original_language": "da",
-      "original_title": "9. april",
-      "overview": "Ранним утром 9 апреля 1940 года датская армия была поднята по тревоге. Немцы перешли границу. Дания вступает в войну против сильнейшей армии в Европе.  Сюжет фильма рассказывает о втором лейтенанте Сэнде и его велосипедной компании — в этот роковой час именно они будут первыми датскими солдатами встретившими врага в бою.",
-      "popularity": 1.2894,
-      "poster_path": "/uRBmj6jz56hCkgxzNsvrk1mNJNO.jpg",
-      "release_date": "2015-03-12",
-      "title": "9 апреля",
-      "video": false,
-      "vote_average": 6.694,
-      "vote_count": 108,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3542188",
-      "origin_country": [
-        "DK"
-      ],
-      "production_companies": [
-        {
-          "id": 118,
-          "logo_path": "/AiBorgNTCS1lT1FdFPYheax9jfF.png",
-          "name": "Det Danske Filminstitut",
-          "origin_country": "DK"
-        },
-        {
-          "id": 758,
-          "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
-          "name": "TV 2",
-          "origin_country": "DK"
-        },
-        {
-          "id": 235,
-          "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
-          "name": "Nordisk Film Denmark",
-          "origin_country": "DK"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DK",
-          "name": "Denmark"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 93,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "Danish",
-          "iso_639_1": "da",
-          "name": "Dansk"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 600354,
+      "id": 45658,
       "original_language": "en",
-      "original_title": "The Father",
-      "overview": "Энтони уже далеко не молод и живет один в лондонской квартире. Он считает, что прекрасно справляется со всем сам, и помощь ему не нужна, но вот его дочь Энн противоположного мнения. Она собралась переезжать в Париж и хочет найти отцу сиделку. Энтони упирается всеми возможными способами, но в его квартире начинают происходить странности — в гостиной оказывается посторонний мужчина, дочь вдруг меняет внешность, и куда-то постоянно пропадают любимые часы.",
-      "popularity": 6.9408,
-      "poster_path": "/xL2A41uKed4nepCCb0621kAxUiL.jpg",
-      "release_date": "2020-12-23",
-      "title": "Отец",
+      "original_title": "Everything Must Go",
+      "overview": "Это история потерявшего работу человека, выставленного из дома собственной женой. Вместе с лузером на лужайке оказывается и все его имущество, которое он пытается распродать за четыре дня.",
+      "popularity": 2.0369,
+      "poster_path": "/n4wMD3LHyo3nYZNWEOGLzgdyWjX.jpg",
+      "release_date": "2011-05-13",
+      "title": "Всё путем!",
       "video": false,
-      "vote_average": 8.096,
-      "vote_count": 3559,
+      "vote_average": 6.161,
+      "vote_count": 657,
       "belongs_to_collection": null,
-      "budget": 6000000,
+      "budget": 5000000,
       "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt10272386",
+      "imdb_id": "tt1531663",
       "origin_country": [
-        "GB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 180147,
-          "logo_path": "/eg9mZcUBMebsCfCZfi4ZXFaNXFg.png",
-          "name": "Les Films du Cru",
-          "origin_country": "FR"
+          "id": 7437,
+          "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
+          "name": "IM Global",
+          "origin_country": "US"
         },
         {
-          "id": 6705,
-          "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
-          "name": "Film4 Productions",
-          "origin_country": "GB"
+          "id": 12292,
+          "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+          "name": "Temple Hill Entertainment",
+          "origin_country": "US"
         },
         {
-          "id": 11778,
-          "logo_path": "/rIiLv4yt20WOQAk1HD1EvLOfDgh.png",
-          "name": "F Comme Film",
-          "origin_country": "FR"
-        },
-        {
-          "id": 22153,
+          "id": 82423,
           "logo_path": null,
-          "name": "Trademark Films",
-          "origin_country": "GB"
+          "name": "Cowtown Cinema Ventures",
+          "origin_country": "US"
         },
         {
-          "id": 2564,
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 7436,
           "logo_path": null,
-          "name": "Ciné-@",
-          "origin_country": "FR"
+          "name": "Birdsong Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 97133,
+          "logo_path": null,
+          "name": "Nationlight Productions",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 21029340,
+      "revenue": 2614773,
       "runtime": 97,
       "spoken_languages": [
         {
@@ -452,8 +793,411 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Все не так, как кажется»",
+      "tagline": "Lost is a good place to find yourself",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eXtjgMZJkoUXKcpgopeFE9vUjuq.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 72570,
+      "original_language": "en",
+      "original_title": "The Vow",
+      "overview": "Во время медового месяца Пейдж и Лео попадают в автокатастрофу. Пока жена находится в коме, Лео не отходит от ее кровати ни на час, но возвращение девушки к жизни омрачено потерей памяти — она не узнает любимого и не помнит об их романе. И тогда Лео решает заново завоевать сердце Пейдж.",
+      "popularity": 3.556,
+      "poster_path": "/4wQifZA6GgYxTI4s2IXhxrI5vqx.jpg",
+      "release_date": "2012-02-05",
+      "title": "Клятва",
+      "video": false,
+      "vote_average": 7.231,
+      "vote_count": 4212,
+      "belongs_to_collection": null,
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1606389",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 158,
+          "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+          "name": "Spyglass Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 3287,
+          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+          "name": "Screen Gems",
+          "origin_country": "US"
+        },
+        {
+          "id": 58262,
+          "logo_path": null,
+          "name": "Birnbaum/Barber Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 196114570,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Верни свою любовь",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hHN4iGAu0sCYvR0oaFmemKXDnVV.jpg",
+      "genre_ids": [
+        18,
+        53,
+        35
+      ],
+      "id": 1160360,
+      "original_language": "en",
+      "original_title": "If I Had Legs I'd Kick You",
+      "overview": "Линда испытывает трудности из-за загадочной болезни дочери. Поскольку её муж работает на морском судне и часто отсутствует, Линда вынуждена в одиночку ухаживать за ребёнком, который питается через зонд. Лечение девочки курирует врач, который критикует Линду за пропуски медицинских процедур и посещений. Несмотря на любовь к дочери, Линда не справляется с большим количеством обязанностей. Дополнительное напряжение создаёт появившаяся большая дыра в потолке их квартиры, которая приводит к протечке. В результате мать с дочерью вынуждены переехать в недорогой мотель на неопределённый срок в ожидании ремонта.",
+      "popularity": 7.4489,
+      "poster_path": "/ltCam3KeiCXTjPWR0OU4rHa2Xj4.jpg",
+      "release_date": "2025-10-10",
+      "title": "Я бы тебя пнула, если бы могла",
+      "video": false,
+      "vote_average": 6.526,
+      "vote_count": 95,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt18382850",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 41077,
+          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+          "name": "A24",
+          "origin_country": "US"
+        },
+        {
+          "id": 243162,
+          "logo_path": null,
+          "name": "Central Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 208363,
+          "logo_path": "/nPXwPbmlUVl9saVTNBMuvPGRV7c.png",
+          "name": "Fat City",
+          "origin_country": "US"
+        },
+        {
+          "id": 247337,
+          "logo_path": null,
+          "name": "Bronxburgh",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 1300000,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Всё под контролем»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5UG7w5kaLlHAIcFZPS08ggxLzwl.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 228176,
+      "original_language": "pt",
+      "original_title": "Não Pare na Pista: A Melhor História de Paulo Coelho",
+      "overview": "Хроника восхождения звезды Пауло Коэльо, которая рассказывает, как человек, обремененный жизненными проблемами, стал одним из самых значимых писателей в истории Бразилии.",
+      "popularity": 0.7688,
+      "poster_path": "/nz0hlA5oEJwF3ZQHK5LSASWPqnz.jpg",
+      "release_date": "2014-06-23",
+      "title": "Пилигрим: Пауло Коэльо",
+      "video": false,
+      "vote_average": 6.879,
+      "vote_count": 33,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt3006814",
+      "origin_country": [
+        "BR"
+      ],
+      "production_companies": [
+        {
+          "id": 93184,
+          "logo_path": null,
+          "name": "Damasco Filmes",
+          "origin_country": "BR"
+        },
+        {
+          "id": 93237,
+          "logo_path": null,
+          "name": "Babel Films S.L.",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BR",
+          "name": "Brazil"
+        },
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 112,
+      "spoken_languages": [
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 786,
+      "original_language": "en",
+      "original_title": "Almost Famous",
+      "overview": "История о том, как простой американский мальчишка Уильям Миллер волею случая стал корреспондентом авторитетного музыкального журнала «Роллинг Стоун» и отправился по заданию редакции в турне с группой «Стиллуотер».  В компании суровых рокеров, юных фанаток и бурлящих в крови гормонов парень делает свой первый шаг в полную удивительных приключений взрослую жизнь расклешенных семидесятых. И уж, поверьте, эти самые приключения не заставят себя ждать!",
+      "popularity": 5.7511,
+      "poster_path": "/yZJo744GsnuN1NhlbR92xhgXZnm.jpg",
+      "release_date": "2000-09-15",
+      "title": "Почти знаменит",
+      "video": false,
+      "vote_average": 7.497,
+      "vote_count": 3052,
+      "belongs_to_collection": null,
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0181875",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 7,
+          "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+          "name": "DreamWorks Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 485,
+          "logo_path": "/tVOP0mIeoYLua4Rw66OYNzitrrI.png",
+          "name": "Vinyl Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 47386287,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cTatAOU2oAJijgivYyKqolQsIYx.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 1294698,
+      "original_language": "fr",
+      "original_title": "Dossier 137",
+      "overview": "2018 год. Во время протестов в Париже подросток тяжело ранен полицией. Сотрудник отдела внутренних расследований берется за проверку происшествия, однако с каждым днем дело становится все запутаннее. Свидетельства противоречивы, детали неочевидны, и понять, что произошло на самом деле, оказывается не так просто.",
+      "popularity": 8.2951,
+      "poster_path": "/2sfqJdIfX8JKwOTutTfqgTBmnso.jpg",
+      "release_date": "2025-11-19",
+      "title": "Дело №137",
+      "video": false,
+      "vote_average": 7.009,
+      "vote_count": 113,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34794183",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 726,
+          "logo_path": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+          "name": "Haut et Court",
+          "origin_country": "FR"
+        },
+        {
+          "id": 83,
+          "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+          "name": "France 2 Cinéma",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -1014,490 +1758,6 @@
           "english_name": "Russian",
           "iso_639_1": "ru",
           "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ogKegWajhtkFUmDbCqsa2rJLwbn.jpg",
-      "genre_ids": [
-        18,
-        37,
-        10749,
-        10752,
-        28
-      ],
-      "id": 4476,
-      "original_language": "en",
-      "original_title": "Legends of the Fall",
-      "overview": "«Некоторые люди очень ясно слышат свой внутренний голос и живут так, как он им подсказывает. Такие люди сходят с ума. Или становятся легендами». Так начинается история семьи Ладлоу — стремительный и романтический рассказ о трёх братьях, их отце и молодой и неотразимой женщине, которая роковым образом изменяет жизнь каждого из них.",
-      "popularity": 4.7244,
-      "poster_path": "/kuVyJSbu9CEsjVoQ5w31Su9ezfc.jpg",
-      "release_date": "1994-12-23",
-      "title": "Легенды осени",
-      "video": false,
-      "vote_average": 7.382,
-      "vote_count": 2787,
-      "belongs_to_collection": null,
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 37,
-          "name": "вестерн"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0110322",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 348,
-          "logo_path": "/mztvNjgx77cXUL6vWR3r7fyeZCa.png",
-          "name": "Bedford Falls Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 559,
-          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
-          "name": "TriStar Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 1656,
-          "logo_path": null,
-          "name": "Pangaea",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 160638883,
-      "runtime": 133,
-      "spoken_languages": [
-        {
-          "english_name": "Cornish",
-          "iso_639_1": "kw",
-          "name": ""
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Мужчины из семьи Ладлоу. Грация женщины свела их вместе. Затем её страсть разлучила их»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zG2tzaQpTpBKFbgWksJo2uo4ylK.jpg",
-      "genre_ids": [
-        10749,
-        36,
-        18
-      ],
-      "id": 71623,
-      "original_language": "fr",
-      "original_title": "La Putain du roi",
-      "overview": "XVII век, Италия. Придворный короля Витторио Амедео граф Алессандро Веруа привозит из Франции юную и любимую красавицу-жену Жанну. Молодая пара очень счастлива до тех пор, пока Жанну не представили королю, который страстно влюбляется в нее…",
-      "popularity": 1.0333,
-      "poster_path": "/aaoFzT4nzBmGvdsuX2fc63BZo8Y.jpg",
-      "release_date": "1990-11-14",
-      "title": "Королевская шлюха",
-      "video": false,
-      "vote_average": 4.6,
-      "vote_count": 25,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0100440",
-      "origin_country": [
-        "FR",
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 52085,
-          "logo_path": null,
-          "name": "Cinema & Cinem",
-          "origin_country": ""
-        },
-        {
-          "id": 52086,
-          "logo_path": null,
-          "name": "AFC",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 138,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/56sP9s7qT9y3kL57e3GHVhZfrrV.jpg",
-      "genre_ids": [
-        28,
-        80
-      ],
-      "id": 1266359,
-      "original_language": "bn",
-      "original_title": "জংলী",
-      "overview": "Его считали чудовищем: драки, ненависть отца, предательство любимой. Джонни выбрал одиночество, решив, что люди приносят лишь боль. Но однажды в его жизни появляется маленькая Бахи - такая же ненужная своим родителям. Два разбитых сердца. Одна надежда на двоих. Только вместе они смогут собрать по осколкам то, что потеряли - любовь, способную исцелить даже самые глубокие раны...",
-      "popularity": 0.4517,
-      "poster_path": "/xTTtWOfTbn72RsUu7iT3YWgarzs.jpg",
-      "release_date": "2025-03-31",
-      "title": "Дикарь",
-      "video": false,
-      "vote_average": 9,
-      "vote_count": 1,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31951179",
-      "origin_country": [
-        "BD"
-      ],
-      "production_companies": [
-        {
-          "id": 163835,
-          "logo_path": null,
-          "name": "Filman Entertainment",
-          "origin_country": "BD"
-        },
-        {
-          "id": 224764,
-          "logo_path": null,
-          "name": "MIB Studios",
-          "origin_country": "BD"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BD",
-          "name": "Bangladesh"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 152,
-      "spoken_languages": [
-        {
-          "english_name": "Bengali",
-          "iso_639_1": "bn",
-          "name": "বাংলা"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7EFotxDpmKp2eqWD7C4pGUorpDR.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 115616,
-      "original_language": "en",
-      "original_title": "Hawks",
-      "overview": "Адвокат Бэнкрофт и американский футболист Деккер пересекают Ла-Манш, чтобы отдохнуть в голландском борделе. Отдохнуть напоследок. Это последнее путешествие двух молодых людей — перед тем, как уйти в небытие. Бэнкрофт и Деккер впервые встретились в онкологическом отделении лондонской больницы и решили бросить вызов смерти…",
-      "popularity": 0.9301,
-      "poster_path": "/3nSwYUFp1qEIULwtx2K8jg8DtnI.jpg",
-      "release_date": "1988-08-05",
-      "title": "Ястребы",
-      "video": false,
-      "vote_average": 5.7,
-      "vote_count": 19,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0097487",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 10740,
-          "logo_path": null,
-          "name": "Producers Representative Organization",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/d6ELJEiJDoOZhoGe48o4L7qTQKa.jpg",
-      "genre_ids": [
-        9648,
-        18,
-        53
-      ],
-      "id": 58925,
-      "original_language": "fr",
-      "original_title": "Mr. Klein",
-      "overview": "Париж. 1942. Робер Кляйн, эльзасец по происхождению, католик по воспитанию, несмотря на немецкую оккупацию, вполне преуспевает, скупая по дешевке у евреев произведения искусства, мебель. Но вся его жизнь резко меняется, когда он получает по почте газету, предназначенную для евреев, и обнаруживает, что у него есть двойник…",
-      "popularity": 2.6509,
-      "poster_path": "/7nrQxtiRjbJYnWpAhDsGieoaDfT.jpg",
-      "release_date": "1976-09-23",
-      "title": "Мсье Кляйн",
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 281,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0074916",
-      "origin_country": [
-        "FR",
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 1713,
-          "logo_path": null,
-          "name": "Adel Productions",
-          "origin_country": "FR"
-        },
-        {
-          "id": 10522,
-          "logo_path": "/yah2JnPzeYIjOMq7YsCMoPvnFIs.png",
-          "name": "Lira Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 81779,
-          "logo_path": null,
-          "name": "Nova Films",
-          "origin_country": ""
-        },
-        {
-          "id": 10523,
-          "logo_path": null,
-          "name": "Mondial Televisione Film",
-          "origin_country": "IT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 123,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rSK14QXt6TZmGnPWB8Lpt1AqwHn.jpg",
-      "genre_ids": [
-        18,
-        10770,
-        10749
-      ],
-      "id": 421628,
-      "original_language": "en",
-      "original_title": "A Rose for Christmas",
-      "overview": "Энди — увлечённая художница, семья которой поколениями создавала платформы для Парада роз. Когда отец Энди заболевает, ей приходится возглавить работу над заказом. В придачу ко всем проблемам ей приходится иметь дело с требовательным бизнесменом Клиффом — представителем компании-клиента.",
-      "popularity": 0.7478,
-      "poster_path": "/a0dQslu3wI8nPgXuVF2vlOTEtZm.jpg",
-      "release_date": "2017-01-01",
-      "title": "Роза на Рождество",
-      "video": false,
-      "vote_average": 5.718,
-      "vote_count": 55,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt6284950",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6438,
-          "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
-          "name": "Muse Entertainment",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 120,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
         }
       ],
       "status": "Released",
