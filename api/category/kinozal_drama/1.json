@@ -5,68 +5,82 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 159,
+  "total": 161,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/uDPNsFzBeAjGve3xyo30V7FfqsL.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        18
+        14,
+        10402,
+        18,
+        10749
       ],
-      "id": 1318234,
-      "original_language": "cs",
-      "original_title": "Neporazitelní",
-      "overview": "Этот фильм заставит вас смеяться и плакать одновременно. Эта вдохновляющая история о стремлении к мечте и использовании второго шанса в жизни. Сюжет разворачивается на фоне выдающегося события мирового масштаба.",
-      "popularity": 0.672,
-      "poster_path": "/oqBCCTb5YvCfFPlkddyvHLHJuQU.jpg",
-      "release_date": "2025-11-19",
-      "title": "Непобедимые",
+      "id": 470876,
+      "original_language": "en",
+      "original_title": "Aquarius",
+      "overview": "Этот фильм - метафора того, кто мы есть, откуда мы пришли?",
+      "popularity": 0.2244,
+      "poster_path": "/b4BA2Kkp1x82FP4pQZWXcpCCjiI.jpg",
+      "release_date": "2016-11-27",
+      "title": "Aquarius",
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 5,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt31411053",
+      "imdb_id": "tt10304048",
       "origin_country": [
-        "CZ"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 234176,
+          "id": 125389,
           "logo_path": null,
-          "name": "Visual Riders s.r.o.",
+          "name": "Storm Productions",
           "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "CZ",
-          "name": "Czech Republic"
+          "iso_3166_1": "RU",
+          "name": "Russia"
         }
       ],
-      "revenue": 981542,
-      "runtime": 0,
+      "revenue": 0,
+      "runtime": 9,
       "spoken_languages": [
         {
-          "english_name": "Czech",
-          "iso_639_1": "cs",
-          "name": "Český"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
-        "kinozal_drama",
-        "kinozal_mult"
+        "kinozal_drama"
       ]
     },
     {
@@ -229,6 +243,452 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 858024,
+      "original_language": "en",
+      "original_title": "Hamnet",
+      "overview": "После смерти сына Гамнета Агнес остаётся в Стратфорде с детьми, а Уильям Шекспир возвращается в Лондон, чтобы написать пьесу, которая станет одним из его величайших творений.",
+      "popularity": 138.6865,
+      "poster_path": "/xheUjXcQ8cwwibYXMdAz5JYTiyw.jpg",
+      "release_date": "2025-11-26",
+      "title": "Гамнет",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 404,
+      "belongs_to_collection": null,
+      "budget": 35000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt14905854",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 122908,
+          "logo_path": "/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png",
+          "name": "Hera Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 1522,
+          "logo_path": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+          "name": "Neal Street Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 56,
+          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+          "name": "Amblin Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 197107,
+          "logo_path": null,
+          "name": "Book of Shadows",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 70561705,
+      "runtime": 125,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Держите свое сердце открытым",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5Y8rf3dRcito2J7hIepkDECwDF3.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 46280,
+      "original_language": "fr",
+      "original_title": "L'Annulaire",
+      "overview": "Потеряв работу, юная и прекрасная Ирис получает должность ассистентки в очень необычной лаборатории. Не отдавая себе отчета в происходящем, она вовлекается в странные отношения со своим боссом, полные эротизма, страсти и мистики…",
+      "popularity": 0.7164,
+      "poster_path": "/ptRJi6tWgaw7pNZfUZgPi22mIik.jpg",
+      "release_date": "2005-06-08",
+      "title": "Перст любви",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 35,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0411117",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 3452,
+          "logo_path": null,
+          "name": "Les Films du Veyrier",
+          "origin_country": "FR"
+        },
+        {
+          "id": 1905,
+          "logo_path": null,
+          "name": "Integral Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 12000,
+          "logo_path": null,
+          "name": "Tapioca Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 850,
+          "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+          "name": "Eurimages",
+          "origin_country": "FR"
+        },
+        {
+          "id": 11246,
+          "logo_path": "/4YZ5CQZkJa2FIKGtjLLoKhNOAIw.png",
+          "name": "La Région Île-de-France",
+          "origin_country": "FR"
+        },
+        {
+          "id": 2406,
+          "logo_path": "/awYxP0L1FKUxf0oIanEDEKFKuaY.png",
+          "name": "FilmFörderung Hamburg",
+          "origin_country": "DE"
+        },
+        {
+          "id": 310,
+          "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+          "name": "CNC",
+          "origin_country": "FR"
+        },
+        {
+          "id": 104,
+          "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+          "name": "Canal+",
+          "origin_country": "FR"
+        },
+        {
+          "id": 10441,
+          "logo_path": "/aTEwjHN8l51ix2YcTxxzR92WaXy.png",
+          "name": "The Bureau",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lepTHhiKVcnwLOLJ1NGTl143jz2.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 46623,
+      "original_language": "en",
+      "original_title": "Cimarron",
+      "overview": "Смелый и честный Янси Крават по прозвищу «Симаррон» вместе со своей молодой женой приезжает в Оклахому, куда только что хлынула волна поселенцев. Тут ему приходится столкнуться с беззаконием и произволом, царящими на новых территориях. Жители фронтира признают лишь право сильного, но именно благодаря таким людям, как Симаррон, на эту землю постепенно приходит закон и цивилизация…",
+      "popularity": 1.031,
+      "poster_path": "/9xPw8iIAWymvNBG0D7kSt45M9c2.jpg",
+      "release_date": "1960-12-01",
+      "title": "Симаррон",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 71,
+      "belongs_to_collection": null,
+      "budget": 6000000,
+      "genres": [
+        {
+          "id": 37,
+          "name": "вестерн"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0053715",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 11000000,
+      "runtime": 147,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Eh7ajfQWv3KTk0ynr99Layg30B.jpg",
+      "genre_ids": [
+        36,
+        18
+      ],
+      "id": 1037264,
+      "original_language": "de",
+      "original_title": "Das Verschwinden des Josef Mengele",
+      "overview": "История бегства в Южную Америку нацистского учёного Йозефа Менгеле, который проводил медицинские опыты над узниками лагеря смерти Освенцим.",
+      "popularity": 3.3332,
+      "poster_path": "/twEL5qBduvoXBU2oZQKukGU9sPe.jpg",
+      "release_date": "2025-10-16",
+      "title": "Исчезновение Йозефа Менгеле",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 29,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt22852560",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 51696,
+          "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+          "name": "CG Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 45489,
+          "logo_path": "/h9pjnrYbpEqWwPZDEyJfUzHFCG9.png",
+          "name": "Lupa Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 94,
+          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+          "name": "ARTE France Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 193754,
+          "logo_path": "/qNHejwZmoqEwBhOFr3oq4U9Dvad.png",
+          "name": "Hype Studios",
+          "origin_country": "FR"
+        },
+        {
+          "id": 229472,
+          "logo_path": "/77wIavmHhDKJ9n4vpEM3K8jMriM.png",
+          "name": "Scala Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 21281,
+          "logo_path": "/1K2XQFMZTpiGIyhc9emkHPDni6f.png",
+          "name": "Forma Pro Films",
+          "origin_country": "LV"
+        },
+        {
+          "id": 136963,
+          "logo_path": "/cy7yQL0v56g2MQChxKqYF3NGkLx.png",
+          "name": "Cimarrón Cine",
+          "origin_country": "UY"
+        },
+        {
+          "id": 19771,
+          "logo_path": "/anRmhRCSY9fXOIygcjjVHL4bWL1.png",
+          "name": "Piano",
+          "origin_country": "MX"
+        },
+        {
+          "id": 221028,
+          "logo_path": null,
+          "name": "Gold Rush Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 209859,
+          "logo_path": "/eMB250XUNXwwGYLu8Zoi3crUcWj.png",
+          "name": "Lorem Ipsum",
+          "origin_country": "US"
+        },
+        {
+          "id": 20267,
+          "logo_path": "/pE1jmzu0mQZgF1l4gbBPAJfn3YV.png",
+          "name": "Red Production Company",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "LV",
+          "name": "Latvia"
+        },
+        {
+          "iso_3166_1": "MX",
+          "name": "Mexico"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "UY",
+          "name": "Uruguay"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 135,
+      "spoken_languages": [
+        {
+          "english_name": "Hungarian",
+          "iso_639_1": "hu",
+          "name": "Magyar"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/6xVAbjvUWKJlPSVYduQgkRzEQNy.jpg",
       "genre_ids": [
         18,
@@ -304,7 +764,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -490,547 +950,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/vkr2KGu10vCHbK1SM5q2AtWA4TM.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        10751,
-        10770
-      ],
-      "id": 245473,
-      "original_language": "en",
-      "original_title": "Cloud 9",
-      "overview": "Очаровательная Кайла — восходящая звезда сноуборда. Она покидает свою команду, чтобы сосредоточиться на тренировках с известным сноубордистом по имени Уилл, который долгое время не принимает участия в соревнованиях. Наставник показывает Кайле совершенно новую технику катания и обещает, что девушка станет одной из лучших спортсменок сезона. Отзывчивая Кайла старается помочь Уиллу обрести веру в себя и убеждает его не останавливаться на результатах, достигнутых в прошлом.",
-      "popularity": 0.9466,
-      "poster_path": "/1Pe9r7In5HqKUtwug6T3ZdVWHiG.jpg",
-      "release_date": "2014-01-17",
-      "title": "Облако 9",
-      "video": false,
-      "vote_average": 6.909,
-      "vote_count": 540,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2762970",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 42053,
-          "logo_path": "/q7VNAacEiPVzsgCrqtaMooxiPz.png",
-          "name": "Salty Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 6959,
-          "logo_path": null,
-          "name": "Blondie Girl Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Нет ничего невозможного",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 3549,
-      "original_language": "da",
-      "original_title": "Efter brylluppet",
-      "overview": "Якоб Петерсен посвятил свою жизнь помощи беспризорным детям Индии. Когда его приюту грозит закрытие, он получает необычное предложение. Датский бизнесмен Йорген предлагает ему 12 млн. долларов. Правда, имеются некие условия… Якоб должен не только вернуться в Данию, но и принять участие в свадьбе дочери Йоргена. Свадьба становится настоящим испытанием, поворотной точкой между прошлым и будущим и ставит Якоба перед самой серьезной в его жизни дилеммой…",
-      "popularity": 1.2402,
-      "poster_path": "/r4DkBB0XAAz8XeHqGbjKP6GqhHx.jpg",
-      "release_date": "2006-02-24",
-      "title": "После свадьбы",
-      "video": false,
-      "vote_average": 7.131,
-      "vote_count": 474,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0457655",
-      "origin_country": [
-        "DK"
-      ],
-      "production_companies": [
-        {
-          "id": 76,
-          "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
-          "name": "Zentropa Entertainments",
-          "origin_country": "DK"
-        },
-        {
-          "id": 176363,
-          "logo_path": null,
-          "name": "After The Wedding",
-          "origin_country": ""
-        },
-        {
-          "id": 53874,
-          "logo_path": "/mZJMAPElHQBIuWWXSyHtyaMf26C.png",
-          "name": "Sigma Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 2999,
-          "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
-          "name": "SVT",
-          "origin_country": "SE"
-        },
-        {
-          "id": 118,
-          "logo_path": "/AiBorgNTCS1lT1FdFPYheax9jfF.png",
-          "name": "Det Danske Filminstitut",
-          "origin_country": "DK"
-        },
-        {
-          "id": 235,
-          "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
-          "name": "Nordisk Film Denmark",
-          "origin_country": "DK"
-        },
-        {
-          "id": 23207,
-          "logo_path": null,
-          "name": "Invicta Capital",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DK",
-          "name": "Denmark"
-        },
-        {
-          "iso_3166_1": "SE",
-          "name": "Sweden"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 120,
-      "spoken_languages": [
-        {
-          "english_name": "Danish",
-          "iso_639_1": "da",
-          "name": "Dansk"
-        },
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        },
-        {
-          "english_name": "Swedish",
-          "iso_639_1": "sv",
-          "name": "svenska"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kjVgUMsG0PKBXzlP8HGNQpWDxAX.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 2108,
-      "original_language": "en",
-      "original_title": "The Breakfast Club",
-      "overview": "Пятеро школьников в наказание за проступки вынуждены приехать в школу в выходной день и написать сочинение «Кем вы себя представляете?» Молодым людям с большим трудом удается разобраться в своих проблемах…",
-      "popularity": 7.2103,
-      "poster_path": "/hZI9A0CLJdSLxQ74XJXAMudWUqY.jpg",
-      "release_date": "1985-02-15",
-      "title": "Клуб «Завтрак»",
-      "video": false,
-      "vote_average": 7.724,
-      "vote_count": 8404,
-      "belongs_to_collection": null,
-      "budget": 1000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0088847",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 11043,
-          "logo_path": null,
-          "name": "A&M Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 8812,
-          "logo_path": null,
-          "name": "Channel Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 51530442,
-      "runtime": 98,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Они были чужими друг другу, пока не оказались в одно время и в одном месте»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1208348,
-      "original_language": "en",
-      "original_title": "Rental Family",
-      "overview": "Американский актёр в Токио пытается найти своё призвание, пока не получает необычную работу: работать в японском агентстве, сдающем в аренду жильё для семей, и играть дублёров для незнакомцев. Погружаясь в миры своих клиентов, он начинает формировать подлинные связи, стирающие грань между игрой и реальностью.",
-      "popularity": 97.3377,
-      "poster_path": "/hq8e5reqojApR2rNH8OPmp1xCvw.jpg",
-      "release_date": "2025-11-20",
-      "title": "Семья в аренду",
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 122,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt14142060",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 127929,
-          "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
-          "name": "Searchlight Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 99963,
-          "logo_path": "/wi5JP4jpVBeb9qK97nhICkMurNZ.png",
-          "name": "Sight Unseen Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 197229,
-          "logo_path": null,
-          "name": "Domo Arigato Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 10706787,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Счастье, созданное специально для вас»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
-      "genre_ids": [
-        10402,
-        18
-      ],
-      "id": 424694,
-      "original_language": "en",
-      "original_title": "Bohemian Rhapsody",
-      "overview": "«Богемская рапсодия» — это чествование группы Queen, их музыки и их выдающегося вокалиста Фредди Меркьюри, который бросил вызов стереотипам и победил условности, чтобы стать одним из самых любимых артистов на планете. Фильм прослеживает головокружительный путь группы к успеху, благодаря их культовым песням и революционному звуку, практически распад коллектива, поскольку образ жизни Меркьюри выходит из-под контроля, и их триумфальное воссоединение накануне концерта Live Aid, ставшем одним из величайших выступлений в истории рок-музыки. Фильм цементирует наследие группы, отношения внутри которой всегда были больше похожи на семейные, и которая продолжают вдохновлять неудачников, мечтателей и любителей музыки по сей день.",
-      "popularity": 7.61,
-      "poster_path": "/fXGXv5myFWcQjrVol546Fa9lmo6.jpg",
-      "release_date": "2018-10-24",
-      "title": "Богемская рапсодия",
-      "video": false,
-      "vote_average": 7.961,
-      "vote_count": 17565,
-      "belongs_to_collection": null,
-      "budget": 52000000,
-      "genres": [
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1727824",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 508,
-          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
-          "name": "Regency Enterprises",
-          "origin_country": "US"
-        },
-        {
-          "id": 3281,
-          "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
-          "name": "GK Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 910813521,
-      "runtime": 134,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Круче их музыки только их история»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        36
-      ],
-      "id": 858024,
-      "original_language": "en",
-      "original_title": "Hamnet",
-      "overview": "После смерти сына Гамнета Агнес остаётся в Стратфорде с детьми, а Уильям Шекспир возвращается в Лондон, чтобы написать пьесу, которая станет одним из его величайших творений.",
-      "popularity": 138.6865,
-      "poster_path": "/xheUjXcQ8cwwibYXMdAz5JYTiyw.jpg",
-      "release_date": "2025-11-26",
-      "title": "Гамнет",
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 404,
-      "belongs_to_collection": null,
-      "budget": 35000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt14905854",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 122908,
-          "logo_path": "/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png",
-          "name": "Hera Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 1522,
-          "logo_path": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
-          "name": "Neal Street Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 56,
-          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
-          "name": "Amblin Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 197107,
-          "logo_path": null,
-          "name": "Book of Shadows",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 70561705,
-      "runtime": 125,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Держите свое сердце открытым",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/7SUT9mYb7SD88Gz7rFeLbjC2YeG.jpg",
       "genre_ids": [
         18,
@@ -1090,6 +1009,615 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/baIjN7xPyw2In1CuHACTgzcsF20.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1397364,
+      "original_language": "it",
+      "original_title": "La grazia",
+      "overview": "Президент Италии Мариано де Сантис, осторожный центрист, приближается к концу срока и к почетной пенсии. Дочь, юристка и его ближайшая помощница, кладет на стол Мариано проект закона об эвтаназии, довольно взрывоопасного, учитывая положение Рима в самом сердце католического мира. Еще на президентском столе лежат два прошения о помиловании: одно касается пожилого мужчины, задушившего свою страдавшую болезнью Альцгеймера жену, другое — молодой женщины, зарезавшей мужа-абьюзера.",
+      "popularity": 36.8202,
+      "poster_path": "/vIL6P8q5GQrIk7NUYL2hOjemMiB.jpg",
+      "release_date": "2025-12-05",
+      "title": "Грация",
+      "video": false,
+      "vote_average": 7.556,
+      "vote_count": 232,
+      "belongs_to_collection": null,
+      "budget": 24500000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34886821",
+      "origin_country": [
+        "IT"
+      ],
+      "production_companies": [
+        {
+          "id": 128344,
+          "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png",
+          "name": "The Apartment Pictures",
+          "origin_country": "IT"
+        },
+        {
+          "id": 207505,
+          "logo_path": "/4ze8MU9ehNgWlVqTVTsWZo3iFmn.png",
+          "name": "Numero10",
+          "origin_country": "IT"
+        },
+        {
+          "id": 74562,
+          "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+          "name": "Fremantle Italia",
+          "origin_country": "IT"
+        },
+        {
+          "id": 228664,
+          "logo_path": "/rKNzL97WA26KnyeUUycdJDggxLq.png",
+          "name": "PiperFilm",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 68995,
+      "runtime": 133,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 1263012,
+      "original_language": "en",
+      "original_title": "Dead Man's Wire",
+      "overview": "Утром 8 февраля 1977 года 44-летний Энтони Дж. Киритсис вошёл в офис Ричарда О. Холла, президента компании Meridian Mortgage Company, и взял его в заложники, используя обрез дробовика 12-го калибра. Чтобы обезопасить себя и гарантировать выполнение требований, Тони связал спусковой крючок оружия с головой Холла проводом. Похититель потребовал 5 миллионов долларов, снятия всех обвинений и личных извинений от Холла за то, что тот обманом лишил его причитавшихся ему средств.",
+      "popularity": 25.5099,
+      "poster_path": "/zSKLKNm7Ow4ybUVorh5HArXkcoM.jpg",
+      "release_date": "2025-12-12",
+      "title": "Провод мертвеца",
+      "video": false,
+      "vote_average": 6.588,
+      "vote_count": 34,
+      "belongs_to_collection": null,
+      "budget": 13000000,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt15181326",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 63369,
+          "logo_path": "/sCgcuxsM4wvkfwL56tkHX4j9bds.png",
+          "name": "Elevated Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 193159,
+          "logo_path": "/9qDnUCKcn6WOJmD44EmHg0sxdUB.png",
+          "name": "Balcony 9 Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 241870,
+          "logo_path": null,
+          "name": "RNA Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 20312,
+          "logo_path": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+          "name": "TPC",
+          "origin_country": "US"
+        },
+        {
+          "id": 13923,
+          "logo_path": "/wobbHfqb8lIBcsUxMOQEgMdVqsQ.png",
+          "name": "Sobini Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 111338,
+          "logo_path": null,
+          "name": "Raised by Wolves Pictures",
+          "origin_country": "BE"
+        },
+        {
+          "id": 248180,
+          "logo_path": "/4sQzdpkmvxftvxLq8DuT38Rl1rk.png",
+          "name": "Co Created Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 249368,
+          "logo_path": "/sS9dPPsIgR5TygrRq1qqV6N0lM3.png",
+          "name": "Copper Island",
+          "origin_country": "CY"
+        },
+        {
+          "id": 286332,
+          "logo_path": null,
+          "name": "Last Mile Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 259252,
+          "logo_path": null,
+          "name": "Wrong Turn Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 188458,
+          "logo_path": "/limNPrYGEOyKb4kjcZKdIk6K0Sh.png",
+          "name": "SIPUR",
+          "origin_country": "IL"
+        },
+        {
+          "id": 44225,
+          "logo_path": null,
+          "name": "Construction Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 117761,
+          "logo_path": "/4Aa24Ase2LR6wesRolVQ0vinI8T.png",
+          "name": "Streamline Global",
+          "origin_country": "US"
+        },
+        {
+          "id": 249834,
+          "logo_path": null,
+          "name": "Sillen Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 140678,
+          "logo_path": "/loFI63TvrgURkMiCu9XuMlCKaud.png",
+          "name": "Edith Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 6455,
+          "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+          "name": "Pressman Film",
+          "origin_country": "US"
+        },
+        {
+          "id": 149926,
+          "logo_path": null,
+          "name": "Space Pilot Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 286333,
+          "logo_path": null,
+          "name": "Eterna",
+          "origin_country": ""
+        },
+        {
+          "id": 96310,
+          "logo_path": "/tBxSNuzARadiaBpIJ3qmdPG5BCz.png",
+          "name": "LB Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 245123,
+          "logo_path": null,
+          "name": "Filmhedge",
+          "origin_country": "US"
+        },
+        {
+          "id": 79081,
+          "logo_path": "/lTKnNzjKtGXV8m8rrFL00bEMxE5.png",
+          "name": "Film Manufacturers",
+          "origin_country": "US"
+        },
+        {
+          "id": 187501,
+          "logo_path": "/nMZTbGubzHwxL7VFvAomCuTn4L9.png",
+          "name": "YO Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 251835,
+          "logo_path": "/etiyol9OqmUrAcHRW8qGfVuoV7j.png",
+          "name": "Va Bene Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 239194,
+          "logo_path": "/qfSRBQK9Kmnt8JqAKaFKqIK4dJk.png",
+          "name": "WME Independent",
+          "origin_country": "US"
+        },
+        {
+          "id": 287768,
+          "logo_path": null,
+          "name": "Notorious Productions Film Fund",
+          "origin_country": "US"
+        },
+        {
+          "id": 267457,
+          "logo_path": "/10LAyOHEUEtQcLFuUOhgSfgpoO0.png",
+          "name": "Punch Once",
+          "origin_country": "US"
+        },
+        {
+          "id": 290381,
+          "logo_path": null,
+          "name": "Vl Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 235427,
+          "logo_path": null,
+          "name": "Pinstripes",
+          "origin_country": "US"
+        },
+        {
+          "id": 290449,
+          "logo_path": null,
+          "name": "Starlight Digital Ventures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "IL",
+          "name": "Israel"
+        },
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "CY",
+          "name": "Cyprus"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        }
+      ],
+      "revenue": 2248569,
+      "runtime": 105,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Его революция транслировалась по тв»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dSIy7gDVvHiPDI9qmX9NwE5Q3NV.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        37,
+        10770
+      ],
+      "id": 63502,
+      "original_language": "en",
+      "original_title": "The Outsider",
+      "overview": "Старожилы-ранчеры Монтаны совершают регулярные набеги на земли своих соседей — новых поселенцев из религиозной общины амишей, сопровождающиеся насилием и убийствами, и власти не делают ничего, чтобы остановить беззаконие.Но когда Ребекка, вдова одного из убитых бандитами, спасает от смерти раненого стрелка Джонни Голта, ситуация меняется. Еще не оправившись после ранения, Джонни, всем сердцем полюбивший Ребекку, вступает в стычку с «плохими парнями».Но члены религиозной общины, руководствуясь заповедью «второй щеки», не желают терпеть у себя подозрительного чужака с револьвером и к тому же осмелившегося полюбить их единоверку.Ребекка и Джонни готовы любой ценой защищать свою любовь и право жить на собственной земле…",
+      "popularity": 1.2409,
+      "poster_path": "/3q7uQgeLRIcTaQxwc8GkBPY72NU.jpg",
+      "release_date": "2002-11-10",
+      "title": "Аутсайдер",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 39,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 37,
+          "name": "вестерн"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0289374",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 11317,
+          "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+          "name": "Phoenix Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 27936,
+          "logo_path": null,
+          "name": "Coote Hayes Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 4056,
+          "logo_path": "/dnz7zZ2e11usyjPG3mTYvJfyciD.png",
+          "name": "Hallmark Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vQympYV6gbS2xogy0myQBMNPyAv.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 174311,
+      "original_language": "en",
+      "original_title": "All Is Bright",
+      "overview": "Фильм расскажет о юмористических подвигах пары предприимчивых ребят, которые решают объединить свои усилия для того, чтобы быстро заработать денег на продаже елок в канун Рождества в Нью-Йорке.",
+      "popularity": 4.3019,
+      "poster_path": "/spCLVHZnOCcjrGwCEaVi8ADKRsn.jpg",
+      "release_date": "2013-09-10",
+      "title": "Почти Рождество",
+      "video": false,
+      "vote_average": 5.389,
+      "vote_count": 131,
+      "belongs_to_collection": null,
+      "budget": 10000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1462901",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12936,
+          "logo_path": null,
+          "name": "GreenStreet Films",
+          "origin_country": ""
+        },
+        {
+          "id": 5161,
+          "logo_path": null,
+          "name": "Touchy Feely Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 737,
+          "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+          "name": "Sidney Kimmel Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 2395,
+          "logo_path": "/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png",
+          "name": "HanWay Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 5860,
+          "logo_path": null,
+          "name": "Anchor Bay Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 107,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tiJ6FupEHWyK5w7uSH5Hsje3B0V.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 7452,
+      "original_language": "en",
+      "original_title": "The Cook, the Thief, His Wife & Her Lover",
+      "overview": "Предводитель одной из преступных группировок каждый вечер приходит со своей женой и своими сообщниками во французский ресторан, который является его собственностью. Устав от постоянных издевательств и унижений со стороны мужа, жена находит себе любовника среди посетителей ресторана и занимается с ним любовью с молчаливого согласия повара.",
+      "popularity": 1.9716,
+      "poster_path": "/fNkl7o1VQQqy1nEX9x56CDHULmr.jpg",
+      "release_date": "1989-10-13",
+      "title": "Повар, вор, его жена и её любовник",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 694,
+      "belongs_to_collection": null,
+      "budget": 2300000,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0097108",
+      "origin_country": [
+        "FR",
+        "NL",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 1832,
+          "logo_path": null,
+          "name": "Allarts",
+          "origin_country": ""
+        },
+        {
+          "id": 30967,
+          "logo_path": null,
+          "name": "Elsevier-Vendex Film Beheer",
+          "origin_country": ""
+        },
+        {
+          "id": 2237,
+          "logo_path": null,
+          "name": "Allarts Cook",
+          "origin_country": ""
+        },
+        {
+          "id": 2239,
+          "logo_path": null,
+          "name": "Erato Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 6705,
+          "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+          "name": "Film4 Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 2240,
+          "logo_path": null,
+          "name": "Erbograph Co.",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 7724701,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -1193,6 +1721,98 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "В центре драмы представители нового поколения гангстерского клана — дона Корлеоне и его сына, для которых не существует моральных преград на пути достижения поставленых целей. Они превращают мафию, построенную по патриархальным, еще сицилийским законам, в весьма прагматичную, жесткую корпорацию, плавно интегрирующуюся в большой бизнес Америки.",
+      "popularity": 17.1064,
+      "poster_path": "/tOLQ3iRDfbwhVaw3QjDzIOS7zcu.jpg",
+      "release_date": "1974-12-20",
+      "title": "Крёстный отец 2",
+      "video": false,
+      "vote_average": 8.571,
+      "vote_count": 13633,
+      "belongs_to_collection": {
+        "id": 230,
+        "name": "Крёстный отец (Коллекция)",
+        "poster_path": "/stoNTYRhKYdfaqPLIAZ8UHfdKs4.jpg",
+        "backdrop_path": "/dIqp8unLVLykgDAlHNalrRVOKjI.jpg"
+      },
+      "budget": 13000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0071562",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 536,
+          "logo_path": null,
+          "name": "The Coppola Company",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 102600000,
+      "runtime": 200,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -1543,332 +2163,6 @@
       "status": "Released",
       "tagline": "Музыка была его страстью. Выживание было его шедевром",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
-      "genre_ids": [
-        18,
-        80
-      ],
-      "id": 238,
-      "original_language": "en",
-      "original_title": "The Godfather",
-      "overview": "Криминальная сага, повествующая о нью-йоркской сицилийской мафиозной семье Корлеоне. Фильм охватывает период 1945-1955 годов. Глава семьи, Дон Вито Корлеоне, выдаёт замуж свою дочь. В это время со Второй мировой войны возвращается его любимый сын Майкл. Майкл, герой войны, гордость семьи, не выражает желания заняться жестоким семейным бизнесом. Дон Корлеоне ведёт дела по старым правилам, но наступают иные времена, и появляются люди, желающие изменить сложившиеся порядки. На Дона Корлеоне совершается покушение.",
-      "popularity": 34.6298,
-      "poster_path": "/hoowzozsn0XQGtgH8nyivAMZfPN.jpg",
-      "release_date": "1972-03-14",
-      "title": "Крёстный отец",
-      "video": false,
-      "vote_average": 8.7,
-      "vote_count": 22523,
-      "belongs_to_collection": {
-        "id": 230,
-        "name": "Крёстный отец (Коллекция)",
-        "poster_path": "/stoNTYRhKYdfaqPLIAZ8UHfdKs4.jpg",
-        "backdrop_path": "/dIqp8unLVLykgDAlHNalrRVOKjI.jpg"
-      },
-      "budget": 6000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0068646",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 10211,
-          "logo_path": null,
-          "name": "Alfran Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 245066411,
-      "runtime": 175,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Настоящая сила не может быть дана, она может быть взята...»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
-      "genre_ids": [
-        10749,
-        18,
-        35
-      ],
-      "id": 843527,
-      "original_language": "en",
-      "original_title": "The Idea of You",
-      "overview": "У 40-летней матери-одиночки, неожиданно завязывается роман с 24-летним солистом самой популярной мужской группы на планете.",
-      "popularity": 9.888,
-      "poster_path": "/zyYeVc5CCOxv67qxYJyyiArA9i5.jpg",
-      "release_date": "2024-05-02",
-      "title": "Мысль о тебе",
-      "video": false,
-      "vote_average": 7.317,
-      "vote_count": 1871,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt9466114",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 173612,
-          "logo_path": "/c3qT8JXmVUtkSqJ8eZYkN1Ezf4C.png",
-          "name": "Welle Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 176196,
-          "logo_path": null,
-          "name": "Somewhere Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 111265,
-          "logo_path": "/sz7riw1keqTwhqolN3z6rILTw08.png",
-          "name": "I'll Have Another",
-          "origin_country": "US"
-        },
-        {
-          "id": 112037,
-          "logo_path": "/tEjXfABMQ01K1T6YQienJMe0QRH.png",
-          "name": "Semi-Formal Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 210099,
-          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-          "name": "Amazon MGM Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 36178,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "id": 568,
-      "original_language": "en",
-      "original_title": "Apollo 13",
-      "overview": "Фильм о неудачной лунной миссии «Аполлон-13» — одном из самых драматических моментов освоения космоса. В 1970 «Аполлон-13» должен был стать третьим космическим кораблём, который доставил бы астронавтов на Луну. Однако уже на подлёте к цели на корабле произошла серьёзная авария, которая не только поставила крест на высадке, но и создала угрозу жизни экипажа.",
-      "popularity": 9.0451,
-      "poster_path": "/cor5NxgNJoEYIawLwTVxvhWQdLo.jpg",
-      "release_date": "1995-06-30",
-      "title": "Аполлон 13",
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 5750,
-      "belongs_to_collection": null,
-      "budget": 52000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0112384",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 23,
-          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
-          "name": "Imagine Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 355237933,
-      "runtime": 140,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Хьюстон, у нас проблема",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1BciwSCWd9EF0NaH8bAs3zvwNNw.jpg",
-      "genre_ids": [
-        80,
-        18
-      ],
-      "id": 49943,
-      "original_language": "ru",
-      "original_title": "Сёстры",
-      "overview": "В этих девочках течет одна кровь, но они ненавидят друг друга. Дине - восемь, она играет на скрипке и мечтает стать актрисой. Свете - уже тринадцать, она отлично стреляет и хочет стать снайпером в Чечне. Эти юные существа вынуждены жить в мире, где царят волчьи порядки. В мире, где крадут и убивают детей, а закон - всего лишь бледный и бессильный призрак...",
-      "popularity": 0.4498,
-      "poster_path": "/3d20lZgTCkOCkHzMHv9DWSFS6eE.jpg",
-      "release_date": "2001-05-10",
-      "title": "Сёстры",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 90,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0284492",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 318,
-          "logo_path": "/q0UG4oZERwIywJdDPF4lRlvdYGW.png",
-          "name": "CTB Film Company",
-          "origin_country": "RU"
-        },
-        {
-          "id": 69587,
-          "logo_path": "/u0Jy8wJ05m3MZCNiba1EXgf0zoK.png",
-          "name": "Russia 1",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 81,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Когда тебе восемь - весь мир против тебя. Когда тебе тринадцать - ты против всего мира.",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
