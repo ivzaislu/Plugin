@@ -5,28 +5,26 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 81,
+  "total": 82,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/4R9V7ez1g8zlWr1zyL06Evf32hY.jpg",
+      "backdrop_path": null,
       "genre_ids": [
         16,
-        14,
-        12,
-        10751
+        14
       ],
-      "id": 955644,
-      "original_language": "en",
-      "original_title": "Mia and Me: The Hero of Centopia",
-      "overview": "Миа обнаруживает, что ее волшебный камень является частью древнего пророчества. Вместе с верным другом Ико, веселым Штормовым Единорогом и смешным зверьком по кличке Пудл, она отправляется в захватывающее путешествие чтобы спасти Сентопию.",
-      "popularity": 0.7608,
-      "poster_path": "/m8yLX2r2OGwv6sWcdaJtHIVa3cI.jpg",
-      "release_date": "2022-05-26",
-      "title": "Мия и я: Легенда Сентопии",
+      "id": 453744,
+      "original_language": "ru",
+      "original_title": "Кузнец-колдун",
+      "overview": "Фильм рассказывает о замечательных французских кузнецах-умельцах. Их ум и находчивость одерживают победу над глупостью и жадностью.",
+      "popularity": 0.5132,
+      "poster_path": "/yA4ZXAC00io5Am43MA2caQSyaEB.jpg",
+      "release_date": "1967-04-22",
+      "title": "Кузнец-колдун",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 63,
+      "vote_average": 6,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -37,75 +35,95 @@
         {
           "id": 14,
           "name": "фэнтези"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt5790684",
+      "imdb_id": "tt7019916",
       "origin_country": [
-        "DE",
-        "AU",
-        "BE",
-        "IN"
+        "SU"
       ],
       "production_companies": [
         {
-          "id": 68112,
-          "logo_path": "/if4Ubr4OoqjnBOVf7bfT0XmGOqq.png",
-          "name": "Studio 100 Media",
-          "origin_country": "DE"
-        },
-        {
-          "id": 25894,
-          "logo_path": "/eWzrltIBLOlLxc5FVKUcAcas3UM.png",
-          "name": "Studio 100",
-          "origin_country": "BE"
-        },
-        {
-          "id": 104638,
-          "logo_path": null,
-          "name": "Studio B Animation",
-          "origin_country": ""
-        },
-        {
-          "id": 47,
-          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
-          "name": "Constantin Film",
-          "origin_country": "DE"
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
         }
       ],
       "revenue": 0,
-      "runtime": 82,
+      "runtime": 18,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/27v7Nlxg3GHtc9PbYyeXvXxXBar.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 453869,
+      "original_language": "ru",
+      "original_title": "Петух и краски",
+      "overview": "Петух и краски - мультипликационный фильм для детей о приключениях нарисованного петушка, которого забыли раскрасить.",
+      "popularity": 0.7139,
+      "poster_path": "/p4yFmFfCUnejjzJjHwj1rh5BL6Q.jpg",
+      "release_date": "1964-04-20",
+      "title": "Петух и краски",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 15,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
