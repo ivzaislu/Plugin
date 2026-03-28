@@ -9,73 +9,81 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/dMjNyPk3aBwXYYfAuSAwSRz1ewa.jpg",
+      "backdrop_path": "/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
       "genre_ids": [
-        18,
-        878
+        28,
+        878,
+        53
       ],
-      "id": 11864,
+      "id": 9383,
       "original_language": "en",
-      "original_title": "Enemy Mine",
-      "overview": "В глубинах нашей галактики, на огромном расстоянии от Земли люди ведут кровопролитную войну с расой рептилий. Войну, которой Земля отдает последние силы, войну на полное уничтожение. В одной из жестоких схваток в окрестностях гористой планеты в системе двойной звезды пилот Виллис Дэвидж сбивает машину чужого, но тут же получает несколько попаданий и выходит из боя. Единственное место, где можно выжить после падения — та самая планета. Но упав, он обнаруживает, что сбитый им чужой не погиб. Смертельные враги оказываются заперты в одной клетке, и выбор прост — уничтожить друг друга или заключить перемирие и попытаться спастись. Что окажется сильнее: желание жить или ненависть и боль за погибших?",
-      "popularity": 2.8929,
-      "poster_path": "/4xi5jGfhIYyB9llhpzKUON3iO2Q.jpg",
-      "release_date": "1985-12-12",
-      "title": "Враг мой",
+      "original_title": "Hollow Man",
+      "overview": "Профессор Себастьян Кейн ищет формулу невидимости. Он уже научился делать невидимыми животных. Но эксперимент нельзя считать завершенным, пока не будет найдена формула «возврата» — невидимый объект должен снова обрести плоть и кровь. После долгих поисков Кейн находит искомую формулу и успешно возвращает в мир реальных очертаний гориллу. Остается заключительный аккорд — совершить полный цикл на человеке. Как настоящий ученый, Кейн решает проделать это с самим собой…",
+      "popularity": 5.0601,
+      "poster_path": "/1b2k62eOb3iwzgQjtdCrKtkCUR5.jpg",
+      "release_date": "2000-08-04",
+      "title": "Невидимка",
       "video": false,
-      "vote_average": 6.947,
-      "vote_count": 1044,
-      "belongs_to_collection": null,
-      "budget": 40000000,
+      "vote_average": 6,
+      "vote_count": 2715,
+      "belongs_to_collection": {
+        "id": 166376,
+        "name": "Невидимка (Коллекция)",
+        "poster_path": "/3yc4NVh77VL14V7CvXM2rJhRh4n.jpg",
+        "backdrop_path": "/r7GbKuuNdoEAzXCfA4My1kj85Z2.jpg"
+      },
+      "budget": 95000000,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 878,
           "name": "фантастика"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0089092",
+      "imdb_id": "tt0164052",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 1704,
-          "logo_path": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
-          "name": "Bavaria Film",
-          "origin_country": "DE"
-        },
-        {
-          "id": 396,
-          "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
-          "name": "SLM Production Group",
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
           "origin_country": "US"
         },
         {
-          "id": 4255,
+          "id": 14440,
+          "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
+          "name": "Red Wagon Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 9269,
           "logo_path": null,
-          "name": "Kings Road Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
+          "name": "Global Medien KG",
+          "origin_country": "DE"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 12300000,
-      "runtime": 108,
+      "revenue": 190213455,
+      "runtime": 112,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -84,8 +92,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "Он друг или враг?",
-      "release_quality": "1080p",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"

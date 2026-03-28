@@ -9,50 +9,53 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/nU1oqBt6cbmUI23XTwZwzhxg5sN.jpg",
+      "backdrop_path": "/rq8WiCmpw0qYFkee1v4YBpi0kHQ.jpg",
       "genre_ids": [
-        35,
-        27,
-        878,
-        14
+        10749,
+        35
       ],
-      "id": 1173733,
+      "id": 52435,
       "original_language": "ko",
-      "original_title": "세입자",
-      "overview": "Футуристический перенаселённый Сеул. Обычный офисный сотрудник Ким Щин-дон внезапно получает предписание съехать и в отчаянии решает сдать часть своей крошечной квартиры. На объявление откликается странная супружеская пара, согласившаяся жить в ванной комнате. Поначалу их присутствие кажется спасением — они платят вовремя и ведут себя тихо, но вскоре Щин-дон начинает замечать странности: шёпот за стеной, исчезающие вещи, странные запахи. Его сон нарушается, а границы реальности расплываются.",
-      "popularity": 1.0302,
-      "poster_path": "/bBuH3hWF7IICLYad5wnb6BftEKO.jpg",
-      "release_date": "2024-12-04",
-      "title": "Сеул будущего",
+      "original_title": "아내가 결혼했다",
+      "overview": "Док-хун влюбляется в Ин-а, которая разделяет его любовь и страсть к спортивным состязаниям. Они быстро становятся парочкой, и он делает ей предложение руки и сердца. Она сначала отказывается, но, в конечном счёте, они счастливо женаты, пока однажды Ин-а не объявляет о желании выйти замуж за другого.",
+      "popularity": 1.5684,
+      "poster_path": "/arvX1qZWTj7FAbRB7hPBGfk6h2D.jpg",
+      "release_date": "2008-10-23",
+      "title": "Моя жена вышла замуж",
       "video": false,
-      "vote_average": 7,
-      "vote_count": 1,
+      "vote_average": 5.344,
+      "vote_count": 16,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
           "id": 35,
           "name": "комедия"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt30403219",
+      "imdb_id": "tt1329470",
       "origin_country": [
         "KR"
       ],
-      "production_companies": [],
+      "production_companies": [
+        {
+          "id": 7036,
+          "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+          "name": "CJ Entertainment",
+          "origin_country": "KR"
+        },
+        {
+          "id": 108796,
+          "logo_path": null,
+          "name": "Jupiter Film",
+          "origin_country": "KR"
+        }
+      ],
       "production_countries": [
         {
           "iso_3166_1": "KR",
@@ -60,7 +63,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 89,
+      "runtime": 119,
       "spoken_languages": [
         {
           "english_name": "Korean",
@@ -871,87 +874,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/iceD8kM2Dk6hIK2zWodkT0m6zDx.jpg",
-      "genre_ids": [
-        53,
-        35,
-        36
-      ],
-      "id": 1296404,
-      "original_language": "ko",
-      "original_title": "굿뉴스",
-      "overview": "Когда преступники захватывают японский самолет и требуют направить его в Пхеньян, загадочный гений задумывает сумасбродную схему, чтобы он оказался в Сеуле.",
-      "popularity": 5.7862,
-      "poster_path": "/qNkvFfC8Koi6tWrbuq763hayfI4.jpg",
-      "release_date": "2025-09-05",
-      "title": "Хорошие новости",
-      "video": false,
-      "vote_average": 6.938,
-      "vote_count": 56,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/81779119",
-      "imdb_id": "tt33550069",
-      "origin_country": [
-        "KR"
-      ],
-      "production_companies": [
-        {
-          "id": 229996,
-          "logo_path": null,
-          "name": "Star Platinum",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 136,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/iH2RcQ5ODBH2iYYzPpYHBVpiiG0.jpg",
       "genre_ids": [
         28,
@@ -1254,65 +1176,63 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
+      "backdrop_path": "/nU1oqBt6cbmUI23XTwZwzhxg5sN.jpg",
       "genre_ids": [
-        28,
-        80,
-        10749
+        35,
+        27,
+        878,
+        14
       ],
-      "id": 1271895,
-      "original_language": "zh",
-      "original_title": "96分鐘",
-      "overview": "Бывший сапер Сун Кан Жэнь и его невеста Хуан Синь оказываются в высокоскоростном поезде с заложенной бомбой. К ним в ловушку попадает и учитель физики Лю Кай, который сел на этот поезд, чтобы помириться с женой после скандала с изменой.",
-      "popularity": 243.3152,
-      "poster_path": "/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
-      "release_date": "2025-09-05",
-      "title": "96 минут",
+      "id": 1173733,
+      "original_language": "ko",
+      "original_title": "세입자",
+      "overview": "Футуристический перенаселённый Сеул. Обычный офисный сотрудник Ким Щин-дон внезапно получает предписание съехать и в отчаянии решает сдать часть своей крошечной квартиры. На объявление откликается странная супружеская пара, согласившаяся жить в ванной комнате. Поначалу их присутствие кажется спасением — они платят вовремя и ведут себя тихо, но вскоре Щин-дон начинает замечать странности: шёпот за стеной, исчезающие вещи, странные запахи. Его сон нарушается, а границы реальности расплываются.",
+      "popularity": 1.0302,
+      "poster_path": "/bBuH3hWF7IICLYad5wnb6BftEKO.jpg",
+      "release_date": "2024-12-04",
+      "title": "Сеул будущего",
       "video": false,
-      "vote_average": 6.7,
-      "vote_count": 18,
+      "vote_average": 7,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 35,
+          "name": "комедия"
         },
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 27,
+          "name": "ужасы"
         },
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt34381460",
+      "imdb_id": "tt30403219",
       "origin_country": [
-        "TW"
+        "KR"
       ],
-      "production_companies": [
-        {
-          "id": 194308,
-          "logo_path": null,
-          "name": "WOWING Entertainment Group",
-          "origin_country": "TW"
-        }
-      ],
+      "production_companies": [],
       "production_countries": [
         {
-          "iso_3166_1": "TW",
-          "name": "Taiwan"
+          "iso_3166_1": "KR",
+          "name": "South Korea"
         }
       ],
       "revenue": 0,
-      "runtime": 117,
+      "runtime": 89,
       "spoken_languages": [
         {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
@@ -1697,6 +1617,93 @@
       "status": "Released",
       "tagline": "«В какой момент отец по-настоящему становится отцом?»",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sAnpF9jooAGWA8pwuMK4aX2uLvA.jpg",
+      "genre_ids": [
+        28,
+        18,
+        80,
+        53,
+        27
+      ],
+      "id": 1244244,
+      "original_language": "ja",
+      "original_title": "Cloud クラウド",
+      "overview": "Молодой человек, занимающийся перепродажей вещей в интернете, начинает чувствовать смутную угрозу и вместе со своей девушкой переезжает из Токио в загородный дом. Но и тут он оказывается не в безопасности.",
+      "popularity": 10.133,
+      "poster_path": "/vI1zN4XA4MLPuPS9ZFAAlkXjAKc.jpg",
+      "release_date": "2024-09-27",
+      "title": "Облако",
+      "video": false,
+      "vote_average": 6.808,
+      "vote_count": 86,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32828123",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 955,
+          "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+          "name": "Nikkatsu Corporation",
+          "origin_country": "JP"
+        },
+        {
+          "id": 146106,
+          "logo_path": "/eW8K469XBEJdaHtzgLe2r0IxZim.png",
+          "name": "Django Film",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 1011386,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_asian"
