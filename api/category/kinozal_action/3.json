@@ -9,31 +9,31 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/2T3k09YnrM03CQd1yK3ZQLEHEZH.jpg",
+      "backdrop_path": "/wzfTG1obTazlGXiIcfRIviBZ1QU.jpg",
       "genre_ids": [
-        18,
         28,
         53,
-        80
+        10752
       ],
-      "id": 10632,
+      "id": 7555,
       "original_language": "en",
-      "original_title": "The Hunted",
-      "overview": "Ушедший в отставку специалист по подготовке элитного спецназа Эл Ти Бонэм присоединяется к команде ФБР, идущей по следу жестокого убийцы. Неуловимый киллер, виртуозно владеющий боевым ножом, — один из самых одаренных учеников Эл Ти. Ему не нужен дом — в лесу он чувствует себя неуязвимым.  Ему не нужны деньги — все необходимое для жизни он может добыть сам. Ему не нужно оружие — в его руках палка или камень страшнее пулемета. Он идеальный воин, и только тому, кто обучил хладнокровного преступника мастерству убивать «быстро, аккуратно и эффективно», под силу остановить охотника на людей…",
-      "popularity": 1.9748,
-      "poster_path": "/nmmAklVIVZl4zAYJCHbPSJ8tsFF.jpg",
-      "release_date": "2003-03-11",
-      "title": "Загнанный",
+      "original_title": "Rambo",
+      "overview": "Вьетнамский ветеран Джон Рэмбо ведет уединенный образ жизни на окраине Бангкока. Уставший от борьбы и кровопролития, скрываясь от проблем, он селится в небольшом доме у реки и проводит дни, ремонтируя старые лодки и катера. Однако судьба вновь заставляет его взяться за оружие. Собрав отряд из пяти наемников, Рэмбо встает на защиту жителей тайской деревни и американских миссионеров, которых захватили в заложники бирманские боевики.",
+      "popularity": 8.6243,
+      "poster_path": "/coycVhSWgB3lrgLzQVU4okbhrS.jpg",
+      "release_date": "2008-01-24",
+      "title": "Рэмбо IV",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 889,
-      "belongs_to_collection": null,
-      "budget": 55000000,
+      "vote_average": 6.691,
+      "vote_count": 4185,
+      "belongs_to_collection": {
+        "id": 5039,
+        "name": "Рэмбо (Коллекция)",
+        "poster_path": "/lg2RphAHEUU5hGCuundEjL2MAyr.jpg",
+        "backdrop_path": "/ecvVwlK75evrAlsEE96V14KN6MN.jpg"
+      },
+      "budget": 50000000,
       "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
         {
           "id": 28,
           "name": "боевик"
@@ -43,47 +43,77 @@
           "name": "триллер"
         },
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 10752,
+          "name": "военный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0269347",
+      "imdb_id": "tt0462499",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 11462,
-          "logo_path": "/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png",
-          "name": "Alphaville Films",
+          "id": 1020,
+          "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+          "name": "Millennium Media",
           "origin_country": "US"
         },
         {
-          "id": 126,
-          "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
-          "name": "Lakeshore Entertainment",
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
           "origin_country": "US"
+        },
+        {
+          "id": 308,
+          "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+          "name": "The Weinstein Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 263345,
+          "logo_path": null,
+          "name": "Nu Image Entertainment",
+          "origin_country": "DE"
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "US",
           "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "TH",
+          "name": "Thailand"
         }
       ],
-      "revenue": 34234008,
-      "runtime": 94,
+      "revenue": 113200000,
+      "runtime": 92,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Burmese",
+          "iso_639_1": "my",
+          "name": ""
+        },
+        {
+          "english_name": "Thai",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย"
         }
       ],
       "status": "Released",
-      "tagline": "Если ты вступил в эту игру, считай, что ты уже мертв",
-      "release_quality": "1080p",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_action"
@@ -185,6 +215,369 @@
       ],
       "status": "Released",
       "tagline": "«Out of the sky comes the screen's most incredible spectacle of men and war!»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gHYSkkgfO7DlkjzOgpytkrL1Jg9.jpg",
+      "genre_ids": [
+        27,
+        28,
+        14
+      ],
+      "id": 51831,
+      "original_language": "en",
+      "original_title": "The Minion",
+      "overview": "В канун Рождества 1999 года метростроители Нью-Йорка находят 800-летний скелет и таинственный ключ. Новость относительно открытия достигает древнего монастыря, обитатели которого должны защищать святую реликвию. И они направляют своего лучшего воина — Лукаса.  Две тысячи лет назад за низвергнутым Люцифером захлопнулись врата бездны, и теперь бессмертный Фаворит дьявола получил возможность освободить своего хозяина и превратить Нью-Йорк в Армагеддон.",
+      "popularity": 1.2596,
+      "poster_path": "/h3O4P5i1T0qScKRI0qOzIksDuzR.jpg",
+      "release_date": "1998-09-26",
+      "title": "Миньон",
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 43,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0139465",
+      "origin_country": [
+        "US",
+        "CA"
+      ],
+      "production_companies": [
+        {
+          "id": 4345,
+          "logo_path": null,
+          "name": "Taurus 7 Film Corporation",
+          "origin_country": ""
+        },
+        {
+          "id": 137189,
+          "logo_path": null,
+          "name": "Mahagonny Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 50433,
+          "logo_path": null,
+          "name": "Conquistador Entertainment",
+          "origin_country": ""
+        },
+        {
+          "id": 137190,
+          "logo_path": null,
+          "name": "Minion Productions Inc.",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Древнее зло не умерло...»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ktsHS7DhwS4M54I3CBkxNV5GlTM.jpg",
+      "genre_ids": [
+        53,
+        27,
+        10752,
+        28
+      ],
+      "id": 1244531,
+      "original_language": "en",
+      "original_title": "Beast of War",
+      "overview": "Вторая мировая война. Группа молодых австралийских солдат пересекает Тиморское море, но их транспортное судно становится целью японского авианалёта. Судно тонет, и небольшой группе выживших удаётся добраться до плота. Солдаты вынуждены полагаться друг на друга в борьбе за выживание, но им не удаётся избавиться от внутренних разногласий. Вскоре они сталкиваются с новой угрозой — большой белой акулой.",
+      "popularity": 12.2306,
+      "poster_path": "/w5foc9oiF7Z3hi5kUT9s1440Kdb.jpg",
+      "release_date": "2025-08-22",
+      "title": "Зверь войны",
+      "video": false,
+      "vote_average": 6.429,
+      "vote_count": 77,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt29468874",
+      "origin_country": [
+        "AU"
+      ],
+      "production_companies": [
+        {
+          "id": 103845,
+          "logo_path": "/2Ro1iQDguoYtWhl7c2Xy0McsZ0H.png",
+          "name": "Bronte Pictures",
+          "origin_country": "AU"
+        },
+        {
+          "id": 3207,
+          "logo_path": null,
+          "name": "Pictures in Paradise",
+          "origin_country": "AU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
+        }
+      ],
+      "revenue": 186472,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/56VfTGANetZ5IIYQsXuciNePM28.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 1261188,
+      "original_language": "sv",
+      "original_title": "Den svenska länken",
+      "overview": "В этой малоизвестной реальной истории шведский бюрократ неожиданно становится героем, пытаясь спасти жизни евреев в самые мрачные дни Второй мировой войны.",
+      "popularity": 43.8458,
+      "poster_path": "/kYEpMS3xxjSJKHwaa2woM2AckJf.jpg",
+      "release_date": "2026-02-13",
+      "title": "Шведский дипломат",
+      "video": true,
+      "vote_average": 8.075,
+      "vote_count": 20,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "https://www.netflix.com/ru/title/81713119",
+      "imdb_id": "tt28793125",
+      "origin_country": [
+        "SE"
+      ],
+      "production_companies": [
+        {
+          "id": 16498,
+          "logo_path": "/4p72Dk6ljlkVDCaHZgCtsIrZWgO.png",
+          "name": "Way Creative Films",
+          "origin_country": "SE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SE",
+          "name": "Sweden"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 102,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 11690,
+      "original_language": "en",
+      "original_title": "Bloodsport",
+      "overview": "В Гонконге должны состояться подпольные соревнования по восточным единоборствам, к которым готовится и один из американских военнослужащих. В свое время, будучи ребенком, он стал приемным сыном японца- учителя каратэ, достиг совершенства путем упорных тренировок и в знак успеха получил священный японский меч.Он самовольно оставляет воинскую часть и отправляется в Гонконг на «Кумите». По следам молодого человека идет ФБР. Несмотря на все преграды, возникающие на пути каратиста, ему удается добиться победы и вступить в Братство Черного Дракона…",
+      "popularity": 5.9271,
+      "poster_path": "/35elF2MksE18K6GynGeGj0XNQOg.jpg",
+      "release_date": "1988-02-26",
+      "title": "Кровавый спорт",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 2038,
+      "belongs_to_collection": {
+        "id": 36694,
+        "name": "Кровавый спорт (Коллекция)",
+        "poster_path": "/uGbwSsHkvw2I0NMkrI8sSN3P8da.jpg",
+        "backdrop_path": "/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg"
+      },
+      "budget": 1500000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0092675",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1444,
+          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+          "name": "The Cannon Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        }
+      ],
+      "revenue": 63500000,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "Cantonese",
+          "iso_639_1": "cn",
+          "name": "广州话 / 廣州話"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Правдивая история Американского ниндзя",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -694,43 +1087,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/6x7yvYQjVvqGHf9fkLUUlHAFo9R.jpg",
+      "backdrop_path": "/rjDlta1hy3g4ksKVuUIfYcJtYf6.jpg",
       "genre_ids": [
-        53,
         28,
-        35,
         80
       ],
-      "id": 11595,
+      "id": 13056,
       "original_language": "en",
-      "original_title": "Another 48 Hrs.",
-      "overview": "Толпа охотится за головой Регги. Автобус, в котором он едет, переворачивается 17 раз. Его дорогой Порше превращается в груду металла. Подонки в баре еще не знают, как опасно раздражать Регги. А ночь еще только начинается. За эти 48 часов Регги и Джек перевернут весь Сан-Франциско в погоне за неуловимым наркобароном. Мальчики вернулись в город… заварушка на улицах начинается.",
-      "popularity": 1.666,
-      "poster_path": "/rGZvc8fslbNDsCWMDjhFwoUgnPm.jpg",
-      "release_date": "1990-06-08",
-      "title": "Другие 48 часов",
+      "original_title": "Punisher: War Zone",
+      "overview": "Однажды Фрэнк Каcсл потерял всё. Свою жену, детишек - всё, ради чего он жил. Но он знал, кто должен понести наказание. Бандиты - те, кто виновен в смерти его родных. 4 года Фрэнк Каcсл, или, как его стали называть, Каратель, истреблял порочных. Умений хватало, благо Фрэнк был спецназовцем. Но, волею рока или случая, в зависимости от того, во что верить, после очередной карательной миссии главарь преступной группировки выжил. Но он был настолько изуродован, что его лицо пришлось собирать по кусочкам, как паззл. Собственно, он себя так и назвал. И поклялся отомстить Фрэнку. Паззл начал собирать армию для войны с Карателем. А тем временем, у Касcла назрели серьёзные проблемы с ФБР, агента которого он случайно убил.И весь город превратился в зону военных действий...",
+      "popularity": 4.1615,
+      "poster_path": "/xjRvgKzjPQ5dGqQkDVT3qUsNElt.jpg",
+      "release_date": "2008-12-05",
+      "title": "Каратель: Территория Войны",
       "video": false,
-      "vote_average": 5.995,
-      "vote_count": 957,
+      "vote_average": 5.832,
+      "vote_count": 1264,
       "belongs_to_collection": {
-        "id": 93295,
-        "name": "48 часов  (Коллекция)",
-        "poster_path": "/gNm5LZEwEwmAW44fxgN4l58tWoy.jpg",
-        "backdrop_path": "/53SfXzq0CuBMQNAJMnrvwePbRLN.jpg"
+        "id": 635362,
+        "name": "Каратель (Коллекция)",
+        "poster_path": "/uirltOKTtjdxw3CUSMwbvxLl0o0.jpg",
+        "backdrop_path": "/wy3mGT2BxqNiBb3JV6lAQwOLrM5.jpg"
       },
-      "budget": 38000000,
+      "budget": 20500000,
       "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
         {
           "id": 28,
           "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
         },
         {
           "id": 80,
@@ -738,192 +1121,78 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0099044",
+      "imdb_id": "tt0450314",
       "origin_country": [
+        "CA",
+        "DE",
         "US"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
           "origin_country": "US"
         },
         {
-          "id": 30,
+          "id": 8848,
           "logo_path": null,
-          "name": "Eddie Murphy Productions",
+          "name": "MHF Zweite Academy Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 11106,
+          "logo_path": "/gpUMd5Mvo79o2Twsj4JA9ZJGtaB.png",
+          "name": "Marvel Knights",
           "origin_country": "US"
         },
         {
-          "id": 840,
+          "id": 11533,
+          "logo_path": "/tWM9pmzVYxok4GbQIttxdcml1yT.png",
+          "name": "Valhalla Motion Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 33808,
           "logo_path": null,
-          "name": "Lawrence Gordon Productions",
+          "name": "SGF Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 6438,
+          "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
+          "name": "Muse Entertainment",
+          "origin_country": "CA"
+        },
+        {
+          "id": 420,
+          "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+          "name": "Marvel Studios",
           "origin_country": "US"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 153518974,
-      "runtime": 95,
+      "revenue": 10089373,
+      "runtime": 102,
       "spoken_languages": [
         {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Они вернулись в город»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/e2DXiWYeBijHOf1PhTvxh1G3LXF.jpg",
-      "genre_ids": [
-        28,
-        18,
-        53
-      ],
-      "id": 1365135,
-      "original_language": "pl",
-      "original_title": "Droga donikąd",
-      "overview": "В разрушенном мире, где единственной целью является борьба за выживание, одинокий странник бредёт по дикой местности, обезумевший от мыслей о мести. Он встречает незнакомца, с которым делится своим прошлым.",
-      "popularity": 1.1708,
-      "poster_path": "/zatA01slu5AGj1c2ww9LPRTC9OA.jpg",
-      "release_date": "2024-12-05",
-      "title": "Дорога в никуда",
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 1,
-      "belongs_to_collection": null,
-      "budget": 56000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt26940750",
-      "origin_country": [
-        "PL"
-      ],
-      "production_companies": [
-        {
-          "id": 170990,
-          "logo_path": null,
-          "name": "Green Mountain Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "PL",
-          "name": "Poland"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 84,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "Polish",
-          "iso_639_1": "pl",
-          "name": "Polski"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cmgjr2saprHvYw6Ee7MUIqGVQHn.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 704673,
-      "original_language": "en",
-      "original_title": "Trigger Warning",
-      "overview": "Опытный боец спецназа раскрывает зловещий заговор, после возвращения в родной город в поисках убийцы своего отца.",
-      "popularity": 4.5332,
-      "poster_path": "/huenMSsOdK6kbXfVdoEDhL6DKPg.jpg",
-      "release_date": "2024-06-20",
-      "title": "Не для слабонервных",
-      "video": false,
-      "vote_average": 5.701,
-      "vote_count": 560,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/81064546",
-      "imdb_id": "tt5834874",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 3528,
-          "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
-          "name": "Thunder Road",
-          "origin_country": "US"
-        },
-        {
-          "id": 218228,
-          "logo_path": null,
-          "name": "Mexican Spitfire",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 107,
-      "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -1438,302 +1707,87 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/rjDlta1hy3g4ksKVuUIfYcJtYf6.jpg",
+      "backdrop_path": "/6aEbHtod2V6dr6mHpaSgPxJC1rA.jpg",
       "genre_ids": [
         28,
-        80
+        18
       ],
-      "id": 13056,
-      "original_language": "en",
-      "original_title": "Punisher: War Zone",
-      "overview": "Однажды Фрэнк Каcсл потерял всё. Свою жену, детишек - всё, ради чего он жил. Но он знал, кто должен понести наказание. Бандиты - те, кто виновен в смерти его родных. 4 года Фрэнк Каcсл, или, как его стали называть, Каратель, истреблял порочных. Умений хватало, благо Фрэнк был спецназовцем. Но, волею рока или случая, в зависимости от того, во что верить, после очередной карательной миссии главарь преступной группировки выжил. Но он был настолько изуродован, что его лицо пришлось собирать по кусочкам, как паззл. Собственно, он себя так и назвал. И поклялся отомстить Фрэнку. Паззл начал собирать армию для войны с Карателем. А тем временем, у Касcла назрели серьёзные проблемы с ФБР, агента которого он случайно убил.И весь город превратился в зону военных действий...",
-      "popularity": 4.1615,
-      "poster_path": "/xjRvgKzjPQ5dGqQkDVT3qUsNElt.jpg",
-      "release_date": "2008-12-05",
-      "title": "Каратель: Территория Войны",
+      "id": 356626,
+      "original_language": "fr",
+      "original_title": "Black",
+      "overview": "Город Брюссель, страдающий высоким уровнем безработицы среди молодёжи, является домом для почти сорока уличных банд, а количество молодых людей, в них вовлечённых, увеличивается с каждым годом. Именно в этой криминальной среде разыгралась современная шекспировская трагедия, где 15-летняя девушка сталкивается со сложным выбором между преданностью своей банде и любовью к парню из соперничающей банды.",
+      "popularity": 0.3526,
+      "poster_path": "/hIlOKYkIcP37G8KCf6mr3NIpHOn.jpg",
+      "release_date": "2015-11-11",
+      "title": "Чёрный",
       "video": false,
-      "vote_average": 5.832,
-      "vote_count": 1264,
-      "belongs_to_collection": {
-        "id": 635362,
-        "name": "Каратель (Коллекция)",
-        "poster_path": "/uirltOKTtjdxw3CUSMwbvxLl0o0.jpg",
-        "backdrop_path": "/wy3mGT2BxqNiBb3JV6lAQwOLrM5.jpg"
-      },
-      "budget": 20500000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0450314",
-      "origin_country": [
-        "CA",
-        "DE",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 8848,
-          "logo_path": null,
-          "name": "MHF Zweite Academy Film",
-          "origin_country": "DE"
-        },
-        {
-          "id": 11106,
-          "logo_path": "/gpUMd5Mvo79o2Twsj4JA9ZJGtaB.png",
-          "name": "Marvel Knights",
-          "origin_country": "US"
-        },
-        {
-          "id": 11533,
-          "logo_path": "/tWM9pmzVYxok4GbQIttxdcml1yT.png",
-          "name": "Valhalla Motion Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 33808,
-          "logo_path": null,
-          "name": "SGF Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 6438,
-          "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
-          "name": "Muse Entertainment",
-          "origin_country": "CA"
-        },
-        {
-          "id": 420,
-          "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-          "name": "Marvel Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 10089373,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gHYSkkgfO7DlkjzOgpytkrL1Jg9.jpg",
-      "genre_ids": [
-        27,
-        28,
-        14
-      ],
-      "id": 51831,
-      "original_language": "en",
-      "original_title": "The Minion",
-      "overview": "В канун Рождества 1999 года метростроители Нью-Йорка находят 800-летний скелет и таинственный ключ. Новость относительно открытия достигает древнего монастыря, обитатели которого должны защищать святую реликвию. И они направляют своего лучшего воина — Лукаса.  Две тысячи лет назад за низвергнутым Люцифером захлопнулись врата бездны, и теперь бессмертный Фаворит дьявола получил возможность освободить своего хозяина и превратить Нью-Йорк в Армагеддон.",
-      "popularity": 1.2596,
-      "poster_path": "/h3O4P5i1T0qScKRI0qOzIksDuzR.jpg",
-      "release_date": "1998-09-26",
-      "title": "Миньон",
-      "video": false,
-      "vote_average": 4.5,
-      "vote_count": 43,
+      "vote_average": 6.62,
+      "vote_count": 150,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 1200000,
       "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0139465",
+      "imdb_id": "tt4008758",
       "origin_country": [
-        "US",
-        "CA"
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 4345,
-          "logo_path": null,
-          "name": "Taurus 7 Film Corporation",
-          "origin_country": ""
+          "id": 24519,
+          "logo_path": "/kqnti6v0B3BBIHM5xubwUSagFHg.png",
+          "name": "A Team Productions",
+          "origin_country": "BE"
         },
         {
-          "id": 137189,
+          "id": 9066,
           "logo_path": null,
-          "name": "Mahagonny Pictures",
-          "origin_country": ""
+          "name": "Climax Films",
+          "origin_country": "BE"
         },
         {
-          "id": 50433,
-          "logo_path": null,
-          "name": "Conquistador Entertainment",
-          "origin_country": ""
-        },
-        {
-          "id": 137190,
-          "logo_path": null,
-          "name": "Minion Productions Inc.",
-          "origin_country": ""
+          "id": 2699,
+          "logo_path": "/c0vZ3qicUq3z8WD5EF1oleLtNMf.png",
+          "name": "Caviar",
+          "origin_country": "BE"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "BE",
+          "name": "Belgium"
         }
       ],
       "revenue": 0,
       "runtime": 95,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Arabic",
+          "iso_639_1": "ar",
+          "name": "العربية"
         },
         {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
         },
         {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Древнее зло не умерло...»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ktsHS7DhwS4M54I3CBkxNV5GlTM.jpg",
-      "genre_ids": [
-        53,
-        27,
-        10752,
-        28
-      ],
-      "id": 1244531,
-      "original_language": "en",
-      "original_title": "Beast of War",
-      "overview": "Вторая мировая война. Группа молодых австралийских солдат пересекает Тиморское море, но их транспортное судно становится целью японского авианалёта. Судно тонет, и небольшой группе выживших удаётся добраться до плота. Солдаты вынуждены полагаться друг на друга в борьбе за выживание, но им не удаётся избавиться от внутренних разногласий. Вскоре они сталкиваются с новой угрозой — большой белой акулой.",
-      "popularity": 12.2306,
-      "poster_path": "/w5foc9oiF7Z3hi5kUT9s1440Kdb.jpg",
-      "release_date": "2025-08-22",
-      "title": "Зверь войны",
-      "video": false,
-      "vote_average": 6.429,
-      "vote_count": 77,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         },
         {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt29468874",
-      "origin_country": [
-        "AU"
-      ],
-      "production_companies": [
-        {
-          "id": 103845,
-          "logo_path": "/2Ro1iQDguoYtWhl7c2Xy0McsZ0H.png",
-          "name": "Bronte Pictures",
-          "origin_country": "AU"
-        },
-        {
-          "id": 3207,
-          "logo_path": null,
-          "name": "Pictures in Paradise",
-          "origin_country": "AU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        }
-      ],
-      "revenue": 186472,
-      "runtime": 87,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Lingala",
+          "iso_639_1": "ln",
+          "name": ""
         }
       ],
       "status": "Released",
@@ -1746,60 +1800,94 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/56VfTGANetZ5IIYQsXuciNePM28.jpg",
+      "backdrop_path": "/5yrQsEuuqc4s8t8nszLxAAGQpR2.jpg",
       "genre_ids": [
-        18,
-        36,
-        10752
+        28,
+        53,
+        80
       ],
-      "id": 1261188,
-      "original_language": "sv",
-      "original_title": "Den svenska länken",
-      "overview": "В этой малоизвестной реальной истории шведский бюрократ неожиданно становится героем, пытаясь спасти жизни евреев в самые мрачные дни Второй мировой войны.",
-      "popularity": 43.8458,
-      "poster_path": "/kYEpMS3xxjSJKHwaa2woM2AckJf.jpg",
-      "release_date": "2026-02-13",
-      "title": "Шведский дипломат",
-      "video": true,
-      "vote_average": 8.075,
-      "vote_count": 20,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "id": 13387,
+      "original_language": "en",
+      "original_title": "Transporter 3",
+      "overview": "После своих последних приключений в Майами, Фрэнк Мартин решил поменять работу «перевозчика» на спокойную и уединенную жизнь во французской Ривьере. Но его планам не суждено было сбыться, когда к нему обратился бывший солдат из отряда «Дельта» Йонас Джонсон. Он рассказал, что по заказу корпорации «Ecocorp», занимающейся переработкой и утилизацией отходов, похищена Валентина — дочь украинского министра по охране окружающей среды Леонида Фазилева",
+      "popularity": 9.43,
+      "poster_path": "/aGPRarrjqoBDdWNKJrz8eVZANuA.jpg",
+      "release_date": "2008-11-26",
+      "title": "Перевозчик 3",
+      "video": false,
+      "vote_average": 6.162,
+      "vote_count": 3602,
+      "belongs_to_collection": {
+        "id": 9518,
+        "name": "Перевозчик (Коллекция)",
+        "poster_path": "/rQj2RLkxsj1cVC2asTzX4Lq1izZ.jpg",
+        "backdrop_path": "/zCblZYRAIwNcXx3WxtO0iOyTl8o.jpg"
+      },
+      "budget": 30000000,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 36,
-          "name": "история"
+          "id": 53,
+          "name": "триллер"
         },
         {
-          "id": 10752,
-          "name": "военный"
+          "id": 80,
+          "name": "криминал"
         }
       ],
-      "homepage": "https://www.netflix.com/ru/title/81713119",
-      "imdb_id": "tt28793125",
+      "homepage": "",
+      "imdb_id": "tt1129442",
       "origin_country": [
-        "SE"
+        "FR",
+        "US"
       ],
       "production_companies": [
         {
-          "id": 16498,
-          "logo_path": "/4p72Dk6ljlkVDCaHZgCtsIrZWgO.png",
-          "name": "Way Creative Films",
-          "origin_country": "SE"
+          "id": 6877,
+          "logo_path": null,
+          "name": "Grive Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 6896,
+          "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+          "name": "EuropaCorp",
+          "origin_country": "FR"
+        },
+        {
+          "id": 356,
+          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+          "name": "TF1 Films Production",
+          "origin_country": "FR"
+        },
+        {
+          "id": 972,
+          "logo_path": null,
+          "name": "Current Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 1076,
+          "logo_path": null,
+          "name": "Apipoulaï Prod",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SE",
-          "name": "Sweden"
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 102,
+      "revenue": 109000000,
+      "runtime": 104,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1807,23 +1895,28 @@
           "name": "English"
         },
         {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
+          "english_name": "Ukrainian",
+          "iso_639_1": "uk",
+          "name": "Український"
         },
         {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         },
         {
-          "english_name": "Swedish",
-          "iso_639_1": "sv",
-          "name": "svenska"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "Hungarian",
+          "iso_639_1": "hu",
+          "name": "Magyar"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Правила те же... Кроме одного...»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [

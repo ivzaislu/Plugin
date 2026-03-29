@@ -5,28 +5,29 @@
   },
   "page": 9,
   "limit": 20,
-  "total": 162,
+  "total": 161,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/ekIdTKHLWzZ4ojDLEkzLzNb8ggK.jpg",
+      "backdrop_path": "/eA15zhxnhQSg4k5MUbbTERIU23Z.jpg",
       "genre_ids": [
         18,
-        80
+        80,
+        12
       ],
-      "id": 468284,
-      "original_language": "fr",
-      "original_title": "L'Insulte",
-      "overview": "Фильм о споре ливанца Тони и палестинца Ясира. Один из них — добрый христианин Тони, который случайно проливает воду на голову соседа снизу, Ясира. После их взаимной перепалки Тони решает подать в суд. Наступает долгий судебный процесс, в ходе которого сталкиваются не только оппоненты, но и их родственники.",
-      "popularity": 1.0181,
-      "poster_path": "/Ao13Eg4qY6zcKr3V8fj1XHzhO0o.jpg",
-      "release_date": "2017-09-14",
-      "title": "Оскорбление",
+      "id": 1541,
+      "original_language": "en",
+      "original_title": "Thelma & Louise",
+      "overview": "Каждое утро Луизе приходится ходить в один и тот же ресторан быстрого обслуживания — она работает там официанткой. У неё есть «бойфрэнд» — музыкант, который, гастролируя по придорожным забегаловкам, частенько забывает о своей возлюбленной. Энергичная и в прошлом жизнерадостная Тельма, выйдя замуж за Дэррила, обнаружила, что место женщины — на кухне с кастрюлями, а мужчины — в кресле перед телевизором.  Само собой такая жизнь не устраивает женщин, и в один прекрасный день чаша их терпения переполняется. Они решают уехать подальше из «осточертевшего» городка и от своих ненавистных мужчин. К сожалению, по дороге им приходится совершить ряд преступлений, в том числе и убийство. Их объявляют в розыск по всей Америке, и подружкам остаётся только одно — любыми способами успеть добраться до Мексики.",
+      "popularity": 5.8006,
+      "poster_path": "/k0qrjNQH5FbOaQKxc0tLT4mtDVJ.jpg",
+      "release_date": "1991-05-24",
+      "title": "Тельма и Луиза",
       "video": false,
-      "vote_average": 7.5,
-      "vote_count": 470,
+      "vote_average": 7.6,
+      "vote_count": 3801,
       "belongs_to_collection": null,
-      "budget": 3000000,
+      "budget": 16000000,
       "genres": [
         {
           "id": 18,
@@ -35,150 +36,65 @@
         {
           "id": 80,
           "name": "криминал"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt7048622",
+      "imdb_id": "tt0103074",
       "origin_country": [
-        "FR",
-        "LB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 89014,
+          "id": 1645,
+          "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+          "name": "Scott Free Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 21854,
           "logo_path": null,
-          "name": "Ezekiel Films",
-          "origin_country": "LB"
+          "name": "Star Partners III",
+          "origin_country": ""
         },
         {
-          "id": 6961,
-          "logo_path": "/jx0fJd9hDsJomQOhlQMUEHDLe9c.png",
-          "name": "Rouge International",
-          "origin_country": "FR"
-        },
-        {
-          "id": 858,
-          "logo_path": "/6NwjE3AuYKMuGNJdAG8TzmhmioV.png",
-          "name": "Tessalit Productions",
-          "origin_country": "FR"
-        },
-        {
-          "id": 11199,
-          "logo_path": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
-          "name": "SCOPE Pictures",
-          "origin_country": "BE"
-        },
-        {
-          "id": 26890,
+          "id": 15526,
           "logo_path": null,
-          "name": "Douri Films",
-          "origin_country": "LB"
+          "name": "MGM-Pathé Communications",
+          "origin_country": "US"
+        },
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FR",
-          "name": "France"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         },
         {
-          "iso_3166_1": "LB",
-          "name": "Lebanon"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 1001305,
-      "runtime": 112,
+      "revenue": 45361000,
+      "runtime": 130,
       "spoken_languages": [
         {
-          "english_name": "Arabic",
-          "iso_639_1": "ar",
-          "name": "العربية"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dBlWShywAgnUILzEzJjnrP2rb5j.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 48863,
-      "original_language": "fr",
-      "original_title": "La fièvre monte à El Pao",
-      "overview": "Диктатор Мариано Варгас убит в результате военного переворота лейтенанта Гарсиа. И неожиданно в период смуты во главе южноамериканского острова Эль Пао оказывается Рамон Васкез, бывший до того мелким чиновником. Теперь новый либеральный правитель вынужден бороться с наследием диктаторского режима и зачастую идти на компромисс с собственной совестью.",
-      "popularity": 0.8008,
-      "poster_path": "/eSvMF5wEy0dJ4AKLJBg3wbSrvmE.jpg",
-      "release_date": "1959-12-05",
-      "title": "Лихорадка приходит в Эль-Пао",
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 29,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0052810",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 14562,
-          "logo_path": null,
-          "name": "Le Groupe des Quatre",
-          "origin_country": "FR"
-        },
-        {
-          "id": 11788,
-          "logo_path": null,
-          "name": "Compagnie Industrielle et Commerciale Cinématographique",
-          "origin_country": "FR"
-        },
-        {
-          "id": 2463,
-          "logo_path": null,
-          "name": "Filmex",
-          "origin_country": "MX"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "MX",
-          "name": "Mexico"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
