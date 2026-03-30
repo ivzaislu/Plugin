@@ -9,25 +9,205 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+      "backdrop_path": "/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg",
       "genre_ids": [
+        878,
+        35,
+        27
+      ],
+      "id": 1694,
+      "original_language": "en",
+      "original_title": "Re-Animator",
+      "overview": "Мертвецов реанимирует с помощью таинственной сыворотки, полученной в результате немыслимых экспериментов, студент медицинского университета Герберт Вест. Сосед Веста по комнате Дэн помогает приятелю в его страшном деле.  Начинают они с кошки, потом добираются до трупов из университетского морга…",
+      "popularity": 4.133,
+      "poster_path": "/b4Uu5VkhjIxyYV3tNQYa9wSmOud.jpg",
+      "release_date": "1985-10-18",
+      "title": "Реаниматор",
+      "video": false,
+      "vote_average": 7.043,
+      "vote_count": 1650,
+      "belongs_to_collection": {
+        "id": 98036,
+        "name": "Реаниматор (Коллекция)",
+        "poster_path": "/6bjxdqaBuaqhPeirJmiclR7XfiX.jpg",
+        "backdrop_path": "/xxBV7ZyywpBBEdQbuen7Rp3RIIp.jpg"
+      },
+      "budget": 900000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0089885",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1212,
+          "logo_path": null,
+          "name": "Empire Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 2023414,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 945961,
+      "original_language": "en",
+      "original_title": "Alien: Romulus",
+      "overview": "Исследуя заброшенную космическую станцию, группа космических колонизаторов сталкивается лицом к лицу с самой ужасающей формой жизни во Вселенной.",
+      "popularity": 17.8762,
+      "poster_path": "/nyLaPFp5AZXcAoG58AajuAUG4zc.jpg",
+      "release_date": "2024-08-13",
+      "title": "Чужой: Ромул",
+      "video": false,
+      "vote_average": 7.178,
+      "vote_count": 4177,
+      "belongs_to_collection": {
+        "id": 1434946,
+        "name": "Чужой Ромул - Сага (Коллекция)",
+        "poster_path": "/pJdItyeP5Ep5oYoqHlPpX4BEnPC.jpg",
+        "backdrop_path": "/nklXuO1cBEViut27TpChoKIzyI5.jpg"
+      },
+      "budget": 80000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt18412256",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 127928,
+          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+          "name": "20th Century Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 221347,
+          "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+          "name": "Scott Free Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 401,
+          "logo_path": "/t7mM3DvQ9MwDT3YzMCBrkWpWiiz.png",
+          "name": "Brandywine Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 350865342,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "Danish",
+          "iso_639_1": "da",
+          "name": "Dansk"
+        },
+        {
+          "english_name": "Dutch",
+          "iso_639_1": "nl",
+          "name": "Nederlands"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«В космосе вас никто не услышит»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Zd4348R7I8ii27TDs7XKAN5c6y.jpg",
+      "genre_ids": [
+        80,
         27,
         53
       ],
-      "id": 713704,
+      "id": 39844,
       "original_language": "en",
-      "original_title": "Evil Dead Rise",
-      "overview": "Попав в сложную жизненную ситуацию, Бет приезжает в Лос-Анджелес к старшей сестре Элли. На месте выясняется, что от той ушёл муж, оставив с тремя детьми, и их жилой комплекс скоро снесут, а новый дом ещё не найден. Решив поговорить с сестрой наедине, Элли отправляет детей за пиццей. На обратном пути они переживают землетрясение, на парковке образуется провал, и старший Дэнни находит там древний загадочный том и пластинки. Из любопытства открыв книгу и прослушав записи, мальчик высвобождает злые силы, которые тут же вселяются в его мать и теперь будут пытаться утащить в ад всех присутствующих, а особенно — детей.",
-      "popularity": 7.863,
-      "poster_path": "/vc68Uaj9yJlj3LZ27WLpL2bsFM5.jpg",
-      "release_date": "2023-04-12",
-      "title": "Восстание зловещих мертвецов",
+      "original_title": "Deranged",
+      "overview": "Мужчина, живущий в сельской местности штата Висконсин, ухаживает за своей прикованной к постели матерью, которая очень властная и учит его, что все женщины злые. После ее смерти он скучает по ней, и через год выкапывает ее и забирает домой. Он изучает таксидермию и начинает грабить могилы, чтобы добыть материалы для ее реставрации, и неизбежно начинает искать более свежие источники материалов. Основано на реальной истории Эда Гейна.",
+      "popularity": 1.2201,
+      "poster_path": "/lHcXdp4hNx1QiIQyLl2NlyvKSB5.jpg",
+      "release_date": "1974-02-02",
+      "title": "Безумие",
       "video": false,
-      "vote_average": 6.914,
-      "vote_count": 3569,
+      "vote_average": 5.793,
+      "vote_count": 111,
       "belongs_to_collection": null,
-      "budget": 15000000,
+      "budget": 200000,
       "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
         {
           "id": 27,
           "name": "ужасы"
@@ -38,58 +218,26 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt13345606",
+      "imdb_id": "tt0071408",
       "origin_country": [
-        "US"
+        "CA"
       ],
       "production_companies": [
         {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        },
-        {
-          "id": 7893,
+          "id": 16380,
           "logo_path": null,
-          "name": "Pacific Renaissance Pictures",
-          "origin_country": "NZ"
-        },
-        {
-          "id": 467,
-          "logo_path": null,
-          "name": "Renaissance Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 768,
-          "logo_path": "/mh0PD5vYwRIL5FoN9vgF2ULokSV.png",
-          "name": "Ghost House Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 129815,
-          "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
-          "name": "Wild Atlantic Pictures",
-          "origin_country": "IE"
+          "name": "Karr International Pictures",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IE",
-          "name": "Ireland"
-        },
-        {
-          "iso_3166_1": "NZ",
-          "name": "New Zealand"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "CA",
+          "name": "Canada"
         }
       ],
-      "revenue": 147156372,
-      "runtime": 97,
+      "revenue": 0,
+      "runtime": 83,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -98,7 +246,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Мамочка любит тебя до смерти»",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -187,154 +335,6 @@
       "status": "Released",
       "tagline": "Все это время они оставались живы...",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/grIaRfJJz7VrMSpFxTTdD5GEbE4.jpg",
-      "genre_ids": [
-        12,
-        53,
-        27
-      ],
-      "id": 580,
-      "original_language": "en",
-      "original_title": "Jaws: The Revenge",
-      "overview": "Полицейский Мартин Броди умирает от сердечного приступа. Его младший сын Шон погибает в схватке с большой белой акулой. Эллен Броди абсолютно убеждена, что гигантское белое чудовище мстит ее семье. Миссис Броди летит на Багамы к старшему сыну Майклу, который работает морским биологом, чтобы предупредить о смертельной опасности…",
-      "popularity": 3.735,
-      "poster_path": "/3SXlHcHWb1QPaEzEG7dsDUVSdLr.jpg",
-      "release_date": "1987-07-17",
-      "title": "Челюсти 4: Месть",
-      "video": false,
-      "vote_average": 4.083,
-      "vote_count": 1164,
-      "belongs_to_collection": {
-        "id": 2366,
-        "name": "Челюсти (Коллекция)",
-        "poster_path": "/jDaiMpYdfWgzCh8x0sX30wVuJyt.jpg",
-        "backdrop_path": "/1e2QvI2u7Q4d2admK6Xw0AjLjVp.jpg"
-      },
-      "budget": 23000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0093300",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 51881012,
-      "runtime": 89,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/w1L8FTAxPfVVRW9s5IRMTPMAnWR.jpg",
-      "genre_ids": [
-        18,
-        27
-      ],
-      "id": 78546,
-      "original_language": "it",
-      "original_title": "L'anticristo",
-      "overview": "Злой дух вселяется в прикованную к инвалидному креслу женщину из аристократической римской семьи. В ней просыпается ведьма, казненная на костре в средние века.",
-      "popularity": 1.0143,
-      "poster_path": "/lUGJSaNcs7UulRpfbh0iVkYvNW6.jpg",
-      "release_date": "1974-11-22",
-      "title": "Антихрист",
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 103,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0071150",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 1415,
-          "logo_path": null,
-          "name": "Capitolina Produzioni Cinematografiche",
-          "origin_country": "IT"
-        },
-        {
-          "id": 494,
-          "logo_path": "/ioc65azmsAeL1XQN4dFnrpdJoMO.png",
-          "name": "AVCO Embassy Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
