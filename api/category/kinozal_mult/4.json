@@ -9,28 +9,102 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg",
+      "backdrop_path": "/1MmYpf5DFFVqWj7NJug1nimOMrz.jpg",
       "genre_ids": [
-        16,
         10751,
+        16,
         35
       ],
-      "id": 49444,
-      "original_language": "en",
-      "original_title": "Kung Fu Panda 2",
-      "overview": "Панда По наконец-то исполнит свою мечту, станет Воином Дракона и со своими друзьями и мастерами кунг-фу — Неистовой Пятеркой — защитит Великую Долину от страшного злодея и его легиона…",
-      "popularity": 8.6573,
-      "poster_path": "/7DOB9aaa6PpCclaLRlMBTR34Ti.jpg",
-      "release_date": "2011-05-25",
-      "title": "Кунг-фу Панда 2",
+      "id": 274234,
+      "original_language": "fr",
+      "original_title": "Le coq de St-Victor",
+      "overview": "В городке Сан-Виктор царит порядок и процветание, что не может не радовать педантичного мэра. Он ставит благополучие своего городка в заслугу любимому петуху за то, что тот на протяжении семи лет будит своих горожан ровно в 4 утра, тем самым давая им достаточное количество времени везде поспевать в своих делах. Но столь раннее пробуждение под петушиный крик раздражает жителей и они принимают решение передать петуха в соседний городок Сан-Бенуа, обменяв его на осла в надежде, что последний принесет им удачу. Вместо ожидаемого успеха, городок предается лени, люди бездельничают в праздности проводя своё время. Такое положение вещей весьма огорчает мэра и небольшая команда из его активных почитателей отправляются в Сан-Бенуа, с намерением вернуть петуха обратно...",
+      "popularity": 0.5228,
+      "poster_path": "/jVoiCwwm7NHv2omYw246RznZ7SH.jpg",
+      "release_date": "2014-02-21",
+      "title": "Петух Дудл-Ду",
       "video": false,
-      "vote_average": 7.06,
-      "vote_count": 7778,
+      "vote_average": 6.6,
+      "vote_count": 7,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2476096",
+      "origin_country": [
+        "CA",
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 20183,
+          "logo_path": "/uTFqSaBC6BMJegqq8WECicS79YE.png",
+          "name": "Productions 10th Ave",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        10751,
+        9648
+      ],
+      "id": 1084242,
+      "original_language": "en",
+      "original_title": "Zootopia 2",
+      "overview": "Джуди и Ник теперь полноценная команда в полиции. Но их спокойная служба резко меняется, когда в городе появляется загадочный преступник-рептилия, способный ставить под угрозу весь порядок в Зверополисе. Чтобы разобраться в деле, героям приходится углубиться в новые районы города, куда обычным жителям лучше не соваться. Расследование быстро выходит за рамки привычных правил: Джуди и Ник работают под прикрытием, сталкиваются с непредсказуемыми союзниками и опасными врагами, а также вынуждены доверять друг другу сильнее, чем когда-либо.",
+      "popularity": 349.0251,
+      "poster_path": "/j29hoRvpGshWDaOBVIogkRpi6JS.jpg",
+      "release_date": "2025-11-26",
+      "title": "Зверополис 2",
+      "video": false,
+      "vote_average": 7.628,
+      "vote_count": 958,
       "belongs_to_collection": {
-        "id": 77816,
-        "name": "Кунг-фу Панда (Коллекция)",
-        "poster_path": "/9jzPFcrDUiYpuzpSWMRrzwphxd3.jpg",
-        "backdrop_path": "/2nbtv33hEk2CTnuMhTGZgsFdi3K.jpg"
+        "id": 1084247,
+        "name": "Зверополис (Коллекция)",
+        "poster_path": "/xeTBqRz5LQ55mgETK0if54U5lzO.jpg",
+        "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
       },
       "budget": 150000000,
       "genres": [
@@ -39,24 +113,32 @@
           "name": "мультфильм"
         },
         {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
           "id": 10751,
           "name": "семейный"
         },
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1302011",
+      "imdb_id": "tt26443597",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 521,
-          "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
-          "name": "DreamWorks Animation",
+          "id": 6125,
+          "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+          "name": "Walt Disney Animation Studios",
           "origin_country": "US"
         }
       ],
@@ -66,168 +148,30 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 665692281,
-      "runtime": 91,
+      "revenue": 1588069590,
+      "runtime": 107,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
-      "tagline": "Пандамания продолжается",
+      "tagline": "«Не каждый, кто скользит в тени - враг»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        35,
-        18,
-        28
-      ],
-      "id": 9502,
-      "original_language": "en",
-      "original_title": "Kung Fu Panda",
-      "overview": "Спасение Долины Мира и всех ее обитателей от непобедимого и безжалостного мастера Тай Лунга должно лечь на плечи Воина Дракона, Избранного среди лучших из лучших, коим становится... неуклюжий, ленивый и вечно голодный панда По. Ему предстоит долгий и трудный путь к вершинам мастерства Кунг-фу бок о бок с легендарными воинами: Тигрой, Обезьяной, Богомолом, Гадюкой и Журавлем. По постигнет тайну древнего Свитка и станет Воином Дракона только в том случае, если сможет поверить в себя...",
-      "popularity": 12.8672,
-      "poster_path": "/3EQ7y1wVCPsCnlB3PGee618SdIc.jpg",
-      "release_date": "2008-06-04",
-      "title": "Кунг-фу Панда",
-      "video": false,
-      "vote_average": 7.317,
-      "vote_count": 12465,
-      "belongs_to_collection": {
-        "id": 77816,
-        "name": "Кунг-фу Панда (Коллекция)",
-        "poster_path": "/9jzPFcrDUiYpuzpSWMRrzwphxd3.jpg",
-        "backdrop_path": "/2nbtv33hEk2CTnuMhTGZgsFdi3K.jpg"
-      },
-      "budget": 130000000,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0441773",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 521,
-          "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
-          "name": "DreamWorks Animation",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 632091832,
-      "runtime": 91,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Не будите во мне зверя, пожалуйста",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uDPNsFzBeAjGve3xyo30V7FfqsL.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1318234,
-      "original_language": "cs",
-      "original_title": "Neporazitelní",
-      "overview": "Этот фильм заставит вас смеяться и плакать одновременно. Эта вдохновляющая история о стремлении к мечте и использовании второго шанса в жизни. Сюжет разворачивается на фоне выдающегося события мирового масштаба.",
-      "popularity": 0.672,
-      "poster_path": "/oqBCCTb5YvCfFPlkddyvHLHJuQU.jpg",
-      "release_date": "2025-11-19",
-      "title": "Непобедимые",
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 5,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31411053",
-      "origin_country": [
-        "CZ"
-      ],
-      "production_companies": [
-        {
-          "id": 234176,
-          "logo_path": null,
-          "name": "Visual Riders s.r.o.",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CZ",
-          "name": "Czech Republic"
-        }
-      ],
-      "revenue": 981542,
-      "runtime": 0,
-      "spoken_languages": [
-        {
-          "english_name": "Czech",
-          "iso_639_1": "cs",
-          "name": "Český"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama",
         "kinozal_mult"
       ]
     },
@@ -343,35 +287,28 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/7siwEffIjswFTB3O6OclIZS3tqx.jpg",
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "genre_ids": [
-        36,
         16,
-        10751
+        10751,
+        878,
+        35,
+        12
       ],
-      "id": 306724,
-      "original_language": "ru",
-      "original_title": "Василиса Микулишна",
-      "overview": "Как Василиса Микулишна умом да хитростью своего мужа Ставра Годиновича из темницы Киевского князя вытащила.",
-      "popularity": 0.3751,
-      "poster_path": "/4YDQi0Pv6DL7QKDTtBJPsnoN8HG.jpg",
-      "release_date": "1975-01-01",
-      "title": "Василиса Микулишна",
+      "id": 1327819,
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Учёные разработали технологию, позволяющую переносить человеческое сознание в максимально реалистичных роботизированных животных, что дает людям возможность общаться с животными. Мейбл, любительница животных, получает доступ к технологии. Она переносится в тело робота-бобра и отправляется исследовать животный мир.",
+      "popularity": 112.5402,
+      "poster_path": "/4eqr5LZH122BiU9hboXHZxX8bBl.jpg",
+      "release_date": "2026-03-04",
+      "title": "Прыгуны",
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 4,
-      "belongs_to_collection": {
-        "id": 1366361,
-        "name": "Былины и сказания",
-        "poster_path": "/rq227f1Dj2URkKUU20ChKfOl91J.jpg",
-        "backdrop_path": null
-      },
-      "budget": 0,
+      "vote_average": 7.619,
+      "vote_count": 281,
+      "belongs_to_collection": null,
+      "budget": 150000000,
       "genres": [
-        {
-          "id": 36,
-          "name": "история"
-        },
         {
           "id": 16,
           "name": "мультфильм"
@@ -379,38 +316,50 @@
         {
           "id": 10751,
           "name": "семейный"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "",
+      "imdb_id": "tt26443616",
       "origin_country": [
-        "SU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
+          "id": 3,
+          "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+          "name": "Pixar",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 18,
+      "revenue": 242388736,
+      "runtime": 104,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Будь собой»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -419,21 +368,21 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/me16bEoV2OCs1I6Xkm1kZmvTYoY.jpg",
+      "backdrop_path": "/eEuEZMEzFlxeMZ02KrMnBy2Cu0p.jpg",
       "genre_ids": [
         16
       ],
-      "id": 448402,
+      "id": 453554,
       "original_language": "ru",
-      "original_title": "Муравьишка-хвастунишка",
-      "overview": "По мотивам сказки В.Бианки \"Как муравьишко домой спешил\".",
-      "popularity": 1.0798,
-      "poster_path": "/lMciV3Qk7fX0eyRGsAjJyjQXiIt.jpg",
-      "release_date": "1962-12-28",
-      "title": "Муравьишка-хвастунишка",
+      "original_title": "Впервые на арене",
+      "overview": "Мультипликационный фильм о слоненке Тимке, который стал цирковым артистом.",
+      "popularity": 0.4055,
+      "poster_path": "/bxpXoBqGaatFpyeNvKb040Xix53.jpg",
+      "release_date": "1961-04-21",
+      "title": "Впервые на арене",
       "video": false,
-      "vote_average": 5,
-      "vote_count": 2,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -462,73 +411,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 16,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16,
-        14
-      ],
-      "id": 453744,
-      "original_language": "ru",
-      "original_title": "Кузнец-колдун",
-      "overview": "Фильм рассказывает о замечательных французских кузнецах-умельцах. Их ум и находчивость одерживают победу над глупостью и жадностью.",
-      "popularity": 0.5132,
-      "poster_path": "/yA4ZXAC00io5Am43MA2caQSyaEB.jpg",
-      "release_date": "1967-04-22",
-      "title": "Кузнец-колдун",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 1,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt7019916",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 18,
+      "runtime": 10,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -835,6 +718,209 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/7siwEffIjswFTB3O6OclIZS3tqx.jpg",
+      "genre_ids": [
+        36,
+        16,
+        10751
+      ],
+      "id": 306724,
+      "original_language": "ru",
+      "original_title": "Василиса Микулишна",
+      "overview": "Как Василиса Микулишна умом да хитростью своего мужа Ставра Годиновича из темницы Киевского князя вытащила.",
+      "popularity": 0.3751,
+      "poster_path": "/4YDQi0Pv6DL7QKDTtBJPsnoN8HG.jpg",
+      "release_date": "1975-01-01",
+      "title": "Василиса Микулишна",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4,
+      "belongs_to_collection": {
+        "id": 1366361,
+        "name": "Былины и сказания",
+        "poster_path": "/rq227f1Dj2URkKUU20ChKfOl91J.jpg",
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 18,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/me16bEoV2OCs1I6Xkm1kZmvTYoY.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 448402,
+      "original_language": "ru",
+      "original_title": "Муравьишка-хвастунишка",
+      "overview": "По мотивам сказки В.Бианки \"Как муравьишко домой спешил\".",
+      "popularity": 1.0798,
+      "poster_path": "/lMciV3Qk7fX0eyRGsAjJyjQXiIt.jpg",
+      "release_date": "1962-12-28",
+      "title": "Муравьишка-хвастунишка",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 16,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 453744,
+      "original_language": "ru",
+      "original_title": "Кузнец-колдун",
+      "overview": "Фильм рассказывает о замечательных французских кузнецах-умельцах. Их ум и находчивость одерживают победу над глупостью и жадностью.",
+      "popularity": 0.5132,
+      "poster_path": "/yA4ZXAC00io5Am43MA2caQSyaEB.jpg",
+      "release_date": "1967-04-22",
+      "title": "Кузнец-колдун",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt7019916",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 18,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "genre_ids": [
         16,
@@ -1034,21 +1120,21 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/eEuEZMEzFlxeMZ02KrMnBy2Cu0p.jpg",
+      "backdrop_path": "/27v7Nlxg3GHtc9PbYyeXvXxXBar.jpg",
       "genre_ids": [
         16
       ],
-      "id": 453554,
+      "id": 453869,
       "original_language": "ru",
-      "original_title": "Впервые на арене",
-      "overview": "Мультипликационный фильм о слоненке Тимке, который стал цирковым артистом.",
-      "popularity": 0.4055,
-      "poster_path": "/bxpXoBqGaatFpyeNvKb040Xix53.jpg",
-      "release_date": "1961-04-21",
-      "title": "Впервые на арене",
+      "original_title": "Петух и краски",
+      "overview": "Петух и краски - мультипликационный фильм для детей о приключениях нарисованного петушка, которого забыли раскрасить.",
+      "popularity": 0.7139,
+      "poster_path": "/p4yFmFfCUnejjzJjHwj1rh5BL6Q.jpg",
+      "release_date": "1964-04-20",
+      "title": "Петух и краски",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 10,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -1077,7 +1163,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 10,
+      "runtime": 15,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1314,87 +1400,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        10751
-      ],
-      "id": 260513,
-      "original_language": "en",
-      "original_title": "Incredibles 2",
-      "overview": "После событий первой части суперсемейка пользуется повышенным вниманием со стороны журналистов. Неожиданно оказалось, что обаятельная Миссис Исключительная гораздо лучше смотрится на экране телевизора, чем её муж. Мистеру Исключительному всё чаще приходится сидеть дома и приглядывать за детьми, у каждого из которых есть свои причины быть недовольным собственными суперспособностями. Однако семейным проблемам предстоит отступить на второй план, когда окажется, что спокойствию Суперсемейки угрожает новый могущественный враг.",
-      "popularity": 9.6443,
-      "poster_path": "/vwer36JvbZxeZ6ZRBvzrsUm6tYt.jpg",
-      "release_date": "2018-06-14",
-      "title": "Суперсемейка 2",
-      "video": false,
-      "vote_average": 7.452,
-      "vote_count": 13584,
-      "belongs_to_collection": {
-        "id": 468222,
-        "name": "Суперсемейка (Коллекция)",
-        "poster_path": "/x6vkdYzxTh2BznLIXX7Za1atFl.jpg",
-        "backdrop_path": "/6oi6V1O9MJRNnfV8E9JMntmFqBD.jpg"
-      },
-      "budget": 200000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3606756",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 3,
-          "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
-          "name": "Pixar",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1243225667,
-      "runtime": 118,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Это было слишком давно, дорогие",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/wghKvEjM7UzQzQcKnGbDjOyQO13.jpg",
       "genre_ids": [
         16,
@@ -1599,59 +1604,79 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/27v7Nlxg3GHtc9PbYyeXvXxXBar.jpg",
+      "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
       "genre_ids": [
-        16
+        28,
+        12,
+        16,
+        10751
       ],
-      "id": 453869,
-      "original_language": "ru",
-      "original_title": "Петух и краски",
-      "overview": "Петух и краски - мультипликационный фильм для детей о приключениях нарисованного петушка, которого забыли раскрасить.",
-      "popularity": 0.7139,
-      "poster_path": "/p4yFmFfCUnejjzJjHwj1rh5BL6Q.jpg",
-      "release_date": "1964-04-20",
-      "title": "Петух и краски",
+      "id": 260513,
+      "original_language": "en",
+      "original_title": "Incredibles 2",
+      "overview": "После событий первой части суперсемейка пользуется повышенным вниманием со стороны журналистов. Неожиданно оказалось, что обаятельная Миссис Исключительная гораздо лучше смотрится на экране телевизора, чем её муж. Мистеру Исключительному всё чаще приходится сидеть дома и приглядывать за детьми, у каждого из которых есть свои причины быть недовольным собственными суперспособностями. Однако семейным проблемам предстоит отступить на второй план, когда окажется, что спокойствию Суперсемейки угрожает новый могущественный враг.",
+      "popularity": 9.6443,
+      "poster_path": "/vwer36JvbZxeZ6ZRBvzrsUm6tYt.jpg",
+      "release_date": "2018-06-14",
+      "title": "Суперсемейка 2",
       "video": false,
-      "vote_average": 10,
-      "vote_count": 1,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 7.452,
+      "vote_count": 13584,
+      "belongs_to_collection": {
+        "id": 468222,
+        "name": "Суперсемейка (Коллекция)",
+        "poster_path": "/x6vkdYzxTh2BznLIXX7Za1atFl.jpg",
+        "backdrop_path": "/6oi6V1O9MJRNnfV8E9JMntmFqBD.jpg"
+      },
+      "budget": 200000000,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
         {
           "id": 16,
           "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": null,
+      "imdb_id": "tt3606756",
       "origin_country": [
-        "SU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
+          "id": 3,
+          "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+          "name": "Pixar",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 15,
+      "revenue": 1243225667,
+      "runtime": 118,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "Это было слишком давно, дорогие",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
