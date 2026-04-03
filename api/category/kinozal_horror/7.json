@@ -9,74 +9,88 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/rhuEN18ZimDOva3guaWZA4hYgLB.jpg",
+      "backdrop_path": "/gKtwKj84dmmDQxeZB96VSCJslFj.jpg",
       "genre_ids": [
-        27
+        27,
+        28,
+        53
       ],
-      "id": 1309083,
+      "id": 42187,
       "original_language": "en",
-      "original_title": "Dolly",
-      "overview": "Мейси, молодая девушка, отправляется в поход через лес вместе с возлюбленным. В лесу странный незнакомец в маске куклы-младенца похищает девушку, чтобы растить её как своего ребёнка.",
-      "popularity": 8.6507,
-      "poster_path": "/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg",
-      "release_date": "2026-03-06",
-      "title": "Куколка",
+      "original_title": "Shark Attack 2",
+      "overview": "В результате неудачного эксперимента был нарушен генетический код подопытных акул. Чудовищная мутация превратила простых подводных хищников в гигантских кровожадных монстров. Разъяренная изголодавшаяся стая жестоко расправляется с ничего не подозревающими жителями, и с каждым днем число ее несчастных жертв растет.  Призрак смерти властвует на некогда тихом побережье. Есть ли шанс избавиться от этих страшных порождений роковой ошибки ученых?",
+      "popularity": 0.8025,
+      "poster_path": "/mnzeIraE5HhY8Bg3wZE7spb0aVW.jpg",
+      "release_date": "2000-12-05",
+      "title": "Акулы 2",
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 6,
-      "belongs_to_collection": null,
+      "vote_average": 5.2,
+      "vote_count": 94,
+      "belongs_to_collection": {
+        "id": 389867,
+        "name": "Shark Attack Collection",
+        "poster_path": "/dkoUKrhGg5Wv1XZiD4QYvxoNMwq.jpg",
+        "backdrop_path": "/dcD4d19Zvhe0FxpDeoyJrrWdcsy.jpg"
+      },
       "budget": 0,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt32639175",
+      "imdb_id": "tt0222355",
       "origin_country": [
+        "ZA",
         "US"
       ],
       "production_companies": [
         {
-          "id": 154462,
-          "logo_path": "/b50HZtBl1ANTbHwu7PJmSAccZk1.png",
-          "name": "Witchcraft Motion Picture Company",
+          "id": 8464,
+          "logo_path": null,
+          "name": "Do Productions",
+          "origin_country": "ZA"
+        },
+        {
+          "id": 925,
+          "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+          "name": "Nu Image",
           "origin_country": "US"
         },
         {
-          "id": 156293,
+          "id": 20813,
           "logo_path": null,
-          "name": "Gentile Entertainment Group",
-          "origin_country": ""
+          "name": "Nu World Services",
+          "origin_country": "US"
         },
         {
-          "id": 74148,
-          "logo_path": null,
-          "name": "Mama Bear Studios",
-          "origin_country": ""
-        },
-        {
-          "id": 235412,
-          "logo_path": null,
-          "name": "Monarque Entertainment",
-          "origin_country": ""
-        },
-        {
-          "id": 235413,
-          "logo_path": null,
-          "name": "Set Point Entertainment",
-          "origin_country": ""
+          "id": 1020,
+          "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+          "name": "Millennium Media",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "ZA",
+          "name": "South Africa"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 480000,
-      "runtime": 83,
+      "revenue": 0,
+      "runtime": 98,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -86,7 +100,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
