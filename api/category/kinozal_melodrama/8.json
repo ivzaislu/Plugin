@@ -5,32 +5,118 @@
   },
   "page": 8,
   "limit": 20,
-  "total": 152,
+  "total": 153,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/fXJLG5ELztwBamXzu9AdQllLHYI.jpg",
+      "backdrop_path": "/euIGOqxmaKndp4Bd6x1NGyIo0Bs.jpg",
       "genre_ids": [
-        18,
-        10749
+        35,
+        10749,
+        18
       ],
-      "id": 211922,
-      "original_language": "ru",
-      "original_title": "Благословите женщину",
-      "overview": "Её звали Вера, а его - Александр Иванович Ларичев. Она была белокурая красавица, а он - командир Красной Армии и орденоносец. Ей еще не было восемнадцати, а ему уже было за тридцать. Она еще не знала, что такое любовь, а у него уже была жена, с которой он развелся точно так же четко и быстро, по-военному, как сделал предложение Верочке. Она ждала принца на белом коне, а он - очередного назначения…",
-      "popularity": 0.3613,
-      "poster_path": "/fUftgrNHK1lz25Ivou5WQqjQYfz.jpg",
-      "release_date": "2003-09-04",
-      "title": "Благословите женщину",
+      "id": 23152,
+      "original_language": "en",
+      "original_title": "People Will Talk",
+      "overview": "Доктора Ноа Преториус, молодой врач-энтузиаст, считающий, что лечить больных можно и нужно разумным подходом к ним, а не массивными дозами лекарств. Его позиция, что лечить надо пациента, а не болезнь приводит в восторг начальство, но ужасает коллег, которые предпочитают традиционные методы лечения. Доктор преподает в медицинском училище и живет, по мнению многих, странной жизнью.  Профессор Элуэлл, коллега Преториуса, мрачный инструктор по анатомии, не любит его. Ему самому больше нравится резать трупы, чем беседовать с людьми. В перерывах между занятиями доктор Преториус дирижирует школьным оркестром, исполняя Вагнера и Брамса. Элуэлл плетет интриги и сообщает декану Лаймэну Брокуэллу интересные факты о медицинском прошлом доктора Преториуса. Ему приходится защищаться.",
+      "popularity": 1.364,
+      "poster_path": "/w7wdYUwie8kBsEojZCF5gbTfVii.jpg",
+      "release_date": "1951-08-29",
+      "title": "Люди будут судачить",
       "video": false,
-      "vote_average": 5,
-      "vote_count": 16,
+      "vote_average": 7.132,
+      "vote_count": 95,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
           "id": 18,
           "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0043915",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 4200000,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oefJ9aBwvJ7fD0uFvH8gaCeJOa4.jpg",
+      "genre_ids": [
+        12,
+        18,
+        36,
+        10749
+      ],
+      "id": 78001,
+      "original_language": "ru",
+      "original_title": "Пассажирка",
+      "overview": "1882 год. Русский клипер «Смелый» идет из Сан-Франциско в Гонконг. Российский консул просит капитана взять на борт пассажирку и доставить ее в Гонконг, где привлекательную во всех отношениях молоденькую барышню ждет муж-американец. И хотя, согласно известному поверью, «женщина на корабле - к беде», пассажирку принимают с почестями, а капитан даже уступает ей свою каюту. Плавание действительно окажется не простым. Красота и скромность пассажирки не оставят равнодушным ни одного офицера на судне (вплоть до капитана) и приведут к серьезной ссоре двух молодых мичманов…",
+      "popularity": 0.8216,
+      "poster_path": "/xTRJ53IGpYzTq9JdEBJbZXj9W7n.jpg",
+      "release_date": "2008-06-06",
+      "title": "Пассажирка",
+      "video": false,
+      "vote_average": 2.8,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
         },
         {
           "id": 10749,
@@ -38,15 +124,15 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0347334",
+      "imdb_id": "tt1515882",
       "origin_country": [
         "RU"
       ],
       "production_companies": [
         {
-          "id": 170585,
-          "logo_path": "/1nUzkMSbZOzoYgHHhBSJ5xGwnIm.png",
-          "name": "Mosfilm",
+          "id": 21582,
+          "logo_path": "/PxgoRn8jhDS2EjqS9i9Qjt2zu.png",
+          "name": "Vertical Film Studio",
           "origin_country": "RU"
         }
       ],
@@ -57,7 +143,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 114,
+      "runtime": 95,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -75,28 +161,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/qkqgOsMnFDkioB6avkiqZYr8BI.jpg",
+      "backdrop_path": "/2LDY0auGo25vERpruG5PV9I1OMJ.jpg",
       "genre_ids": [
-        10770,
+        35,
+        18,
         10749
       ],
-      "id": 744945,
+      "id": 2021,
       "original_language": "en",
-      "original_title": "Spotlight on Christmas",
-      "overview": "Брошенная своим парнем перед Рождеством голливудская актриса втайне едет в родной город, чтобы поесть маминых угощений и убежать от внимания прессы. В итоге там она находит роль всей своей жизни и понимает, что именно там может обрести себя.",
-      "popularity": 0.8355,
-      "poster_path": "/n7VOErjeOwTz0YMiODDBUU74bTw.jpg",
-      "release_date": "2020-12-21",
-      "title": "Все внимание на рождество",
+      "original_title": "Jack & Sarah",
+      "overview": "Молодая американка становится няней в доме британца, ставшего вдовцом.",
+      "popularity": 1.5736,
+      "poster_path": "/yWMj1KMfnixB35qa2IZKniHF4sn.jpg",
+      "release_date": "1995-06-02",
+      "title": "Джек и Сара",
       "video": false,
-      "vote_average": 6.222,
-      "vote_count": 27,
+      "vote_average": 6.7,
+      "vote_count": 56,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 10770,
-          "name": "телевизионный фильм"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         },
         {
           "id": 10749,
@@ -104,33 +195,208 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt13189798",
+      "imdb_id": "tt0113448",
+      "origin_country": [
+        "US",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 247,
+          "logo_path": "/kgYZ2I5ibveeOOn10VJKQCg6hLd.png",
+          "name": "Granada Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 271,
+          "logo_path": null,
+          "name": "Mainstream S.A.",
+          "origin_country": ""
+        },
+        {
+          "id": 12745,
+          "logo_path": null,
+          "name": "British Screen Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 104,
+          "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+          "name": "Canal+",
+          "origin_country": "FR"
+        },
+        {
+          "id": 1382,
+          "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+          "name": "PolyGram Filmed Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 218626,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w1Q8S2x9MP98B40w2djpBmbWdKr.jpg",
+      "genre_ids": [
+        10749,
+        10770,
+        35
+      ],
+      "id": 1608615,
+      "original_language": "en",
+      "original_title": "The Way to You",
+      "overview": "После отключения света в нью-йоркском метро Эмма и Конрад дают слово помочь друг другу найти своих незнакомцев — тех, с кем их мимолётно свела судьба. Но в погоне за призраками прошлого они могут наткнуться на чувство, которого совсем не ждали.",
+      "popularity": 0.7484,
+      "poster_path": "/4aOxnMaDkr792WOZFJUb6LxcR74.jpg",
+      "release_date": "2026-02-07",
+      "title": "Путь к тебе",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 10,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt39300766",
       "origin_country": [
         "CA",
         "US"
       ],
       "production_companies": [
         {
-          "id": 129639,
-          "logo_path": null,
-          "name": "My Life Productions Inc.",
-          "origin_country": ""
+          "id": 83549,
+          "logo_path": "/6AQrYukoi0OGD1Yal9vYjFREXxJ.png",
+          "name": "Inferno Pictures",
+          "origin_country": "CA"
         },
         {
-          "id": 15645,
-          "logo_path": "/uX2ZxAA6TeLQZUHb0IqMrhAb1kL.png",
-          "name": "Reel One Entertainment",
-          "origin_country": "CA"
+          "id": 53015,
+          "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+          "name": "Hallmark Media",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "CA",
           "name": "Canada"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 80,
+      "runtime": 84,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/60OypzgF62FE8PWxXi5zSI1bLyS.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 25095,
+      "original_language": "en",
+      "original_title": "Wuthering Heights",
+      "overview": "Ничто не тревожило уединенной жизни Кэти и Хиндли, родных брата и сестры живущих в отдаленном поместье вместе со своим отцом, до тех пор пока, однажды старик не привел в их дом Хитклифа, бездомного парня, которого он подобрал умирающим от голода в Ливерпуле и решил приютить.  С этого момента страсти на «Грозовом перевале» начали неумолимо накаляться. С каждым днем симпатичный Хитклиф завоевывает все больше симпатии и любви от Кэти и ее отца, потребовавшего от детей, чтобы парня приняли в семью и считали ее полноправным членом. И точно так же с каждым днем растет ненависть Хиндли, чувствующего себя замененным. Как только отец умирает, переполняемый ненавистью Хиндли отправляет парня на конюшню.",
+      "popularity": 4.7859,
+      "poster_path": "/aFVFz8wE554LSKfR0s9KpRVFU2h.jpg",
+      "release_date": "1992-10-16",
+      "title": "Грозовой перевал",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 305,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0104181",
+      "origin_country": [
+        "US",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 105,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -547,33 +813,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/zFaU52XXK1c0wpv0RQiEhHpBDR4.jpg",
+      "backdrop_path": "/dxAeLMQC7M4Xp0dxrkL3rPq4vpf.jpg",
       "genre_ids": [
         18,
-        10770,
+        35,
         10749
       ],
-      "id": 880934,
+      "id": 57825,
       "original_language": "en",
-      "original_title": "Saying Yes to Christmas",
-      "overview": "Волшебное рождественское желание друга детства заставляет одержимую карьерой Джун отвечать \"да\" на каждое приглашение. И чтобы вновь стать собой, ей приходится расставить приоритеты и заново узнать себя.",
-      "popularity": 0.5293,
-      "poster_path": "/ermc5NADcPd18wiWEI4VB8xsvrA.jpg",
-      "release_date": "2021-11-30",
-      "title": "Скажи Рождеству \"Да\"",
+      "original_title": "Bride & Prejudice",
+      "overview": "Когда свадьба пришла в маленький индийский городок, это было самой лучшей возможностью для Миссис Бакши найти подходящих женихов для своих четырех дочерей — но умная и своевольная Лалита хотела выйти замуж только по любви. Яркие чувства разгорелись, когда она встретила симпатичного Американца Уилла Дарси, но что это — любовь или ненависть?…",
+      "popularity": 2.3837,
+      "poster_path": "/yqqo00GZqyG0dijKCqBbdQLUvht.jpg",
+      "release_date": "2004-02-11",
+      "title": "Невеста и предрассудки",
       "video": false,
-      "vote_average": 5.4,
-      "vote_count": 12,
+      "vote_average": 6.4,
+      "vote_count": 401,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 7000000,
       "genres": [
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 10770,
-          "name": "телевизионный фильм"
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 10749,
@@ -581,49 +847,164 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt15515260",
+      "imdb_id": "tt0361411",
       "origin_country": [
-        "CA",
-        "US"
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 140422,
-          "logo_path": "/bdzcN8jo9l77g5zKqPlxW3CkejM.png",
-          "name": "Champlain Media",
-          "origin_country": "CA"
+          "id": 7620,
+          "logo_path": "/3AjuohUrhCqjL8osZOUtSsfo6W3.png",
+          "name": "Bend It Films",
+          "origin_country": "GB"
         },
         {
-          "id": 15645,
-          "logo_path": "/uX2ZxAA6TeLQZUHb0IqMrhAb1kL.png",
-          "name": "Reel One Entertainment",
-          "origin_country": "CA"
-        },
-        {
-          "id": 161040,
+          "id": 1490,
           "logo_path": null,
-          "name": "CME Winter Productions",
-          "origin_country": "CA"
+          "name": "Kintop Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 2452,
+          "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+          "name": "UK Film Council",
+          "origin_country": "GB"
+        },
+        {
+          "id": 7981,
+          "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+          "name": "Pathé",
+          "origin_country": "FR"
+        },
+        {
+          "id": 851,
+          "logo_path": "/kieSA3GFVysJcAUXNRer06u6e5x.png",
+          "name": "MEDIA Programme of the European Union",
+          "origin_country": "BE"
+        },
+        {
+          "id": 2807,
+          "logo_path": null,
+          "name": "India Take One",
+          "origin_country": "IN"
+        },
+        {
+          "id": 52723,
+          "logo_path": null,
+          "name": "Inside Track",
+          "origin_country": "GB"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "CA",
-          "name": "Canada"
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 85,
+      "revenue": 24700000,
+      "runtime": 112,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        },
+        {
+          "english_name": "Punjabi",
+          "iso_639_1": "pa",
+          "name": "ਪੰਜਾਬੀ"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Болливуд встречает Голливуд... И это идеальный матч",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sirxbkADe1QF1uxVTuZ0EGXNhKH.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 146718,
+      "original_language": "pl",
+      "original_title": "Pociąg do Hollywood",
+      "overview": "Юная Мерилин мечтает о Голливуде, о главных ролях у известных режиссеров. Одного из них, Билли Уайлдера, она буквально осаждает своими письмами. Однако знаменитый режиссер остается глух к просьбам девушки, и той приходится работать буфетчицей в поезде. Но именно в поезде она знакомится с Петром, который мечтает стать оператором. Между ними возникает взаимное чувство. Помогая друг другу, герои не отказываются от своих устремлений...",
+      "popularity": 0.8509,
+      "poster_path": "/wNQNV5LL0vlTgyCfWT6wttaPoPE.jpg",
+      "release_date": "1987-08-24",
+      "title": "Поезд в Голливуд",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 9,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0093752",
+      "origin_country": [
+        "PL"
+      ],
+      "production_companies": [
+        {
+          "id": 12301,
+          "logo_path": null,
+          "name": "Zespół Filmowy \"Rondo\"",
+          "origin_country": "PL"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "PL",
+          "name": "Poland"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "Polish",
+          "iso_639_1": "pl",
+          "name": "Polski"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_melodrama"
@@ -710,259 +1091,6 @@
       ],
       "status": "Released",
       "tagline": "«А вдруг у тебя есть ещё один шанс найти настоящую любовь?»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2LDY0auGo25vERpruG5PV9I1OMJ.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "id": 2021,
-      "original_language": "en",
-      "original_title": "Jack & Sarah",
-      "overview": "Молодая американка становится няней в доме британца, ставшего вдовцом.",
-      "popularity": 1.5736,
-      "poster_path": "/yWMj1KMfnixB35qa2IZKniHF4sn.jpg",
-      "release_date": "1995-06-02",
-      "title": "Джек и Сара",
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 56,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0113448",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 247,
-          "logo_path": "/kgYZ2I5ibveeOOn10VJKQCg6hLd.png",
-          "name": "Granada Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 271,
-          "logo_path": null,
-          "name": "Mainstream S.A.",
-          "origin_country": ""
-        },
-        {
-          "id": 12745,
-          "logo_path": null,
-          "name": "British Screen Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 104,
-          "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
-          "name": "Canal+",
-          "origin_country": "FR"
-        },
-        {
-          "id": 1382,
-          "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
-          "name": "PolyGram Filmed Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 218626,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/w1Q8S2x9MP98B40w2djpBmbWdKr.jpg",
-      "genre_ids": [
-        10749,
-        10770,
-        35
-      ],
-      "id": 1608615,
-      "original_language": "en",
-      "original_title": "The Way to You",
-      "overview": "После отключения света в нью-йоркском метро Эмма и Конрад дают слово помочь друг другу найти своих незнакомцев — тех, с кем их мимолётно свела судьба. Но в погоне за призраками прошлого они могут наткнуться на чувство, которого совсем не ждали.",
-      "popularity": 0.7484,
-      "poster_path": "/4aOxnMaDkr792WOZFJUb6LxcR74.jpg",
-      "release_date": "2026-02-07",
-      "title": "Путь к тебе",
-      "video": false,
-      "vote_average": 7.4,
-      "vote_count": 10,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt39300766",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 83549,
-          "logo_path": "/6AQrYukoi0OGD1Yal9vYjFREXxJ.png",
-          "name": "Inferno Pictures",
-          "origin_country": "CA"
-        },
-        {
-          "id": 53015,
-          "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
-          "name": "Hallmark Media",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 84,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/60OypzgF62FE8PWxXi5zSI1bLyS.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
-      "id": 25095,
-      "original_language": "en",
-      "original_title": "Wuthering Heights",
-      "overview": "Ничто не тревожило уединенной жизни Кэти и Хиндли, родных брата и сестры живущих в отдаленном поместье вместе со своим отцом, до тех пор пока, однажды старик не привел в их дом Хитклифа, бездомного парня, которого он подобрал умирающим от голода в Ливерпуле и решил приютить.  С этого момента страсти на «Грозовом перевале» начали неумолимо накаляться. С каждым днем симпатичный Хитклиф завоевывает все больше симпатии и любви от Кэти и ее отца, потребовавшего от детей, чтобы парня приняли в семью и считали ее полноправным членом. И точно так же с каждым днем растет ненависть Хиндли, чувствующего себя замененным. Как только отец умирает, переполняемый ненавистью Хиндли отправляет парня на конюшню.",
-      "popularity": 4.7859,
-      "poster_path": "/aFVFz8wE554LSKfR0s9KpRVFU2h.jpg",
-      "release_date": "1992-10-16",
-      "title": "Грозовой перевал",
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 305,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0104181",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [

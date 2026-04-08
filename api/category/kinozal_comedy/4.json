@@ -9,71 +9,113 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/jUiZOFbC9MjQV3gzi9nn7AsQ4Ea.jpg",
+      "backdrop_path": "/nmGgqRzbb0OHJloknzlorUzUVQo.jpg",
       "genre_ids": [
+        28,
         35,
-        28
+        80,
+        12
       ],
-      "id": 13498,
-      "original_language": "en",
-      "original_title": "Man of the House",
-      "overview": "Невозмутимый, крутой и саркастичный Роланд Шарп — воплощенный идеал техасского рейнджера. Одинаково хорошо владеющий острым словцом и верным револьвером, он всегда с блеском выполнял любые задания. Но теперь его ждет поистине суровая миссия: герой должен… круглые сутки охранять пять девушек-болельщиц, ставших свидетелями убийства!  Под видом помощника тренера Шарп примыкает к их команде, еще не ведая, что ему предстоит не столько оборонять дерзких ангелочков, сколько обороняться от них самому. День за днем проказницы изобретают все новые каверзы, дабы вывести своего героически отражающего их нападки стража из себя. Но настает день, когда атака последует совсем с другой стороны…",
-      "popularity": 5.4462,
-      "poster_path": "/tQfd1vWkdpSOQNZfa0i45goE5BT.jpg",
-      "release_date": "2005-02-25",
-      "title": "Крутой и цыпочки",
+      "id": 2330,
+      "original_language": "fr",
+      "original_title": "Taxi",
+      "overview": "Молодой таксист Даниэль помешан на быстрой езде. Как ураган проносится он по извилистым улицам Марселя на своем мощном ревущем звере «Пежо», пугая пассажиров и прохожих. Неподкупный полицейский Эмильен вынуждает его помочь в поимке банды грабителей, ускользающих от полиции на своих неуловимых «Мерседесах». И до самого конца не ясно, кто же сможет удержаться на крутом вираже…",
+      "popularity": 5.8787,
+      "poster_path": "/3I83PHvy6iPqtzuItLaI2DdLeHQ.jpg",
+      "release_date": "1998-04-08",
+      "title": "Такси",
       "video": false,
-      "vote_average": 5.8,
-      "vote_count": 496,
-      "belongs_to_collection": null,
-      "budget": 40000000,
+      "vote_average": 6.718,
+      "vote_count": 2665,
+      "belongs_to_collection": {
+        "id": 211721,
+        "name": "Такси (Коллекция)",
+        "poster_path": "/1KIEVqRqRC2wjBItunJWPczpEFQ.jpg",
+        "backdrop_path": "/74R8bq4RDuxK3F0VPGlse4YH3Ab.jpg"
+      },
+      "budget": 8700000,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
         {
           "id": 35,
           "name": "комедия"
         },
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0331933",
+      "imdb_id": "tt0152930",
       "origin_country": [
-        "US"
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 788,
-          "logo_path": "/aVDu0Qgpat7PY3EjRSQNQYmaAKl.png",
-          "name": "Bel Air Entertainment",
-          "origin_country": "US"
+          "id": 6896,
+          "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+          "name": "EuropaCorp",
+          "origin_country": "FR"
         },
         {
-          "id": 497,
-          "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-          "name": "Revolution Studios",
-          "origin_country": "US"
+          "id": 189,
+          "logo_path": "/3NcJ66KlMs1s6yOh0AMSLMvhtSV.png",
+          "name": "ARP Sélection",
+          "origin_country": "FR"
+        },
+        {
+          "id": 356,
+          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+          "name": "TF1 Films Production",
+          "origin_country": "FR"
+        },
+        {
+          "id": 694,
+          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+          "name": "StudioCanal",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
-      "revenue": 21577624,
-      "runtime": 100,
+      "revenue": 44218015,
+      "runtime": 86,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
@@ -282,6 +324,83 @@
       ],
       "status": "Released",
       "tagline": "Эти «индейцы» уже вышли на тропу войны",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kM2l7BoPrlP7hx6bSKrp6MHZ1Aa.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        14
+      ],
+      "id": 1489187,
+      "original_language": "ru",
+      "original_title": "Сводишь с ума",
+      "overview": "Алиса заселяется в просторную квартиру в Санкт-Петербурге, в которой начинает сбоить зеркало, показывая юной квартирантке параллельную реальность той же самой квартиры. Вот только проживает в этой параллельной реальности не Алиса, а тусовщик Иван. Сумеют ли молодые люди распознать настоящую любовь и по силам ли им окажется объединить свои миры, чтобы встретиться в реальности и просто прикоснуться друг к другу?",
+      "popularity": 3.9079,
+      "poster_path": "/s42X4sEKtQJfLu3tps2vPMjgjrh.jpg",
+      "release_date": "2025-10-09",
+      "title": "Сводишь с ума",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 6,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33086385",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 225481,
+          "logo_path": "/hMQPmyEHodaxEt1XAlTzAWIEtwg.png",
+          "name": "Forza Film",
+          "origin_country": "RU"
+        },
+        {
+          "id": 71928,
+          "logo_path": "/7M6z2jX570P3HzNQULCTjlZcXkB.png",
+          "name": "All Media A Start Company",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 99,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -767,253 +886,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ovq99oayVGCKEBUPeqT1SvQQwDU.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 58232,
-      "original_language": "en",
-      "original_title": "Chalet Girl",
-      "overview": "Ким, юная скромница английского городка, получает работу на фешенебельном горнолыжном курорте в Альпах. Ей сложно привыкнуть к новому миру роскоши, раскованности и снежных рекордов. Но вскоре Ким обнаруживает в себе талант к спуску на сноуборде и, кажется, влюбляется в симпатичного сына владельца курорта, отдыхающего здесь с подругой… Сможет ли Ким пробиться на Кубок Мира по сноуборду с ценным призом для победительницы? И как ей понять, не морочит ли «золотой мальчик» ей голову?",
-      "popularity": 5.2187,
-      "poster_path": "/7rY7Ufx6MvuiV5qxEZnjNqNixmH.jpg",
-      "release_date": "2011-02-02",
-      "title": "Как выйти замуж за миллиардера",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 658,
-      "belongs_to_collection": null,
-      "budget": 8000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1487118",
-      "origin_country": [
-        "AT",
-        "DE",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 29305,
-          "logo_path": null,
-          "name": "Kaleidoscope Films",
-          "origin_country": ""
-        },
-        {
-          "id": 2452,
-          "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
-          "name": "UK Film Council",
-          "origin_country": "GB"
-        },
-        {
-          "id": 7309,
-          "logo_path": null,
-          "name": "Aegis Film Fund",
-          "origin_country": "GB"
-        },
-        {
-          "id": 6901,
-          "logo_path": null,
-          "name": "Prescience",
-          "origin_country": "GB"
-        },
-        {
-          "id": 137219,
-          "logo_path": null,
-          "name": "Hindsight Media",
-          "origin_country": "GB"
-        },
-        {
-          "id": 11389,
-          "logo_path": "/eKVLElq1XAbcCcwnVj89G9EXRGB.png",
-          "name": "OFI",
-          "origin_country": "AT"
-        },
-        {
-          "id": 13016,
-          "logo_path": null,
-          "name": "Cine Tirol",
-          "origin_country": "AT"
-        },
-        {
-          "id": 205799,
-          "logo_path": null,
-          "name": "Metropolis International Sales",
-          "origin_country": ""
-        },
-        {
-          "id": 205801,
-          "logo_path": null,
-          "name": "BKM, kulturelle Filmförderung des Bundes",
-          "origin_country": ""
-        },
-        {
-          "id": 205802,
-          "logo_path": null,
-          "name": "CrossDay Productions Ltd.",
-          "origin_country": ""
-        },
-        {
-          "id": 403,
-          "logo_path": "/h2nyRbglJy4d6TN6UDycqpdsLpr.png",
-          "name": "Neue Bioskop Film",
-          "origin_country": "DE"
-        },
-        {
-          "id": 2707,
-          "logo_path": null,
-          "name": "Novotny & Novotny Filmproduktion",
-          "origin_country": "AT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AT",
-          "name": "Austria"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 5468650,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "История золушки в Альпах",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hy4NTiYVBmjHOYE9i3qY3NFOTen.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 4592,
-      "original_language": "en",
-      "original_title": "Carolina",
-      "overview": "Старый американский юг. Силиконовая долина. Дружная семья, состоящая из бойкой бабушки — вполне привлекательной и веселой — и ее внучек, которых ей подбросил беспутный сын. Жизнь старшей —  Каролины Мирабо отлажена до мелочей. Хорошая работа, верный друг, сестры и заботливая бабушка напрочь лишили ее жизнь романтики случайных событий и встреч. А как же без них разобраться в своих  истинных чувствах? Как остаться собой и сохранить при этом семью и друзей?",
-      "popularity": 2.4634,
-      "poster_path": "/1PAL74nxKhCV7ubUcGAYtFi7W3W.jpg",
-      "release_date": "2003-07-04",
-      "title": "Каролина",
-      "video": false,
-      "vote_average": 5.762,
-      "vote_count": 84,
-      "belongs_to_collection": null,
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0289889",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 51765,
-          "logo_path": null,
-          "name": "Carolina Torn Asunder Inc.",
-          "origin_country": ""
-        },
-        {
-          "id": 30257,
-          "logo_path": null,
-          "name": "Hollywood Partners",
-          "origin_country": "DE"
-        },
-        {
-          "id": 35445,
-          "logo_path": null,
-          "name": "Carol Baum Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 51762,
-          "logo_path": null,
-          "name": "Bregman-IAC Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 51763,
-          "logo_path": "/kau7SKQsD0b5fqcA2ITNWD4zk2A.png",
-          "name": "Living Pictures",
-          "origin_country": "RS"
-        },
-        {
-          "id": 51764,
-          "logo_path": null,
-          "name": "The Pitt Group",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 308641,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/vBVRgryngFoqHazyLqFca6xNTeB.jpg",
       "genre_ids": [
         35,
@@ -1101,6 +973,143 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/LjAUvZTY55WIcsRwrLVT6EyG4x.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 23568,
+      "original_language": "en",
+      "original_title": "American Virgin",
+      "overview": "После совершенно отвязной попойки, случившейся впервые в её жизни, новоиспечённая ученица колледжа узнала, что её выкрутасы заснял на видео некий вульгарный режиссёр. Теперь ей и её единомышленникам из группы не признающих секс до брака придётся приложить немало усилий, чтобы добыть компрометирующие материалы и не лишиться стипендии.",
+      "popularity": 1.591,
+      "poster_path": "/gYmeLxSy1ovbTNqXs1LwXLWwjCD.jpg",
+      "release_date": "2009-10-03",
+      "title": "Американская девственница",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 170,
+      "belongs_to_collection": null,
+      "budget": 4000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1318044",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 17063,
+          "logo_path": null,
+          "name": "Domain Entertainment Michigan",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 82,
+      "spoken_languages": [
+        {
+          "english_name": "Hungarian",
+          "iso_639_1": "hu",
+          "name": "Magyar"
+        },
+        {
+          "english_name": "Polish",
+          "iso_639_1": "pl",
+          "name": "Polski"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yao4BqwGSiXtyNjoz2JrgDVUk8r.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 605837,
+      "original_language": "ru",
+      "original_title": "Не хочу жениться!",
+      "overview": "Принципиальный холостяк, мастер пластических операций при довольно странных обстоятельствах знакомится с длинноносой милиционершей. Сделав ей операцию, он подобно Пигмалиону, сотворившему Галатею, влюбляется в прекрасное творение рук своих и заявляет: \"Я хочу на тебе жениться!\"",
+      "popularity": 0.2944,
+      "poster_path": "/uYRrjRXVWK1IlynUSsKxUMCMBt5.jpg",
+      "release_date": "1993-01-03",
+      "title": "Не хочу жениться!",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 3,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0184774",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 119052,
+          "logo_path": null,
+          "name": "Creative Unification Entertainments Films",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 85,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
@@ -1597,96 +1606,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fTG8itSb1a4O2BgUMjXdwO64qTz.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "id": 1291335,
-      "original_language": "en",
-      "original_title": "Solo Mio",
-      "overview": "Невеста Мэтта мечтала о свадьбе в Италии, и он не смог ей отказать. Он оплатил перелёт её огромной семьи, роскошную церемонию, а заодно и медовый месяц, но получил отказ прямо у алтаря. Не зная, что делать в данной ситуации, мужчина отправляется в запланированное для двоих путешествие в одиночестве.",
-      "popularity": 41.8238,
-      "poster_path": "/mLZEePFWLqbXtpU00r7V6L66FAm.jpg",
-      "release_date": "2026-02-05",
-      "title": "Холостяк в Италии",
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 22,
-      "belongs_to_collection": null,
-      "budget": 4000000,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32306991",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 221397,
-          "logo_path": "/pfhFwisBqJGN0V3OKFvDHcOQ8Om.png",
-          "name": "A Higher Standard",
-          "origin_country": "US"
-        },
-        {
-          "id": 110723,
-          "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
-          "name": "Nickel City Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 221363,
-          "logo_path": "/aJJCQE4zZhw00DLRnBqEgvZzr91.png",
-          "name": "Kinnane Brothers",
-          "origin_country": "US"
-        },
-        {
-          "id": 96310,
-          "logo_path": "/tBxSNuzARadiaBpIJ3qmdPG5BCz.png",
-          "name": "LB Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 165435,
-          "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
-          "name": "Angel Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 22322533,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Все дороги ведут в Рим»",
-      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
