@@ -5,34 +5,104 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 63,
+  "total": 64,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/xawDFjfjBmtKYC29bZOYnYPGa8e.jpg",
+      "backdrop_path": "/rSXQDLRtmBiIEz0IhNILXkSvPsB.jpg",
       "genre_ids": [
-        16,
-        12,
-        14,
-        35
+        16
       ],
-      "id": 1304434,
-      "original_language": "zh",
-      "original_title": "浪浪山小妖怪",
-      "overview": "Маленький поросёнок Яо решает покинуть гору Лангланг, чтобы присоединиться к паломничеству. С какими испытаниями столкнутся маленькие монстры на пути на запад? В конце концов, смогут ли они осуществить свои мечты и жить так, как им действительно хочется?",
-      "popularity": 5.0903,
-      "poster_path": "/t3Rs1BeIDXhwjOt10iyjiFe7BpL.jpg",
-      "release_date": "2025-08-02",
-      "title": "Маленькие демоны путешествуют на Запад",
+      "id": 389739,
+      "original_language": "ru",
+      "original_title": "Верное средство",
+      "overview": "Все медведи зимой должны спать, но у медвежонка никак не получается заснуть, всё отвлекается и отвлекается. Тётушка куропатка советует ему считать до ста, но и это не помогает. Тогда на помощь медвежонку приходит лесной оркестр в составе зайчонка, белочки, мышки и бобра…",
+      "popularity": 0.5683,
+      "poster_path": "/9k5WpI6dgqUdILa0fuujh78wHoc.jpg",
+      "release_date": "1982-01-01",
+      "title": "Верное средство",
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 64,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt5517530",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 10,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 10693,
+      "original_language": "en",
+      "original_title": "Peter Pan",
+      "overview": "Уолт Дисней зовет нас с собой в волшебную страну Неверленд, где живет удивительный мальчик, который умеет летать и отказывается взрослеть. Это веселый выдумщик, храбрец и проказник Питер Пэн!Однажды в поисках собственной тени Питер попадает в Лондон нашего мира и становится другом маленькой Венди и ее братьев Майкла и Джона, и, конечно же, он берет своих ночных друзей с собой в Неверленд, навстречу потрясающим приключениям.Героям предстоит встретиться с феей Тинкербелл и дружной ватагой Питера Пэна, спасти индейскую принцессу Тигровую Лилию из лап пиратов и сразиться с их демоническим главарем капитаном Крюком!..",
+      "popularity": 7.0943,
+      "poster_path": "/h2IoheOnHRVkgHmqCYJrN1n5gvk.jpg",
+      "release_date": "1953-02-05",
+      "title": "Питер Пэн",
+      "video": false,
+      "vote_average": 7.195,
+      "vote_count": 5645,
+      "belongs_to_collection": {
+        "id": 55422,
+        "name": "Питер Пэн (Коллекция)",
+        "poster_path": "/2rgdZjMVJUWXpZ6pBRLFL7crN5j.jpg",
+        "backdrop_path": "/AnhKboZjfeGuHI6qg7pp9RCesTF.jpg"
+      },
+      "budget": 4000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         },
         {
           "id": 12,
@@ -41,117 +111,34 @@
         {
           "id": 14,
           "name": "фэнтези"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt36733027",
+      "imdb_id": "tt0046183",
       "origin_country": [
-        "CN"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 6223,
-          "logo_path": "/lOxuAoSiKVeePamkUq5VCyUFiPw.png",
-          "name": "Shanghai Animation Film Studio",
-          "origin_country": "CN"
-        },
-        {
-          "id": 270440,
-          "logo_path": null,
-          "name": "Shanghai Xiaomutou Film and Television Culture Media",
-          "origin_country": "CN"
-        },
-        {
-          "id": 218024,
-          "logo_path": null,
-          "name": "Shanghai Maoyan Film 上海猫眼影业",
-          "origin_country": "CN"
-        },
-        {
-          "id": 281174,
-          "logo_path": null,
-          "name": "Shanghai Xiaomubiao Film and Television Culture Media",
-          "origin_country": "CN"
+          "id": 3166,
+          "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+          "name": "Walt Disney Productions",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "CN",
-          "name": "China"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 215367669,
-      "runtime": 118,
+      "revenue": 87400000,
+      "runtime": 77,
       "spoken_languages": [
         {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uDPNsFzBeAjGve3xyo30V7FfqsL.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1318234,
-      "original_language": "cs",
-      "original_title": "Neporazitelní",
-      "overview": "Этот фильм заставит вас смеяться и плакать одновременно. Эта вдохновляющая история о стремлении к мечте и использовании второго шанса в жизни. Сюжет разворачивается на фоне выдающегося события мирового масштаба.",
-      "popularity": 0.672,
-      "poster_path": "/oqBCCTb5YvCfFPlkddyvHLHJuQU.jpg",
-      "release_date": "2025-11-19",
-      "title": "Непобедимые",
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 5,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31411053",
-      "origin_country": [
-        "CZ"
-      ],
-      "production_companies": [
-        {
-          "id": 234176,
-          "logo_path": null,
-          "name": "Visual Riders s.r.o.",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CZ",
-          "name": "Czech Republic"
-        }
-      ],
-      "revenue": 981542,
-      "runtime": 0,
-      "spoken_languages": [
-        {
-          "english_name": "Czech",
-          "iso_639_1": "cs",
-          "name": "Český"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -244,6 +231,100 @@
       "status": "Released",
       "tagline": "Новое полнометражное космическое приключение!",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xawDFjfjBmtKYC29bZOYnYPGa8e.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        35
+      ],
+      "id": 1304434,
+      "original_language": "zh",
+      "original_title": "浪浪山小妖怪",
+      "overview": "Маленький поросёнок Яо решает покинуть гору Лангланг, чтобы присоединиться к паломничеству. С какими испытаниями столкнутся маленькие монстры на пути на запад? В конце концов, смогут ли они осуществить свои мечты и жить так, как им действительно хочется?",
+      "popularity": 5.0903,
+      "poster_path": "/t3Rs1BeIDXhwjOt10iyjiFe7BpL.jpg",
+      "release_date": "2025-08-02",
+      "title": "Маленькие демоны путешествуют на Запад",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 64,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt36733027",
+      "origin_country": [
+        "CN"
+      ],
+      "production_companies": [
+        {
+          "id": 6223,
+          "logo_path": "/lOxuAoSiKVeePamkUq5VCyUFiPw.png",
+          "name": "Shanghai Animation Film Studio",
+          "origin_country": "CN"
+        },
+        {
+          "id": 270440,
+          "logo_path": null,
+          "name": "Shanghai Xiaomutou Film and Television Culture Media",
+          "origin_country": "CN"
+        },
+        {
+          "id": 218024,
+          "logo_path": null,
+          "name": "Shanghai Maoyan Film 上海猫眼影业",
+          "origin_country": "CN"
+        },
+        {
+          "id": 281174,
+          "logo_path": null,
+          "name": "Shanghai Xiaomubiao Film and Television Culture Media",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        }
+      ],
+      "revenue": 215367669,
+      "runtime": 118,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"

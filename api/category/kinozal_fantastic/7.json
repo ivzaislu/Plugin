@@ -5,7 +5,7 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 234,
+  "total": 235,
   "items": [
     {
       "adult": false,
@@ -1399,94 +1399,71 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg",
+      "backdrop_path": "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
       "genre_ids": [
-        28,
         12,
+        28,
         878
       ],
-      "id": 424783,
+      "id": 11,
       "original_language": "en",
-      "original_title": "Bumblebee",
-      "overview": "1987 год. Скрываясь от преследования, Бамблби находит убежище на автомобильной свалке в калифорнийском городке, где живёт Чарли. Девушке скоро исполнится 18, она стремится найти своё место в жизни. И именно она наталкивается на покорёженного и сломленного Бамблби. Приведя его в чувство, Чарли моментально осознает: на её пути оказался не простой желтый Фольксваген Жук.",
-      "popularity": 11.5408,
-      "poster_path": "/2k9nXxST186qGgvs7CO0yrPI3Yf.jpg",
-      "release_date": "2018-11-22",
-      "title": "Бамблби",
+      "original_title": "Star Wars",
+      "overview": "Татуин. Планета-пустыня. Уже постаревший рыцарь Джедай Оби Ван Кеноби спасает молодого Люка Скайуокера, когда тот пытается отыскать пропавшего дроида. С этого момента Люк осознает свое истинное назначение: он один из рыцарей Джедай. В то время как гражданская война охватила галактику, а войска повстанцев ведут бои против сил злого Императора, к Люку и Оби Вану присоединяется отчаянный пилот-наемник Хан Соло, и в сопровождении двух дроидов, R2D2 и C-3PO, этот необычный отряд отправляется на поиски предводителя повстанцев — принцессы Леи.",
+      "popularity": 22.2048,
+      "poster_path": "/wPlD3Z5x0O92rsB44XKHKQijROM.jpg",
+      "release_date": "1977-05-25",
+      "title": "Звёздные войны: Эпизод 4 - Новая надежда",
       "video": false,
-      "vote_average": 6.72,
-      "vote_count": 6503,
-      "belongs_to_collection": null,
-      "budget": 135000000,
+      "vote_average": 8.201,
+      "vote_count": 21932,
+      "belongs_to_collection": {
+        "id": 10,
+        "name": "Звёздные Войны (Коллекция)",
+        "poster_path": "/y6kKwGLCCy3MMbBdUnxB3afIfsd.jpg",
+        "backdrop_path": "/qVPChlozQ1BP3svfHjiAdNneMGA.jpg"
+      },
+      "budget": 11000000,
       "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
         {
           "id": 12,
           "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 878,
           "name": "фантастика"
         }
       ],
-      "homepage": "https://tickets.bumblebeemovie.com/home/",
-      "imdb_id": "tt4701182",
+      "homepage": "",
+      "imdb_id": "tt0076759",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 1,
+          "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+          "name": "Lucasfilm Ltd.",
           "origin_country": "US"
         },
         {
-          "id": 57031,
-          "logo_path": "/1ai3zndjxL3BonlOJVS75GjTOuW.png",
-          "name": "Allspark Pictures",
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
           "origin_country": "US"
-        },
-        {
-          "id": 6734,
-          "logo_path": "/u55FhlG6vFNzSVKLcmnFFwLb2cc.png",
-          "name": "Bay Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 435,
-          "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
-          "name": "di Bonaventura Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 38831,
-          "logo_path": null,
-          "name": "DeSanto/Murphy Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 81620,
-          "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
-          "name": "Tencent Pictures",
-          "origin_country": "CN"
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 467989645,
-      "runtime": 114,
+      "revenue": 775398007,
+      "runtime": 121,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1495,7 +1472,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«У каждого приключения есть начало»",
+      "tagline": "«Давным-давно, в далёкой-далёкой галактике...»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1504,72 +1481,54 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+      "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
       "genre_ids": [
         28,
-        18,
-        878
+        878,
+        12
       ],
-      "id": 263115,
+      "id": 1726,
       "original_language": "en",
-      "original_title": "Logan",
-      "overview": "В недалеком будущем уставший от жизни Логан заботится о больном профессоре Икс, который прячется неподалеку от мексиканской границы. Но Логан больше не сможет скрывать свое прошлое, когда встретится с юным мутантом, которого преследуют темные силы.",
-      "popularity": 13.1161,
-      "poster_path": "/6FSoZ8mtEwPAO3k670G3yRaBpTK.jpg",
-      "release_date": "2017-02-28",
-      "title": "Логан",
+      "original_title": "Iron Man",
+      "overview": "Миллиардер изобретатель Тони Старк попадает в плен к Афганским террористам, которые пытаются заставить его создать оружие массового поражения. В тайне от своих захватчиков Старк конструирует высокотехнологичную киберброню, которая помогает ему сбежать. Однако по возвращению в США он узнаёт, что в совете директоров его фирмы плетётся заговор, чреватый страшными последствиями. Используя своё последнее изобретение, Старк пытается решить проблемы своей компании радикально…",
+      "popularity": 18.771,
+      "poster_path": "/wAKZudQn0HEXqLvaGN6BEripHbv.jpg",
+      "release_date": "2008-04-30",
+      "title": "Железный человек",
       "video": false,
-      "vote_average": 7.819,
-      "vote_count": 20029,
+      "vote_average": 7.655,
+      "vote_count": 27750,
       "belongs_to_collection": {
-        "id": 453993,
-        "name": "Росомаха (Коллекция)",
-        "poster_path": "/udiDtlFuTXJogiWBaocYPGHURci.jpg",
-        "backdrop_path": "/5HQnP60igRzNokf5jc6fCKemG4I.jpg"
+        "id": 131292,
+        "name": "Железный человек (Коллекция)",
+        "poster_path": "/paEQ10KkZRCT1rJElVfSUKztFMz.jpg",
+        "backdrop_path": "/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg"
       },
-      "budget": 97000000,
+      "budget": 140000000,
       "genres": [
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 18,
-          "name": "драма"
-        },
-        {
           "id": 878,
           "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt3315342",
+      "imdb_id": "tt0371746",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 91797,
-          "logo_path": "/1AvZ17QgpvN8zGI06ZWoN6gJeDH.png",
-          "name": "Hutch Parker Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 431,
-          "logo_path": "/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png",
-          "name": "The Donners' Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 28788,
-          "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-          "name": "Genre Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
+          "id": 420,
+          "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+          "name": "Marvel Studios",
           "origin_country": "US"
         },
         {
@@ -1579,9 +1538,9 @@
           "origin_country": "US"
         },
         {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
+          "id": 7297,
+          "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
+          "name": "Fairview Entertainment",
           "origin_country": "US"
         }
       ],
@@ -1591,8 +1550,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 619021436,
-      "runtime": 137,
+      "revenue": 585174222,
+      "runtime": 121,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1600,13 +1559,23 @@
           "name": "English"
         },
         {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
+          "english_name": "Persian",
+          "iso_639_1": "fa",
+          "name": "فارسی"
+        },
+        {
+          "english_name": "Urdu",
+          "iso_639_1": "ur",
+          "name": "اردو"
+        },
+        {
+          "english_name": "Arabic",
+          "iso_639_1": "ar",
+          "name": "العربية"
         }
       ],
       "status": "Released",
-      "tagline": "«Его время пришло»",
+      "tagline": "«Героями не рождаются. Героями становятся.»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
