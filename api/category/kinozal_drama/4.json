@@ -5,80 +5,251 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 138,
+  "total": 143,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/1GqjUNcm2dzoS7HVppx0emcbJdD.jpg",
+      "backdrop_path": "/h7vBO0meGzjW3yu0Gejx5hI09I9.jpg",
       "genre_ids": [
-        18
+        18,
+        36
       ],
-      "id": 191101,
-      "original_language": "fr",
-      "original_title": "L'Homme pressé",
-      "overview": "Стремительный Пьер Ниокс… Его жизнь — бесконечное движение. Он легко жонглирует древними сокровищами, передавая их из рук в руки и, оставаясь в прибыли. Обладать красивой женщиной или иметь огромный счет в банке — для Пьера ничто.  Быть единственным обладателем уникальной ценности — вот его единственная страсть, ради которой он готов на все! Что поделаешь — перед нами упрямый одиночка, сумасшедший игрок. Но всякая игра, даже длиною в жизнь, имеет конец…",
-      "popularity": 1.2901,
-      "poster_path": "/3N5FIexrH6VZ6ERVFj08ZiAkMCf.jpg",
-      "release_date": "1977-08-10",
-      "title": "Спешащий человек",
+      "id": 549,
+      "original_language": "en",
+      "original_title": "Basquiat",
+      "overview": "История короткой, но насыщенной драматическими событиями жизни негритянского художника, представителя манхэттенской богемы, Жана-Мишеля Баския на фоне артистической жизни Нью-Йорка.  Его полотна, так же, как образ жизни, (он не знал, что делать с обрушившийся на него славой), бесчисленные романы, страсть к наркотикам, — все это привело к саморазрушению — вызвали в 80-е годы постоянный ажиотаж в прессе.",
+      "popularity": 1.1816,
+      "poster_path": "/4JjWdZ1Nk5VwtVL3mPbSt9iFQYF.jpg",
+      "release_date": "1996-08-09",
+      "title": "Баския",
       "video": false,
-      "vote_average": 5.7,
-      "vote_count": 41,
+      "vote_average": 6.6,
+      "vote_count": 305,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 3300000,
       "genres": [
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0076154",
+      "imdb_id": "tt0115632",
       "origin_country": [
-        "FR"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 1713,
+          "id": 93380,
           "logo_path": null,
-          "name": "Adel Productions",
-          "origin_country": "FR"
+          "name": "Eleventh Street Production",
+          "origin_country": ""
         },
         {
-          "id": 6387,
+          "id": 93381,
           "logo_path": null,
-          "name": "Irrigazione Cinematografica",
-          "origin_country": "IT"
+          "name": "Jon Kilik Productions",
+          "origin_country": "US"
         },
         {
-          "id": 10522,
-          "logo_path": "/yah2JnPzeYIjOMq7YsCMoPvnFIs.png",
-          "name": "Lira Films",
-          "origin_country": "FR"
+          "id": 14,
+          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+          "name": "Miramax",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 90,
+      "revenue": 3022292,
+      "runtime": 108,
       "spoken_languages": [
         {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«В 1981 году 19-летний неизвестный автор граффити покорил мир искусства Нью-Йорка. Остальное - история искусства»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/whKhDehBYjOlJboo3by0JTSQsjv.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 10937,
+      "original_language": "en",
+      "original_title": "Barfly",
+      "overview": "Фильм поставлен по автобиографическому роману известного американского писателя Чарлза Буковски, завсегдатая многочисленных питейных заведений, откуда он черпает не только горячительные напитки, но и темы для своих произведений.",
+      "popularity": 3.2696,
+      "poster_path": "/r4AqGcfSzkuFDBIKXUYNRe6zaVQ.jpg",
+      "release_date": "1987-09-02",
+      "title": "Пьянь",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 375,
+      "belongs_to_collection": null,
+      "budget": 3000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0092618",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 13549,
+          "logo_path": null,
+          "name": "Golan-Globus Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 1444,
+          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+          "name": "The Cannon Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 70,
+          "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+          "name": "American Zoetrope",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 3221568,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bAD0lCJLpascMlnchCoePRsAC0u.jpg",
+      "genre_ids": [
+        10749,
+        36,
+        18,
+        10751
+      ],
+      "id": 207871,
+      "original_language": "en",
+      "original_title": "Savannah",
+      "overview": "Реальная история аристократа 1900-х годов Варда Аллена, который основал деловое партнерство с освобожденным рабом Крисмасом Моултрье на фоне нетерпимости к афроамериканцам в стране.",
+      "popularity": 1.4771,
+      "poster_path": "/lqNq8FghGKgpGT6WgSEZxJwZuG9.jpg",
+      "release_date": "2013-04-25",
+      "title": "Саванна",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 32,
+      "belongs_to_collection": null,
+      "budget": 5000000,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1797487",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 31141,
+          "logo_path": null,
+          "name": "Meddin Studios",
+          "origin_country": ""
+        },
+        {
+          "id": 31142,
+          "logo_path": null,
+          "name": "Unclaimed Freight Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 101,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -485,432 +656,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/y0aXFiCRAKOLsRG5kmY7V0EP0Nz.jpg",
-      "genre_ids": [
-        18,
-        53
-      ],
-      "id": 22423,
-      "original_language": "en",
-      "original_title": "Guilty by Suspicion",
-      "overview": "1951 год. Проведя два года на съемках в Париже, знаменитый режиссер Дэвид Мэррилл возвращается в Голливуд, где свирепствует «охота на ведьм».  Легендарный город грез пропитан атмосферой страха и подозрений, на глазах у шокированного режиссера рушится карьера и личная жизнь его лучших друзей, а вскоре и сам Дэвид становится объектом пристального внимания агентов ФБР. Не желая быть стукачом, он попадает в «черные списки» изгоев и к своему ужасу понимает, что только покорное сотрудничество с «инквизиторами» вновь откроет для него двери студий и агентств.",
-      "popularity": 2.4603,
-      "poster_path": "/8BgqcYE7jyg49K8CCdRku7vMd36.jpg",
-      "release_date": "1991-03-15",
-      "title": "Виновен по подозрению",
-      "video": false,
-      "vote_average": 6.5,
-      "vote_count": 187,
-      "belongs_to_collection": null,
-      "budget": 13000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0101984",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 508,
-          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
-          "name": "Regency Enterprises",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 9480198,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/577MexfjVxgTakrbugG8QbfimUn.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 11035,
-      "original_language": "it",
-      "original_title": "Roma",
-      "overview": "Импрессионистская ода его прошлому, настоящему и будущему в форме феерической фантазии безо всякого сюжета. Карнавальное буйство жизни в ее разнообразных проявлениях, подмеченных зорким взглядом Художника, вносящего в общую хаотическую картину свои собственные воспоминания и переживания.\r Чего тут только нет: и раскопки в метро, и мотоциклетный марш по ночному городу, и ретросцены в публичном доме и в любительском театре, и даже «парад церковной моды» в Ватикане. Каскад сменяющих друг друга красочных сцен, ощущение праздника, полета режиссерской фантазии, признание Феллини в любви к столице Италии.",
-      "popularity": 2.7832,
-      "poster_path": "/vtlWdzyeV9oZp9ick82O2SX3o96.jpg",
-      "release_date": "1972-03-16",
-      "title": "Рим",
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 355,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0069191",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 64,
-          "logo_path": null,
-          "name": "Les Productions Artistes Associés",
-          "origin_country": "FR"
-        },
-        {
-          "id": 11994,
-          "logo_path": null,
-          "name": "Ultra Film",
-          "origin_country": "IT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 128,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/h7vBO0meGzjW3yu0Gejx5hI09I9.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "id": 549,
-      "original_language": "en",
-      "original_title": "Basquiat",
-      "overview": "История короткой, но насыщенной драматическими событиями жизни негритянского художника, представителя манхэттенской богемы, Жана-Мишеля Баския на фоне артистической жизни Нью-Йорка.  Его полотна, так же, как образ жизни, (он не знал, что делать с обрушившийся на него славой), бесчисленные романы, страсть к наркотикам, — все это привело к саморазрушению — вызвали в 80-е годы постоянный ажиотаж в прессе.",
-      "popularity": 1.1816,
-      "poster_path": "/4JjWdZ1Nk5VwtVL3mPbSt9iFQYF.jpg",
-      "release_date": "1996-08-09",
-      "title": "Баския",
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 305,
-      "belongs_to_collection": null,
-      "budget": 3300000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0115632",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 93380,
-          "logo_path": null,
-          "name": "Eleventh Street Production",
-          "origin_country": ""
-        },
-        {
-          "id": 93381,
-          "logo_path": null,
-          "name": "Jon Kilik Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 14,
-          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-          "name": "Miramax",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 3022292,
-      "runtime": 108,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«В 1981 году 19-летний неизвестный автор граффити покорил мир искусства Нью-Йорка. Остальное - история искусства»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/whKhDehBYjOlJboo3by0JTSQsjv.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "id": 10937,
-      "original_language": "en",
-      "original_title": "Barfly",
-      "overview": "Фильм поставлен по автобиографическому роману известного американского писателя Чарлза Буковски, завсегдатая многочисленных питейных заведений, откуда он черпает не только горячительные напитки, но и темы для своих произведений.",
-      "popularity": 3.2696,
-      "poster_path": "/r4AqGcfSzkuFDBIKXUYNRe6zaVQ.jpg",
-      "release_date": "1987-09-02",
-      "title": "Пьянь",
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 375,
-      "belongs_to_collection": null,
-      "budget": 3000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0092618",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 13549,
-          "logo_path": null,
-          "name": "Golan-Globus Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 1444,
-          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
-          "name": "The Cannon Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 70,
-          "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
-          "name": "American Zoetrope",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 3221568,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bAD0lCJLpascMlnchCoePRsAC0u.jpg",
-      "genre_ids": [
-        10749,
-        36,
-        18,
-        10751
-      ],
-      "id": 207871,
-      "original_language": "en",
-      "original_title": "Savannah",
-      "overview": "Реальная история аристократа 1900-х годов Варда Аллена, который основал деловое партнерство с освобожденным рабом Крисмасом Моултрье на фоне нетерпимости к афроамериканцам в стране.",
-      "popularity": 1.4771,
-      "poster_path": "/lqNq8FghGKgpGT6WgSEZxJwZuG9.jpg",
-      "release_date": "2013-04-25",
-      "title": "Саванна",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 32,
-      "belongs_to_collection": null,
-      "budget": 5000000,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1797487",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 31141,
-          "logo_path": null,
-          "name": "Meddin Studios",
-          "origin_country": ""
-        },
-        {
-          "id": 31142,
-          "logo_path": null,
-          "name": "Unclaimed Freight Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/A5njgd1yycX1kEkDSfZWecQjenb.jpg",
       "genre_ids": [
         18
@@ -1033,6 +778,244 @@
           "english_name": "Hungarian",
           "iso_639_1": "hu",
           "name": "Magyar"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ywLZ2SMqyE6pLWLfA2LI5pV4Fdx.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 327528,
+      "original_language": "en",
+      "original_title": "Born to Be Blue",
+      "overview": "В фильме показана история становления одной из величайших легенд джазовой музыки Чета Бейкера. Его виртуозная игра на трубе приводила ценителей джаза в восторг. Однажды он даже снимался в кино, где играл самого себя. Во время съемок Чет находит настоящую любовь. Кроме того это было время, когда он не слишком ценил то, что имел, губя свою жизнь наркотиками. Но однажды после драки вся его жизнь кардинально изменилась. Он больше не мог играть. Это довело его до крайней степени отчаяния. Чет даже пытался свести счеты с жизнью. Однако он смог перебороть самого себя и вновь идти к поставленной цели - играть...",
+      "popularity": 0.9263,
+      "poster_path": "/t5zYglhB7A7FBOQ7TXJdSG00XFb.jpg",
+      "release_date": "2015-09-13",
+      "title": "Рождённый для грусти",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 221,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2133196",
+      "origin_country": [
+        "CA",
+        "US",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 8204,
+          "logo_path": null,
+          "name": "Lumanity Production",
+          "origin_country": ""
+        },
+        {
+          "id": 2649,
+          "logo_path": "/LPxF80bpluDXB5SOEvupc7Om9.png",
+          "name": "New Real Films",
+          "origin_country": "CA"
+        },
+        {
+          "id": 20068,
+          "logo_path": "/6CEIvevd5R8yNG1nd7zuPd4Y9DT.png",
+          "name": "Hideaway Pictures",
+          "origin_country": "CA"
+        },
+        {
+          "id": 41608,
+          "logo_path": "/5BCREil54GIMdX95OopfIX05YZx.png",
+          "name": "Productivity Media",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 830129,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ziFEa9ZrKKV015QjLDod6WVYADL.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 767979,
+      "original_language": "en",
+      "original_title": "Stars Fell on Alabama",
+      "overview": "Голливудский агент Брайс Диксон собирается вернуться в Алабаму на вечер встреч выпускников первый раз за 15 лет. Когда он понимает, что из всех одноклассников только он не женат, он уговаривает свою клиентку Мэдисон притворится его девушкой. Но вскоре они понимают, что между ними пробегают искры.",
+      "popularity": 0.5599,
+      "poster_path": "/aGMa5XCyUFFWaIlKZoQvW6gCwGp.jpg",
+      "release_date": "2021-01-06",
+      "title": "Звёзды упали на Алабаму",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 31,
+      "belongs_to_collection": {
+        "id": 1082324,
+        "name": "Stars Fell Collection",
+        "poster_path": null,
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt10712928",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 147183,
+          "logo_path": null,
+          "name": "Beaufort Film Society",
+          "origin_country": ""
+        },
+        {
+          "id": 40187,
+          "logo_path": null,
+          "name": "RareForm Pictures",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1MoaiB4PRfCSkSinXsC25koeTo7.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 42146,
+      "original_language": "en",
+      "original_title": "Only When I Laugh",
+      "overview": "По пьесе Нила Саймона. Джорджия Хайнс, 38-летняя актриса, выписывается из клиники, где она лечилась от алкоголизма. Ее дочь Полли переезжает к ней. Вскоре и Дэвид, ее бывший муж, встречается с Джорджией и сообщает, что написал пьесу под названием \"Только когда я смеюсь\" об их прошлой совместной жизни и просит ее сыграть главную роль.",
+      "popularity": 0.8468,
+      "poster_path": "/wmoUyAX4YaMafcsArz5XiOh5N4E.jpg",
+      "release_date": "1981-09-25",
+      "title": "Только когда я смеюсь",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 20,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0082853",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 120,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
