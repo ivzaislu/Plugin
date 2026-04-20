@@ -1,66 +1,315 @@
 {
   "page": 4,
   "limit": 20,
-  "total": 209,
+  "total": 211,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/15sarvi4KF6WFtCQbKgcxG8iOj.jpg",
+      "backdrop_path": "/c15Fg4jvclF5VjxCi1mtjUg4a6H.jpg",
       "genre_ids": [
-        27,
-        53
+        35,
+        18,
+        36
       ],
-      "id": 1146344,
-      "original_language": "en",
-      "original_title": "Misdirection",
-      "overview": "Чтобы отдать долги мафии, семейная пара должна совершить серию ограблений. Но во время последнего ограбления роскошного особняка они оказываются в ловушке.",
-      "popularity": 17.7014,
-      "poster_path": "/zqEJum03kBVPN3cgygxImL1Fvus.jpg",
-      "release_date": "2026-01-13",
-      "title": "Ложный след",
+      "id": 1254808,
+      "original_language": "fr",
+      "original_title": "Nouvelle Vague",
+      "overview": "1959 год, Париж. Половина сотрудников Cahiers du Cinema уже сняли по фильму. Шаброль успел сделать два, Франсуа Трюффо с его «Ударами» рукоплещут в Каннах. И только Жан-Люк Годар, которого все — по крайней мере, он сам — считают гением, ходит с парой короткометражек за плечами. Годар наконец решает, что готов, и берет у дружественного продюсера де Борегара немного денег на картину по мотивам заметки из криминальной хроники. Приятель режиссера Жан-Поль Бельмондо будет играть жулика в бегах, восходящая американская звезда Джин Сиберг, недавно перебравшаяся во Францию, — его ненадежную подружку.",
+      "popularity": 11.2192,
+      "poster_path": "/vV1NblzItLgWQHpE1bEcYun12sR.jpg",
+      "release_date": "2025-10-08",
+      "title": "Новая волна",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 4,
+      "vote_average": 7.327,
+      "vote_count": 81,
       "belongs_to_collection": null,
       "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31688586",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 189,
+          "logo_path": "/3NcJ66KlMs1s6yOh0AMSLMvhtSV.png",
+          "name": "ARP Sélection",
+          "origin_country": "FR"
+        },
+        {
+          "id": 11510,
+          "logo_path": "/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png",
+          "name": "Detour Filmproduction",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 105,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+      "genre_ids": [
+        35,
+        27,
+        14
+      ],
+      "id": 1022453,
+      "original_language": "te",
+      "original_title": "ది రాజాసాబ్",
+      "overview": "За Гангаммой, страдающей болезнью Альцгеймера, ухаживает ее внук РаджаСааб. Она почти все забывает, но цепляется за воспоминания о своем муже Канакараджу, экзорцисте, который, как считается, живет в изгнании. Поиски деда приводят РаджаСааба в Хайдарабад, где он влюбляется в набожную монахиню Бесси, а другая женщина, внучка вора, по имени Бхайрави, предлагает помощь в поисках Канакараджу. В конце концов поиски приводят группу в печально известный особняк с привидениями. Они обнаруживают, что Канакараджу - не жертва, а виновник всех их бед...",
+      "popularity": 10.9499,
+      "poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+      "release_date": "2026-01-08",
+      "title": "Раджа",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 25,
+      "belongs_to_collection": {
+        "id": 1614429,
+        "name": "The RajaSaab Collection",
+        "poster_path": null,
+        "backdrop_path": null
+      },
+      "budget": 50000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt23790696",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 106829,
+          "logo_path": null,
+          "name": "People Media Factory",
+          "origin_country": "IN"
+        },
+        {
+          "id": 239118,
+          "logo_path": null,
+          "name": "IVY Entertainment",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 21000000,
+      "runtime": 186,
+      "spoken_languages": [
+        {
+          "english_name": "Telugu",
+          "iso_639_1": "te",
+          "name": "తెలుగు"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
+      "genre_ids": [
+        878,
+        12,
+        18
+      ],
+      "id": 982843,
+      "original_language": "ko",
+      "original_title": "대홍수",
+      "overview": "В последний день на Земле борьба за жизнь в затопленной квартире быстро становится единственной надеждой человечества на выживание.",
+      "popularity": 180.5172,
+      "poster_path": "/p9HwH0wTClssSnEDe7Rginknlx2.jpg",
+      "release_date": "2025-09-18",
+      "title": "Всемирный потоп",
+      "video": false,
+      "vote_average": 6.045,
+      "vote_count": 418,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://www.netflix.com/ru/title/81579978",
+      "imdb_id": "tt29927663",
+      "origin_country": [
+        "KR"
+      ],
+      "production_companies": [
+        {
+          "id": 220638,
+          "logo_path": null,
+          "name": "Hwansang Studio Seoul",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9NndEt9B99L7jS2C6vAxhuGljFe.jpg",
+      "genre_ids": [
+        27,
+        35,
+        10749
+      ],
+      "id": 1302916,
+      "original_language": "en",
+      "original_title": "Heart Eyes",
+      "overview": "Маньяк преследует и убивает влюбленных в День святого Валентина.",
+      "popularity": 5.6612,
+      "poster_path": "/rPlBXYTq5LqlDqDiLCoRpoNEfHQ.jpg",
+      "release_date": "2025-02-06",
+      "title": "Влюблённые глаза",
+      "video": false,
+      "vote_average": 6.368,
+      "vote_count": 418,
+      "belongs_to_collection": null,
+      "budget": 18000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt6374142",
+      "imdb_id": "tt32558992",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 110831,
-          "logo_path": null,
-          "name": "Storyoscopic Films",
-          "origin_country": ""
-        },
-        {
-          "id": 2373,
-          "logo_path": "/wcQ30Rj2FP8d8VkAcOYqXCHCmsq.png",
-          "name": "Patriot Pictures",
+          "id": 143790,
+          "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+          "name": "Spyglass Media Group",
           "origin_country": "US"
         },
         {
-          "id": 203245,
-          "logo_path": null,
-          "name": "Abbott Street Films",
-          "origin_country": ""
+          "id": 89115,
+          "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+          "name": "Divide / Conquer",
+          "origin_country": "US"
+        },
+        {
+          "id": 3287,
+          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+          "name": "Screen Gems",
+          "origin_country": "US"
         }
       ],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 84,
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 33129099,
+      "runtime": 90,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -212,155 +461,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1206008,
-      "original_language": "en",
-      "original_title": "Ella McCay",
-      "overview": "Молодая девушка становится губернатором своего штата и пытается удержать баланс между работой и обычной жизнью.",
-      "popularity": 42.0637,
-      "poster_path": "/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
-      "release_date": "2025-12-11",
-      "title": "Элла Маккей",
-      "video": false,
-      "vote_average": 5.684,
-      "vote_count": 49,
-      "belongs_to_collection": null,
-      "budget": 35000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt30096221",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 127928,
-          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-          "name": "20th Century Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 18,
-          "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
-          "name": "Gracie Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 4546837,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
-      "genre_ids": [
-        878,
-        12,
-        18
-      ],
-      "id": 982843,
-      "original_language": "ko",
-      "original_title": "대홍수",
-      "overview": "В последний день на Земле борьба за жизнь в затопленной квартире быстро становится единственной надеждой человечества на выживание.",
-      "popularity": 180.5172,
-      "poster_path": "/p9HwH0wTClssSnEDe7Rginknlx2.jpg",
-      "release_date": "2025-09-18",
-      "title": "Всемирный потоп",
-      "video": false,
-      "vote_average": 6.045,
-      "vote_count": 418,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/81579978",
-      "imdb_id": "tt29927663",
-      "origin_country": [
-        "KR"
-      ],
-      "production_companies": [
-        {
-          "id": 220638,
-          "logo_path": null,
-          "name": "Hwansang Studio Seoul",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 109,
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
       "genre_ids": [
         10749,
@@ -421,89 +521,6 @@
       ],
       "revenue": 0,
       "runtime": 99,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9NndEt9B99L7jS2C6vAxhuGljFe.jpg",
-      "genre_ids": [
-        27,
-        35,
-        10749
-      ],
-      "id": 1302916,
-      "original_language": "en",
-      "original_title": "Heart Eyes",
-      "overview": "Маньяк преследует и убивает влюбленных в День святого Валентина.",
-      "popularity": 5.6612,
-      "poster_path": "/rPlBXYTq5LqlDqDiLCoRpoNEfHQ.jpg",
-      "release_date": "2025-02-06",
-      "title": "Влюблённые глаза",
-      "video": false,
-      "vote_average": 6.368,
-      "vote_count": 418,
-      "belongs_to_collection": null,
-      "budget": 18000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32558992",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 143790,
-          "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
-          "name": "Spyglass Media Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 89115,
-          "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-          "name": "Divide / Conquer",
-          "origin_country": "US"
-        },
-        {
-          "id": 3287,
-          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-          "name": "Screen Gems",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 33129099,
-      "runtime": 90,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1265,6 +1282,101 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/4zyeIE8ceP95gehaPsgqamEYRuy.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10402
+      ],
+      "id": 1262815,
+      "original_language": "en",
+      "original_title": "The Choral",
+      "overview": "В разгар Первой мировой войны доктор Генри Гатри возглавляет британское хоровое общество, из которого большинство мужчин ушли на фронт. Вскоре участники общества понимают, что лучший способ справиться с хаосом войны — это вместе исполнять прекрасную музыку.",
+      "popularity": 7.1007,
+      "poster_path": "/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
+      "release_date": "2025-11-07",
+      "title": "Хоровое пение",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 16,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31851518",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 58,
+          "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+          "name": "Sony Pictures Classics",
+          "origin_country": "US"
+        },
+        {
+          "id": 288,
+          "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+          "name": "BBC Film",
+          "origin_country": "GB"
+        },
+        {
+          "id": 2690,
+          "logo_path": "/9XXpd39mDfkWmcNB6R0tpvzo781.png",
+          "name": "Screen Yorkshire",
+          "origin_country": "GB"
+        },
+        {
+          "id": 5056,
+          "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
+          "name": "Head Gear Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 25954,
+          "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+          "name": "Metrol Technology",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Их разделила война. Он объединил их песней.",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
       "genre_ids": [
         27,
@@ -1409,93 +1521,90 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/4zyeIE8ceP95gehaPsgqamEYRuy.jpg",
+      "backdrop_path": "/1ktHy4yBupG3JzYoFsQ8DFoqZh4.jpg",
       "genre_ids": [
-        35,
-        18,
-        10402
+        80,
+        53,
+        35
       ],
-      "id": 1262815,
-      "original_language": "en",
-      "original_title": "The Choral",
-      "overview": "В разгар Первой мировой войны доктор Генри Гатри возглавляет британское хоровое общество, из которого большинство мужчин ушли на фронт. Вскоре участники общества понимают, что лучший способ справиться с хаосом войны — это вместе исполнять прекрасную музыку.",
-      "popularity": 7.1007,
-      "poster_path": "/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
-      "release_date": "2025-11-07",
-      "title": "Хоровое пение",
+      "id": 639988,
+      "original_language": "ko",
+      "original_title": "어쩔수가없다",
+      "overview": "Четверть века проработав в бумажной промышленности, Ю Ман-су стал высококлассным специалистом. Он выкупил и отремонтировал принадлежавший отцу загородный дом и считает себя счастливым семьянином и состоявшимся человеком, поэтому сильным шоком для мужчины становится внезапное увольнение. За несколько месяцев так и не найдя работу по специальности, Ман-су сталкивается с перспективой потери дома и от отчаяния решает физически устранить конкурентов на должность в компании мечты — таких же безработных бедолаг с блестящими резюме.",
+      "popularity": 57.5514,
+      "poster_path": "/wJw2YFDNv4UcygxZevDz5snPvTw.jpg",
+      "release_date": "2025-09-24",
+      "title": "Метод исключения",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 16,
+      "vote_average": 7.693,
+      "vote_count": 220,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 12200000,
       "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
         {
           "id": 35,
           "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt31851518",
+      "imdb_id": "tt1527793",
       "origin_country": [
-        "GB"
+        "KR"
       ],
       "production_companies": [
         {
-          "id": 58,
-          "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
-          "name": "Sony Pictures Classics",
-          "origin_country": "US"
+          "id": 199265,
+          "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png",
+          "name": "CJ ENM Studios",
+          "origin_country": "KR"
         },
         {
-          "id": 288,
-          "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
-          "name": "BBC Film",
-          "origin_country": "GB"
+          "id": 34725,
+          "logo_path": "/cRqXC6Dy6AvTGS2wiMt26yGJgZA.png",
+          "name": "Moho Film",
+          "origin_country": "KR"
         },
         {
-          "id": 2690,
-          "logo_path": "/9XXpd39mDfkWmcNB6R0tpvzo781.png",
-          "name": "Screen Yorkshire",
-          "origin_country": "GB"
-        },
-        {
-          "id": 5056,
-          "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png",
-          "name": "Head Gear Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 25954,
-          "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
-          "name": "Metrol Technology",
-          "origin_country": "GB"
+          "id": 123220,
+          "logo_path": "/78WFEzOdyyCUrglTfnZi0CIYXsD.png",
+          "name": "KG Productions",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
-      "revenue": 0,
-      "runtime": 113,
+      "revenue": 20072255,
+      "runtime": 139,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
-      "tagline": "Их разделила война. Он объединил их песней.",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1592,78 +1701,6 @@
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jLIo4hsxGUZI0Qi724rw4MRQmGd.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1242426,
-      "original_language": "fr",
-      "original_title": "Regarde",
-      "overview": "Крис и Антуан давно развелись и мечтают об отпуске подальше друг от друга. Но обстоятельства заставляют их провести две летних недели у моря вместе с сыном Мило. Им предстоит вспомнить старую любовь, пережить новые недоразумения, и, возможно, начать всё с чистого листа.",
-      "popularity": 4.3533,
-      "poster_path": "/80XxGJZJNryIfffPF1g2iv6Vcgt.jpg",
-      "release_date": "2025-09-17",
-      "title": "Отпуск по семейным обстоятельствам",
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 15,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34479814",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 81526,
-          "logo_path": null,
-          "name": "Chapka Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 356,
-          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
-          "name": "TF1 Films Production",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 0,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
         }
       ],
       "status": "Released",

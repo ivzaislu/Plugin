@@ -5,71 +5,87 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 237,
+  "total": 238,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/AjH5DOvTgwFp55qmg4Sa7tvGOE8.jpg",
+      "backdrop_path": "/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
       "genre_ids": [
         14,
-        12
+        28,
+        53
       ],
-      "id": 25628,
+      "id": 9495,
       "original_language": "en",
-      "original_title": "Hawk the Slayer",
-      "overview": "Став свидетелем гибели отца и невесты от рук своего злобного брата Вольтана, Ястреб решает во что бы то ни стало отомстить ему. Заполучив к себе в союзники великана, карлика, эльфа и однорукого арбалетчика, Ястреб отправляется в поход против Вольтана и его приспешников.",
-      "popularity": 1.1038,
-      "poster_path": "/rOuvXCzJoyR8eJnmArF5CtbLkN5.jpg",
-      "release_date": "1980-08-27",
-      "title": "Ястреб – мститель",
+      "original_title": "The Crow",
+      "overview": "Это была мрачная и страшная ночь. Ночь жуткого праздника Хэллоуин. Банда насильников и убийц, ворвавшись в дом молодой пары, жестоко расправилась с рок-музыкантом Эриком и его невестой Шелли.Спустя год Эрик Дрэйвен выбирается из могилы и отправляется на поиски убийц. Человек ли он? Или Ворон, жаждущий возмездия?",
+      "popularity": 6.1168,
+      "poster_path": "/a5ZZ2XfFkcpik8M56lDznqrsyTp.jpg",
+      "release_date": "1994-05-11",
+      "title": "Ворон",
       "video": false,
-      "vote_average": 4.75,
-      "vote_count": 66,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 7.5,
+      "vote_count": 4431,
+      "belongs_to_collection": {
+        "id": 9436,
+        "name": "Ворон (Коллекция)",
+        "poster_path": "/q191luIxQuKTnB2OixSiM87r7QE.jpg",
+        "backdrop_path": "/xxJs7xqY0vMuNlznQboBzq8RlZm.jpg"
+      },
+      "budget": 23000000,
       "genres": [
         {
           "id": 14,
           "name": "фэнтези"
         },
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0080846",
+      "imdb_id": "tt0109506",
       "origin_country": [
-        "GB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 1155,
-          "logo_path": "/rKTzFu5woCo8k0u9ML7mWeLY541.png",
-          "name": "ITC Entertainment",
-          "origin_country": "GB"
+          "id": 4029,
+          "logo_path": null,
+          "name": "Entertainment Media Investment",
+          "origin_country": "US"
         },
         {
-          "id": 65585,
+          "id": 4030,
           "logo_path": null,
-          "name": "Marcel/Robertson Productions Limited",
-          "origin_country": ""
+          "name": "Jeff Most Productions",
+          "origin_country": "US"
         },
         {
-          "id": 81767,
-          "logo_path": null,
-          "name": "Chips Productions",
-          "origin_country": ""
+          "id": 6455,
+          "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+          "name": "Pressman Film",
+          "origin_country": "US"
+        },
+        {
+          "id": 7405,
+          "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+          "name": "Dimension Films",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 90,
+      "revenue": 93722164,
+      "runtime": 102,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -700,6 +716,103 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+      "genre_ids": [
+        28,
+        14,
+        53
+      ],
+      "id": 1043197,
+      "original_language": "en",
+      "original_title": "Dust Bunny",
+      "overview": "Восьмилетняя Аврора нанимает своего таинственного соседа, чтобы тот уничтожил монстра, поглотившего её семью. Подозревая, что родители девочки могли пасть жертвой киллеров, охотящихся на него самого, мужчина с чувством вины берётся за дело.",
+      "popularity": 27.2732,
+      "poster_path": "/zFm84t1AiYkFyh8F3TQGUlCFOks.jpg",
+      "release_date": "2025-12-11",
+      "title": "Поймать монстра",
+      "video": false,
+      "vote_average": 7.109,
+      "vote_count": 23,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt23172090",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 8147,
+          "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+          "name": "Entertainment One",
+          "origin_country": "CA"
+        },
+        {
+          "id": 3528,
+          "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+          "name": "Thunder Road",
+          "origin_country": "US"
+        },
+        {
+          "id": 119153,
+          "logo_path": "/4QVWLiNT8svS71FU2qsRErGeIar.png",
+          "name": "Hero Squared",
+          "origin_country": "HU"
+        },
+        {
+          "id": 103359,
+          "logo_path": null,
+          "name": "Living Dead Guy Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "HU",
+          "name": "Hungary"
+        }
+      ],
+      "revenue": 928164,
+      "runtime": 106,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/tzijMBkZtUX5ubkgbcTC7WITE7i.jpg",
       "genre_ids": [
         10770,
@@ -919,6 +1032,276 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 458576,
+      "original_language": "en",
+      "original_title": "Monster Hunter",
+      "overview": "Лейтенант Артемис и её солдаты с Земли случайно попадают в параллельный мир, где обитают разнообразные монстры. Закалённые бойцы оказываются в необычной ситуации и вынуждены использовать все свои навыки, чтобы пережить встречу с фантастическими тварями. Спасти их может только загадочный Охотник, который как никто умеет убивать монстров.",
+      "popularity": 4.5889,
+      "poster_path": "/hJbbx83Wj6JX4Mew0bVApKoqYRx.jpg",
+      "release_date": "2020-12-03",
+      "title": "Охотник на монстров",
+      "video": false,
+      "vote_average": 6.541,
+      "vote_count": 3462,
+      "belongs_to_collection": null,
+      "budget": 60000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6475714",
+      "origin_country": [
+        "CN"
+      ],
+      "production_companies": [
+        {
+          "id": 7220,
+          "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+          "name": "Capcom",
+          "origin_country": "JP"
+        },
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 81620,
+          "logo_path": "/7LkIVuWBVScdujpKhBPx1TMnPQE.png",
+          "name": "Tencent Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        },
+        {
+          "id": 265714,
+          "logo_path": null,
+          "name": "AB² Digital Pictures",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 42145959,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«За нашим миром есть другой»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cRNJ0o5vt77FlaDYhAs1kls8KSZ.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 109279,
+      "original_language": "it",
+      "original_title": "I Paladini. Storia d'armi e d'amori",
+      "overview": "Во времена крестовых походов юной красавице Брагаманте, отказавшейся от богатств и комфорта, было предсказано, что рыцарь, которого ей суждено полюбить, будет мавром и погибнет от руки страшного воина. И рыцарь в сияющих доспехах появляется и спасает её от изнасилования, уничтожая всех виновников. И он отдаёт ей свои доспехи и меч, сказав, что теперь никто не сможет причинить ей вреда..",
+      "popularity": 0.7044,
+      "poster_path": "/hUKz9TbLjX9IHlNYY4HI085R0Se.jpg",
+      "release_date": "1983-09-21",
+      "title": "Сердца и доспехи",
+      "video": false,
+      "vote_average": 4.786,
+      "vote_count": 14,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0086074",
+      "origin_country": [
+        "IT"
+      ],
+      "production_companies": [
+        {
+          "id": 12111,
+          "logo_path": null,
+          "name": "Vides Cinematografica",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+      "genre_ids": [
+        14,
+        27,
+        35
+      ],
+      "id": 927,
+      "original_language": "en",
+      "original_title": "Gremlins",
+      "overview": "Очаровательный пушистый зверёк Гремлин способен растрогать даже камень. Вдобавок, у него — абсолютный слух! Только будьте осторожны: он может погибнуть от солнечного света. На него нельзя брызгать водой. А что будет, если накормить его после полуночи, просто страшно себе представить…",
+      "popularity": 10.4749,
+      "poster_path": "/6iBRjLxKOm8SkcREP8lZZm9I6UM.jpg",
+      "release_date": "1984-06-08",
+      "title": "Гремлины",
+      "video": false,
+      "vote_average": 7.138,
+      "vote_count": 6790,
+      "belongs_to_collection": {
+        "id": 89151,
+        "name": "Гремлины (Коллекция)",
+        "poster_path": "/4HclxV8Tswo0UQrgAbpR8tZMXwf.jpg",
+        "backdrop_path": "/otza3wkQmttOfBLDMc4g1gIfSLT.jpg"
+      },
+      "budget": 11000000,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0087363",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 56,
+          "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+          "name": "Amblin Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 153083102,
+      "runtime": 106,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Не Мочите его, не Допускайте Попадания на него Яркого Света и НИКОГДА не Кормите его После Полуночи»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
       "genre_ids": [
         27,
@@ -1011,28 +1394,28 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cY033EP1igFIF0LWJoR6wIP81zH.jpg",
+      "backdrop_path": "/y72IAmAJaZg1Ed20weH89GMZP8R.jpg",
       "genre_ids": [
-        12,
+        18,
         14
       ],
-      "id": 1358491,
+      "id": 1143440,
       "original_language": "fr",
-      "original_title": "Yoroï",
-      "overview": "После своего последнего тура Аврелиан решает обосноваться в Японии вместе с женой Нанако, которая ждёт их первого ребёнка. В их новом доме в японской глубинке Аврелиан находит старинные доспехи, пробуждающие к жизни странных существ - ёкаев.",
-      "popularity": 11.6294,
-      "poster_path": "/39DriTpvzihb8OYuL039IGPWNZ7.jpg",
-      "release_date": "2025-10-18",
-      "title": "Доспехи",
+      "original_title": "La tour de glace",
+      "overview": "1970-е годы. Сирота Жанна сбегает из детского дома в город. Девушка находит пристанище в местной киностудии. Там она попадает под чары Кристины, загадочной звезды фильма «Снежная королева», который снят по её любимой сказке. Между актрисой и девушкой завязываются сложные отношения.",
+      "popularity": 1.1392,
+      "poster_path": "/ihq7ONV2svLri0jznvNxMI2Manh.jpg",
+      "release_date": "2025-09-17",
+      "title": "Ледяная башня",
       "video": false,
-      "vote_average": 6.226,
-      "vote_count": 62,
+      "vote_average": 5.7,
+      "vote_count": 12,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 18,
+          "name": "драма"
         },
         {
           "id": 14,
@@ -1040,137 +1423,59 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33402929",
+      "imdb_id": "tt28171985",
       "origin_country": [
         "FR"
       ],
       "production_companies": [
         {
-          "id": 170361,
-          "logo_path": "/mPjKmDUTManQb9jlhd490KXpUt3.png",
-          "name": "Sony Pictures Home Entertainment France",
-          "origin_country": "FR"
-        },
-        {
-          "id": 122578,
-          "logo_path": "/vtWKk1J30fNXfgKsmWedarpaaVN.png",
-          "name": "Sony Music Entertainment France",
-          "origin_country": "FR"
-        },
-        {
-          "id": 75816,
-          "logo_path": "/nVDVcbfYplh43TvxGyj1rGUWiif.png",
-          "name": "Cinéfrance Studios",
-          "origin_country": "FR"
-        },
-        {
-          "id": 244322,
+          "id": 5609,
           "logo_path": null,
-          "name": "Attita",
-          "origin_country": ""
+          "name": "3B Productions",
+          "origin_country": "FR"
         },
         {
-          "id": 83,
-          "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
-          "name": "France 2 Cinéma",
+          "id": 63583,
+          "logo_path": "/bu6zssHeJRGPuQ5xL8IyOVsRyfP.png",
+          "name": "Sutor Kolonko",
+          "origin_country": "DE"
+        },
+        {
+          "id": 342,
+          "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+          "name": "Davis Films",
           "origin_country": "FR"
+        },
+        {
+          "id": 94,
+          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+          "name": "ARTE France Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 162,
+          "logo_path": "/pIK5tsFVxjoXTJGcd0nYhiL1kn1.png",
+          "name": "BR",
+          "origin_country": "DE"
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "FR",
           "name": "France"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
         }
       ],
       "revenue": 0,
-      "runtime": 0,
+      "runtime": 118,
       "spoken_languages": [
         {
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
-      "genre_ids": [
-        14,
-        18,
-        10749
-      ],
-      "id": 162,
-      "original_language": "en",
-      "original_title": "Edward Scissorhands",
-      "overview": "Одинокий старый учёный создал человеческое существо. Но не успел доделать его до конца и умер. У сотворённого им молодого человека не хватает рук — вместо них у него нечто вроде ножниц — и он вынужден жить в заброшенном доме в полном одиночестве. Но вот однажды он знакомится с прекрасной девушкой, которая смогла оценить его доброе сердце...",
-      "popularity": 12.9964,
-      "poster_path": "/x4B2IJ7f3lQUBYPp2jyVU1WzOFg.jpg",
-      "release_date": "1990-12-07",
-      "title": "Эдвард руки-ножницы",
-      "video": false,
-      "vote_average": 7.719,
-      "vote_count": 13489,
-      "belongs_to_collection": null,
-      "budget": 20000000,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0099487",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 8601,
-          "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
-          "name": "Tim Burton Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 86024005,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
         }
       ],
       "status": "Released",
@@ -1183,409 +1488,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+      "backdrop_path": "/ct9S0m2U2RTCFAVnq3y0nF0Tgb2.jpg",
       "genre_ids": [
-        14,
-        28,
-        53
-      ],
-      "id": 9495,
-      "original_language": "en",
-      "original_title": "The Crow",
-      "overview": "Это была мрачная и страшная ночь. Ночь жуткого праздника Хэллоуин. Банда насильников и убийц, ворвавшись в дом молодой пары, жестоко расправилась с рок-музыкантом Эриком и его невестой Шелли.Спустя год Эрик Дрэйвен выбирается из могилы и отправляется на поиски убийц. Человек ли он? Или Ворон, жаждущий возмездия?",
-      "popularity": 6.1168,
-      "poster_path": "/a5ZZ2XfFkcpik8M56lDznqrsyTp.jpg",
-      "release_date": "1994-05-11",
-      "title": "Ворон",
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 4431,
-      "belongs_to_collection": {
-        "id": 9436,
-        "name": "Ворон (Коллекция)",
-        "poster_path": "/q191luIxQuKTnB2OixSiM87r7QE.jpg",
-        "backdrop_path": "/xxJs7xqY0vMuNlznQboBzq8RlZm.jpg"
-      },
-      "budget": 23000000,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0109506",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4029,
-          "logo_path": null,
-          "name": "Entertainment Media Investment",
-          "origin_country": "US"
-        },
-        {
-          "id": 4030,
-          "logo_path": null,
-          "name": "Jeff Most Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 6455,
-          "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
-          "name": "Pressman Film",
-          "origin_country": "US"
-        },
-        {
-          "id": 7405,
-          "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
-          "name": "Dimension Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 93722164,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fMiEp00v8gGWEceL4QeLu6H6z69.jpg",
-      "genre_ids": [
-        28,
         12,
+        10751,
         14
       ],
-      "id": 639933,
+      "id": 294272,
       "original_language": "en",
-      "original_title": "The Northman",
-      "overview": "Конец IX века, небольшой остров в Северной Атлантике. Король Орвандилл с серьёзным ранением возвращается из похода к жене Гудрун и юному сыну Амлету. Мечтая отправиться на очередное сражение и умереть на поле боя, он передаёт трон сыну, но тут же погибает от руки брата Фьолнира — тот отрубает монарху голову и забирает королевство и Гудрун себе. Мальчику удаётся сбежать.\r Спустя десятилетия Амлет вырастает в крепкого безжалостного викинга и однажды в очередной разорённой деревне встречает ведьму, которая наставляет его на пусть мести. Узнав, что Фьолнир с Гудрун поселились в Исландии, Амлет отправляется туда с партией славянских рабов. На борту его внимание привлекает Ольга из Березового леса.",
-      "popularity": 7.8744,
-      "poster_path": "/9kAGiq6s6X5877rkCggFfdDPfQ7.jpg",
-      "release_date": "2022-04-07",
-      "title": "Варяг",
+      "original_title": "Pete's Dragon",
+      "overview": "Мальчик-сирота Пит сбегает от приемных родителей, превращавших его жизнь в мучение. К нему является неожиданный помощник — добрый дракон, способный становиться невидимым для всех остальных людей.",
+      "popularity": 4.0869,
+      "poster_path": "/obsC5gR6jrNCDv1vq4T7H6HxEdc.jpg",
+      "release_date": "2016-08-10",
+      "title": "Пит и его дракон",
       "video": false,
-      "vote_average": 7.033,
-      "vote_count": 4952,
+      "vote_average": 6.383,
+      "vote_count": 2298,
       "belongs_to_collection": null,
-      "budget": 70000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt11138512",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 508,
-          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
-          "name": "Regency Enterprises",
-          "origin_country": "US"
-        },
-        {
-          "id": 10104,
-          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
-          "name": "New Regency Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 123620,
-          "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-          "name": "Square Peg",
-          "origin_country": "US"
-        },
-        {
-          "id": 10146,
-          "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
-          "name": "Focus Features",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 69633110,
-      "runtime": 137,
-      "spoken_languages": [
-        {
-          "english_name": "Icelandic",
-          "iso_639_1": "is",
-          "name": "Íslenska"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Завоюй свою судьбу»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ycQyXPqcTOgBNVDCTBTHBqsAbOk.jpg",
-      "genre_ids": [
-        14,
-        35,
-        10751
-      ],
-      "id": 9021,
-      "original_language": "en",
-      "original_title": "The Santa Clause 2",
-      "overview": "Вот уже восемь лет Скотт Кэлвин работает Санта Клаусом не покладая рук и как следует вошел во вкус. Однако это не значит, что у него не осталось никаких забот. На подступах к очередному Новому году герой вдруг открывает, что его сын Чарли растет хулиганом, а сам он согласно контракту обязан безотлагательно найти себе миссис Клаус, потому что холостой Санта — нарушение всех мыслимых правил.  Вдобавок, пытаясь одновременно решить возникшие проблемы, он неосторожно поручает дела двойнику, который в его отсутствие превращает жизнь на полюсе в полный хаос!",
-      "popularity": 2.8074,
-      "poster_path": "/hU46ksMDlWtiBdpIHFcAxepwYZ0.jpg",
-      "release_date": "2002-09-29",
-      "title": "Санта Клаус 2",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 1414,
-      "belongs_to_collection": {
-        "id": 53159,
-        "name": "Санта Клаус (Коллекция)",
-        "poster_path": "/kYg7IK8So0S77g9gqWeC8FqsyUa.jpg",
-        "backdrop_path": "/oE29RMXjXApDsQkqhdewM9nb4zx.jpg"
-      },
       "budget": 65000000,
       "genres": [
         {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
+          "id": 12,
+          "name": "приключения"
         },
         {
           "id": 10751,
           "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0304669",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2,
-          "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-          "name": "Walt Disney Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 889,
-          "logo_path": "/aqba7mtkseSCXByZiULc0aF2Djq.png",
-          "name": "Outlaw Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 12626,
-          "logo_path": null,
-          "name": "Boxing Cat Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 172842355,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rpOqHZMNIaI4qP4r7nw1B7oA0mx.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 415,
-      "original_language": "en",
-      "original_title": "Batman & Robin",
-      "overview": "Над Готэмом вновь нависла угроза: злодей-морозилка Мистер Фриз и психованная любительница растений по кличке Ядовитый Плющ решают уничтожить город. Единственные, кто могут остановить злодеев — Бэтмен и Робин, однако у этих супергероев возникают разногласия...",
-      "popularity": 7.1179,
-      "poster_path": "/eP4xdBTyLySFVoXyrbZ4btJeH3n.jpg",
-      "release_date": "1997-06-20",
-      "title": "Бэтмен и Робин",
-      "video": false,
-      "vote_average": 4.386,
-      "vote_count": 5351,
-      "belongs_to_collection": {
-        "id": 120794,
-        "name": "Бэтмен (Коллекция)",
-        "poster_path": "/ba8nH5kmoV1eZPzdN2CUrPBBakL.jpg",
-        "backdrop_path": "/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg"
-      },
-      "budget": 125000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0118688",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 67889,
-          "logo_path": "/rgEZCUJeQFyVyOdXdSLSa9BsEq4.png",
-          "name": "Polygram Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 238207122,
-      "runtime": 125,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Сила. Храбрость. Честь. И лояльность. 20 июня, это ВСЕ прибывает вместе...»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/s6cgAveWCam2hYgdPhD3WbrjSBt.jpg",
-      "genre_ids": [
-        28,
-        53,
-        27,
-        14
-      ],
-      "id": 9456,
-      "original_language": "en",
-      "original_title": "The Crow: Salvation",
-      "overview": "После смерти на электрическом стуле в ночь своего совершеннолетия, Алекс смог вернуться оттуда, откуда нет дороги. В облике неуязвимого Ворона он пришел в этот мир, чтобы отомстить убийце своей девушки и жестоким полицейским, покрывающим кровавого маньяка.",
-      "popularity": 2.1098,
-      "poster_path": "/wDILpuAdwtK0Pc2a5VBmHgs2Kyg.jpg",
-      "release_date": "2000-01-23",
-      "title": "Ворон 3: Спасение",
-      "video": false,
-      "vote_average": 5.463,
-      "vote_count": 400,
-      "belongs_to_collection": {
-        "id": 9436,
-        "name": "Ворон (Коллекция)",
-        "poster_path": "/q191luIxQuKTnB2OixSiM87r7QE.jpg",
-        "backdrop_path": "/xxJs7xqY0vMuNlznQboBzq8RlZm.jpg"
-      },
-      "budget": 10000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
         },
         {
           "id": 14,
@@ -1593,41 +1522,25 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0132910",
+      "imdb_id": "tt2788732",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 7405,
-          "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
-          "name": "Dimension Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 4030,
+          "id": 51164,
           "logo_path": null,
-          "name": "Jeff Most Productions",
+          "name": "Whitaker Entertainment",
           "origin_country": "US"
-        },
-        {
-          "id": 140435,
-          "logo_path": null,
-          "name": "Pacifica Film Distribution",
-          "origin_country": ""
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
+      "revenue": 143695338,
       "runtime": 102,
       "spoken_languages": [
         {
@@ -1646,67 +1559,61 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/xSD0q1FiuZkvHuy7uscOLbmd1hR.jpg",
+      "backdrop_path": "/lQgsnfkTGA8RXaoBEQ4oMtbJhIB.jpg",
       "genre_ids": [
-        12,
-        28,
-        14
+        18,
+        14,
+        9648
       ],
-      "id": 13494,
+      "id": 9697,
       "original_language": "en",
-      "original_title": "Red Sonja",
-      "overview": "Соня — воин, последний представитель своего народа и хранительница магии в волшебном лесу. Император Дрейган покоряет мир с помощью науки и современных технологий. Его войска берут Соню в плен и отправляют на арену — теперь она гладиатор, участница самых зрелищных и жестоких боёв. Чтобы обрести свободу, ей предстоит пройти множество поединков и суровые испытания.",
-      "popularity": 15.6009,
-      "poster_path": "/8ISvySmEgi4qYEwRkIpaCnFzGiX.jpg",
-      "release_date": "2025-07-31",
-      "title": "Рыжая Соня",
+      "original_title": "Lady in the Water",
+      "overview": "Смотритель жилого комплекса Кливленд Хип однажды ночью обнаруживает таинственную молодую женщину по имени Стори, выныривающую из бассейна, находящегося во дворе дома. Кливленд выясняет, что Стори живет в подземных каналах, скрытых под бассейном; сама же она является героиней сказки, за которой охотятся злые существа, препятствующие ее возвращению в свой мир.  Вскоре Кливленд и жильцы дома начинают понимать, что их судьбы каким-то непостижимым образом связаны со Стори и что им необходимо сообща найти разгадку некой тайны, чтобы помочь девушке обрести свободу. Однако для этого им приходится пойти на смертельный риск…",
+      "popularity": 3.509,
+      "poster_path": "/575eJSrynzg6BczQP4AwtRii8sP.jpg",
+      "release_date": "2006-07-19",
+      "title": "Девушка из воды",
       "video": false,
-      "vote_average": 5.7,
-      "vote_count": 163,
+      "vote_average": 5.55,
+      "vote_count": 1464,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 70000000,
       "genres": [
         {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
+          "id": 18,
+          "name": "драма"
         },
         {
           "id": 14,
           "name": "фэнтези"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0800175",
+      "imdb_id": "tt0452637",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 1020,
-          "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
-          "name": "Millennium Media",
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
           "origin_country": "US"
         },
         {
-          "id": 11761,
-          "logo_path": null,
-          "name": "Mark Canton Productions",
+          "id": 12236,
+          "logo_path": "/bVu0qQm4GujSTCvZZz9S3rHDczA.png",
+          "name": "Blinding Edge Pictures",
           "origin_country": "US"
         },
         {
-          "id": 270079,
-          "logo_path": null,
-          "name": "Courtney Solomon Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 48738,
-          "logo_path": null,
-          "name": "Campbell Grobman Films",
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
           "origin_country": "US"
         }
       ],
@@ -1716,8 +1623,101 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 265091,
+      "revenue": 72785169,
       "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/d7gEJYEookiF0SHPD8fMXcCgpC9.jpg",
+      "genre_ids": [
+        18,
+        14,
+        10749
+      ],
+      "id": 16633,
+      "original_language": "en",
+      "original_title": "Somewhere in Time",
+      "overview": "Молодой Чикагский драматург Ричард неожиданно получает от неизвестной пожилой дамы старинные часы и призыв «Вернись ко мне», но не придаёт этому никакого значения. Через несколько лет он случайно находит фотографию актрисы Элис МакКена сделанную в 1912 году и понимает, что это именно та женщина от которой восемь лет назад он получил часы. Используя теорию о путешествиях во времени посредством самогипноза, Ричард встречается с ней лицом к лицу…",
+      "popularity": 3.6933,
+      "poster_path": "/hOtLCvHhDkmThyIw3ihLP5qyjLv.jpg",
+      "release_date": "1980-10-02",
+      "title": "Где-то во времени",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 644,
+      "belongs_to_collection": null,
+      "budget": 5100000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0081534",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 1177,
+          "logo_path": "/gxvrQWG6byKMVEHMjTJjGhRlARQ.png",
+          "name": "Rastar Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 284431,
+          "logo_path": null,
+          "name": "Stephen Deutsch Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 103,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1726,8 +1726,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Становление легенды»",
-      "release_quality": "1080p",
+      "tagline": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"

@@ -5,27 +5,34 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 61,
+  "total": 60,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/ipkrxvlu0j5h7yNn5gT1SMSALcr.jpg",
+      "backdrop_path": "/wghKvEjM7UzQzQcKnGbDjOyQO13.jpg",
       "genre_ids": [
         16,
-        10751
+        12,
+        28,
+        14
       ],
-      "id": 893366,
-      "original_language": "fr",
-      "original_title": "Le Petit Nicolas - Qu'est-ce qu'on attend pour être heureux ?",
-      "overview": "Жили в Париже два друга – писатель и художник. И придумали они однажды маленького Николя – озорного мальчугана, который любит своих родителей, ходит в школу, проказничает с друзьями и мечтает стать пилотом. Главное качество Николя – умение видеть что-то забавное даже в самых обычных вещах, так что каждый его день наполнен удивительными приключениями...",
-      "popularity": 0.9141,
-      "poster_path": "/jyWXpI7TexZaezNJaWj4dDqGbcy.jpg",
-      "release_date": "2022-02-15",
-      "title": "Маленький Николя",
+      "id": 900667,
+      "original_language": "ja",
+      "original_title": "ONE PIECE FILM RED",
+      "overview": "Пираты Соломенной шляпы встречают певицу Уту, чей голос и песни покорили мир. Девушка готовится к первому концерту, когда вдруг выясняется, что она — дочь капитана Шанкса.",
+      "popularity": 9.197,
+      "poster_path": "/fUm0EqyGpja7W7RM10ltl5USuko.jpg",
+      "release_date": "2022-08-06",
+      "title": "Ван-Пис: Красный",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 106,
-      "belongs_to_collection": null,
+      "vote_average": 7.197,
+      "vote_count": 1114,
+      "belongs_to_collection": {
+        "id": 23456,
+        "name": "Ван-Пис (Коллекция)",
+        "poster_path": "/89eVIW6qPr2x6DrsphrqKQAoMRM.jpg",
+        "backdrop_path": "/3RqSKjokWlXyTBUt3tcR9CrOG57.jpg"
+      },
       "budget": 0,
       "genres": [
         {
@@ -33,52 +40,332 @@
           "name": "мультфильм"
         },
         {
-          "id": 10751,
-          "name": "семейный"
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt10290244",
+      "imdb_id": "tt16183464",
       "origin_country": [
-        "FR"
+        "JP"
       ],
       "production_companies": [
         {
-          "id": 20338,
-          "logo_path": "/yCTqaPPzFfjqKU2YAGWce4qQk1S.png",
-          "name": "Bidibul Productions",
-          "origin_country": "LU"
+          "id": 5542,
+          "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+          "name": "Toei Animation",
+          "origin_country": "JP"
         },
         {
-          "id": 288175,
-          "logo_path": null,
-          "name": "ON Classics",
-          "origin_country": "FR"
+          "id": 2918,
+          "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+          "name": "Shueisha",
+          "origin_country": "JP"
         },
         {
-          "id": 144803,
-          "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
-          "name": "Align",
+          "id": 5822,
+          "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+          "name": "Toei Company",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3341,
+          "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+          "name": "Fuji Television Network",
+          "origin_country": "JP"
+        },
+        {
+          "id": 155586,
+          "logo_path": "/rogLuRSNdqLI9r29ZCzD0i0kfJW.png",
+          "name": "Bandai",
+          "origin_country": "JP"
+        },
+        {
+          "id": 12502,
+          "logo_path": "/tlBbCuZditAuvzDdIDjjnGLJUpc.png",
+          "name": "Bandai Namco Entertainment",
+          "origin_country": "JP"
+        },
+        {
+          "id": 173235,
+          "logo_path": "/nkfGU0YSf1O1tTVBwyaDkE7yBCv.png",
+          "name": "ADK Emotions",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1778,
+          "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+          "name": "dentsu",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 171315305,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 246101,
+      "original_language": "ru",
+      "original_title": "Похитители красок",
+      "overview": "Музыкальный фильм о торжестве ярких красок над черными красками, которые стремились перекрасить весь мир в черный цвет. Действие фильма происходит в детском магазине. Его герои — тюбики с красками и игрушки.",
+      "popularity": 0.1099,
+      "poster_path": "/1Dxq43QMqDyS2LF38a4VeXgHD7f.jpg",
+      "release_date": "1959-01-01",
+      "title": "Похитители красок",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt5945028",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 21,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "genre_ids": [
+        14,
+        10402,
+        35,
+        16
+      ],
+      "id": 803796,
+      "original_language": "en",
+      "original_title": "KPop Demon Hunters",
+      "overview": "Между концертами на стадионах суперзвёзды кей-попа Руми, Мира и Зои защищают фанатов от сверхъестественных угроз с помощью своих тайных способностей.",
+      "popularity": 53.1317,
+      "poster_path": "/vspMmox0F2pdiNr68BTfYLeDNd8.jpg",
+      "release_date": "2025-06-20",
+      "title": "Кейпоп-охотницы на демонов",
+      "video": false,
+      "vote_average": 8.063,
+      "vote_count": 2513,
+      "belongs_to_collection": null,
+      "budget": 100000000,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "https://www.netflix.com/ru/title/81498621",
+      "imdb_id": "tt14205554",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2251,
+          "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+          "name": "Sony Pictures Animation",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "LU",
-          "name": "Luxembourg"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 3813788,
-      "runtime": 82,
+      "revenue": 24619953,
+      "runtime": 96,
       "spoken_languages": [
         {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Они поют. Они танцуют. Они сражаются с демонами»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+      "genre_ids": [
+        28,
+        10752
+      ],
+      "id": 1223601,
+      "original_language": "fi",
+      "original_title": "Sisu 2",
+      "overview": "Вернувшись в дом, где во время войны его семья была жестоко убита, «человек, который отказывается умирать» разбирает его по частям, грузит на грузовик и решает восстановить в безопасном месте — в память о близких. Но когда командир Красной Армии, виновный в их смерти, возвращается с намерением довести дело до конца, начинается безжалостная и зрелищная погоня через суровые земли. Это схватка не на жизнь, а на смерть.",
+      "popularity": 106.2291,
+      "poster_path": "/lk48GLdtqFNuNpqQkJT5uiFDyn4.jpg",
+      "release_date": "2025-10-21",
+      "title": "Бессмертный 2: Дорога мести",
+      "video": false,
+      "vote_average": 7.46,
+      "vote_count": 422,
+      "belongs_to_collection": {
+        "id": 1262937,
+        "name": "Sisu Collection",
+        "poster_path": "/vMJdvbDvISk2GtbsbGi1vodkusW.jpg",
+        "backdrop_path": "/dEiZ4HMNCXNr1abZIv6dfiyAd2Q.jpg"
+      },
+      "budget": 12200000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt31844586",
+      "origin_country": [
+        "FI"
+      ],
+      "production_companies": [
+        {
+          "id": 177094,
+          "logo_path": null,
+          "name": "Cosmic Snowball",
+          "origin_country": "FI"
+        },
+        {
+          "id": 182028,
+          "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
+          "name": "Good Chaos",
+          "origin_country": "GB"
+        },
+        {
+          "id": 62408,
+          "logo_path": null,
+          "name": "Subzero Film Entertainment",
+          "origin_country": "FI"
+        },
+        {
+          "id": 11341,
+          "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+          "name": "Stage 6 Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 3287,
+          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+          "name": "Screen Gems",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 9169696,
+      "runtime": 89,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Finnish",
+          "iso_639_1": "fi",
+          "name": "suomi"
         }
       ],
       "status": "Released",
@@ -443,429 +730,6 @@
       "status": "Released",
       "tagline": "«Новое приключение. Новые союзники»",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16
-      ],
-      "id": 246101,
-      "original_language": "ru",
-      "original_title": "Похитители красок",
-      "overview": "Музыкальный фильм о торжестве ярких красок над черными красками, которые стремились перекрасить весь мир в черный цвет. Действие фильма происходит в детском магазине. Его герои — тюбики с красками и игрушки.",
-      "popularity": 0.1099,
-      "poster_path": "/1Dxq43QMqDyS2LF38a4VeXgHD7f.jpg",
-      "release_date": "1959-01-01",
-      "title": "Похитители красок",
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 5,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt5945028",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 21,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-      "genre_ids": [
-        14,
-        10402,
-        35,
-        16
-      ],
-      "id": 803796,
-      "original_language": "en",
-      "original_title": "KPop Demon Hunters",
-      "overview": "Между концертами на стадионах суперзвёзды кей-попа Руми, Мира и Зои защищают фанатов от сверхъестественных угроз с помощью своих тайных способностей.",
-      "popularity": 53.1317,
-      "poster_path": "/vspMmox0F2pdiNr68BTfYLeDNd8.jpg",
-      "release_date": "2025-06-20",
-      "title": "Кейпоп-охотницы на демонов",
-      "video": false,
-      "vote_average": 8.063,
-      "vote_count": 2513,
-      "belongs_to_collection": null,
-      "budget": 100000000,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/81498621",
-      "imdb_id": "tt14205554",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2251,
-          "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
-          "name": "Sony Pictures Animation",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 24619953,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Они поют. Они танцуют. Они сражаются с демонами»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
-      "genre_ids": [
-        28,
-        10752
-      ],
-      "id": 1223601,
-      "original_language": "fi",
-      "original_title": "Sisu 2",
-      "overview": "Вернувшись в дом, где во время войны его семья была жестоко убита, «человек, который отказывается умирать» разбирает его по частям, грузит на грузовик и решает восстановить в безопасном месте — в память о близких. Но когда командир Красной Армии, виновный в их смерти, возвращается с намерением довести дело до конца, начинается безжалостная и зрелищная погоня через суровые земли. Это схватка не на жизнь, а на смерть.",
-      "popularity": 106.2291,
-      "poster_path": "/lk48GLdtqFNuNpqQkJT5uiFDyn4.jpg",
-      "release_date": "2025-10-21",
-      "title": "Бессмертный 2: Дорога мести",
-      "video": false,
-      "vote_average": 7.46,
-      "vote_count": 422,
-      "belongs_to_collection": {
-        "id": 1262937,
-        "name": "Sisu Collection",
-        "poster_path": "/vMJdvbDvISk2GtbsbGi1vodkusW.jpg",
-        "backdrop_path": "/dEiZ4HMNCXNr1abZIv6dfiyAd2Q.jpg"
-      },
-      "budget": 12200000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31844586",
-      "origin_country": [
-        "FI"
-      ],
-      "production_companies": [
-        {
-          "id": 177094,
-          "logo_path": null,
-          "name": "Cosmic Snowball",
-          "origin_country": "FI"
-        },
-        {
-          "id": 182028,
-          "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
-          "name": "Good Chaos",
-          "origin_country": "GB"
-        },
-        {
-          "id": 62408,
-          "logo_path": null,
-          "name": "Subzero Film Entertainment",
-          "origin_country": "FI"
-        },
-        {
-          "id": 11341,
-          "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
-          "name": "Stage 6 Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 3287,
-          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-          "name": "Screen Gems",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FI",
-          "name": "Finland"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 9169696,
-      "runtime": 89,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Finnish",
-          "iso_639_1": "fi",
-          "name": "suomi"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tUbwMOYP4cuGL1sQ0edz5943rBY.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        878
-      ],
-      "id": 1159311,
-      "original_language": "ja",
-      "original_title": "僕のヒーローアカデミア THE MOVIE ユアネクスト",
-      "overview": "Фанат супергероев Идзуку Мидория разрушил свою мечту поступить в академию супергероев и стать следующим Всемогущим — величайшим героем. Но после случайной встречи с самим Всемогущим Мидория клянется работать изо всех сил, чтобы стать символом и маяком надежды для всего мира.",
-      "popularity": 9.2601,
-      "poster_path": "/cvqEQyFKnvwDOhPzpNBVJNZzftF.jpg",
-      "release_date": "2024-08-02",
-      "title": "Моя геройская академия: Ты следующий",
-      "video": false,
-      "vote_average": 7.208,
-      "vote_count": 197,
-      "belongs_to_collection": {
-        "id": 1189668,
-        "name": "Моя геройская академия (Коллекция)",
-        "poster_path": "/xTlc93PezcZHMcvmAtPL3cyX0yE.jpg",
-        "backdrop_path": "/l0vWzUjhcjenUFOyUYKp1YpXcyo.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32176689",
-      "origin_country": [
-        "JP"
-      ],
-      "production_companies": [
-        {
-          "id": 2849,
-          "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
-          "name": "BONES",
-          "origin_country": "JP"
-        },
-        {
-          "id": 882,
-          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
-          "name": "TOHO",
-          "origin_country": "JP"
-        },
-        {
-          "id": 11727,
-          "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
-          "name": "Yomiuri Telecasting Corporation",
-          "origin_country": "JP"
-        },
-        {
-          "id": 2918,
-          "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
-          "name": "Shueisha",
-          "origin_country": "JP"
-        },
-        {
-          "id": 6755,
-          "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
-          "name": "Nippon Television Network Corporation",
-          "origin_country": "JP"
-        },
-        {
-          "id": 1778,
-          "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
-          "name": "dentsu",
-          "origin_country": "JP"
-        },
-        {
-          "id": 648,
-          "logo_path": "/s811As3dkcqSgl4nEWEVYfJVVxh.png",
-          "name": "Sony Music Entertainment (Japan)",
-          "origin_country": "JP"
-        },
-        {
-          "id": 3466,
-          "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
-          "name": "movic",
-          "origin_country": "JP"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 32224616,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        36
-      ],
-      "id": 1519630,
-      "original_language": "ru",
-      "original_title": "Чингис-Хан",
-      "overview": "История жизни Чингисхана — от юности до покорения половины мира.",
-      "popularity": 0.0143,
-      "poster_path": "/9Iyb0JN4UsIOruPk7p5cG9gbEi9.jpg",
-      "release_date": "2025-06-26",
-      "title": "Чингис-Хан",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt37231972",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 61,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Завоеватель тысячелетия",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -1299,6 +1163,149 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/ipkrxvlu0j5h7yNn5gT1SMSALcr.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 893366,
+      "original_language": "fr",
+      "original_title": "Le Petit Nicolas - Qu'est-ce qu'on attend pour être heureux ?",
+      "overview": "Жили в Париже два друга – писатель и художник. И придумали они однажды маленького Николя – озорного мальчугана, который любит своих родителей, ходит в школу, проказничает с друзьями и мечтает стать пилотом. Главное качество Николя – умение видеть что-то забавное даже в самых обычных вещах, так что каждый его день наполнен удивительными приключениями...",
+      "popularity": 0.9141,
+      "poster_path": "/jyWXpI7TexZaezNJaWj4dDqGbcy.jpg",
+      "release_date": "2022-02-15",
+      "title": "Маленький Николя",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 106,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt10290244",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 20338,
+          "logo_path": "/yCTqaPPzFfjqKU2YAGWce4qQk1S.png",
+          "name": "Bidibul Productions",
+          "origin_country": "LU"
+        },
+        {
+          "id": 288175,
+          "logo_path": null,
+          "name": "ON Classics",
+          "origin_country": "FR"
+        },
+        {
+          "id": 144803,
+          "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+          "name": "Align",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "LU",
+          "name": "Luxembourg"
+        }
+      ],
+      "revenue": 3813788,
+      "runtime": 82,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lksOWGR6llTf6wglj3OL96UEJ5D.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 433162,
+      "original_language": "ru",
+      "original_title": "Наследство волшебника Бахрама",
+      "overview": "Мультипликационный фильм о том, как обыкновенную советскую школьницу Машу крадут подземный волшебник Бахрам и его слуга. Бахрам уже стар и ему нужен наследник для продолжения дела. А глупый слуга притащил девочку, которая ему еще и очень понравилась. Маша очень не хотела оставаться и не польстилась ни на чудеса, ни на волшебство, хотя подземный волшебник оказался неплохим человеком – из Википедии.",
+      "popularity": 0.5896,
+      "poster_path": "/xaZi5kuJyJyUyZZfbK81ppUU676.jpg",
+      "release_date": "1975-09-01",
+      "title": "Наследство волшебника Бахрама",
+      "video": false,
+      "vote_average": 3,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0212374",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 19,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/4R9V7ez1g8zlWr1zyL06Evf32hY.jpg",
       "genre_ids": [
         16,
@@ -1530,67 +1537,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/lksOWGR6llTf6wglj3OL96UEJ5D.jpg",
-      "genre_ids": [
-        16
-      ],
-      "id": 433162,
-      "original_language": "ru",
-      "original_title": "Наследство волшебника Бахрама",
-      "overview": "Мультипликационный фильм о том, как обыкновенную советскую школьницу Машу крадут подземный волшебник Бахрам и его слуга. Бахрам уже стар и ему нужен наследник для продолжения дела. А глупый слуга притащил девочку, которая ему еще и очень понравилась. Маша очень не хотела оставаться и не польстилась ни на чудеса, ни на волшебство, хотя подземный волшебник оказался неплохим человеком – из Википедии.",
-      "popularity": 0.5896,
-      "poster_path": "/xaZi5kuJyJyUyZZfbK81ppUU676.jpg",
-      "release_date": "1975-09-01",
-      "title": "Наследство волшебника Бахрама",
-      "video": false,
-      "vote_average": 3,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0212374",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 19,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
       "genre_ids": [
         16,
@@ -1785,6 +1731,82 @@
           "english_name": "Japanese",
           "iso_639_1": "ja",
           "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7siwEffIjswFTB3O6OclIZS3tqx.jpg",
+      "genre_ids": [
+        36,
+        16,
+        10751
+      ],
+      "id": 306724,
+      "original_language": "ru",
+      "original_title": "Василиса Микулишна",
+      "overview": "Как Василиса Микулишна умом да хитростью своего мужа Ставра Годиновича из темницы Киевского князя вытащила.",
+      "popularity": 0.3751,
+      "poster_path": "/4YDQi0Pv6DL7QKDTtBJPsnoN8HG.jpg",
+      "release_date": "1975-01-01",
+      "title": "Василиса Микулишна",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4,
+      "belongs_to_collection": {
+        "id": 1366361,
+        "name": "Былины и сказания",
+        "poster_path": "/rq227f1Dj2URkKUU20ChKfOl91J.jpg",
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 18,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",

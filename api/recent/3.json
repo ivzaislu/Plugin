@@ -1,7 +1,7 @@
 {
   "page": 3,
   "limit": 20,
-  "total": 209,
+  "total": 211,
   "items": [
     {
       "adult": false,
@@ -70,6 +70,88 @@
       ],
       "revenue": 0,
       "runtime": 84,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648,
+        18
+      ],
+      "id": 1414413,
+      "original_language": "en",
+      "original_title": "Brothers Under Fire",
+      "overview": "Эскадрилья капитана Джордана Райта находится в отпуске на свадьбе в Мексике. Празднование прерывается нападением смертоносного картеля. Пока капитан Райт пытается вывести выживших в безопасное место, между отрядом и картелем разгорается война, вынуждая его вступить в бой, чтобы спасти своих людей.",
+      "popularity": 5.9199,
+      "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+      "release_date": "2026-04-15",
+      "title": "Братья под огнём",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32394984",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 76991,
+          "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+          "name": "Highland Film Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 144803,
+          "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+          "name": "Align",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -357,74 +439,92 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/8qXc6OLHoLHBxOFIjsfbZwWDFYH.jpg",
+      "backdrop_path": "/vfbryKoLrisx8Xh37OaTjTyrFY0.jpg",
       "genre_ids": [
-        28,
-        80,
-        18,
-        53
+        36,
+        18
       ],
-      "id": 1230208,
-      "original_language": "fr",
-      "original_title": "Bastion 36",
-      "overview": "Когда бывшие коллеги незадачливого полицейского, уволенного из элитного подразделения, гибнут от рук загадочного убийцы, герой начинает свое собственное расследование.",
-      "popularity": 2.3,
-      "poster_path": "/3P0BHnz4JoTx0LT8rFd1C5tsxY6.jpg",
-      "release_date": "2025-02-27",
-      "title": "Бастион 36",
+      "id": 760329,
+      "original_language": "en",
+      "original_title": "The Smashing Machine",
+      "overview": "История чемпиона смешанных единоборстви UFC Марка Керра.",
+      "popularity": 11.1435,
+      "poster_path": "/azQ8hkFe6nYqg1SvIUjYlFW54L1.jpg",
+      "release_date": "2025-10-01",
+      "title": "Крушащая машина",
       "video": false,
-      "vote_average": 6.234,
-      "vote_count": 177,
+      "vote_average": 6.504,
+      "vote_count": 346,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 50000000,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
+          "id": 36,
+          "name": "история"
         },
         {
           "id": 18,
           "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
         }
       ],
-      "homepage": "https://www.netflix.com/ru/title/81752988",
-      "imdb_id": "tt31032711",
+      "homepage": "",
+      "imdb_id": "tt11214558",
       "origin_country": [
-        "FR"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 9,
-          "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
-          "name": "Gaumont",
-          "origin_country": "FR"
+          "id": 41077,
+          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+          "name": "A24",
+          "origin_country": "US"
+        },
+        {
+          "id": 73669,
+          "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+          "name": "Seven Bucks Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 215974,
+          "logo_path": null,
+          "name": "Out for the Count",
+          "origin_country": "US"
+        },
+        {
+          "id": 260754,
+          "logo_path": null,
+          "name": "Magnetic Fields Entertainment",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FR",
-          "name": "France"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 124,
+      "revenue": 21000000,
+      "runtime": 123,
       "spoken_languages": [
         {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
+        {
+          "english_name": "Ukrainian",
+          "iso_639_1": "uk",
+          "name": "Український"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Незабываемая история легенды»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -908,92 +1008,110 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/vfbryKoLrisx8Xh37OaTjTyrFY0.jpg",
+      "backdrop_path": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
       "genre_ids": [
-        36,
-        18
+        878,
+        80
       ],
-      "id": 760329,
+      "id": 701387,
       "original_language": "en",
-      "original_title": "The Smashing Machine",
-      "overview": "История чемпиона смешанных единоборстви UFC Марка Керра.",
-      "popularity": 11.1435,
-      "poster_path": "/azQ8hkFe6nYqg1SvIUjYlFW54L1.jpg",
-      "release_date": "2025-10-01",
-      "title": "Крушащая машина",
+      "original_title": "Bugonia",
+      "overview": "Одержимый теориями заговора рабочий Тедди при помощи не слишком сообразительного кузена похищает руководительницу крупной компании, так как считает, что она — пришелец из галактики Андромеды, жаждущий уничтожить жизнь на Земле. Он запирает женщину в подвале и требует составить послание андромедийскому императору, чтобы тот принял Тедди на своем корабле и обсудил с ним план ухода инопланетян с нашей зелёной планеты.",
+      "popularity": 53.4804,
+      "poster_path": "/obeihpiGpQTdE7rPoWy1BVQsumY.jpg",
+      "release_date": "2025-10-23",
+      "title": "Бугония",
       "video": false,
-      "vote_average": 6.504,
-      "vote_count": 346,
+      "vote_average": 7.407,
+      "vote_count": 1052,
       "belongs_to_collection": null,
       "budget": 50000000,
       "genres": [
         {
-          "id": 36,
-          "name": "история"
+          "id": 878,
+          "name": "фантастика"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt11214558",
+      "imdb_id": "tt12300742",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 41077,
-          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
-          "name": "A24",
+          "id": 3353,
+          "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+          "name": "Element Pictures",
+          "origin_country": "IE"
+        },
+        {
+          "id": 123620,
+          "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+          "name": "Square Peg",
           "origin_country": "US"
         },
         {
-          "id": 73669,
-          "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
-          "name": "Seven Bucks Productions",
+          "id": 121813,
+          "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+          "name": "Fremantle",
           "origin_country": "US"
         },
         {
-          "id": 215974,
+          "id": 264539,
           "logo_path": null,
-          "name": "Out for the Count",
+          "name": "Pith Quest Films",
+          "origin_country": "CA"
+        },
+        {
+          "id": 138287,
+          "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+          "name": "Fruit Tree",
           "origin_country": "US"
         },
         {
-          "id": 260754,
-          "logo_path": null,
-          "name": "Magnetic Fields Entertainment",
-          "origin_country": "US"
+          "id": 128404,
+          "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+          "name": "CJ ENM",
+          "origin_country": "KR"
         }
       ],
       "production_countries": [
         {
+          "iso_3166_1": "IE",
+          "name": "Ireland"
+        },
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        },
+        {
           "iso_3166_1": "US",
           "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
         }
       ],
-      "revenue": 21000000,
-      "runtime": 123,
+      "revenue": 40293453,
+      "runtime": 118,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        },
-        {
-          "english_name": "Ukrainian",
-          "iso_639_1": "uk",
-          "name": "Український"
         }
       ],
       "status": "Released",
-      "tagline": "«Незабываемая история легенды»",
+      "tagline": "«Из всех похищений это – отличается»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1256,369 +1374,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
-      "genre_ids": [
-        878,
-        80
-      ],
-      "id": 701387,
-      "original_language": "en",
-      "original_title": "Bugonia",
-      "overview": "Одержимый теориями заговора рабочий Тедди при помощи не слишком сообразительного кузена похищает руководительницу крупной компании, так как считает, что она — пришелец из галактики Андромеды, жаждущий уничтожить жизнь на Земле. Он запирает женщину в подвале и требует составить послание андромедийскому императору, чтобы тот принял Тедди на своем корабле и обсудил с ним план ухода инопланетян с нашей зелёной планеты.",
-      "popularity": 53.4804,
-      "poster_path": "/obeihpiGpQTdE7rPoWy1BVQsumY.jpg",
-      "release_date": "2025-10-23",
-      "title": "Бугония",
-      "video": false,
-      "vote_average": 7.407,
-      "vote_count": 1052,
-      "belongs_to_collection": null,
-      "budget": 50000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt12300742",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 3353,
-          "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
-          "name": "Element Pictures",
-          "origin_country": "IE"
-        },
-        {
-          "id": 123620,
-          "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-          "name": "Square Peg",
-          "origin_country": "US"
-        },
-        {
-          "id": 121813,
-          "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
-          "name": "Fremantle",
-          "origin_country": "US"
-        },
-        {
-          "id": 264539,
-          "logo_path": null,
-          "name": "Pith Quest Films",
-          "origin_country": "CA"
-        },
-        {
-          "id": 138287,
-          "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
-          "name": "Fruit Tree",
-          "origin_country": "US"
-        },
-        {
-          "id": 128404,
-          "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
-          "name": "CJ ENM",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IE",
-          "name": "Ireland"
-        },
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 40293453,
-      "runtime": 118,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Из всех похищений это – отличается»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1228246,
-      "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "Спустя год после сверхъестественного кошмара в пиццерии Freddy Fazbear's произошедшее превратилось в местную легенду и вдохновило на первое в городе празднование Fazfest. Не зная правды, Эбби тайно отправляется к Фредди, Бонни, Чике и Фокси, запускает цепь пугающих событий и сталкивается с мрачными секретами происхождения пиццерии, пробуждая давний ужас, скрытый десятилетиями.",
-      "popularity": 204.1861,
-      "poster_path": "/geZhhgqqMrOQdhm4Kv9ulxPI5ZN.jpg",
-      "release_date": "2025-12-03",
-      "title": "Пять ночей с Фредди 2",
-      "video": false,
-      "vote_average": 6.791,
-      "vote_count": 504,
-      "belongs_to_collection": {
-        "id": 1240438,
-        "name": "Пять ночей с Фредди (Коллекция)",
-        "poster_path": "/mziuu7XpcnsOb6eRvHDi666U6Nc.jpg",
-        "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
-      },
-      "budget": 36000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "https://www.fivenightsatfreddys.movie/",
-      "imdb_id": "tt30274401",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 3172,
-          "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-          "name": "Blumhouse Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 211144,
-          "logo_path": null,
-          "name": "Scott Cawthon Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 116736,
-          "logo_path": "/5qSrmPricJH5TKXvfRSmUc7o1wP.png",
-          "name": "Mind Hive Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 231452000,
-      "runtime": 104,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Вы здесь?»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/c15Fg4jvclF5VjxCi1mtjUg4a6H.jpg",
-      "genre_ids": [
-        35,
-        18,
-        36
-      ],
-      "id": 1254808,
-      "original_language": "fr",
-      "original_title": "Nouvelle Vague",
-      "overview": "1959 год, Париж. Половина сотрудников Cahiers du Cinema уже сняли по фильму. Шаброль успел сделать два, Франсуа Трюффо с его «Ударами» рукоплещут в Каннах. И только Жан-Люк Годар, которого все — по крайней мере, он сам — считают гением, ходит с парой короткометражек за плечами. Годар наконец решает, что готов, и берет у дружественного продюсера де Борегара немного денег на картину по мотивам заметки из криминальной хроники. Приятель режиссера Жан-Поль Бельмондо будет играть жулика в бегах, восходящая американская звезда Джин Сиберг, недавно перебравшаяся во Францию, — его ненадежную подружку.",
-      "popularity": 11.2192,
-      "poster_path": "/vV1NblzItLgWQHpE1bEcYun12sR.jpg",
-      "release_date": "2025-10-08",
-      "title": "Новая волна",
-      "video": false,
-      "vote_average": 7.327,
-      "vote_count": 81,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31688586",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 189,
-          "logo_path": "/3NcJ66KlMs1s6yOh0AMSLMvhtSV.png",
-          "name": "ARP Sélection",
-          "origin_country": "FR"
-        },
-        {
-          "id": 11510,
-          "logo_path": "/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png",
-          "name": "Detour Filmproduction",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
-      "genre_ids": [
-        35,
-        27,
-        14
-      ],
-      "id": 1022453,
-      "original_language": "te",
-      "original_title": "ది రాజాసాబ్",
-      "overview": "За Гангаммой, страдающей болезнью Альцгеймера, ухаживает ее внук РаджаСааб. Она почти все забывает, но цепляется за воспоминания о своем муже Канакараджу, экзорцисте, который, как считается, живет в изгнании. Поиски деда приводят РаджаСааба в Хайдарабад, где он влюбляется в набожную монахиню Бесси, а другая женщина, внучка вора, по имени Бхайрави, предлагает помощь в поисках Канакараджу. В конце концов поиски приводят группу в печально известный особняк с привидениями. Они обнаруживают, что Канакараджу - не жертва, а виновник всех их бед...",
-      "popularity": 10.9499,
-      "poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
-      "release_date": "2026-01-08",
-      "title": "Раджа",
-      "video": false,
-      "vote_average": 5.5,
-      "vote_count": 25,
-      "belongs_to_collection": {
-        "id": 1614429,
-        "name": "The RajaSaab Collection",
-        "poster_path": null,
-        "backdrop_path": null
-      },
-      "budget": 50000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt23790696",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 106829,
-          "logo_path": null,
-          "name": "People Media Factory",
-          "origin_country": "IN"
-        },
-        {
-          "id": 239118,
-          "logo_path": null,
-          "name": "IVY Entertainment",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 21000000,
-      "runtime": 186,
-      "spoken_languages": [
-        {
-          "english_name": "Telugu",
-          "iso_639_1": "te",
-          "name": "తెలుగు"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
       "genre_ids": [
         28,
@@ -1715,6 +1470,240 @@
       ],
       "status": "Released",
       "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1206008,
+      "original_language": "en",
+      "original_title": "Ella McCay",
+      "overview": "Молодая девушка становится губернатором своего штата и пытается удержать баланс между работой и обычной жизнью.",
+      "popularity": 42.0637,
+      "poster_path": "/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+      "release_date": "2025-12-11",
+      "title": "Элла Маккей",
+      "video": false,
+      "vote_average": 5.684,
+      "vote_count": 49,
+      "belongs_to_collection": null,
+      "budget": 35000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt30096221",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 127928,
+          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+          "name": "20th Century Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 18,
+          "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+          "name": "Gracie Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 4546837,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/15sarvi4KF6WFtCQbKgcxG8iOj.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1146344,
+      "original_language": "en",
+      "original_title": "Misdirection",
+      "overview": "Чтобы отдать долги мафии, семейная пара должна совершить серию ограблений. Но во время последнего ограбления роскошного особняка они оказываются в ловушке.",
+      "popularity": 17.7014,
+      "poster_path": "/zqEJum03kBVPN3cgygxImL1Fvus.jpg",
+      "release_date": "2026-01-13",
+      "title": "Ложный след",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6374142",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 110831,
+          "logo_path": null,
+          "name": "Storyoscopic Films",
+          "origin_country": ""
+        },
+        {
+          "id": 2373,
+          "logo_path": "/wcQ30Rj2FP8d8VkAcOYqXCHCmsq.png",
+          "name": "Patriot Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 203245,
+          "logo_path": null,
+          "name": "Abbott Street Films",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 84,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Спустя год после сверхъестественного кошмара в пиццерии Freddy Fazbear's произошедшее превратилось в местную легенду и вдохновило на первое в городе празднование Fazfest. Не зная правды, Эбби тайно отправляется к Фредди, Бонни, Чике и Фокси, запускает цепь пугающих событий и сталкивается с мрачными секретами происхождения пиццерии, пробуждая давний ужас, скрытый десятилетиями.",
+      "popularity": 204.1861,
+      "poster_path": "/geZhhgqqMrOQdhm4Kv9ulxPI5ZN.jpg",
+      "release_date": "2025-12-03",
+      "title": "Пять ночей с Фредди 2",
+      "video": false,
+      "vote_average": 6.791,
+      "vote_count": 504,
+      "belongs_to_collection": {
+        "id": 1240438,
+        "name": "Пять ночей с Фредди (Коллекция)",
+        "poster_path": "/mziuu7XpcnsOb6eRvHDi666U6Nc.jpg",
+        "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
+      },
+      "budget": 36000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "https://www.fivenightsatfreddys.movie/",
+      "imdb_id": "tt30274401",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 3172,
+          "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+          "name": "Blumhouse Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 211144,
+          "logo_path": null,
+          "name": "Scott Cawthon Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 116736,
+          "logo_path": "/5qSrmPricJH5TKXvfRSmUc7o1wP.png",
+          "name": "Mind Hive Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 231452000,
+      "runtime": 104,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Вы здесь?»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
