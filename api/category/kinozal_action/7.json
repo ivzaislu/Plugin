@@ -5,99 +5,198 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 131,
+  "total": 133,
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/AmTImtiEa13vujOEgTbqgzGcfyK.jpg",
       "genre_ids": [
-        18,
+        53,
+        80
+      ],
+      "id": 1128377,
+      "original_language": "en",
+      "original_title": "In Cold Light",
+      "overview": "После выхода из тюрьмы Ава пытается затеряться в маленьком канадском городке. Ее прошлое - мрачное и болезненное, связано с гибелью брата и некими преступными кругами. Но чем сильнее она старается жить спокойно, тем быстрее ее настигают те, кто не простил. Неизвестный убийца начинает охоту, и Ава понимает: чтобы выжить, ей придется вернуться туда, откуда она так стремилась уйти - в мир насилия, предательства и скрытых тайн. Вскоре становится ясно, что брат героини мог быть не таким, каким она его считала, а люди вокруг - не теми, за кого себя выдают. Девушка начинает испытывать внутренний конфликт: теперь она борется не только с угрозой извне, но и с виной, страхом и собственной памятью.",
+      "popularity": 1.9205,
+      "poster_path": "/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+      "release_date": "2026-01-23",
+      "title": "В холодном свете",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 30,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt27497165",
+      "origin_country": [
+        "CA"
+      ],
+      "production_companies": [
+        {
+          "id": 12142,
+          "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+          "name": "XYZ Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 93823,
+          "logo_path": "/cyCY0Uu2Vzn3UwxW2V4lXgtIv8J.png",
+          "name": "Lithium Studios",
+          "origin_country": "CA"
+        },
+        {
+          "id": 142269,
+          "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+          "name": "IPR.VC",
+          "origin_country": "FI"
+        },
+        {
+          "id": 17704,
+          "logo_path": "/wf9blZfYeKwIWs9Im4V9lfgjLNb.png",
+          "name": "Peripheria Productions",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2kteMSh4f8bRdm6XsTTC4smGMur.jpg",
+      "genre_ids": [
+        35,
+        28
+      ],
+      "id": 52914,
+      "original_language": "it",
+      "original_title": "Squadra antifurto",
+      "overview": "Необычный полицейский Нико Джиральди работает под прикрытием. Он должен выяснить, кто похитил секретные документы у продажного бывшего агента ЦРУ.",
+      "popularity": 1.1718,
+      "poster_path": "/jYTE3LUis0KRHoy7kaQhbHSp7lA.jpg",
+      "release_date": "1976-10-29",
+      "title": "Отдел по борьбе с угонами",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 40,
+      "belongs_to_collection": {
+        "id": 706482,
+        "name": "Nico Giraldi - Collezione",
+        "poster_path": "/pHXUt75CTzRERoLZ7VsZCWhhLfA.jpg",
+        "backdrop_path": "/1emzwUswSnTUkkvKurupUJbiM50.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0076753",
+      "origin_country": [
+        "IT"
+      ],
+      "production_companies": [
+        {
+          "id": 10519,
+          "logo_path": null,
+          "name": "Cinemaster",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 105,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
+      "genre_ids": [
+        28,
         80,
-        10770
+        53
       ],
-      "id": 900172,
-      "original_language": "ru",
-      "original_title": "Один день",
-      "overview": "Молодой владелец автосервиса Лёша и его беременная жена Ирина готовятся стать родителями. \"Крышующий\" автосервис криминал в лице букмекера Валеры требует денег, которых в данный момент у Лёши нет, потому что ему не возвращает долг один из его друзей. Лёше даётся всего один день, чтобы рассчитаться с долгами. В свою очередь, Лёша требует от друга срочного возвращения долга. А Валера сильно подвёл бандита Дусю, который требует немедленной расплаты и в кровь избивает букмекера за неправильный прогноз на скачках. Так замыкается этот криминальный круг…",
-      "popularity": 0.3221,
-      "poster_path": "/rxVSzZUcSzoB4YN4gGjQPua7rCl.jpg",
-      "release_date": "2008-05-08",
-      "title": "Один день",
+      "id": 10431,
+      "title": "Война",
+      "original_language": "en",
+      "original_title": "War",
+      "overview": "В мире, которым правит страх, только правосудие спасает жизни. На счету агента ФБР Джека Кроуфорда и его напарника немало обезвреженных бандитов. Но справедливость и закон оказались бессильны, когда одержимый убийца объявил им войну. С этого момента жизнь Кроуфорда превращается в бесконечную игру со смертью, захватывающую и жестокую. Игру, где жизнь не стоит ничего, а бывшие друзья становятся заклятыми врагами.",
+      "popularity": 8.4595,
+      "poster_path": "/17fOl63zPqgzclzhkDpuMPIAk9D.jpg",
+      "release_date": "2007-08-24",
+      "softcore": false,
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 6.39,
+      "vote_count": 2021,
       "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2210228",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 21179,
-          "logo_path": null,
-          "name": "Kinoslovo",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 86,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        28,
-        80
-      ],
-      "id": 893103,
-      "original_language": "ru",
-      "original_title": "Мёртвые души",
-      "overview": "Молодой представитель спецорганов Константин Лебедев вряд ли мог даже представить, чем обернется для него излишняя осведомленность. Он ненароком ознакомился с базой данных, в которой значились имена неугодных высокопоставленных лиц, исчезнувших навсегда. Этим он подписал себе приговор…  Узнав об утечке информации, спецагенты Шевелев и Мухин решили ликвидировать Лебедева и немедля привели свой план в действие, не успев, однако, убрать его подругу Веру. Девушке удалось ненадолго скрыться, но уйти от преследования оказалось не так-то просто. Во время погони она врезалась в кортеж генерала Шаламова и невольно разделила с ним свою участь — жить под прицелом…",
-      "popularity": 0.449,
-      "poster_path": "/96zDL1xgTaaoc0t2Jn8gzl48crK.jpg",
-      "release_date": "2008-11-14",
-      "title": "Мёртвые души",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 25000000,
       "genres": [
         {
           "id": 28,
@@ -106,302 +205,86 @@
         {
           "id": 80,
           "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt32991542",
+      "imdb_id": "tt0499556",
       "origin_country": [
-        "RU"
+        "CA",
+        "US"
       ],
       "production_companies": [
         {
-          "id": 105187,
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 748,
           "logo_path": null,
-          "name": "NTV+",
+          "name": "Mosaic Media Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 12138,
+          "logo_path": null,
+          "name": "Fierce Entertainment",
+          "origin_country": ""
+        },
+        {
+          "id": 972,
+          "logo_path": null,
+          "name": "Current Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 23956,
+          "logo_path": null,
+          "name": "Rogue Films",
           "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
-      "genre_ids": [
-        28,
-        53,
-        9648,
-        18
-      ],
-      "id": 1414413,
-      "original_language": "en",
-      "original_title": "Brothers Under Fire",
-      "overview": "Эскадрилья капитана Джордана Райта находится в отпуске на свадьбе в Мексике. Празднование прерывается нападением смертоносного картеля. Пока капитан Райт пытается вывести выживших в безопасное место, между отрядом и картелем разгорается война, вынуждая его вступить в бой, чтобы спасти своих людей.",
-      "popularity": 5.9199,
-      "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
-      "release_date": "2026-04-15",
-      "title": "Братья под огнём",
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32394984",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 76991,
-          "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
-          "name": "Highland Film Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 144803,
-          "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
-          "name": "Align",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
           "iso_3166_1": "US",
           "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
         }
       ],
-      "revenue": 0,
-      "runtime": 100,
+      "revenue": 40452643,
+      "runtime": 103,
       "spoken_languages": [
+        {
+          "english_name": "Cantonese",
+          "iso_639_1": "cn",
+          "name": "广州话 / 廣州話"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4kmNLwmVeT3xMciSRefE6SCi2hX.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1027073,
-      "original_language": "en",
-      "original_title": "In the Land of Saints and Sinners",
-      "overview": "Легендарный наемный убийца Финбар решает, что он уже не так хорош и ему пора отойти от дел. Но однажды в город, где он залег на дно, наведывается банда и начинает беспредел. Финбару ничего не остается, как встать на сторону правосудия и снова взяться за оружие. И на этот раз он рискует не только собой, но и всеми, кто ему дорог.",
-      "popularity": 2.6826,
-      "poster_path": "/y8M8jNl2URzuqFjLVAu2T0gtx3s.jpg",
-      "release_date": "2023-10-06",
-      "title": "Последний наёмник",
-      "video": false,
-      "vote_average": 6.466,
-      "vote_count": 581,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt15782690",
-      "origin_country": [
-        "IE"
-      ],
-      "production_companies": [
-        {
-          "id": 210311,
-          "logo_path": null,
-          "name": "Facing East Entertainment",
-          "origin_country": "CN"
-        },
-        {
-          "id": 210312,
-          "logo_path": "/blZt02hAe7TP3Sn4PCWoVoDDVQo.png",
-          "name": "Jumpy Cow Pictures",
-          "origin_country": "CH"
-        },
-        {
-          "id": 210313,
-          "logo_path": null,
-          "name": "Merlin Films",
-          "origin_country": "IE"
-        },
-        {
-          "id": 80682,
-          "logo_path": null,
-          "name": "Prodigal Films",
-          "origin_country": ""
-        },
-        {
-          "id": 1872,
-          "logo_path": "/559H3L3CP1dJsHLSS3XSe5GNkW0.png",
-          "name": "Bleiberg Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 859,
-          "logo_path": "/wK6ssskf1QaGp057lSYb6fa3Nwc.png",
-          "name": "Saga Film",
-          "origin_country": "BE"
-        },
-        {
-          "id": 342,
-          "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
-          "name": "Davis Films",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IE",
-          "name": "Ireland"
-        },
-        {
-          "iso_3166_1": "CH",
-          "name": "Switzerland"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 106,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yppyDD843g5dqV0r47z9eAcpMXC.jpg",
-      "genre_ids": [
-        28,
-        18
-      ],
-      "id": 102961,
-      "original_language": "en",
-      "original_title": "Seven",
-      "overview": "Правительственный агент раскрывает заговор картеля из семи гангстеров с целью захватить власть в штате Гавайи. Он нанимает команду из семи киллеров, чтобы остановить их.",
-      "popularity": 0.5158,
-      "poster_path": "/btiZ1zyHY1EzlPnrKKN3sWc4NcU.jpg",
-      "release_date": "1979-09-07",
-      "title": "Семь",
-      "video": false,
-      "vote_average": 5.7,
-      "vote_count": 44,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0079882",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Смерть — их образ жизни!»",
+      "tagline": "«Месть как абсолютное оружие»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -573,6 +456,468 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/gicwvtsakaHovYALBrQ7funLD5c.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 62739,
+      "original_language": "ru",
+      "original_title": "Одиночка",
+      "overview": "Вооруженный бандит, лицо которого скрыто под маской, совершает налет на сберкассу. Во время нападения погибает молодая женщина, жена оперуполномоченного Фролова. Представителям «органов» достаточно быстро удается выйти на след бандита — неизвестный, позвонивший в отделение милиции, дает операм наводку на дачу, где скрываются преступник.\r Сотрудники милиции проводят операцию, в ходе которой задержан некий Андрей Громов, который на самом деле является сотрудником спец. служб. Вина его полностью доказана и он получает 12 лет колонии строгого режима…",
+      "popularity": 0.4467,
+      "poster_path": "/lGpIIcBLrexE1W9p1s0lG2jHcVO.jpg",
+      "release_date": "2010-12-12",
+      "title": "Одиночка",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Охота на бывших спецагентов обходится дорого»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rpqfqUtQUKuJfzpJPXRMsE8CP9w.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        80,
+        10770
+      ],
+      "id": 1168608,
+      "original_language": "ru",
+      "original_title": "Честь самурая",
+      "overview": "За свое увлечение восточными единоборствами оперативника Николая Дымова коллеги прозвали Самураем. Он холоден, беспристрастен, а допросы с его участием напоминают захватывающий психологический поединок. Он смело бросается в бой. Особенно, когда дело касается его дочери. Спустя годы разлуки девушка приезжает к отцу. Капитан полиции, привыкший общаться с суровыми коллегами по работе и преступниками, с трудом находит общий язык с повзрослевшей дочерью. Особенно тяжело ему приходится, когда он узнает, что дочка собирается замуж за бандита...",
+      "popularity": 0.3344,
+      "poster_path": "/eeYUDjcZMmQdvHNqEA2m7Bg2kex.jpg",
+      "release_date": "2012-10-05",
+      "title": "Честь самурая",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt28744393",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 86557,
+          "logo_path": null,
+          "name": "Navigator",
+          "origin_country": "RU"
+        },
+        {
+          "id": 108281,
+          "logo_path": "/sMlxQgvcpGkywgzssDLND93V9Ns.png",
+          "name": "Forvard Film",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Смело броситься в бой»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        80,
+        10770
+      ],
+      "id": 900172,
+      "original_language": "ru",
+      "original_title": "Один день",
+      "overview": "Молодой владелец автосервиса Лёша и его беременная жена Ирина готовятся стать родителями. \"Крышующий\" автосервис криминал в лице букмекера Валеры требует денег, которых в данный момент у Лёши нет, потому что ему не возвращает долг один из его друзей. Лёше даётся всего один день, чтобы рассчитаться с долгами. В свою очередь, Лёша требует от друга срочного возвращения долга. А Валера сильно подвёл бандита Дусю, который требует немедленной расплаты и в кровь избивает букмекера за неправильный прогноз на скачках. Так замыкается этот криминальный круг…",
+      "popularity": 0.3221,
+      "poster_path": "/rxVSzZUcSzoB4YN4gGjQPua7rCl.jpg",
+      "release_date": "2008-05-08",
+      "title": "Один день",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2210228",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 21179,
+          "logo_path": null,
+          "name": "Kinoslovo",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 893103,
+      "original_language": "ru",
+      "original_title": "Мёртвые души",
+      "overview": "Молодой представитель спецорганов Константин Лебедев вряд ли мог даже представить, чем обернется для него излишняя осведомленность. Он ненароком ознакомился с базой данных, в которой значились имена неугодных высокопоставленных лиц, исчезнувших навсегда. Этим он подписал себе приговор…  Узнав об утечке информации, спецагенты Шевелев и Мухин решили ликвидировать Лебедева и немедля привели свой план в действие, не успев, однако, убрать его подругу Веру. Девушке удалось ненадолго скрыться, но уйти от преследования оказалось не так-то просто. Во время погони она врезалась в кортеж генерала Шаламова и невольно разделила с ним свою участь — жить под прицелом…",
+      "popularity": 0.449,
+      "poster_path": "/96zDL1xgTaaoc0t2Jn8gzl48crK.jpg",
+      "release_date": "2008-11-14",
+      "title": "Мёртвые души",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32991542",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 105187,
+          "logo_path": null,
+          "name": "NTV+",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vo7lHgGCMm8mvZfjXZfDlPvYxY2.jpg",
+      "genre_ids": [
+        28,
+        53,
+        12,
+        10752
+      ],
+      "id": 16113,
+      "original_language": "en",
+      "original_title": "The Delta Force",
+      "overview": "Когда опасные террористы захватывают американских туристов и переправляют их в Бейрут, президент направляет отряд «Дельта» — бригаду первоклассных бойцов под командованием полковника Ника Александера и майора Скотта Маккоя, чтобы освободить их.  Вскоре после переброски на Средний Восток элитный спасательный отряд получает сведения, что женщин и детей отпустили, но мужчин банда фанатичных преступников по — прежнему удерживает в здании школы, расположенном на берегу моря. Сметая все на своем пути, сквозь огонь и взрывы отряд «Дельта» прорывается в лагерь террористов и, не оставляя пленных, освобождает заложников. Однако на этом миссия не заканчивается. Бандиты успели перевезти нескольких заложников в Тегеран, и теперь в битве за их спасение время работает против Александера и Маккоя.  Они обязаны успеть — ведь на кону жизнь людей и честь родины.",
+      "popularity": 4.2296,
+      "poster_path": "/r4lKFkOjxmShSUPpNPer5HTnIGT.jpg",
+      "release_date": "1986-02-14",
+      "title": "Отряд «Дельта»",
+      "video": false,
+      "vote_average": 5.938,
+      "vote_count": 471,
+      "belongs_to_collection": {
+        "id": 126166,
+        "name": "Отряд «Дельта» (Коллекция)",
+        "poster_path": "/fXr3ikzbWk9iOGsgDzLcpd6JUNe.jpg",
+        "backdrop_path": "/vo7lHgGCMm8mvZfjXZfDlPvYxY2.jpg"
+      },
+      "budget": 9000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0090927",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1444,
+          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+          "name": "The Cannon Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 13549,
+          "logo_path": null,
+          "name": "Golan-Globus Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 17768900,
+      "runtime": 125,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Arabic",
+          "iso_639_1": "ar",
+          "name": "العربية"
+        },
+        {
+          "english_name": "Greek",
+          "iso_639_1": "el",
+          "name": "ελληνικά"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Они не ведут переговоров с террористами... они их сдувают!",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Zo7iLqs0ugLK1JgeeDpMpT0uqo.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 17386,
+      "original_language": "en",
+      "original_title": "Revenge of the Ninja",
+      "overview": "Мастер искуства ниндзютцу Чо по прозвищу «Чёрный ниндзя» вместе с сыном переезжает в США и начинает новую жизнь на чужбине, после того как в Японии группа ниндзя убивает почти всех членов его семьи. Чо открывает магазин игрушек, не подозревая, что его нечистый на руку партнер провозит контрабандой героин, набивая им кукол. Осознание того, что партнер и друг предал его, становится последней каплей в чаше терпения Чёрного ниндзя.",
+      "popularity": 1.2581,
+      "poster_path": "/5UZbxLdGLqy0iParmzhFvXlX5Jz.jpg",
+      "release_date": "1983-09-07",
+      "title": "Месть ниндзя",
+      "video": false,
+      "vote_average": 6.23,
+      "vote_count": 161,
+      "belongs_to_collection": {
+        "id": 373538,
+        "name": "Входит ниндзя",
+        "poster_path": "/2umt4RmpHxjlsfJs6ORuJ2ZUAoh.jpg",
+        "backdrop_path": "/6HHnJkFHVbAW5PNYpvjih5jKIgU.jpg"
+      },
+      "budget": 700000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0086192",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1444,
+          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+          "name": "The Cannon Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 13549,
+          "logo_path": null,
+          "name": "Golan-Globus Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 13168027,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
       "genre_ids": [
         28,
@@ -708,192 +1053,6 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2kteMSh4f8bRdm6XsTTC4smGMur.jpg",
-      "genre_ids": [
-        35,
-        28
-      ],
-      "id": 52914,
-      "original_language": "it",
-      "original_title": "Squadra antifurto",
-      "overview": "Необычный полицейский Нико Джиральди работает под прикрытием. Он должен выяснить, кто похитил секретные документы у продажного бывшего агента ЦРУ.",
-      "popularity": 1.1718,
-      "poster_path": "/jYTE3LUis0KRHoy7kaQhbHSp7lA.jpg",
-      "release_date": "1976-10-29",
-      "title": "Отдел по борьбе с угонами",
-      "video": false,
-      "vote_average": 6.5,
-      "vote_count": 40,
-      "belongs_to_collection": {
-        "id": 706482,
-        "name": "Nico Giraldi - Collezione",
-        "poster_path": "/pHXUt75CTzRERoLZ7VsZCWhhLfA.jpg",
-        "backdrop_path": "/1emzwUswSnTUkkvKurupUJbiM50.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0076753",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 10519,
-          "logo_path": null,
-          "name": "Cinemaster",
-          "origin_country": "IT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/b5IB4VGjR818tTNcCLHQCIFwQmW.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 10431,
-      "original_language": "en",
-      "original_title": "War",
-      "overview": "В мире, которым правит страх, только правосудие спасает жизни. На счету агента ФБР Джека Кроуфорда и его напарника немало обезвреженных бандитов. Но справедливость и закон оказались бессильны, когда одержимый убийца объявил им войну. С этого момента жизнь Кроуфорда превращается в бесконечную игру со смертью, захватывающую и жестокую. Игру, где жизнь не стоит ничего, а бывшие друзья становятся заклятыми врагами.",
-      "popularity": 8.7849,
-      "poster_path": "/17fOl63zPqgzclzhkDpuMPIAk9D.jpg",
-      "release_date": "2007-08-24",
-      "title": "Война",
-      "video": false,
-      "vote_average": 6.39,
-      "vote_count": 2021,
-      "belongs_to_collection": null,
-      "budget": 25000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0499556",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 748,
-          "logo_path": null,
-          "name": "Mosaic Media Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 12138,
-          "logo_path": null,
-          "name": "Fierce Entertainment",
-          "origin_country": ""
-        },
-        {
-          "id": 972,
-          "logo_path": null,
-          "name": "Current Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 23956,
-          "logo_path": null,
-          "name": "Rogue Films",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 40452643,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Месть как абсолютное оружие»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [

@@ -5,49 +5,53 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 122,
+  "total": 121,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
+      "backdrop_path": "/q99gHVkcH6Q5WHa7qjOjREkyD8c.jpg",
       "genre_ids": [
-        27
+        35,
+        27,
+        9648
       ],
-      "id": 1454741,
+      "id": 28170,
       "original_language": "en",
-      "original_title": "The Confession",
-      "overview": "Музыкантша Наоми вместе с юным сыном Диланом возвращается в родной дом в Техасе. Там она находит запись отца, который покончил с собой много лет назад, с признанием в совершении убийства. Женщина начинает разбираться в ситуации, и понимает, что зло, с которым боролся её отец, не было побеждено. Вскоре Дилан начинает вести себя странно и зловеще, и Наоми предстоит продолжить борьбу, чтобы спасти сына.",
-      "popularity": 6.6111,
-      "poster_path": "/7tmMQwSVVbijKV4lquYpBld3P9K.jpg",
-      "release_date": "2026-01-08",
-      "title": "Синистер. Первое проклятие",
+      "original_title": "The Gore Gore Girls",
+      "overview": "В одном из ночных клубов Сан-Франциско происходит серия зверских убийств стриптизёрш. Охочая до сенсаций газета нанимает для расследования этих преступлений частного детектива Эйба Гентри. Эйб с радостью принимает выгодное в денежном плане предложение, не подозревая, что то, с чем ему предстоит столкнуться, способно быстро охладить любой энтузиазм.",
+      "popularity": 0.4981,
+      "poster_path": "/bvpLcoETKKVb6iFyl5r47pQKKsh.jpg",
+      "release_date": "1972-12-15",
+      "title": "Несчастные девушки",
       "video": false,
-      "vote_average": 5.9,
-      "vote_count": 26,
+      "vote_average": 5.4,
+      "vote_count": 63,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 63500,
       "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
         {
           "id": 27,
           "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt35838700",
+      "imdb_id": "tt0068649",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 117109,
+          "id": 17071,
           "logo_path": null,
-          "name": "Three Folks Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 105900,
-          "logo_path": null,
-          "name": "Five by Five",
+          "name": "Lewis Motion Picture Enterprisee",
           "origin_country": ""
         }
       ],
@@ -58,7 +62,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 87,
+      "runtime": 84,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -69,94 +73,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
-      "genre_ids": [
-        27,
-        28
-      ],
-      "id": 36647,
-      "original_language": "en",
-      "original_title": "Blade",
-      "overview": "Получеловек-полувампир Блэйд (Уэсли Снайпс) намерен уничтожить виновника своей судьбы - Дьякона Фроста (Стивен Дорф). Когда-то в кровь Блэйда попало совсем немного вампирского яда, но с течением времени он стал ощущать неизбежность своего превращения. Желая избавить людей от тайной и могущественной армии вампиров, заполонивших общество, он отправляется на решающий бой...",
-      "popularity": 9.7427,
-      "poster_path": "/sSIeD1KmkgBTPMGdLkMwWuuTaBG.jpg",
-      "release_date": "1998-08-21",
-      "title": "Блэйд",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 6507,
-      "belongs_to_collection": {
-        "id": 735,
-        "name": "Блэйд (Коллекция)",
-        "poster_path": "/6hIarCfoGAHUgBLo0OBG5cbQtD8.jpg",
-        "backdrop_path": "/d7h60yRgP6US9VYenEPzFGW9saY.jpg"
-      },
-      "budget": 45000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0120611",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        },
-        {
-          "id": 421,
-          "logo_path": null,
-          "name": "Amen Ra Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 11321,
-          "logo_path": null,
-          "name": "Imaginary Forces",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 131183530,
-      "runtime": 121,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Сила бессмертного. Душа человека. Сердце героя.»",
-      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"

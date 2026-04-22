@@ -1,123 +1,89 @@
 {
   "page": 11,
   "limit": 20,
-  "total": 211,
+  "total": 213,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/e40FMjHg2RoypsjxygoTFB5jLUd.jpg",
+      "backdrop_path": "/efQIfpxegsg6KHfTcVngrPO09cs.jpg",
       "genre_ids": [
-        18
+        12,
+        28,
+        27
       ],
-      "id": 1168719,
-      "original_language": "de",
-      "original_title": "Silent Friend",
-      "overview": "В 1908 году в Марбургский университет поступает первая студентка, в 1972 году застенчивый студент безнадёжно влюбляется в однокурсницу, а в 2020 году гонконгский нейробиолог не может покинуть кампус из-за пандемии. Действие разворачивается в ботаническом саду и охватывает три эпохи. Их объединяет один безмолвный свидетель — величественное дерево гинкго билоба.",
-      "popularity": 3.3271,
-      "poster_path": "/aIHFsmrNi2aJGvEFKZ7S7XwqHeJ.jpg",
-      "release_date": "2026-01-15",
-      "title": "Молчаливый друг",
+      "id": 1511789,
+      "original_language": "en",
+      "original_title": "Captain Hook: The Cursed Tides",
+      "overview": "Гроза морей, капитан Джеймс вступает в неравную схватку с заклятым врагом Сми, который однажды его предал и перешёл на службу к королю. Битва заканчивается сокрушительным поражением Джеймса, потерявшего и команду, и руку. Но ему чудом удаётся избежать казни. Скрываясь от преследования, он набредает на дом угрюмого кузнеца Сайласа Блэквезера. Тот делает для раненого капитана металлический крюк вместо отрубленной руки. Новых знакомых объединяет нечто важное - ненависть к адмиралу Сми, убившему сестру Сайласа. Шансы на месть повышаются, когда всплывает мистическое проклятие этих приморских земель.",
+      "popularity": 12.5458,
+      "poster_path": "/mvnYVD53R2L97Wuz8cZmDKOareM.jpg",
+      "release_date": "2025-07-11",
+      "title": "Капитан Крюк: Проклятые берега",
       "video": false,
-      "vote_average": 8.3,
-      "vote_count": 9,
+      "vote_average": 5.02,
+      "vote_count": 49,
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/77oAl0BchG4Ad6V75b2j9Oac2WM.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1119548,
+      "original_language": "fr",
+      "original_title": "La Condition",
+      "overview": "Франция, 1908 год. В доме респектабельной семьи появляется юная служанка Селеста. Её хозяйка, Виктория, отчаянно пытается быть образцовой женой, но эта роль ей чужда. Две абсолютно разные женщины, хозяйка и служанка, оказавшись под одной крышей, бросают вызов жестоким условностям эпохи и сталкиваются с тем, о чём принято молчать.",
+      "popularity": 3.4252,
+      "poster_path": "/5yxwpcK0OHR0fBB6CBS80YWHoAC.jpg",
+      "release_date": "2025-12-10",
+      "title": "Положение",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 27,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt27811632",
+      "imdb_id": "tt35465655",
       "origin_country": [
-        "FR",
-        "DE",
-        "HU"
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 140,
-          "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
-          "name": "Pandora Film",
-          "origin_country": "DE"
-        },
-        {
-          "id": 793,
-          "logo_path": "/10DhIXAmAixQvBOsjZ1MOeSRyUC.png",
-          "name": "Galatée Films",
+          "id": 744,
+          "logo_path": "/uM3Vrs3TZJJJTyCAPy4zir9IQeC.png",
+          "name": "Diaphana Films",
           "origin_country": "FR"
-        },
-        {
-          "id": 11008,
-          "logo_path": "/ygmbJsCJjgzIIYrJSj9grhDCYFu.png",
-          "name": "Inforg-M&M Film",
-          "origin_country": "HU"
-        },
-        {
-          "id": 127914,
-          "logo_path": "/xaPfwbAnv2ULcCil5x6dPFmFs8z.png",
-          "name": "Rediance",
-          "origin_country": "CN"
-        },
-        {
-          "id": 11237,
-          "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
-          "name": "ZDF/Arte",
-          "origin_country": "DE"
-        },
-        {
-          "id": 94,
-          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
-          "name": "ARTE France Cinéma",
-          "origin_country": "FR"
-        },
-        {
-          "id": 274902,
-          "logo_path": null,
-          "name": "Allons Voir",
-          "origin_country": "BE"
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "FR",
           "name": "France"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "HU",
-          "name": "Hungary"
-        },
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
         }
       ],
       "revenue": 0,
-      "runtime": 147,
+      "runtime": 103,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        },
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
@@ -130,70 +96,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
+      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
       "genre_ids": [
-        18
+        18,
+        10749,
+        36
       ],
-      "id": 1317288,
+      "id": 858024,
       "original_language": "en",
-      "original_title": "Marty Supreme",
-      "overview": "Молодой амбициозный парень Марти Маузер готов пойти на всё ради осуществления своей мечты, чтобы доказать всему миру, что для него нет ничего невозможного.",
-      "popularity": 120.095,
-      "poster_path": "/xBT5vVUzoBKndntwDLYqVgcuOp2.jpg",
-      "release_date": "2025-12-19",
-      "title": "Марти Великолепный",
+      "original_title": "Hamnet",
+      "overview": "Вдохновляющая история о любви и потере, которая легла в основу создания бессмертного шедевра Шекспира — \"Гамлет\".",
+      "popularity": 81.0366,
+      "poster_path": "/xheUjXcQ8cwwibYXMdAz5JYTiyw.jpg",
+      "release_date": "2025-11-26",
+      "title": "Гамнет",
       "video": false,
-      "vote_average": 7.69,
-      "vote_count": 566,
-      "belongs_to_collection": null,
-      "budget": 65000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32916440",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 41077,
-          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
-          "name": "A24",
-          "origin_country": "US"
-        },
-        {
-          "id": 243162,
-          "logo_path": "/ka77w8XmAhlqS2XBavyo1iMQnKx.png",
-          "name": "Central Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 148800000,
-      "runtime": 149,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Мечтай по-крупному»",
+      "vote_average": 7.7,
+      "vote_count": 244,
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -202,22 +121,131 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/nkxtuK4alXlGC87FRNDfAZJIFiB.jpg",
+      "backdrop_path": "/anAJIFgo94fYmfrVN8AOIjrLW1x.jpg",
       "genre_ids": [
-        35,
-        14
+        53,
+        10770
       ],
-      "id": 1114967,
+      "id": 1491388,
       "original_language": "en",
-      "original_title": "Good Fortune",
-      "overview": "Гэбриел, ангел нижнего звена, начинает помогать разнорабочему Арджу. Однажды мобильное приложение для работы приводит фрилансера к венчурному инвестору Джеффу, который нанимает его личным помощником на неделю. Однако вскоре новый помощник раздражает Джеффа, и тот решает его уволить.\r Ангел решает поменять местами жизни Арджа и Джеффа, и теперь инвестору предстоит зарабатывать на жизнь подработками, а разнорабочий впервые оказывается в роскоши.",
-      "popularity": 6.773,
-      "poster_path": "/smgLN6330v7F1spPzAHd789yiZh.jpg",
-      "release_date": "2025-10-14",
-      "title": "Везунчики",
+      "original_title": "Relative Danger",
+      "overview": "Сестру Энджи находят жестоко избитой. Женщина забирает к себе маленькую племянницу, надеясь укрыть её от опасности и дать время следствию разобраться в случившемся. Но вскоре Энджи понимает: нападение не было случайным. Кто-то целенаправленно охотится за девочкой. Полиция не спешит с выводами, а угрозы становятся всё реальнее. Энджи предстоит самостоятельно погрузиться в прошлое семьи, чтобы понять: что за тайну так отчаянно пытаются скрыть?",
+      "popularity": 0.6131,
+      "poster_path": "/3H6lRuI7rUh1mQ89MAfTZkuuaU1.jpg",
+      "release_date": "2025-09-19",
+      "title": "Чужая кровь",
       "video": false,
-      "vote_average": 7,
-      "vote_count": 525,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 1000000,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt35641767",
+      "origin_country": [
+        "CA"
+      ],
+      "production_companies": [
+        {
+          "id": 15645,
+          "logo_path": "/uX2ZxAA6TeLQZUHb0IqMrhAb1kL.png",
+          "name": "Reel One Entertainment",
+          "origin_country": "CA"
+        },
+        {
+          "id": 3431,
+          "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+          "name": "Lifetime",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        12
+      ],
+      "id": 1545880,
+      "original_language": "ru",
+      "original_title": "Холодное сердце",
+      "overview": "Полупустую деревню вдали от райцентра обжили персонажи «Снегурочки» Островского, только с поправкой на наше время. Бобыль и Бобылиха — станционные смотрители, Берендей уже не царь, а сторож, Лель — модный диджей, вернувшийся на каникулы из Москвы, а его одноклассник Мизгирь — преуспевающий бизнесмен из райцентра. Только Снегурочка, кажется, та же, что и прежде. Она не способна на чувства, но обречена влюблять в себя окружающих.",
+      "popularity": 0.6247,
+      "poster_path": "/ypDNu0K9NYAwNV0dqpYdjxqEtpP.jpg",
+      "release_date": "2025-12-02",
+      "title": "Холодное сердце",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt36093962",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 226275,
+          "logo_path": null,
+          "name": "Kinoteka",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [

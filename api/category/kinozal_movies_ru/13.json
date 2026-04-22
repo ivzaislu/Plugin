@@ -5,7 +5,7 @@
   },
   "page": 13,
   "limit": 20,
-  "total": 265,
+  "total": 266,
   "items": [
     {
       "adult": false,
@@ -125,6 +125,83 @@
           "iso_639_1": "fr",
           "name": "Français"
         },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hFcYA0wAc9htocchF3svP5y97K3.jpg",
+      "genre_ids": [
+        878,
+        18,
+        80,
+        9648
+      ],
+      "id": 53837,
+      "title": "Лунная радуга",
+      "original_language": "ru",
+      "original_title": "Лунная радуга",
+      "overview": "По одноимённому роману С.Павлова. Научно-фантастический фильм о проблемах, с которыми может столкнуться человечество, осваивая просторы Вселенной... В разных районах Земли зарегистрированы «чёрные следы» и именно в тех же местах — необъяснимые атмосферные аномалии и магнитные бури. Специально созданной оперативной группе удалось обнаружить связь «следов» с космической катастрофой, в результате которой остались в живых только четверо...",
+      "popularity": 1.0758,
+      "poster_path": "/uqdFzlbJ0Nwtww27R3jJy5voBHH.jpg",
+      "release_date": "1983-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 15,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0089618",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 88,
+      "spoken_languages": [
         {
           "english_name": "Russian",
           "iso_639_1": "ru",
@@ -1301,83 +1378,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ixEAVsjYKOoWnflyLsYkKueYDiG.jpg",
-      "genre_ids": [
-        10752,
-        35
-      ],
-      "id": 1152354,
-      "original_language": "ru",
-      "original_title": "За Палыча!",
-      "overview": "У Темы Голубя есть все, ему позволено больше других, парень уверен, что влиятельный папа решит любой «вопросик». Но сладкая жизнь внезапно обрывается, когда мажор сталкивается в аварии с еще более влиятельным незнакомцем из Москвы. На этот раз «вопросик» решается не так, как ждал Тема. По щелчку пальцев кандидатура папы снимается с выборов, семья стремительно лишается богатого дома, а сам виновник дорожной стычки в полном соответствии с законом отправляется на срочную службу в армию — в войска ВДВ, на перевоспитание к прапорщику Котову. Вернувшись из армии, Тема узнает, что у его деда Палыча пытаются отобрать старый дом. Теперь ему предстоит сделать выбор: вернуться к успешной жизни или вступиться за Палыча.",
-      "popularity": 0.3696,
-      "poster_path": "/iaIpqGfbnSaxrfWSw0y6msD5c4S.jpg",
-      "release_date": "2023-07-27",
-      "title": "За Палыча!",
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 7,
-      "belongs_to_collection": {
-        "id": 1591858,
-        "name": "За Палыча!",
-        "poster_path": null,
-        "backdrop_path": null
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27564494",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 204187,
-          "logo_path": null,
-          "name": "Viking-ST",
-          "origin_country": "RU"
-        },
-        {
-          "id": 69587,
-          "logo_path": "/u0Jy8wJ05m3MZCNiba1EXgf0zoK.png",
-          "name": "Russia 1",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
