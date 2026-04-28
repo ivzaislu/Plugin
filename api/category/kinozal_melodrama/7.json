@@ -5,7 +5,7 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 150,
+  "total": 149,
   "items": [
     {
       "adult": false,
@@ -448,57 +448,222 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/sirxbkADe1QF1uxVTuZ0EGXNhKH.jpg",
+      "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
       "genre_ids": [
-        35
+        35,
+        18,
+        10749
       ],
-      "id": 146718,
-      "original_language": "pl",
-      "original_title": "Pociąg do Hollywood",
-      "overview": "Юная Мерилин мечтает о Голливуде, о главных ролях у известных режиссеров. Одного из них, Билли Уайлдера, она буквально осаждает своими письмами. Однако знаменитый режиссер остается глух к просьбам девушки, и той приходится работать буфетчицей в поезде. Но именно в поезде она знакомится с Петром, который мечтает стать оператором. Между ними возникает взаимное чувство. Помогая друг другу, герои не отказываются от своих устремлений...",
-      "popularity": 0.8509,
-      "poster_path": "/wNQNV5LL0vlTgyCfWT6wttaPoPE.jpg",
-      "release_date": "1987-08-24",
-      "title": "Поезд в Голливуд",
+      "id": 284,
+      "original_language": "en",
+      "original_title": "The Apartment",
+      "overview": "Скромный служащий страховой компании Бакстер, чтобы хоть как-то продвинуться по карьерной лестнице, одалживает ключи от своей холостяцкой квартиры не только приятелям, желающим «погулять на сторону», но и боссу. Когда дела начинают идти в гору, случается непредвиденное: Бакстер влюбляется в любовницу босса.",
+      "popularity": 6.5438,
+      "poster_path": "/gT1wIJTj3pVV3PBrsP0Hye6W4F2.jpg",
+      "release_date": "1960-06-21",
+      "title": "Квартира",
       "video": false,
-      "vote_average": 5.1,
-      "vote_count": 9,
+      "vote_average": 8.195,
+      "vote_count": 2535,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 3000000,
       "genres": [
         {
           "id": 35,
           "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0093752",
+      "imdb_id": "tt0053604",
       "origin_country": [
-        "PL"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 12301,
+          "id": 219,
           "logo_path": null,
-          "name": "Zespół Filmowy \"Rondo\"",
-          "origin_country": "PL"
+          "name": "The Mirisch Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 60,
+          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+          "name": "United Artists",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "PL",
-          "name": "Poland"
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 25000000,
+      "runtime": 125,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«С точки зрения кино, никогда не было ничего подобного - смеха, любви и прочего!»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749
+      ],
+      "id": 616175,
+      "original_language": "ru",
+      "original_title": "Мой папа летчик",
+      "overview": "Люся Ермакова работает официанткой в офицерской столовой летного гарнизона. Ее сын Валька мечтает, чтобы у него был папа, и обязательно летчик. Подполковник Ивченко требует от Люси благосклонности, ведь это он помог ей с работой, но женщина избегает его. Ей нравится майор Ловцов. Однажды Валька убегает на аэродром и пропадает. На поиски ребенка поднимают весь гарнизон…",
+      "popularity": 0.672,
+      "poster_path": "/lRfdoj3FiddIP5mAPbCUgstZjtj.jpg",
+      "release_date": "2013-06-09",
+      "title": "Мой папа летчик",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt3324528",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 170704,
+          "logo_path": null,
+          "name": "UPS Ukrainian Production Studio",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        },
+        {
+          "iso_3166_1": "UA",
+          "name": "Ukraine"
         }
       ],
       "revenue": 0,
-      "runtime": 92,
+      "runtime": 89,
       "spoken_languages": [
         {
-          "english_name": "Polish",
-          "iso_639_1": "pl",
-          "name": "Polski"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 534795,
+      "original_language": "ru",
+      "original_title": "По секрету всему свету",
+      "overview": "Нюта — настоящая русская женщина. Она работает продавцом в сельском магазине, ведет домашнее хозяйство и воспитывает детей. Муж Семен и брат Санёк благополучно уселись безотказной Нюте на шею, и помощи от них ждать не приходится. Однажды в жизнь героини приходит настоящая беда: после Нютиной смены магазин грабят. Недолго думая, хозяева вешают непомерный долг на Нюту, а муж, испугавшись трудностей, сбегает из дома.. Хватит ли у Нюты сил справиться с горем и найти выход? Может быть, руку помощи неожиданно протянет тот, кто еще вчера казался совсем чужим?..",
+      "popularity": 0.0214,
+      "poster_path": "/qL4GY7q9wTY9ubAnUB90UF8KYEe.jpg",
+      "release_date": "2015-05-30",
+      "title": "По секрету всему свету",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1529388,
+      "title": "Мы всё равно будем вместе",
+      "original_language": "ru",
+      "original_title": "Мы всё равно будем вместе",
+      "overview": "Когда муж Веры понимает, что она никогда не сможет родить ему детей, он уходит к ее лучшей подруге. Пытаясь оправиться от предательства, Вера подбирает на улице беспризорного сироту и решает его усыновить. Она не знает, что Ваня – наследник огромного состояния, и за ним идет охота. Случайный знакомый, адвокат Иван, готов ей помочь в усыновлении. Но познакомившись с Ваней, он понимает, что это тот самый мальчик, которого безуспешно разыскивают его клиенты – опекуны, нацелившиеся на его наследство. Ивану и Вере предстоит нелегкий выбор – поступить по закону или по совести…",
+      "popularity": 0.0908,
+      "poster_path": "/anueBJs9efNoYtBXHyns16mDr1H.jpg",
+      "release_date": "2018-11-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [],
       "status": "Released",
       "tagline": "",
       "release_quality": "",
@@ -584,6 +749,307 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kvlXOT8snP7qplRpkOSAZahH5UB.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 6418,
+      "original_language": "en",
+      "original_title": "Hotel Chevalier",
+      "overview": "Короткая прелюдия к одной душераздирающей истории любви и пролог к фильму «Поезд на Дарджилинг. Отчаянные путешественники».",
+      "popularity": 10.4103,
+      "poster_path": "/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+      "release_date": "2007-10-26",
+      "title": "Отель «Шевалье»",
+      "video": false,
+      "vote_average": 6.891,
+      "vote_count": 878,
+      "belongs_to_collection": {
+        "id": 1437893,
+        "name": "The Darjeeling Limited Collection",
+        "poster_path": "/9dcIx6ZVZxhkSYLnD7oEJKZScV2.jpg",
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1094249",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 43,
+          "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+          "name": "Fox Searchlight Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 23449,
+          "logo_path": "/tPjESdmiEqfErAlDwFUoh0ldUQM.png",
+          "name": "American Empirical Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 70449,
+          "logo_path": null,
+          "name": "Première Heure",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 13,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yme0UvacQuWaZK9QiywD6lvx0Oz.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 41003,
+      "original_language": "en",
+      "original_title": "White Palace",
+      "overview": "Макс Бэрон — двадцатисемилетний преуспевающий директор рекламного агентства, пребывающий в трауре после смерти своей молодой жены. Случайное ночное знакомство с Норой Бейкер неожиданно резко меняет его жизнь. Она — обычная земная, эмоциональная и независимая женщина, живущая на окраине города и работающая в забегаловке, и ей сорок три.  Но, несмотря на внушительную разницу в возрасте и в социальном происхождении, герои переживают бурный, любовный роман. Но есть ли у этого романа будущее?",
+      "popularity": 5.2248,
+      "poster_path": "/nUxEeMzDNIrxlUXTmg3ApKj4EhU.jpg",
+      "release_date": "1990-10-19",
+      "title": "Белый дворец",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 185,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0103251",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 17487531,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zcPBI0vCuYkG9ml8E3loZPtI7Ye.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 47889,
+      "original_language": "en",
+      "original_title": "Ruby in Paradise",
+      "overview": "Скромная, неторопливо-тягучая история тихой девушки из Флориды, плывущей по течению жизни. Она устраивается на работу в магазинчик, заводит роман с сыном хозяйки, увольняется от греха подальше, встречает другого парня... Банальность ситуаций, в которые попадает героиня, частично искупается чистосердечностью авторской интонации, бесконечно далекой от каких-либо развлекательных клише.",
+      "popularity": 0.9523,
+      "poster_path": "/gk0vbIVYwpXxSf1wQbS2r9IsBoV.jpg",
+      "release_date": "1993-10-08",
+      "title": "Руби в раю",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 36,
+      "belongs_to_collection": null,
+      "budget": 800000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0108000",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 75712,
+          "logo_path": null,
+          "name": "Ruby in Paradise",
+          "origin_country": ""
+        },
+        {
+          "id": 75713,
+          "logo_path": null,
+          "name": "Full Crew/Say Yea",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 1001437,
+      "runtime": 114,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_melodrama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pyCgfzwhgmThczIUvHthkZ8tLXL.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 1462893,
+      "original_language": "ru",
+      "original_title": "Семь дней Петра Семёныча",
+      "overview": "Это история про семь дней жизни 70-летнего Петра Семёныча, который в самом начале фильма узнаёт, что у него саркома лёгкого и есть слабая надежда на то, что этот диагноз через неделю опровергнет медицинское «светило» из Москвы. Все эти дни Пётр Семёныч подводит итоги своей, как ему кажется, совершенно никчемной жизни, в которой он не смог построить семьи, заработать денег, сохранить репутацию. Но события, участником которых он становится, события, наполненные улыбкой, грустью, людскими судьбами, каждый раз дают понять зрителю, что жизнь нашего героя совсем не бесполезная.",
+      "popularity": 0.4907,
+      "poster_path": "/rsYWEz0dQJy3XM5TuMPj6ObCP4y.jpg",
+      "release_date": "2025-08-21",
+      "title": "Семь дней Петра Семёныча",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 3,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37539988",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 168749,
+          "logo_path": null,
+          "name": "8 Rows",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_melodrama"
@@ -1017,560 +1483,6 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2n1gPPZ0kANDTU2DcGksTqMYUbm.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 43466,
-      "original_language": "en",
-      "original_title": "The Farmer's Daughter",
-      "overview": "Кэтрин Холстром, дочь фермера, приезжает в большой город, чтобы выучиться на медсестру. Однако в первый же день у нее крадут все деньги, предназначенные и для обучения, и для оплаты жилья. Кэтрин устраивается домработницей к конгрессмену Гленну Морли. Он удивлен, что девушка из глубинки имеет такие трезвые взгляды на современную политику, и через некоторое время понимает, что влюбился в нее…",
-      "popularity": 0.8978,
-      "poster_path": "/k6RlWveQEKiVY7vFAPCi70Zisv0.jpg",
-      "release_date": "1947-03-26",
-      "title": "Дочь фермера",
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 38,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0039370",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6,
-          "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
-          "name": "RKO Radio Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 12274,
-          "logo_path": null,
-          "name": "Dore Schary Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 226531,
-          "logo_path": null,
-          "name": "Vanguard Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "Swedish",
-          "iso_639_1": "sv",
-          "name": "svenska"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1sgAxMqWE65Wiu9CqmWHVormawT.jpg",
-      "genre_ids": [
-        10402,
-        35,
-        10749
-      ],
-      "id": 43326,
-      "original_language": "en",
-      "original_title": "The Tender Trap",
-      "overview": "Театральный агент Чарли Ридер ведёт беззаботную холостяцкую жизнь. Он окружен бесчисленным количеством очаровательных девушек, которые неустанно заботятся о нём с тайной надеждой когда-нибудь выйти за него замуж. И вот этот привычный образ жизни нарушается одновременным появлением двух новых персонажей: школьного друга Джо Макколла и молоденькой актрисы Джули Гиллис. Этим людям суждено коренным образом изменить жизнь Чарли.",
-      "popularity": 0.5166,
-      "poster_path": "/o4uIEZfI0gHfTMOc2nQLPBpGDqf.jpg",
-      "release_date": "1955-11-04",
-      "title": "Нежный капкан",
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 39,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0048705",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 21,
-          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
-          "name": "Metro-Goldwyn-Mayer",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 111,
-      "spoken_languages": [
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hC3rDydNKC4X3FAbxSEKs8Sb90J.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 21544,
-      "original_language": "en",
-      "original_title": "Hope Springs",
-      "overview": "В этой очаровательной романтической комедии, британский художник Колин (Колин Фёрт) узнаёт, что любовь всей его жизни, Вера (Минни Драйвер), собирается замуж за другого. Расстроенный и подавленный, он берёт билет на самолёт и улетает из Англии в провинциальный американский городишко, чтобы предаться тоске. Но там он знакомится с местной жительницей, красивой медсестрой Мэнди. Вроде бы, все складывается хорошо, но внезапно в его жизнь возвращается Вера, которая полна решимости вернуть своего парня назад.",
-      "popularity": 1.1131,
-      "poster_path": "/lsCo6HhyZFi8iql1fuwEo3oJLRu.jpg",
-      "release_date": "2003-05-09",
-      "title": "Лепестки надежды",
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 168,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0314431",
-      "origin_country": [
-        "GB",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4189,
-          "logo_path": null,
-          "name": "Scala Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 2651,
-          "logo_path": "/rmfShgOyHdGSljYXcvZsbVGSRGV.png",
-          "name": "Fragile Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 9195,
-          "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
-          "name": "Touchstone Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 11352,
-          "logo_path": null,
-          "name": "Prominent Features",
-          "origin_country": "GB"
-        },
-        {
-          "id": 58583,
-          "logo_path": null,
-          "name": "Mumbo Jumbo Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1600000,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jKHuomjRgFvxU2TTPUZtSx3Q7q.jpg",
-      "genre_ids": [
-        10749,
-        10770
-      ],
-      "id": 770593,
-      "original_language": "en",
-      "original_title": "Rebuilding a Dream Christmas",
-      "overview": "Эбби возвращается в родной город, чтобы получить разрешение на ремонт своего исторического дома. Почувствовав ностальгию, она решает участвовать в рождественской ярмарке и продавать ёлочные игрушки, которые они делали с бабушкой в детстве.",
-      "popularity": 0.3727,
-      "poster_path": "/ig3uxLivbII1Pt4jSj1k47I5RXY.jpg",
-      "release_date": "2021-12-23",
-      "title": "Восстановление рождественской мечты",
-      "video": false,
-      "vote_average": 5.7,
-      "vote_count": 17,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt12921552",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 88,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5RQ5SIcrtKeUYeYeJLRTljR8LcN.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "id": 2039,
-      "original_language": "en",
-      "original_title": "Moonstruck",
-      "overview": "Когда над городом восходит полная Луна, странные вещи творятся с почтенным итальянским семейством, в котором дочь накануне своего второго замужества вдруг понимает, что любит другого, отец неверен своей супруге, а за последней ухаживает посторонний мужчина.  При свете дня все эти люди сохраняют благоразумие и владеют своими чувствами, однако с наступлением Луны ни за кого из них нельзя поручиться!",
-      "popularity": 3.1944,
-      "poster_path": "/nfXznA7al0CokCNs6A6VwKvlwus.jpg",
-      "release_date": "1987-12-16",
-      "title": "Во власти Луны",
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 1081,
-      "belongs_to_collection": null,
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0093565",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 67823,
-          "logo_path": null,
-          "name": "Star Partners",
-          "origin_country": ""
-        },
-        {
-          "id": 21,
-          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
-          "name": "Metro-Goldwyn-Mayer",
-          "origin_country": "US"
-        },
-        {
-          "id": 216321,
-          "logo_path": null,
-          "name": "Patrick Palmer & Norman Jewison Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 122100000,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/is8ILmHWfT0tbsFtMGewURgmLoM.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        35
-      ],
-      "id": 19415,
-      "original_language": "en",
-      "original_title": "Summer Lovers",
-      "overview": "Майкл и Кэти вместе с толпами других туристов приезжают на побережье Греции на летние каникулы. Майкл вскоре увлекается раскованной француженкой-археологом, а Кэти, узнав, что они стали любовниками, знакомится с этой француженкой и весьма близко с ней сходится. Все трое начинают жить одной дружной семьей.",
-      "popularity": 1.6054,
-      "poster_path": "/94Q5xC4MrSzpyO9x4kYG8yR4DnF.jpg",
-      "release_date": "1982-07-16",
-      "title": "Летние любовники",
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 82,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0084737",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1138,
-          "logo_path": "/nFDryQEdl7eVjJuXoaT4Vw88xgz.png",
-          "name": "Filmways Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 98,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_melodrama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "id": 284,
-      "original_language": "en",
-      "original_title": "The Apartment",
-      "overview": "Скромный служащий страховой компании Бакстер, чтобы хоть как-то продвинуться по карьерной лестнице, одалживает ключи от своей холостяцкой квартиры не только приятелям, желающим «погулять на сторону», но и боссу. Когда дела начинают идти в гору, случается непредвиденное: Бакстер влюбляется в любовницу босса.",
-      "popularity": 6.5438,
-      "poster_path": "/gT1wIJTj3pVV3PBrsP0Hye6W4F2.jpg",
-      "release_date": "1960-06-21",
-      "title": "Квартира",
-      "video": false,
-      "vote_average": 8.195,
-      "vote_count": 2535,
-      "belongs_to_collection": null,
-      "budget": 3000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0053604",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 219,
-          "logo_path": null,
-          "name": "The Mirisch Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 60,
-          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
-          "name": "United Artists",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 25000000,
-      "runtime": 125,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«С точки зрения кино, никогда не было ничего подобного - смеха, любви и прочего!»",
       "release_quality": "",
       "media_type": "movie",
       "categories": [

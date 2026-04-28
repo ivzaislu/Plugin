@@ -5,8 +5,81 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 119,
+  "total": 116,
   "items": [
+    {
+      "adult": false,
+      "backdrop_path": "/7vJB5o8mVxffpu3CsiwAmAME5kZ.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 358206,
+      "original_language": "fr",
+      "original_title": "La Volante",
+      "overview": "Тома везёт свою жену в роддом и насмерть сбивает молодого человека. Его мать не может смириться с утратой; через несколько лет она становится ассистенткой Тома и начинает вмешиваться в его жизнь с одной лишь целью — добраться до его сына.",
+      "popularity": 0.432,
+      "poster_path": "/vYy0hsgyuuNgrJi5za4XGl7OXWj.jpg",
+      "release_date": "2015-09-02",
+      "title": "Колесо",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 15,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4205320",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 11773,
+          "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+          "name": "Artémis Productions",
+          "origin_country": "BE"
+        },
+        {
+          "id": 112836,
+          "logo_path": "/rfmlWuH9lxt9pgQetWbNwZKSXvZ.png",
+          "name": "Tarantula",
+          "origin_country": "LU"
+        },
+        {
+          "id": 7823,
+          "logo_path": "/48TJ35Nr82qLhJ9rcGrGStIshqi.png",
+          "name": "Cinéma Defacto",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
     {
       "adult": false,
       "backdrop_path": "/ckkDsME8QIqBDp1wO0PvJ2q5ACU.jpg",
@@ -486,59 +559,82 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/niL8pTqNHE2MtwfJ7Y2frMRlySX.jpg",
+      "backdrop_path": "/Afk7j9MnIRPzNhIY2hM3y8E9TLn.jpg",
       "genre_ids": [
+        53,
         9648,
-        10770
+        27
       ],
-      "id": 1536952,
-      "original_language": "ru",
-      "original_title": "Запрет на любовь",
-      "overview": "Катю Солнцеву подозревают в убийстве собственного мужа, преуспевающего бизнесмена. Есть только один человек уверенный в невиновности обвиняемой, — подруга Кати Лидия. Она отчаянно ищет варианты спасения попавшей в беду приятельницы, но муж, который мог бы помочь, наотрез отказывается связываться с этим делом. Тогда Лида решает обратиться к дорогому адвокату...",
-      "popularity": 0.1557,
-      "poster_path": "/7Be6VG7gCNJFBUZNzF3NhfYSm8Q.jpg",
-      "release_date": "2008-03-28",
-      "title": "Запрет на любовь",
+      "id": 72086,
+      "title": "Ночной посетитель",
+      "original_language": "en",
+      "original_title": "The Night Visitor",
+      "overview": "Мужчина сбегает из психиатрической больницы, куда он был упрятан после обвинения в совершении кровавого убийства. В его планах напомнить своей сестре и её мужу, что то преступление лежит на их совести.",
+      "popularity": 1.4266,
+      "poster_path": "/bOKz7uhdjuLC9MNNY2874T5h6pX.jpg",
+      "release_date": "1971-02-10",
+      "softcore": false,
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 6.4,
+      "vote_count": 53,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
         {
           "id": 9648,
           "name": "детектив"
         },
         {
-          "id": 10770,
-          "name": "телевизионный фильм"
+          "id": 27,
+          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt3714876",
+      "imdb_id": "tt0066141",
       "origin_country": [
-        "RU"
+        "DK",
+        "SE"
       ],
       "production_companies": [
         {
-          "id": 125039,
-          "logo_path": "/xbN7kjl8SYX7866z1hDbKERGwKh.png",
-          "name": "3xMedia",
-          "origin_country": "RU"
+          "id": 40349,
+          "logo_path": null,
+          "name": "Glazier",
+          "origin_country": ""
+        },
+        {
+          "id": 154602,
+          "logo_path": null,
+          "name": "Hemisphere Pictures",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "DK",
+          "name": "Denmark"
+        },
+        {
+          "iso_3166_1": "SE",
+          "name": "Sweden"
         }
       ],
       "revenue": 0,
-      "runtime": 86,
-      "spoken_languages": [],
+      "runtime": 106,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -651,6 +747,155 @@
       ],
       "status": "Released",
       "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/he3EammTtVLubEm2WwCAY8F5xrb.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 80844,
+      "original_language": "en",
+      "original_title": "The Other Side of Midnight",
+      "overview": "Красивая француженка Ноэль Паж влюбляется в американского летчика Ларри Дугласа и верит, что он тоже любит ее. Но вскоре понимает, что жестоко обманулась в своих ожиданиях.  Чтобы отвлечься от грустных мыслей, молодая женщина отправляется в путешествие по Европе. Но забыть Ларри она не в силах. Став любовницей греческого магната Константина Демериса, Ноэль анонимно нанимает ничего не подозревающего Ларри, как частного пилота, чтобы поквитаться с ним…",
+      "popularity": 0.5446,
+      "poster_path": "/mWJXcTzJJ6Vxz1y2Gb137iyZh5U.jpg",
+      "release_date": "1977-06-08",
+      "title": "Обратная сторона полуночи",
+      "video": false,
+      "vote_average": 5.896,
+      "vote_count": 24,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0076507",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 4988,
+          "logo_path": null,
+          "name": "Frank Yablans Presentations",
+          "origin_country": "US"
+        },
+        {
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 165,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Романтика страсти и власти»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHvfO2YuiznAbdOXNcCzVMLqV8Z.jpg",
+      "genre_ids": [
+        12,
+        80,
+        53
+      ],
+      "id": 45226,
+      "title": "Преследование Д. Б. Купера",
+      "original_language": "en",
+      "original_title": "The Pursuit of D.B. Cooper",
+      "overview": "Талантливый авантюрист по прозвищу Д. Б. Купер умудряется претворить в жизнь хитроумный и необычный план ограбления на борту «Боинга-727». Однако его бывший армейский «сослуживец», а ныне — агент страховой компании Билл Гриен догадывается, кто на самом деле скрывается под личиной Купера, и отправляется на его поимки. Подобные догадки озаряют светлую голову еще одного армейского «товарища» Купера — Рэмсона, который также присоединяется к веселой, полной приключений и курьезов погоне!",
+      "popularity": 1.0645,
+      "poster_path": "/4uDT9RF7JlZf1T0bn0p68DRVmNv.jpg",
+      "release_date": "1981-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.219,
+      "vote_count": 32,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0082958",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Кто сказал, что его нельзя взять с собой?»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -1420,291 +1665,6 @@
       ],
       "revenue": 0,
       "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rdTqe7zpT8zuldEIfSCUURj6cOY.jpg",
-      "genre_ids": [
-        18,
-        53,
-        80
-      ],
-      "id": 860860,
-      "title": "Проникновение",
-      "original_language": "en",
-      "original_title": "Private Property",
-      "overview": "Кэтрин, начинающая актриса и скучающая домохозяйка, знакомится со своим новым садовником Беном. Когда тот начинает уделять ей внимание, которого ей так не хватает, они влюбляются друг в друга. Но Бен не тот, кем кажется...",
-      "popularity": 1.9751,
-      "poster_path": "/l7UzaNyRiyH5LNtKjgwrQB8bwbV.jpg",
-      "release_date": "2022-05-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.6,
-      "vote_count": 51,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt15167994",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 7579,
-          "logo_path": "/a4siBqtQZuQacF2oku8KHrmokv3.png",
-          "name": "Redwire Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 165669,
-          "logo_path": "/cZxXUx0W3YX1t0m7hRzXqRrRW80.png",
-          "name": "Black Magic",
-          "origin_country": "US"
-        },
-        {
-          "id": 171436,
-          "logo_path": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
-          "name": "Carte Blanche",
-          "origin_country": "US"
-        },
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 3604,
-          "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
-          "name": "Grindstone Entertainment Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 65649,
-          "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
-          "name": "SSS Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 220871,
-          "logo_path": null,
-          "name": "Pac Protocol Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 220872,
-          "logo_path": null,
-          "name": "Talon Reid Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 192342,
-          "logo_path": null,
-          "name": "Rescue Dog Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 52738,
-          "logo_path": null,
-          "name": "Jeff Rice Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 220873,
-          "logo_path": null,
-          "name": "RLJD Entertainment",
-          "origin_country": ""
-        },
-        {
-          "id": 4560,
-          "logo_path": "/96D35bqBIK3UErSTEiD3nrwNkMw.png",
-          "name": "Tunnel Post",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 87,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«За тобой могут подглядывать»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/spLL3xzH3cJlw2gDm1M2Rg22zY1.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 33280,
-      "original_language": "no",
-      "original_title": "Den som frykter ulven",
-      "overview": "Детектив Карстен Сков дорабатывает свой последний день на службе перед возвращением в Данию. Но вместо того, чтобы спокойно собирать вещи, он берётся за два новых дела, в которых фигурируют похожий на саама грабитель банка, напуганный до полуобморока мальчик-лучник и жутковатый пациент психиатрической клиники, которого видели в лесу на месте убийства.",
-      "popularity": 0.5806,
-      "poster_path": "/yL5t27CbD2X8R2Yi8MhvKZVfHm.jpg",
-      "release_date": "2004-04-02",
-      "title": "Плач в лесу",
-      "video": false,
-      "vote_average": 5.4,
-      "vote_count": 15,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "https://www.nb.no/filmografi/show?id=245046",
-      "imdb_id": "tt0408199",
-      "origin_country": [
-        "NO"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "NO",
-          "name": "Norway"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "Danish",
-          "iso_639_1": "da",
-          "name": "Dansk"
-        },
-        {
-          "english_name": "Norwegian",
-          "iso_639_1": "no",
-          "name": "Norsk"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/Afk7j9MnIRPzNhIY2hM3y8E9TLn.jpg",
-      "genre_ids": [
-        53,
-        9648,
-        27
-      ],
-      "id": 72086,
-      "title": "Ночной посетитель",
-      "original_language": "en",
-      "original_title": "The Night Visitor",
-      "overview": "Мужчина сбегает из психиатрической больницы, куда он был упрятан после обвинения в совершении кровавого убийства. В его планах напомнить своей сестре и её мужу, что то преступление лежит на их совести.",
-      "popularity": 1.4266,
-      "poster_path": "/bOKz7uhdjuLC9MNNY2874T5h6pX.jpg",
-      "release_date": "1971-02-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 53,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0066141",
-      "origin_country": [
-        "DK",
-        "SE"
-      ],
-      "production_companies": [
-        {
-          "id": 40349,
-          "logo_path": null,
-          "name": "Glazier",
-          "origin_country": ""
-        },
-        {
-          "id": 154602,
-          "logo_path": null,
-          "name": "Hemisphere Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DK",
-          "name": "Denmark"
-        },
-        {
-          "iso_3166_1": "SE",
-          "name": "Sweden"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 106,
       "spoken_languages": [
         {
           "english_name": "English",
