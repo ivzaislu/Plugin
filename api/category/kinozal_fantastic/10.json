@@ -5,7 +5,7 @@
   },
   "page": 10,
   "limit": 20,
-  "total": 240,
+  "total": 241,
   "items": [
     {
       "adult": false,
@@ -623,27 +623,35 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
+      "backdrop_path": "/nMF6uj1Sv5dZHfmqOTIVOmDkB0Y.jpg",
       "genre_ids": [
+        28,
+        18,
         878,
-        53,
-        9648,
-        28
+        53
       ],
-      "id": 406990,
+      "id": 6950,
       "original_language": "en",
-      "original_title": "What Happened to Monday",
-      "overview": "В мире, где семейным парам разрешено иметь только одного ребенка, рождается семь сестер-близняшек. Родители решают сохранить всех и дают малышкам имена в честь дней недели. Так девочки и появляются на людях — каждая в свой день. Но однажды Понедельник пропадает…",
-      "popularity": 5.8404,
-      "poster_path": "/v6BOv4uNYtX0sQCutyf8Gw3Fy44.jpg",
-      "release_date": "2017-08-18",
-      "title": "Тайна 7 сестер",
+      "original_title": "Outbreak",
+      "overview": "Из Африки в Америку с зараженной обезьянкой попадает смертельный вирус. Специалисты-эпидемиологи из НИИ инфекционных заболеваний армии США, в числе которых полковник Сэм Дэниелс, срочно вылетают в эпицентр заражения. Двое из высших военных руководителей — начальники Сэма — скрывают от него, что им известен этот вирус, который они выводили несколько лет. И, более того, даже разработали сыворотку, способную обезвредить вирус. Для предотвращения страшной эпидемии нужна сыворотка, которую можно получить лишь из крови первоначального носителя — той самой обезьянки. Дело осложняется тем, что место ее нахождения неизвестно, а счет идет на часы…",
+      "popularity": 5.8,
+      "poster_path": "/ruWvzrJ5devtOITIhrCbM8I36bO.jpg",
+      "release_date": "1995-03-10",
+      "title": "Эпидемия",
       "video": false,
-      "vote_average": 7.148,
-      "vote_count": 6375,
+      "vote_average": 6.6,
+      "vote_count": 2444,
       "belongs_to_collection": null,
-      "budget": 20000000,
+      "budget": 50000000,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
         {
           "id": 878,
           "name": "фантастика"
@@ -651,85 +659,67 @@
         {
           "id": 53,
           "name": "триллер"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1536537",
+      "imdb_id": "tt0114069",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 2902,
-          "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
-          "name": "SND",
-          "origin_country": "FR"
-        },
-        {
-          "id": 3410,
+          "id": 824,
           "logo_path": null,
-          "name": "Raffaella De Laurentiis Productions",
+          "name": "Kopelson Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 7561,
-          "logo_path": "/yWTuzkQnp4NCS7fDVd5vzgLjoux.png",
-          "name": "Nexus Factory",
-          "origin_country": "BE"
+          "id": 16775,
+          "logo_path": null,
+          "name": "Arnold Kopelson Productions",
+          "origin_country": "US"
         },
         {
-          "id": 19037,
-          "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
-          "name": "uMedia",
-          "origin_country": "BE"
+          "id": 2154,
+          "logo_path": null,
+          "name": "Punch Productions",
+          "origin_country": "US"
         },
         {
-          "id": 22127,
-          "logo_path": "/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png",
-          "name": "uFund",
-          "origin_country": "BE"
-        },
-        {
-          "id": 23291,
-          "logo_path": "/rQMbm0oFbxreRQmgzgQlCQ6DDwQ.png",
-          "name": "Vendôme Production",
-          "origin_country": "FR"
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 27975429,
-      "runtime": 123,
+      "revenue": 189900000,
+      "runtime": 129,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
-      "tagline": "«Что случилось с Понедельник?»",
-      "release_quality": "1080p",
+      "tagline": "Сохраняйте спокойствие",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -820,358 +810,6 @@
       "status": "Released",
       "tagline": "«Настоящее может изменить прошлое»",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/q0YwDyjYc7ymp1xml95ZPxIHUej.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1389881,
-      "original_language": "en",
-      "original_title": "The Cure",
-      "overview": "10 лет назад Элли была удочерена парой биотехнологических миллионеров. В дизайнерском особняке в Малибу девушка отмечает 16-й день рождения, но радости ей это не приносит — у неё тяжёлое аутоиммунное заболевание и нет друзей. Тайком от родителей Элли пробирается на пляж, где находит себе подругу по имени Брук. Они всё больше времени проводят вместе, и вскоре Брук начинает подозревать, что родители Элли что-то скрывают.",
-      "popularity": 2.7427,
-      "poster_path": "/enxF32km4P9gXYhAUXWgoVfQqg5.jpg",
-      "release_date": "2026-03-20",
-      "title": "Обитель зла: Мутация",
-      "video": false,
-      "vote_average": 4.3,
-      "vote_count": 9,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt26470786",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 87472,
-          "logo_path": null,
-          "name": "Showdown Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 41945,
-          "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
-          "name": "Indy Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 91,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ttUwYbMtKEjWfXoPrNAXjqB8JRd.jpg",
-      "genre_ids": [
-        18,
-        878,
-        10770
-      ],
-      "id": 30944,
-      "original_language": "en",
-      "original_title": "On the Beach",
-      "overview": "В 2006 году обмен ракетными ударами между Китаем и США и последовавшая за этим мировая ядерная война сметают человечество с лица Земли. Радиоактивные осадки угрожают уничтожить последний очаг цивилизации — Австралию.  Подводная лодка «Чарлстон» под командованием капитана Дуайта Тауэрса, единственный уцелевший в войне корабль американского военно — морского флота, прибывает в Мельбурн. Взяв на борт ученого Джулиана Осборна, «Чарлстон» отправляется в «экспедицию последней надежды» к берегам Аляски, откуда поступают таинственные, еле слышные радиосигналы…",
-      "popularity": 3.0746,
-      "poster_path": "/9Vt1ZzlSNnMfOKbkbJX4BKfzXR.jpg",
-      "release_date": "2000-05-28",
-      "title": "На последнем берегу",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 81,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0219224",
-      "origin_country": [
-        "AU",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 417,
-          "logo_path": "/w7d3hoHQaC0XwjrxEG1yPeuUhu5.png",
-          "name": "Australian Film Commission",
-          "origin_country": "AU"
-        },
-        {
-          "id": 4343,
-          "logo_path": "/rXq1B1Hnkdnw6soz1zoGcslK3wb.png",
-          "name": "Showtime Networks",
-          "origin_country": "US"
-        },
-        {
-          "id": 36026,
-          "logo_path": "/3uPAUIzpCE62X4JKEFREWqXoiDc.png",
-          "name": "Southern Star",
-          "origin_country": "AU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 197,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
-      "id": 9383,
-      "original_language": "en",
-      "original_title": "Hollow Man",
-      "overview": "Профессор Себастьян Кейн ищет формулу невидимости. Он уже научился делать невидимыми животных. Но эксперимент нельзя считать завершенным, пока не будет найдена формула «возврата» — невидимый объект должен снова обрести плоть и кровь. После долгих поисков Кейн находит искомую формулу и успешно возвращает в мир реальных очертаний гориллу. Остается заключительный аккорд — совершить полный цикл на человеке. Как настоящий ученый, Кейн решает проделать это с самим собой…",
-      "popularity": 5.0601,
-      "poster_path": "/1b2k62eOb3iwzgQjtdCrKtkCUR5.jpg",
-      "release_date": "2000-08-04",
-      "title": "Невидимка",
-      "video": false,
-      "vote_average": 6,
-      "vote_count": 2715,
-      "belongs_to_collection": {
-        "id": 166376,
-        "name": "Невидимка (Коллекция)",
-        "poster_path": "/3yc4NVh77VL14V7CvXM2rJhRh4n.jpg",
-        "backdrop_path": "/r7GbKuuNdoEAzXCfA4My1kj85Z2.jpg"
-      },
-      "budget": 95000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0164052",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 14440,
-          "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
-          "name": "Red Wagon Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 9269,
-          "logo_path": null,
-          "name": "Global Medien KG",
-          "origin_country": "DE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 190213455,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qKiARMqwgLw8SU14oC1qOmyWUWP.jpg",
-      "genre_ids": [
-        10749,
-        35,
-        18,
-        14
-      ],
-      "id": 66942,
-      "original_language": "en",
-      "original_title": "Griff the Invisible",
-      "overview": "Офисный планктон и неудачник Грифф по ночам надевает костюм супергероя и творит на улицах города справедливость.",
-      "popularity": 0.6631,
-      "poster_path": "/12DpWfDhBacOE09wJgR75rwCVUH.jpg",
-      "release_date": "2011-03-01",
-      "title": "Грифф невидимый",
-      "video": false,
-      "vote_average": 5.7,
-      "vote_count": 102,
-      "belongs_to_collection": null,
-      "budget": 2902660,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1509803",
-      "origin_country": [
-        "AU"
-      ],
-      "production_companies": [
-        {
-          "id": 7584,
-          "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
-          "name": "Screen Australia",
-          "origin_country": "AU"
-        },
-        {
-          "id": 14430,
-          "logo_path": null,
-          "name": "Fulcrum Media Finance",
-          "origin_country": "AU"
-        },
-        {
-          "id": 10951,
-          "logo_path": "/jxfMNlkvI3GxnS41xCSOLD7goVb.png",
-          "name": "Screen NSW",
-          "origin_country": "AU"
-        },
-        {
-          "id": 144284,
-          "logo_path": null,
-          "name": "Frame, Set & Match",
-          "origin_country": ""
-        },
-        {
-          "id": 175535,
-          "logo_path": null,
-          "name": "Green Park Pictures",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 93,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -1786,6 +1424,332 @@
       ],
       "status": "Released",
       "tagline": "Земля падёт",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8PKqcN6IREm2Xy43lzhPZ2ORzQi.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878,
+        10749
+      ],
+      "id": 27150,
+      "original_language": "en",
+      "original_title": "Silent Rage",
+      "overview": "Непобедимый шериф, один стоящий армии полицейских. Убийца — психопат, превращенный в зомби в медицинской лаборатории. В маленьком техасском городке их пути пересекаются.  Но на роковом перекрестке служителю закона не поможет полицейский значок. Чтобы остановить зверя в человеческом облике, ему понадобится нечеловеческая сила…",
+      "popularity": 4.0155,
+      "poster_path": "/wpEGwWbU7ZGLUbHVhtzLGRHIu0t.jpg",
+      "release_date": "1982-04-02",
+      "title": "Безмолвный гнев",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 175,
+      "belongs_to_collection": null,
+      "budget": 4500000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0084684",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 21470,
+          "logo_path": null,
+          "name": "Topkick Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 10500000,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 13475,
+      "original_language": "en",
+      "original_title": "Star Trek",
+      "overview": "Когда Нерон с планеты Ромул приходит из будущего, чтобы отомстить Федерации, конкуренты Кирк и Спок должны объединиться, чтобы не дать ему разрушить все, что им дорого. Во время этого будоражащего путешествия, наполненного эффектными боями, юмором и космическими угрозами, новоиспеченные члены команды военного корабля «Энтерпрайз» смело встретятся лицом к лицу с невообразимыми опасностями.",
+      "popularity": 8.748,
+      "poster_path": "/9j0bQ4zDzrXerLP0TkUMKNT6AFy.jpg",
+      "release_date": "2009-05-06",
+      "title": "Звёздный путь",
+      "video": false,
+      "vote_average": 7.43,
+      "vote_count": 10368,
+      "belongs_to_collection": {
+        "id": 115575,
+        "name": "Звёздный путь (Перезапуск) | (Коллекция)",
+        "poster_path": "/z7lWvltTQcGOLHKkBsbQi6Sv07f.jpg",
+        "backdrop_path": "/gWl5pN2FplE709aVtA4lakwsE6t.jpg"
+      },
+      "budget": 150000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0796366",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 158,
+          "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+          "name": "Spyglass Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 11461,
+          "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+          "name": "Bad Robot",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 386839614,
+      "runtime": 127,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Будущее начинается»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yERDHEaOezMqsRXhrulS9t6sAqC.jpg",
+      "genre_ids": [
+        12,
+        27
+      ],
+      "id": 9392,
+      "title": "Спуск",
+      "original_language": "en",
+      "original_title": "The Descent",
+      "overview": "Шесть подруг-любительниц экстремального времяпровождения решают отправиться в одну из пещер горного хребта. Неожиданно путь наверх оказывается заваленным, и девушкам необходимо найти другой выход. Проблема в том, что в темноте на них охотятся кошмарные плотоядные существа.",
+      "popularity": 7.609,
+      "poster_path": "/kVy2eRfboT4YzZ6QVl158TonZBg.jpg",
+      "release_date": "2005-07-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.979,
+      "vote_count": 4347,
+      "belongs_to_collection": {
+        "id": 87258,
+        "name": "Спуск (Коллекция)",
+        "poster_path": "/75G9BKw3TtfNS5406M1igd3DDLx.jpg",
+        "backdrop_path": "/rv1fbGoBGRmDguQEnts8brHlEMk.jpg"
+      },
+      "budget": 3500000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0435625",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 3573,
+          "logo_path": "/cA8YIHjFbWVSxJMnAkKvLYGegSS.png",
+          "name": "Celador Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 45785,
+          "logo_path": null,
+          "name": "Northmen Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 7396,
+          "logo_path": "/jnjLKDfdAfNylfVdybY9370Ybrg.png",
+          "name": "Pathe",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 57130027,
+      "runtime": 99,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Вы не боитесь темноты? Вы будете ее бояться!»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q0YwDyjYc7ymp1xml95ZPxIHUej.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1389881,
+      "original_language": "en",
+      "original_title": "The Cure",
+      "overview": "10 лет назад Элли была удочерена парой биотехнологических миллионеров. В дизайнерском особняке в Малибу девушка отмечает 16-й день рождения, но радости ей это не приносит — у неё тяжёлое аутоиммунное заболевание и нет друзей. Тайком от родителей Элли пробирается на пляж, где находит себе подругу по имени Брук. Они всё больше времени проводят вместе, и вскоре Брук начинает подозревать, что родители Элли что-то скрывают.",
+      "popularity": 2.7427,
+      "poster_path": "/enxF32km4P9gXYhAUXWgoVfQqg5.jpg",
+      "release_date": "2026-03-20",
+      "title": "Обитель зла: Мутация",
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 9,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt26470786",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 87472,
+          "logo_path": null,
+          "name": "Showdown Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 41945,
+          "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
+          "name": "Indy Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 91,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
