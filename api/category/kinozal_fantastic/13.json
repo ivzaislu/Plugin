@@ -9,32 +9,30 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+      "backdrop_path": "/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
       "genre_ids": [
+        878,
         28,
-        12,
-        878
+        12
       ],
-      "id": 558,
-      "title": "Человек-паук 2",
+      "id": 1119449,
       "original_language": "en",
-      "original_title": "Spider-Man 2",
-      "overview": "Питер Паркер решает бросить все и стать обычным парнем в надежде обрести душевный покой. Но в городе объявляется новый мегазлодей - вооруженный грозными биомеханическими щупальцами чудовищный Человек-осьминог, Доктор Октопус, похищающий любимую девушку Питера Паркера. Тогда Питер понимает, что рожденному героем не суждено жить мирной жизнью. И Человек-паук снова вступает в бой!..",
-      "popularity": 9.5231,
-      "poster_path": "/u5Bubt34sFD67YZPlD593yGvqmp.jpg",
-      "release_date": "2004-06-25",
-      "softcore": false,
+      "original_title": "Good Luck, Have Fun, Don't Die",
+      "overview": "Мужчина из будущего появляется в небольшом динере в Лос-Анджелесе, где ему нужно собрать идеальную команду из недовольных посетителей. Всего одна ночь и шесть кварталов отделяют их от миссии, способной спасти мир от смертельной угрозы — вышедшего из-под контроля искусственного интеллекта.",
+      "popularity": 17.0944,
+      "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+      "release_date": "2026-02-13",
+      "title": "Удачи, веселитесь, не умрите",
       "video": false,
-      "vote_average": 7.304,
-      "vote_count": 16250,
-      "belongs_to_collection": {
-        "id": 556,
-        "name": "Человек-паук (Коллекция)",
-        "poster_path": "/oRDrTsAkMAhIPwOuVVXumYoD6PU.jpg",
-        "backdrop_path": "/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg"
-      },
-      "budget": 200000000,
+      "vote_average": 7.4,
+      "vote_count": 45,
+      "belongs_to_collection": null,
+      "budget": 20000000,
       "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
         {
           "id": 28,
           "name": "боевик"
@@ -42,34 +40,36 @@
         {
           "id": 12,
           "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0316654",
+      "imdb_id": "tt1341338",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 19551,
-          "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
-          "name": "Marvel Enterprises",
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 10262,
+          "logo_path": "/zpPSqldofcdVAsdJrYQbggxFM1F.png",
+          "name": "Blind Wink",
           "origin_country": "US"
         },
         {
-          "id": 326,
+          "id": 787,
+          "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+          "name": "3 Arts Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 214700,
           "logo_path": null,
-          "name": "Laura Ziskin Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
+          "name": "Robert Kulzer Productions",
           "origin_country": "US"
         }
       ],
@@ -77,25 +77,19 @@
         {
           "iso_3166_1": "US",
           "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
         }
       ],
-      "revenue": 788976453,
-      "runtime": 127,
+      "revenue": 6720070,
+      "runtime": 134,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        },
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
         }
       ],
       "status": "Released",

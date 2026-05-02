@@ -5,26 +5,453 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 166,
+  "total": 162,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/gS44z3fwTnNCpypHILOgjvWwMQD.jpg",
+      "backdrop_path": "/27e2IkJnwEqXoEx9WTY0aDON8L.jpg",
+      "genre_ids": [
+        35,
+        18,
+        53
+      ],
+      "id": 1110358,
+      "title": "Янник",
+      "original_language": "fr",
+      "original_title": "Yannick",
+      "overview": "Полупустой театральный зал. Актеры рутинно играют скучную комедию из семейной жизни. Внезапно со зрительского места встает мужчина и выражает свое недовольство качеством исполнения. После нескольких минут перепалки с актерами его выводят из зала. Казалось, инцидент исчерпан. Но не тут-то было.",
+      "popularity": 0.9618,
+      "poster_path": "/id4qE1nnnyNznxefjEEm2ZYK1SP.jpg",
+      "release_date": "2023-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 713,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt28236368",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 34780,
+          "logo_path": "/ahgzFRXKF2fkOV0WfB0RCxEmxki.png",
+          "name": "Chi-Fou-Mi Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 102468,
+          "logo_path": "/7116YZNSKt5xKXgO9inx6bH0bq8.png",
+          "name": "Atelier de Production",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 3500000,
+      "runtime": 67,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zP9nH7BpQ2BAmAkfx5FObVkLxrB.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 11077,
+      "title": "Трудный ребенок",
+      "original_language": "en",
+      "original_title": "Problem Child",
+      "overview": "Бен Хили (Джон Риттер) и его жена Фло, стремящаяся пробиться в высшее общество, усыновляют Джуниора, прелестное и забавное семилетнее существо.  Однако вскоре они убеждаются, что их приемный сын - маленькое чудовище, которое ухитряется превратить отдых в кемпинге, праздник по случаю дня рождения и даже бейсбольный матч в подлинный кошмар. Хотя и очень смешной.  Но может быть, Джуниор - на самом деле ангелочек, пытающийся таким способом привлечь к себе внимание? Ищите ответ в этой развеселой картине, сатирически изображающей современную семейную жизнь.",
+      "popularity": 2.9383,
+      "poster_path": "/A9sXM9SJcug987lT5qDfr5Bj1mm.jpg",
+      "release_date": "1990-07-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.149,
+      "vote_count": 909,
+      "belongs_to_collection": {
+        "id": 180854,
+        "name": "Трудный ребенок (Коллекция)",
+        "poster_path": "/zqsJ9yjyGg30TaOCnmt9KEGDovk.jpg",
+        "backdrop_path": "/f35bufXrdtkpkJrKDe56E0vpoie.jpg"
+      },
+      "budget": 10000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0100419",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 23,
+          "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+          "name": "Imagine Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 72000000,
+      "runtime": 81,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l24SeATL41otUgW5Kqh19tz2gx3.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 127623,
+      "title": "Без греха не вытащишь и рыбку из пруда?",
+      "original_language": "it",
+      "original_title": "Dove vai se il vizietto non ce l'hai?",
+      "overview": "Один из главных героев фильма — частный детектив Диоген Коломбо. У него хорошая работа, но иногда она его просто достаёт. А особенно подробности, в которые любят его посвящать люди, обращающиеся к нему за помощью. Например одна синьорина показывала как именно и в какой последовательности срывал с неё одежду преступник-насильник.  У детектива есть помощник — Арнольдо, сексуально озабоченный парень, который почему-то любит переодеваться в женщин. Однажды к Диогену обращается замужняя женщина, которая хочет узнать с кем именно изменяет ей её муж. Выяснить это непросто, но детектив с помощником решают внедриться в их дом. Диоген стал управляющим в поместье, а Арнольд переоделся в повариху, и теперь он — Карлотта Ангуло.",
+      "popularity": 0.4912,
+      "poster_path": "/2gjpdcXMUU2DBmljjdbUI1J5kR0.jpg",
+      "release_date": "1979-08-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 28,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0079072",
+      "origin_country": [
+        "IT"
+      ],
+      "production_companies": [
+        {
+          "id": 1501,
+          "logo_path": null,
+          "name": "Flora Film",
+          "origin_country": "IT"
+        },
+        {
+          "id": 13682,
+          "logo_path": null,
+          "name": "Fulvia Film",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1026330,
+      "title": "Келинка тоже человек 2",
+      "original_language": "kk",
+      "original_title": "Келинка тоже человек 2",
+      "overview": "Чудесная новогодняя история молодой пары Максата и Айжан, которые скоро станут родителями. Начинаются детские утренники и корпоративы перед новым город, время полной суматохи у беременной Айжан и Максата, который недавно устроился на работу. Теперь время на личную жизнь уменьшилась и начинается проверка любви пары потому что они по волшебному случаю меняются телами.",
+      "popularity": 0.096,
+      "poster_path": "/iqStbBZlO2FXseDyvHC2DJqZSGN.jpg",
+      "release_date": "2018-01-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "KZ"
+      ],
+      "production_companies": [
+        {
+          "id": 86899,
+          "logo_path": "/bDPb13v3Wo5XO0cSo9aZHTnHp9q.png",
+          "name": "567 Cinema",
+          "origin_country": "KZ"
+        },
+        {
+          "id": 187998,
+          "logo_path": null,
+          "name": "Sunny Production",
+          "origin_country": "KZ"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KZ",
+          "name": "Kazakhstan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 89,
+      "spoken_languages": [
+        {
+          "english_name": "Kazakh",
+          "iso_639_1": "kk",
+          "name": "қазақ"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 443030,
+      "title": "Келинка тоже человек",
+      "original_language": "kk",
+      "original_title": "Келинка тоже человек",
+      "overview": "Айжан и Майра – мать и дочь, но только Айжан - келинка, а Майра - злая енешка, чьи взаимоотношения, являются, мягко говоря, очень напряженными.\r Пожалуй, есть только один выход в решении их семейных проблем. И, скорее всего, для улучшения их взаимопонимания следовало бы переселить их души друг в друга и поменять их местами. Только кто же думал, что это произойдет на самом деле. Загадочный продавец антикварной лавки дарит Айжан старинный чайник, выпив из которого, Айжан и Майра в буквальном смысле меняются телами. Решил ли загадочный продавец помочь Енешке и Келинке обрести гармонию и мир в их отношениях, или это просто случайность? Это вам предстоит узнать в по-настоящему сумасшедшем приключении Майры и Айжан!",
+      "popularity": 0.1335,
+      "poster_path": "/knbgNQscTmLKVbM8pnRH2MR9tuX.jpg",
+      "release_date": "2017-02-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt11146190",
+      "origin_country": [
+        "KZ"
+      ],
+      "production_companies": [
+        {
+          "id": 86899,
+          "logo_path": "/bDPb13v3Wo5XO0cSo9aZHTnHp9q.png",
+          "name": "567 Cinema",
+          "origin_country": "KZ"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KZ",
+          "name": "Kazakhstan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 83,
+      "spoken_languages": [
+        {
+          "english_name": "Kazakh",
+          "iso_639_1": "kk",
+          "name": "қазақ"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 447752,
+      "title": "Замуж в 30",
+      "original_language": "ru",
+      "original_title": "Замуж в 30",
+      "overview": "Свадьба последней незамужней подруги и, в который раз, Анель – подружка невесты. Все сложнее отвечать шутками на вопрос: «Когда замуж?»… Все сильнее ощущается одиночество… Погруженная в мысли о том, что она никому не нужна и ее отсутствия никто не заметит, Анель решается на отчаянный шаг – добровольно уйти из жизни. Именно в этот момент, жизнь преподносит ей желанный подарок-мужчину ее мечты Дастана!",
+      "popularity": 0.0905,
+      "poster_path": "/82qxVPIx7j9XLJdND0Apm5tck6D.jpg",
+      "release_date": "2016-04-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 300000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt5508744",
+      "origin_country": [
+        "KZ"
+      ],
+      "production_companies": [
+        {
+          "id": 87988,
+          "logo_path": null,
+          "name": "Sunny Production",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KZ",
+          "name": "Kazakhstan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 89,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4mkNz2GjzAxKoDC0mHcA8TbleGd.jpg",
       "genre_ids": [
         35,
         10749
       ],
-      "id": 190767,
-      "original_language": "ru",
-      "original_title": "Дети понедельника",
-      "overview": "Легко ли быть живым трупом? Как потратить полмиллиона долларов? Можно ли влюбиться дважды в одну и ту же невесту?..  Дима Медякин не расплатился вовремя с кредиторами, которые в отместку решили его убить. Они взорвали его автомобиль, и, только благодаря счастливой случайности, Дима остался жив. Его жена, уставшая от совместной жизни, вывезла мужа в деревню, где бросила его, еще не протрезвевшего и не пришедшего в себя после выстрела газового пистолета. Приняла героя родная сестра жены Лида, которая когда-то была его невестой…  Дмитрий по-новому увидел и оценил Лиду, проникся к ней симпатией и решил остаться, чтобы начать честную жизнь. Но в чемодане, брошенном бывшей супругой, он обнаружил не свои вещи, а полмиллиона долларов…",
-      "popularity": 0.4979,
-      "poster_path": "/4Wm4VeQcAHH2j4fRUzzQuO84v4f.jpg",
-      "release_date": "1997-01-01",
-      "title": "Дети понедельника",
+      "id": 31460,
+      "title": "Романтическое преступление",
+      "original_language": "en",
+      "original_title": "Life Without Dick",
+      "overview": "Иногда сюжет любовной истории больше напоминает триллер, чем романтическую сказку. Коллин оказывается участницей более чем странного любовного треугольника. С одной стороны — ее друг Дик, с другой — киллер, нанятый его убить. Вопреки всякой логике девушка начинает проявлять повышенный интерес к неотразимому убийце. Единственный недостаток ее нового избранника — в том, что, будучи, киллером, он не хочет лишать жизни. Но заказ должен быть выполнен, и тогда Коллин решает сделать своему новому другу неожиданный свадебный подарок.",
+      "popularity": 0.5883,
+      "poster_path": "/8Uqmw56smHMrhte0MmDruSEFYhu.jpg",
+      "release_date": "2002-03-05",
+      "softcore": false,
       "video": false,
-      "vote_average": 5.3,
-      "vote_count": 7,
+      "vote_average": 3.6,
+      "vote_count": 40,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -38,36 +465,513 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0184392",
+      "imdb_id": "tt0262571",
       "origin_country": [
-        "RU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 170585,
-          "logo_path": "/1nUzkMSbZOzoYgHHhBSJ5xGwnIm.png",
-          "name": "Mosfilm",
-          "origin_country": "RU"
+          "id": 559,
+          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+          "name": "TriStar Pictures",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Любовь начинается с убийства»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1561758,
+      "title": "Всё за одного",
+      "original_language": "pl",
+      "original_title": "Podlasie",
+      "overview": "Когда финансовые проблемы вынуждают Халину отменить свадьбу, друзья и семья решают провернуть безумный план, чтобы привлечь деньги туристов.",
+      "popularity": 3.5383,
+      "poster_path": "/cocXoaPdP8UdjvBpxRyswOZ1RoB.jpg",
+      "release_date": "2026-04-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 10,
+      "belongs_to_collection": {
+        "id": 1561764,
+        "name": "Nic na siłę / Podlasie - Kolekcja",
+        "poster_path": "/oghjYvuhDcN6M5qApu5GNA8MbWh.jpg",
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt38681815",
+      "origin_country": [
+        "PL"
+      ],
+      "production_companies": [
+        {
+          "id": 201766,
+          "logo_path": "/xSKhGZAUh0sL6kD52iIw4ZhElpO.png",
+          "name": "ZPR Media Film & TV",
+          "origin_country": "PL"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "PL",
+          "name": "Poland"
         }
       ],
       "revenue": 0,
       "runtime": 94,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Polish",
+          "iso_639_1": "pl",
+          "name": "Polski"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZwR2DoeT6DrKdzU4FFgSUJ8om5.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1160401,
+      "title": "Два меня",
+      "original_language": "et",
+      "original_title": "Mind on kaks",
+      "overview": "Братья-близнецы, студенты киношколы, задумывают снять фильм о своей жизни и особенностях близнецов, чтобы прославиться и стать эстонскими Тарантино. Но окунувшись в процесс съёмок, сталкиваясь с проблемами на каждом шагу при производстве своего шедевра, их цель кажется почти недостижимой.",
+      "popularity": 0.288,
+      "poster_path": "/p3J9F9g2AXIktXocefAiK5kghcg.jpg",
+      "release_date": "2024-11-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt29579300",
+      "origin_country": [
+        "EE"
+      ],
+      "production_companies": [
+        {
+          "id": 123109,
+          "logo_path": "/nHuvz6zV0lj6x8qbZ15UM1pjQQp.png",
+          "name": "Tallifornia",
+          "origin_country": "EE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "EE",
+          "name": "Estonia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Yoruba",
+          "iso_639_1": "yo",
+          "name": "Èdè Yorùbá"
+        },
+        {
+          "english_name": "Estonian",
+          "iso_639_1": "et",
+          "name": "Eesti"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hU74yMO9p7UzVvpfCl7rEqA4XPw.jpg",
+      "genre_ids": [
+        35,
+        10402,
+        9648,
+        80
+      ],
+      "id": 30141,
+      "title": "Поющий детектив",
+      "original_language": "en",
+      "original_title": "The Singing Detective",
+      "overview": "Дэн Дарк, автор дешевого криминального чтива, прикованный к больничной койке редким кожным заболеванием, пытается отвлечься, воображая себя бесстрашным героем своих «черных» детективов. Но коварный недуг играет с его разумом злые шутки. Мало того, что все окружающие его люди имеют странную привычку внезапно исполнять перед ним эстрадные хиты прошлых лет, так теперь Дэн подозревает, что его жена вместе с незнакомцем из его грез намерена украсть у него пропавший сценарий фильма «Поющий детектив». И хотя Дарк постепенно идет на поправку, реальность окончательно смешивается с выдумкой, когда злодеи из его фантазий врываются в его настоящую жизнь. Это безумие доконает Дэна, если он не сумеет побороть его любыми средствами.",
+      "popularity": 1.318,
+      "poster_path": "/bjkLSHpV294HIllRpHKWkNICs3N.jpg",
+      "release_date": "2003-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.095,
+      "vote_count": 143,
+      "belongs_to_collection": null,
+      "budget": 8000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0314676",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 152,
+          "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
+          "name": "Icon Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 1363,
+          "logo_path": null,
+          "name": "Haft Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 11732,
+          "logo_path": null,
+          "name": "Airborne Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 435625,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Его жизнь похлеще любого криминального чтива",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yhNi12Jc0GPt09VHpVGXtdW9rkA.jpg",
+      "genre_ids": [
+        10751,
+        10770
+      ],
+      "id": 36251,
+      "title": "Меняемся воротами",
+      "original_language": "en",
+      "original_title": "Switching Goals",
+      "overview": "Эмма и Сэм Стэнтон – лучшие подружки. К тому же близняшки и большие озорницы. Девчонки обожают меняться одеждой и безделушками, но перепутать их почти невозможно.  Ведь Сэм увлекается футболом, а Эмма мечтает стать настоящей леди. Но так получилось, что они обе должны выйти на футбольное поле. Чем же закончится этот матч?",
+      "popularity": 0.6757,
+      "poster_path": "/uzSKEqV7Bjpi6XOVISgNnQ4VBaU.jpg",
+      "release_date": "1999-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 214,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0217074",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 6130,
+          "logo_path": null,
+          "name": "Dualstar Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 1957,
+          "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+          "name": "Warner Bros. Television",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 85,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bH5OLuPjCg9Tat6G6VDbxGiP6FP.jpg",
+      "genre_ids": [
+        35,
+        10402,
+        10749
+      ],
+      "id": 11054,
+      "title": "Лак для волос",
+      "original_language": "en",
+      "original_title": "Hairspray",
+      "overview": "Балтимор, 1962 год. В борьбу за звание мисс Авто вступает рафинированная блондинка Пенни и жизнерадостная толстушка Трейси. Трейси не красавица, но ей удаётся сделать умопомрачительную карьеру.",
+      "popularity": 4.7872,
+      "poster_path": "/n78VVWG1jsEpMCtcye13wy1RiAx.jpg",
+      "release_date": "1988-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.803,
+      "vote_count": 445,
+      "belongs_to_collection": null,
+      "budget": 2000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0095270",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 6671108,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oN5ygzjJ4QNThMaqrrO0CT2B3o9.jpg",
+      "genre_ids": [
+        35,
+        12,
+        878
+      ],
+      "id": 1493859,
+      "original_language": "en",
+      "original_title": "Pizza Movie",
+      "overview": "После неудачного эксперимента вечер двух студентов превращается в безумное приключение, где реальность рушится, а на охоту выходит их худший кошмар. Теперь единственный шанс на спасение — легендарная пицца. Вместе друзьям нужно пересечь город и найти антидот, пока их мир не схлопнулся окончательно.",
+      "popularity": 42.5536,
+      "poster_path": "/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
+      "release_date": "2026-03-13",
+      "title": "Пицца Фильм",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 19,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37209937",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 92810,
+          "logo_path": null,
+          "name": "BriTANicK",
+          "origin_country": ""
+        },
+        {
+          "id": 112397,
+          "logo_path": "/rFyhrN607SUIlQ7wyH8lQOemqz3.png",
+          "name": "American High",
+          "origin_country": "US"
+        },
+        {
+          "id": 109715,
+          "logo_path": "/kFNhhuKpTlDKla243zceGMvNd2C.png",
+          "name": "All Things Comedy",
+          "origin_country": "US"
+        },
+        {
+          "id": 8533,
+          "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+          "name": "LD Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
@@ -593,944 +1497,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wKx7mmKJPEAV5bPiOEakoXVccmL.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 4806,
-      "title": "Сбежавшая невеста",
-      "original_language": "en",
-      "original_title": "Runaway Bride",
-      "overview": "Бывает у красоток одна нехорошая привычка — сбегать со свадеб. Вот и Мэгги, влюбившись и отправившись под венец, не выдержала и не дошла до алтаря всего несколько шагов. На такую выходку еще можно было бы закрыть глаза, если бы это случилось один раз. Но Мэгги проделала этот фокус четырежды!  И вскоре она уже потеряла бы счет разбитым сердцам, если бы на пути вертихвостки не встал знаменитый журналист Айк. Однако, и ему не суждено было устоять перед чарами красавицы. Станет ли он очередной жертвой Мэгги, или тертому репортеру удастся все-таки окольцевать ветренную невесту?",
-      "popularity": 5.1582,
-      "poster_path": "/6lLjCXcufCvJWE8WVQgMrQko8KS.jpg",
-      "release_date": "1999-07-30",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 2154,
-      "belongs_to_collection": null,
-      "budget": 70000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0163187",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 9195,
-          "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
-          "name": "Touchstone Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 10201,
-          "logo_path": "/cgmwywVZ9NvAidd6Pn7p0CBYQkW.png",
-          "name": "Interscope Communications",
-          "origin_country": "US"
-        },
-        {
-          "id": 126,
-          "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
-          "name": "Lakeshore Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 309500000,
-      "runtime": 116,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Поймай ее, если сможешь.",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zE5j0lQ5dVqSbKLMi3JwrjcT055.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 219318,
-      "title": "Вулкан страстей",
-      "original_language": "fr",
-      "original_title": "Eyjafjallajökull",
-      "overview": "Где бы вы не хотели встретиться со своим бывшим? Только не в соседнем кресле самолета, чтобы пережить вместе длинный перелет. И уж точно не в одной машине, чтобы вопреки исландскому вулкану с непроизносимым названием, пересечь всю Европу. Когда вы страстно ненавидите друг друга, может случиться всякое. И угон самолета, и авария, и побег из полиции и даже… возвращение романтики.",
-      "popularity": 1.4912,
-      "poster_path": "/hLaSOBOw09fRS85vOfHjN1ZDtRP.jpg",
-      "release_date": "2013-10-02",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.585,
-      "vote_count": 681,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2207072",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 356,
-          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
-          "name": "TF1 Films Production",
-          "origin_country": "FR"
-        },
-        {
-          "id": 2250,
-          "logo_path": "/459Y6FWZNaSjMJUicqfvlNpZXJe.png",
-          "name": "SCOPE Invest",
-          "origin_country": "BE"
-        },
-        {
-          "id": 7038,
-          "logo_path": "/9YDo78sKAy6xxqBwVBT2Vi9FSZl.png",
-          "name": "Quad Productions",
-          "origin_country": "FR"
-        },
-        {
-          "id": 11199,
-          "logo_path": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
-          "name": "SCOPE Pictures",
-          "origin_country": "BE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "Greek",
-          "iso_639_1": "el",
-          "name": "ελληνικά"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "Albanian",
-          "iso_639_1": "sq",
-          "name": "shqip"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Бывший – хуже стихии»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qhwFxf0u2cQUVm1Bft0r33dtXym.jpg",
-      "genre_ids": [
-        35,
-        878
-      ],
-      "id": 1284496,
-      "title": "Муж и жена против будущего",
-      "original_language": "fr",
-      "original_title": "C'était mieux demain",
-      "overview": "Мишель и Элен Дюпюи - ничем не примечательная пара из 1958 года. Мишель работает в банке, а Элен ведет хозяйство... до тех пор, пока они случайно не переносятся в 2025 год и не обнаруживают, что с тех пор многое изменилось.",
-      "popularity": 9.4725,
-      "poster_path": "/f8AbVOhL39Y85J1091sK7auUd77.jpg",
-      "release_date": "2025-10-08",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 83,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33323667",
-      "origin_country": [
-        "BE",
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 581,
-          "logo_path": "/pzJLNyKypqwAgLR4OjmaxA5WEjm.png",
-          "name": "UGC",
-          "origin_country": "FR"
-        },
-        {
-          "id": 17311,
-          "logo_path": "/saew2RWH6qetZyd0AfVoTxUZCRt.png",
-          "name": "Les Films du 24",
-          "origin_country": "FR"
-        },
-        {
-          "id": 19037,
-          "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
-          "name": "uMedia",
-          "origin_country": "BE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lnRJEtthNXF3ded8aI0ND5ETjf9.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 38772,
-      "title": "Мелвин и Говард",
-      "original_language": "en",
-      "original_title": "Melvin and Howard",
-      "overview": "Простой рабочий по пути к себе домой, находит на обочине раненного старика и сажает к себе в машину. По пути они разговаривают и незнакомец представляется Говардом Хьюзом, а это известный миллиардер, авиатор, кинематографист и просто многогранная личность. Спаситель сначала не верит в честность спасенного и через некоторое время забывает тот случай на дороге, но последующие события заставляют вспомнить чудаковатого старца…",
-      "popularity": 1.3136,
-      "poster_path": "/1oN3ZQPyJcSqoj0An39FSD8VFmC.jpg",
-      "release_date": "1980-09-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.466,
-      "vote_count": 74,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0081150",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/eCtRseKCbltn8C6XW1GhqW0c4VA.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 10646,
-      "title": "Мартовские коты",
-      "original_language": "en",
-      "original_title": "Tomcats",
-      "overview": "Мартовские коты — это компания старшеклассников, заключивших пакт: каждый делает ежемесячные взносы, а весь куш получит последний, оставшийся холостяком. По происшествии нескольких лет холостяков осталось двое. И одному нужны деньги, чтобы расплатиться с мафией, а второй ненавидит женщин.",
-      "popularity": 1.8325,
-      "poster_path": "/ydN14VGXsarXvRW0KtNZMW0Phh3.jpg",
-      "release_date": "2001-03-30",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.1,
-      "vote_count": 276,
-      "belongs_to_collection": null,
-      "budget": 11000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0246989",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 497,
-          "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-          "name": "Revolution Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 86565,
-          "logo_path": null,
-          "name": "Riche Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 233056,
-          "logo_path": null,
-          "name": "Eagle Cove Entertainment",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 23400000,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tzlgd1gzYxtzCfwoxT6lEls1v7s.jpg",
-      "genre_ids": [
-        35,
-        12,
-        10770,
-        10751
-      ],
-      "id": 317198,
-      "title": "Погоня за красотой",
-      "original_language": "en",
-      "original_title": "Bad Hair Day",
-      "overview": "Моника собирается на выпускной вечер. С самого утра у девушки все идет наперекосяк, но последней каплей становится её кошмарная прическа. Бедняжка думает, что хуже уже ничего быть не может, но тут в ее дверь стучится полицейский, разыскивающий пропавшие драгоценности. Это становится началом грандиозного приключения…",
-      "popularity": 2.4265,
-      "poster_path": "/i1Vum1dbHkFVF0aqb1cNR0OSkD0.jpg",
-      "release_date": "2015-02-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 299,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3856042",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6438,
-          "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
-          "name": "Muse Entertainment",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4mkNz2GjzAxKoDC0mHcA8TbleGd.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 31460,
-      "title": "Романтическое преступление",
-      "original_language": "en",
-      "original_title": "Life Without Dick",
-      "overview": "Иногда сюжет любовной истории больше напоминает триллер, чем романтическую сказку. Коллин оказывается участницей более чем странного любовного треугольника. С одной стороны — ее друг Дик, с другой — киллер, нанятый его убить. Вопреки всякой логике девушка начинает проявлять повышенный интерес к неотразимому убийце. Единственный недостаток ее нового избранника — в том, что, будучи, киллером, он не хочет лишать жизни. Но заказ должен быть выполнен, и тогда Коллин решает сделать своему новому другу неожиданный свадебный подарок.",
-      "popularity": 0.5883,
-      "poster_path": "/8Uqmw56smHMrhte0MmDruSEFYhu.jpg",
-      "release_date": "2002-03-05",
-      "softcore": false,
-      "video": false,
-      "vote_average": 3.6,
-      "vote_count": 40,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0262571",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 559,
-          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
-          "name": "TriStar Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Любовь начинается с убийства»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8PK61ixYoSX3kXWyCMH4ats79k4.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "id": 1561758,
-      "title": "Всё за одного",
-      "original_language": "pl",
-      "original_title": "Podlasie",
-      "overview": "Когда финансовые проблемы вынуждают Халину отменить свадьбу, друзья и семья решают провернуть безумный план, чтобы привлечь деньги туристов.",
-      "popularity": 3.5383,
-      "poster_path": "/cocXoaPdP8UdjvBpxRyswOZ1RoB.jpg",
-      "release_date": "2026-04-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.7,
-      "vote_count": 10,
-      "belongs_to_collection": {
-        "id": 1561764,
-        "name": "Nic na siłę / Podlasie - Kolekcja",
-        "poster_path": "/oghjYvuhDcN6M5qApu5GNA8MbWh.jpg",
-        "backdrop_path": null
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt38681815",
-      "origin_country": [
-        "PL"
-      ],
-      "production_companies": [
-        {
-          "id": 201766,
-          "logo_path": "/xSKhGZAUh0sL6kD52iIw4ZhElpO.png",
-          "name": "ZPR Media Film & TV",
-          "origin_country": "PL"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "PL",
-          "name": "Poland"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 94,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Polish",
-          "iso_639_1": "pl",
-          "name": "Polski"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZwR2DoeT6DrKdzU4FFgSUJ8om5.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 1160401,
-      "title": "Два меня",
-      "original_language": "et",
-      "original_title": "Mind on kaks",
-      "overview": "Братья-близнецы, студенты киношколы, задумывают снять фильм о своей жизни и особенностях близнецов, чтобы прославиться и стать эстонскими Тарантино. Но окунувшись в процесс съёмок, сталкиваясь с проблемами на каждом шагу при производстве своего шедевра, их цель кажется почти недостижимой.",
-      "popularity": 0.288,
-      "poster_path": "/p3J9F9g2AXIktXocefAiK5kghcg.jpg",
-      "release_date": "2024-11-29",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt29579300",
-      "origin_country": [
-        "EE"
-      ],
-      "production_companies": [
-        {
-          "id": 123109,
-          "logo_path": "/nHuvz6zV0lj6x8qbZ15UM1pjQQp.png",
-          "name": "Tallifornia",
-          "origin_country": "EE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "EE",
-          "name": "Estonia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Yoruba",
-          "iso_639_1": "yo",
-          "name": "Èdè Yorùbá"
-        },
-        {
-          "english_name": "Estonian",
-          "iso_639_1": "et",
-          "name": "Eesti"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hU74yMO9p7UzVvpfCl7rEqA4XPw.jpg",
-      "genre_ids": [
-        35,
-        10402,
-        9648,
-        80
-      ],
-      "id": 30141,
-      "title": "Поющий детектив",
-      "original_language": "en",
-      "original_title": "The Singing Detective",
-      "overview": "Дэн Дарк, автор дешевого криминального чтива, прикованный к больничной койке редким кожным заболеванием, пытается отвлечься, воображая себя бесстрашным героем своих «черных» детективов. Но коварный недуг играет с его разумом злые шутки. Мало того, что все окружающие его люди имеют странную привычку внезапно исполнять перед ним эстрадные хиты прошлых лет, так теперь Дэн подозревает, что его жена вместе с незнакомцем из его грез намерена украсть у него пропавший сценарий фильма «Поющий детектив». И хотя Дарк постепенно идет на поправку, реальность окончательно смешивается с выдумкой, когда злодеи из его фантазий врываются в его настоящую жизнь. Это безумие доконает Дэна, если он не сумеет побороть его любыми средствами.",
-      "popularity": 1.318,
-      "poster_path": "/bjkLSHpV294HIllRpHKWkNICs3N.jpg",
-      "release_date": "2003-10-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.095,
-      "vote_count": 143,
-      "belongs_to_collection": null,
-      "budget": 8000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0314676",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 152,
-          "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
-          "name": "Icon Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 1363,
-          "logo_path": null,
-          "name": "Haft Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 11732,
-          "logo_path": null,
-          "name": "Airborne Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 435625,
-      "runtime": 109,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Его жизнь похлеще любого криминального чтива",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yhNi12Jc0GPt09VHpVGXtdW9rkA.jpg",
-      "genre_ids": [
-        10751,
-        10770
-      ],
-      "id": 36251,
-      "title": "Меняемся воротами",
-      "original_language": "en",
-      "original_title": "Switching Goals",
-      "overview": "Эмма и Сэм Стэнтон – лучшие подружки. К тому же близняшки и большие озорницы. Девчонки обожают меняться одеждой и безделушками, но перепутать их почти невозможно.  Ведь Сэм увлекается футболом, а Эмма мечтает стать настоящей леди. Но так получилось, что они обе должны выйти на футбольное поле. Чем же закончится этот матч?",
-      "popularity": 0.6757,
-      "poster_path": "/uzSKEqV7Bjpi6XOVISgNnQ4VBaU.jpg",
-      "release_date": "1999-12-12",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.9,
-      "vote_count": 214,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0217074",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6130,
-          "logo_path": null,
-          "name": "Dualstar Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 1957,
-          "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
-          "name": "Warner Bros. Television",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 85,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bH5OLuPjCg9Tat6G6VDbxGiP6FP.jpg",
-      "genre_ids": [
-        35,
-        10402,
-        10749
-      ],
-      "id": 11054,
-      "title": "Лак для волос",
-      "original_language": "en",
-      "original_title": "Hairspray",
-      "overview": "Балтимор, 1962 год. В борьбу за звание мисс Авто вступает рафинированная блондинка Пенни и жизнерадостная толстушка Трейси. Трейси не красавица, но ей удаётся сделать умопомрачительную карьеру.",
-      "popularity": 4.7872,
-      "poster_path": "/n78VVWG1jsEpMCtcye13wy1RiAx.jpg",
-      "release_date": "1988-02-26",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.803,
-      "vote_count": 445,
-      "belongs_to_collection": null,
-      "budget": 2000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0095270",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 6671108,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
