@@ -5,69 +5,111 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 56,
+  "total": 61,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/yu8YjkFqUZ8plFqQZvReZCuQ5L8.jpg",
+      "backdrop_path": "/d8VGgwr2WApwFewrL5yZQgo78E0.jpg",
       "genre_ids": [
-        16
+        878,
+        16,
+        14,
+        28,
+        27,
+        12,
+        53,
+        10770
       ],
-      "id": 1388440,
-      "original_language": "ru",
-      "original_title": "Маша и Медведь в кино: Парк чудес",
-      "overview": "Маша отправляется в огромный парк аттракционов, где она всем покажет, как нужно веселиться! А компанию ей составляет верный Медведь и ответственная Даша, которых тоже ждут головокружительные приключения. Карусели, весёлые старты, дискотека, комната ужасов, цирк – это не просто парк, а мечта любого ребёнка. Проходя захватывающий маршрут, гости собирают баллы-«звёздочки». В пути дружелюбная Маша встречает грустных клоунов, которым она поможет стать счастливее. Ведь, как известно, Машино жизнелюбие очень заразительно.",
-      "popularity": 0.4731,
-      "poster_path": "/s5HFx7WDwNDMqjORdSRtsDouADR.jpg",
-      "release_date": "2024-12-05",
-      "title": "Маша и Медведь в кино: Парк чудес",
+      "id": 16774,
+      "title": "Хеллбой: Меч громов",
+      "original_language": "en",
+      "original_title": "Hellboy Animated: Sword of Storms",
+      "overview": "Университетский профессор открывает запретный свиток и становится одержим древним японским демоном грома и молнии, который мечтает прорваться в наш мир, чтобы завладеть им. Бюро по Исследованию Паранормальных Явлений и Защите посылает Хэллбоя и его команду расследовать это дело, но когда Хэллбой поднимает самурайский меч, он бесследно исчезает в удивительном мире японских легенд, призраков и монстров. Агенты Кэйт Корриган и Рассел Торн следуют по-пятам за одержимым профессором, чтобы вернуть Хеллбоя обратно…",
+      "popularity": 1.9146,
+      "poster_path": "/5cAZTBTdtB173wGk6Bz2Kkpj2L8.jpg",
+      "release_date": "2006-10-28",
+      "softcore": false,
       "video": false,
-      "vote_average": 7,
-      "vote_count": 3,
+      "vote_average": 6.314,
+      "vote_count": 153,
       "belongs_to_collection": {
-        "id": 1412932,
-        "name": "Маша и Медведь в кино",
-        "poster_path": "/yO9J940KcmYcIljltI2IcB6fK5n.jpg",
-        "backdrop_path": "/nB77AD4TM7tMlZyt7BXpOk60A7V.jpg"
+        "id": 123203,
+        "name": "Хеллбой (Коллекция мультфильмов)",
+        "poster_path": "/xb7CnlGTi8rAGnTGA4pqaaRzc9O.jpg",
+        "backdrop_path": "/v0zsDCbWF3XiyzClTiHbLhIAmbt.jpg"
       },
-      "budget": 0,
+      "budget": 5000000,
       "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
         {
           "id": 16,
           "name": "мультфильм"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
         }
       ],
       "homepage": "",
-      "imdb_id": null,
+      "imdb_id": "tt0810895",
       "origin_country": [
-        "RU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 55393,
-          "logo_path": "/kGiO9cwfccySbOMAxTNN7VaqTNJ.png",
-          "name": "Animaccord Animation Studio",
-          "origin_country": "RU"
+          "id": 4279,
+          "logo_path": "/y9mgnG8pd7Ym4OpJdV1aht3KfR4.png",
+          "name": "IDT Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 19,
+          "logo_path": "/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png",
+          "name": "Film Roman",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 23,
+      "runtime": 77,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -75,55 +117,61 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/uDPNsFzBeAjGve3xyo30V7FfqsL.jpg",
+      "backdrop_path": "/jmcz2iXJOqkKxN6VEaW5moOANiO.jpg",
       "genre_ids": [
-        18
+        35,
+        16
       ],
-      "id": 1318234,
-      "original_language": "cs",
-      "original_title": "Neporazitelní",
-      "overview": "Этот фильм заставит вас смеяться и плакать одновременно. Эта вдохновляющая история о стремлении к мечте и использовании второго шанса в жизни. Сюжет разворачивается на фоне выдающегося события мирового масштаба.",
-      "popularity": 0.672,
-      "poster_path": "/oqBCCTb5YvCfFPlkddyvHLHJuQU.jpg",
-      "release_date": "2025-11-19",
-      "title": "Непобедимые",
+      "id": 90001,
+      "title": "Фильм, фильм, фильм",
+      "original_language": "ru",
+      "original_title": "Фильм, фильм, фильм",
+      "overview": "Пародия на то, «как делаются фильмы», остроумно раскрывающая «кухню» кинопроизводства.",
+      "popularity": 1.1414,
+      "poster_path": "/kipw0rNQKz9AG7SflO3r8fQGqW0.jpg",
+      "release_date": "1968-01-01",
+      "softcore": false,
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 5,
+      "vote_average": 7.658,
+      "vote_count": 57,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt31411053",
+      "imdb_id": "tt0212943",
       "origin_country": [
-        "CZ"
+        "SU"
       ],
       "production_companies": [
         {
-          "id": 234176,
-          "logo_path": null,
-          "name": "Visual Riders s.r.o.",
-          "origin_country": ""
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "CZ",
-          "name": "Czech Republic"
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
         }
       ],
-      "revenue": 981542,
-      "runtime": 0,
+      "revenue": 0,
+      "runtime": 19,
       "spoken_languages": [
         {
-          "english_name": "Czech",
-          "iso_639_1": "cs",
-          "name": "Český"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
@@ -556,114 +604,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/iwAQV8m7jknUflreDmQpSdmmCmf.jpg",
-      "genre_ids": [
-        16,
-        14,
-        27,
-        28,
-        53,
-        878,
-        10770
-      ],
-      "id": 13204,
-      "title": "Хеллбой: Кровь и металл",
-      "original_language": "en",
-      "original_title": "Hellboy Animated: Blood and Iron",
-      "overview": "В 1939, молодой Профессор Бруттенхольм уничтожил вампиршу, которая купалась в крови невинных, чтобы оставаться молодой. Теперь кто-то в провинциальных областях штата, Нью-Йорк пытается возвратить ее, и пожилой Профессор Брум, решает исследовать это самолично.",
-      "popularity": 1.7802,
-      "poster_path": "/7QDAsOcUn4XpMYymTV3o8lkCnqx.jpg",
-      "release_date": "2007-03-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.375,
-      "vote_count": 148,
-      "belongs_to_collection": {
-        "id": 123203,
-        "name": "Хеллбой (Коллекция мультфильмов)",
-        "poster_path": "/xb7CnlGTi8rAGnTGA4pqaaRzc9O.jpg",
-        "backdrop_path": "/v0zsDCbWF3XiyzClTiHbLhIAmbt.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0817910",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4279,
-          "logo_path": "/y9mgnG8pd7Ym4OpJdV1aht3KfR4.png",
-          "name": "IDT Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 19,
-          "logo_path": "/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png",
-          "name": "Film Roman",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 75,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/r4Tfw8CPeeI4EIHI3wH9qNkycZd.jpg",
       "genre_ids": [
         16,
@@ -950,6 +890,100 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/2skPNvhiF3B0pUigNm1L5KLWvrk.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751
+      ],
+      "id": 1276521,
+      "title": "Чарли Чудо-пёс",
+      "original_language": "en",
+      "original_title": "Charlie the Wonderdog",
+      "overview": "Девятилетний Дэнни и его пёс Чарли, получивший суперспособности после похищения инопланетянами, пытаются помешать соседскому коту Падди осуществить злодейский план по захвату мира.",
+      "popularity": 4.1259,
+      "poster_path": "/w7oy745HaEC07YMW6ZZReReGZKH.jpg",
+      "release_date": "2025-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.462,
+      "vote_count": 14,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt29612071",
+      "origin_country": [
+        "CA"
+      ],
+      "production_companies": [
+        {
+          "id": 79543,
+          "logo_path": "/xxQesITWRfZ0rETKHJ13WfD5AEn.png",
+          "name": "ICON Creative Studio",
+          "origin_country": "CA"
+        },
+        {
+          "id": 218981,
+          "logo_path": null,
+          "name": "Centurion Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 261832,
+          "logo_path": null,
+          "name": "Global Constellation",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 7302559,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/yWWjEQDxX2SmghfJQvAoujzUguK.jpg",
       "genre_ids": [
         35,
@@ -1002,6 +1036,537 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pme7D46PxaOdNWika46q5VUS2CR.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        27
+      ],
+      "id": 1119090,
+      "title": "Я Франкельда",
+      "original_language": "es",
+      "original_title": "Soy Frankelda",
+      "overview": "Мексика, XIX век. Франкельда – талантливая писательница, автор мрачных историй, которые читатели игнорируют и отвергают. Но она не намерена сдаваться, несмотря на все попытки заставить её замолчать. Однако когда она попадает во власть собственного подсознания, придуманные ею монстры начинают оживать. Вместе с принцем Эрневалем, застрявшем в своих мечтах и кошмарах, она должна восстановить равновесие между вымыслом и реальностью, пока оба мира не рухнули.",
+      "popularity": 2.8792,
+      "poster_path": "/rh3HNzV7o8ouH4NnCuL76OFPFBF.jpg",
+      "release_date": "2025-10-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 74,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt36639986",
+      "origin_country": [
+        "MX"
+      ],
+      "production_companies": [
+        {
+          "id": 113122,
+          "logo_path": "/b0aKMzmFidLiDMh2uJHBMtopwp2.png",
+          "name": "Cinema Fantasma",
+          "origin_country": "MX"
+        },
+        {
+          "id": 89326,
+          "logo_path": "/uJ7GGajJ7bKsq2GQxhRnzO8Xair.png",
+          "name": "Cine Vendaval",
+          "origin_country": "MX"
+        },
+        {
+          "id": 29608,
+          "logo_path": "/tYK5BZqUMCeUsfkiYQ8vjorg9Ci.png",
+          "name": "Woo Films",
+          "origin_country": "MX"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "MX",
+          "name": "Mexico"
+        }
+      ],
+      "revenue": 2709440,
+      "runtime": 114,
+      "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/32mjpsITLwEQcvqKuMBGyajN18h.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 1507275,
+      "title": "Щенячий патруль. Рождество",
+      "original_language": "en",
+      "original_title": "A Paw Patrol Christmas",
+      "overview": "Раббл с нетерпением ждёт, когда Санта подарит ему новую лазерную дрель, но всё меняется, когда Санта простужается и не может доставить подарки. Мэр Хамдингер решает отправиться на Северный полюс, чтобы забрать все подарки себе.",
+      "popularity": 5.1561,
+      "poster_path": "/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
+      "release_date": "2025-10-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.15,
+      "vote_count": 20,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37671699",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 71738,
+          "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+          "name": "Spin Master",
+          "origin_country": "CA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 10555462,
+      "runtime": 44,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9s30XbfHZB9gcoQpm1P3i1hcGgH.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        14
+      ],
+      "id": 523536,
+      "title": "Ниндзя в клетку",
+      "original_language": "da",
+      "original_title": "Ternet Ninja",
+      "overview": "Когда Аске получает куклу ниндзя от своего дяди Стюарта, только что вернувшегося из Таиланда, он узнает, что кукла живая и может помочь ему с проблемами в школе. Аске хочет вернуть одолженное, но узнает, что клетчатый ниндзя одержим и находится на миссии, чтобы отомстить.",
+      "popularity": 1.6879,
+      "poster_path": "/rwcS1AKffsnTyql0hidnhMbLdXh.jpg",
+      "release_date": "2018-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 259,
+      "belongs_to_collection": {
+        "id": 894040,
+        "name": "Ternet Ninja (Samling)",
+        "poster_path": "/oh6qXypYq02N0d5iQ5D3drGd4k1.jpg",
+        "backdrop_path": "/mQxYHzhlfsvDWA4UzMeQaA0lYV5.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt7367960",
+      "origin_country": [
+        "DK"
+      ],
+      "production_companies": [
+        {
+          "id": 3922,
+          "logo_path": "/uXDOnG25HLnban0UfpRVjxASMWW.png",
+          "name": "A. Film Production",
+          "origin_country": "DK"
+        },
+        {
+          "id": 116793,
+          "logo_path": null,
+          "name": "Sudoku",
+          "origin_country": "DK"
+        },
+        {
+          "id": 116794,
+          "logo_path": null,
+          "name": "Pop Up Production",
+          "origin_country": "DK"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DK",
+          "name": "Denmark"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 82,
+      "spoken_languages": [
+        {
+          "english_name": "Danish",
+          "iso_639_1": "da",
+          "name": "Dansk"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/myWVReG4jkdeXFBE7br1SxJGX1R.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 1383636,
+      "title": "Золушка",
+      "original_language": "no",
+      "original_title": "Askepote",
+      "overview": "В королевстве, где сказки живут по строгому сценарию, все идет по плану: бал, хрустальная туфелька, торжественное признание. Но когда туфелька идеально подходит скромной Катерелле, происходит немыслимое — она отказывается выходить замуж за принца. Девушку возмущает сама идея строить судьбу на совпадении размера обуви. Ее отказ запускает цепную реакцию: страницы волшебных хроник начинают переписываться, декорации рушатся, а персонажи теряют свои роли. Разгневанный король Рекс требует вернуть историю в привычное русло, ведь если одна героиня осмелилась ослушаться, другие могут последовать ее примеру. Принцесса-наследница, хранительница порядка, отправляется к Катерелле, чтобы убедить ее исправить ошибку. Однако между ними возникает неожиданная близость — и вместо борьбы за «правильный» финал они решают вместе изменить правила игры.",
+      "popularity": 0.3792,
+      "poster_path": "/2HP3hFnyQliGCiM1ia4mHglP8AA.jpg",
+      "release_date": "2025-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt26680867",
+      "origin_country": [
+        "NO"
+      ],
+      "production_companies": [
+        {
+          "id": 56049,
+          "logo_path": "/hMTydCOzh1658lSqnO0As5oUjJW.png",
+          "name": "Storm Films",
+          "origin_country": "NO"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "NO",
+          "name": "Norway"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "Danish",
+          "iso_639_1": "da",
+          "name": "Dansk"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o1j7fmpHPV38u0rkFOfPyRZjToZ.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        35
+      ],
+      "id": 1218032,
+      "title": "Супермалыш",
+      "original_language": "sv",
+      "original_title": "Super Charlie",
+      "overview": "Десятилетний Вилле мечтает бороться с преступностью, как его отец-полицейский. Но после рождения младшего брата вся семья переключает внимание на малыша Чарли. Вилле злится и чувствует себя лишним, пока однажды не замечает, что Чарли обладает настоящими суперспособностями. Когда в городе появляется злодей и странный ученый, готовящие опасный план, братьям приходится объединиться. Вилле должен научиться доверять младшему брату и понять, что геройство не всегда выглядит так, как он себе представлял.",
+      "popularity": 0.9434,
+      "poster_path": "/sl0vLoV9b1tpRBQUyiGazyb4Hme.jpg",
+      "release_date": "2024-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 16,
+      "belongs_to_collection": null,
+      "budget": 3500000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt28639152",
+      "origin_country": [
+        "SE"
+      ],
+      "production_companies": [
+        {
+          "id": 327,
+          "logo_path": "/vodjjKlAbwGeERPjrAhxZMBGPUc.png",
+          "name": "Nordisk Film Sweden",
+          "origin_country": "SE"
+        },
+        {
+          "id": 3922,
+          "logo_path": "/uXDOnG25HLnban0UfpRVjxASMWW.png",
+          "name": "A. Film Production",
+          "origin_country": "DK"
+        },
+        {
+          "id": 91596,
+          "logo_path": null,
+          "name": "Slugger Film",
+          "origin_country": "SE"
+        },
+        {
+          "id": 2999,
+          "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+          "name": "SVT",
+          "origin_country": "SE"
+        },
+        {
+          "id": 12477,
+          "logo_path": "/tuREvnCzrM5sNXyrKRFCyB1gHF8.png",
+          "name": "Film i Skåne",
+          "origin_country": "SE"
+        },
+        {
+          "id": 235,
+          "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+          "name": "Nordisk Film Denmark",
+          "origin_country": "DK"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DK",
+          "name": "Denmark"
+        },
+        {
+          "iso_3166_1": "SE",
+          "name": "Sweden"
+        }
+      ],
+      "revenue": 419252,
+      "runtime": 78,
+      "spoken_languages": [
+        {
+          "english_name": "Danish",
+          "iso_639_1": "da",
+          "name": "Dansk"
+        },
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/10wHo9VmDvBW9wtSZ26bgjm9GKY.jpg",
+      "genre_ids": [
+        27,
+        10752,
+        878
+      ],
+      "id": 438799,
+      "title": "Оверлорд",
+      "original_language": "en",
+      "original_title": "Overlord",
+      "overview": "Перед высадкой в Нормандии группа американских десантников должна выполнить важную миссию, от которой зависит исход сражения. Но, приближаясь к цели, солдаты осознают, что эксперименты нацистов привели к жутким последствиям.",
+      "popularity": 3.3185,
+      "poster_path": "/r6V6yJ6GoX1Hf3TtWNkFh8BYarS.jpg",
+      "release_date": "2018-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.728,
+      "vote_count": 3108,
+      "belongs_to_collection": null,
+      "budget": 38000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4530422",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 11461,
+          "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+          "name": "Bad Robot",
+          "origin_country": "US"
+        },
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 41657844,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Останови неудержимое.",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -1166,162 +1731,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16
-      ],
-      "id": 454241,
-      "title": "Огромное небо",
-      "original_language": "ru",
-      "original_title": "Огромное небо",
-      "overview": "По мотивам одноименной песни на музыку Оскара Фельцмана и слова Роберта Рождественского о подвиге летчиков, которые ценой жизни спасли город",
-      "popularity": 0.2923,
-      "poster_path": "/dw47D8k4okH8gwuJ6PTsyu8JaDV.jpg",
-      "release_date": "1982-04-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34934731",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 6608,
-          "logo_path": "/9Y6JQEzZefmsx60VjidZD7cHsOF.png",
-          "name": "Ekran",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 9,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2skPNvhiF3B0pUigNm1L5KLWvrk.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        35,
-        10751
-      ],
-      "id": 1276521,
-      "title": "Чарли Чудо-пёс",
-      "original_language": "en",
-      "original_title": "Charlie the Wonderdog",
-      "overview": "Девятилетний Дэнни и его пёс Чарли, получивший суперспособности после похищения инопланетянами, пытаются помешать соседскому коту Падди осуществить злодейский план по захвату мира.",
-      "popularity": 4.1259,
-      "poster_path": "/w7oy745HaEC07YMW6ZZReReGZKH.jpg",
-      "release_date": "2025-10-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.462,
-      "vote_count": 14,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt29612071",
-      "origin_country": [
-        "CA"
-      ],
-      "production_companies": [
-        {
-          "id": 79543,
-          "logo_path": "/xxQesITWRfZ0rETKHJ13WfD5AEn.png",
-          "name": "ICON Creative Studio",
-          "origin_country": "CA"
-        },
-        {
-          "id": 218981,
-          "logo_path": null,
-          "name": "Centurion Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 261832,
-          "logo_path": null,
-          "name": "Global Constellation",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 7302559,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
