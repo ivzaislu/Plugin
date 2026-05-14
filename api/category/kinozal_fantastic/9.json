@@ -5,35 +5,39 @@
   },
   "page": 9,
   "limit": 20,
-  "total": 244,
+  "total": 245,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
+      "backdrop_path": "/2shhKQsnL4DxZvY3m5PkAHnPOLf.jpg",
       "genre_ids": [
+        10751,
+        14,
         878,
-        12,
-        9648
+        12
       ],
-      "id": 152,
+      "id": 20196,
       "original_language": "en",
-      "original_title": "Star Trek: The Motion Picture",
-      "overview": "Из глубин космоса, через Клингонский сектор к Земле приближается неопознанный объект просто гигантских размеров с неясными, но, возможно, враждебными намерениями, называющий себя «Виджер»; и Энтерпрайз оказывается единственным кораблем, способным успеть вовремя добраться до этого объекта для его исследования и ликвидации потенциальной опасности для Земли.  Это важнейшее задание поручается адмиралу Звездного Флота Джеймсу Т. Кирку, который получает в свое командование корабль USS Enterprise NCC1701 и всю свою старую команду. Итак, их путешествие начинается…",
-      "popularity": 3.4307,
-      "poster_path": "/8AZqD3pQcnCPDtefJMNnJuZNVB8.jpg",
-      "release_date": "1979-12-07",
-      "title": "Звёздный путь: Фильм",
+      "original_title": "Mac and Me",
+      "overview": "Мак — обычный ребенок, только с другой планеты, и выглядит он совсем не так, как обитатели Земли. Вместе с мамой и папой он прилетает из космоса в мир людей, но потом теряется и находит убежище в доме семьи, где есть двое детей.  В новом пугающем мире Мак может полагаться только на свои необычные для землян способности. Лучшим другом Мака становится мальчик-инвалид, который помогает симпатяге-пришельцу адаптироваться в новых условиях и укрывает его от врагов.",
+      "popularity": 2.3112,
+      "poster_path": "/gZsIgK2W9K6e1ebNro3WT7u5yGX.jpg",
+      "release_date": "1988-08-12",
+      "title": "Мак и я",
       "video": false,
-      "vote_average": 6.483,
-      "vote_count": 1892,
-      "belongs_to_collection": {
-        "id": 151,
-        "name": "Звёздный путь (TOS Коллекция)",
-        "poster_path": "/vNrbrsHOpXS3whk9DLuBNcjJy1s.jpg",
-        "backdrop_path": "/qM8q2gWAeQF0XUpZ4XZc4CMX87a.jpg"
-      },
-      "budget": 44000000,
+      "vote_average": 4.404,
+      "vote_count": 270,
+      "belongs_to_collection": null,
+      "budget": 0,
       "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
         {
           "id": 878,
           "name": "фантастика"
@@ -41,34 +45,24 @@
         {
           "id": 12,
           "name": "приключения"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0079945",
+      "imdb_id": "tt0095560",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 41,
+          "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+          "name": "Orion Pictures",
           "origin_country": "US"
         },
         {
-          "id": 683,
+          "id": 111840,
           "logo_path": null,
-          "name": "Century Associates",
-          "origin_country": ""
-        },
-        {
-          "id": 6304,
-          "logo_path": null,
-          "name": "Robert Wise Productions",
+          "name": "Mac and Me Joint Venture",
           "origin_country": ""
         }
       ],
@@ -78,8 +72,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 139346243,
-      "runtime": 143,
+      "revenue": 5935269,
+      "runtime": 99,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -88,8 +82,116 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Приключение только начинается»",
+      "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 121856,
+      "original_language": "en",
+      "original_title": "Assassin's Creed",
+      "overview": "Благодаря революционной технологии, которая высвобождает генетическую память, Каллум Линч переживает приключения своего предка Агилара в Испании XV столетия. Заполучив невероятные знания и способности, Каллум сразится с рыцарями ордена тамплиеров в наше время.",
+      "popularity": 3.6347,
+      "poster_path": "/wT03h6OwpigfgFiK11RruS520j9.jpg",
+      "release_date": "2016-12-21",
+      "title": "Кредо убийцы",
+      "video": false,
+      "vote_average": 5.432,
+      "vote_count": 8051,
+      "belongs_to_collection": null,
+      "budget": 125000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2094766",
+      "origin_country": [
+        "FR",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 10104,
+          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+          "name": "New Regency Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 862,
+          "logo_path": "/vdK6ZhC2CSW36j0VPEavRxOpbEg.png",
+          "name": "The Kennedy/Marshall Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 83857,
+          "logo_path": "/8bWIe866WwroX2I7MJP77BTPG5y.png",
+          "name": "Ubisoft Film & Television",
+          "origin_country": "FR"
+        },
+        {
+          "id": 86766,
+          "logo_path": null,
+          "name": "DMC Film",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 240700000,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -373,6 +475,370 @@
       "status": "Released",
       "tagline": "«Настоящее может изменить прошлое»",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ttUwYbMtKEjWfXoPrNAXjqB8JRd.jpg",
+      "genre_ids": [
+        18,
+        878,
+        10770
+      ],
+      "id": 30944,
+      "original_language": "en",
+      "original_title": "On the Beach",
+      "overview": "В 2006 году обмен ракетными ударами между Китаем и США и последовавшая за этим мировая ядерная война сметают человечество с лица Земли. Радиоактивные осадки угрожают уничтожить последний очаг цивилизации — Австралию.  Подводная лодка «Чарлстон» под командованием капитана Дуайта Тауэрса, единственный уцелевший в войне корабль американского военно — морского флота, прибывает в Мельбурн. Взяв на борт ученого Джулиана Осборна, «Чарлстон» отправляется в «экспедицию последней надежды» к берегам Аляски, откуда поступают таинственные, еле слышные радиосигналы…",
+      "popularity": 3.0746,
+      "poster_path": "/9Vt1ZzlSNnMfOKbkbJX4BKfzXR.jpg",
+      "release_date": "2000-05-28",
+      "title": "На последнем берегу",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 81,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0219224",
+      "origin_country": [
+        "AU",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 417,
+          "logo_path": "/w7d3hoHQaC0XwjrxEG1yPeuUhu5.png",
+          "name": "Australian Film Commission",
+          "origin_country": "AU"
+        },
+        {
+          "id": 4343,
+          "logo_path": "/rXq1B1Hnkdnw6soz1zoGcslK3wb.png",
+          "name": "Showtime Networks",
+          "origin_country": "US"
+        },
+        {
+          "id": 36026,
+          "logo_path": "/3uPAUIzpCE62X4JKEFREWqXoiDc.png",
+          "name": "Southern Star",
+          "origin_country": "AU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 197,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 9383,
+      "original_language": "en",
+      "original_title": "Hollow Man",
+      "overview": "Профессор Себастьян Кейн ищет формулу невидимости. Он уже научился делать невидимыми животных. Но эксперимент нельзя считать завершенным, пока не будет найдена формула «возврата» — невидимый объект должен снова обрести плоть и кровь. После долгих поисков Кейн находит искомую формулу и успешно возвращает в мир реальных очертаний гориллу. Остается заключительный аккорд — совершить полный цикл на человеке. Как настоящий ученый, Кейн решает проделать это с самим собой…",
+      "popularity": 5.0601,
+      "poster_path": "/1b2k62eOb3iwzgQjtdCrKtkCUR5.jpg",
+      "release_date": "2000-08-04",
+      "title": "Невидимка",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 2715,
+      "belongs_to_collection": {
+        "id": 166376,
+        "name": "Невидимка (Коллекция)",
+        "poster_path": "/3yc4NVh77VL14V7CvXM2rJhRh4n.jpg",
+        "backdrop_path": "/r7GbKuuNdoEAzXCfA4My1kj85Z2.jpg"
+      },
+      "budget": 95000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0164052",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 14440,
+          "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
+          "name": "Red Wagon Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 9269,
+          "logo_path": null,
+          "name": "Global Medien KG",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 190213455,
+      "runtime": 112,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qKiARMqwgLw8SU14oC1qOmyWUWP.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18,
+        14
+      ],
+      "id": 66942,
+      "original_language": "en",
+      "original_title": "Griff the Invisible",
+      "overview": "Офисный планктон и неудачник Грифф по ночам надевает костюм супергероя и творит на улицах города справедливость.",
+      "popularity": 0.6631,
+      "poster_path": "/12DpWfDhBacOE09wJgR75rwCVUH.jpg",
+      "release_date": "2011-03-01",
+      "title": "Грифф невидимый",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 102,
+      "belongs_to_collection": null,
+      "budget": 2902660,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1509803",
+      "origin_country": [
+        "AU"
+      ],
+      "production_companies": [
+        {
+          "id": 7584,
+          "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+          "name": "Screen Australia",
+          "origin_country": "AU"
+        },
+        {
+          "id": 14430,
+          "logo_path": null,
+          "name": "Fulcrum Media Finance",
+          "origin_country": "AU"
+        },
+        {
+          "id": 10951,
+          "logo_path": "/jxfMNlkvI3GxnS41xCSOLD7goVb.png",
+          "name": "Screen NSW",
+          "origin_country": "AU"
+        },
+        {
+          "id": 144284,
+          "logo_path": null,
+          "name": "Frame, Set & Match",
+          "origin_country": ""
+        },
+        {
+          "id": 175535,
+          "logo_path": null,
+          "name": "Green Park Pictures",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dMjNyPk3aBwXYYfAuSAwSRz1ewa.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 11864,
+      "original_language": "en",
+      "original_title": "Enemy Mine",
+      "overview": "В глубинах нашей галактики, на огромном расстоянии от Земли люди ведут кровопролитную войну с расой рептилий. Войну, которой Земля отдает последние силы, войну на полное уничтожение. В одной из жестоких схваток в окрестностях гористой планеты в системе двойной звезды пилот Виллис Дэвидж сбивает машину чужого, но тут же получает несколько попаданий и выходит из боя. Единственное место, где можно выжить после падения — та самая планета. Но упав, он обнаруживает, что сбитый им чужой не погиб. Смертельные враги оказываются заперты в одной клетке, и выбор прост — уничтожить друг друга или заключить перемирие и попытаться спастись. Что окажется сильнее: желание жить или ненависть и боль за погибших?",
+      "popularity": 2.8929,
+      "poster_path": "/4xi5jGfhIYyB9llhpzKUON3iO2Q.jpg",
+      "release_date": "1985-12-12",
+      "title": "Враг мой",
+      "video": false,
+      "vote_average": 6.947,
+      "vote_count": 1044,
+      "belongs_to_collection": null,
+      "budget": 40000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0089092",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1704,
+          "logo_path": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
+          "name": "Bavaria Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 396,
+          "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
+          "name": "SLM Production Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 4255,
+          "logo_path": null,
+          "name": "Kings Road Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 12300000,
+      "runtime": 108,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Он друг или враг?",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -1325,441 +1791,6 @@
       ],
       "status": "Released",
       "tagline": "«Мы всегда верили, что мы не одиноки. 4 июля мы пожалеем, что мы не одиноки»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wygUDDRNpeKUnkekRGeLCZM93tA.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12,
-        53
-      ],
-      "id": 199,
-      "original_language": "en",
-      "original_title": "Star Trek: First Contact",
-      "overview": "Восьмая часть всемирно известного сериала о приключениях бесстрашных звездолетчиков в далеком будущем. Посланцы враждебной инопланетной цивилизации проникают в прошлое, и первый контакт человечества с внеземным разумом, способный положить начало новой космической эры, оказывается под угрозой срыва.  Перед экипажем легендарного космического корабля «Энтерпрайз» и его мужественным капитаном Пикардом стоит трудная и опасная задача — помешать осуществлению планов врага и спасти будущее Земли.",
-      "popularity": 3.229,
-      "poster_path": "/w52RBsd4dS3NAkt0lE8xIjiecoQ.jpg",
-      "release_date": "1996-11-22",
-      "title": "Звёздный путь: Первый контакт",
-      "video": false,
-      "vote_average": 7.3,
-      "vote_count": 1919,
-      "belongs_to_collection": {
-        "id": 115570,
-        "name": "Звёздный путь (Следующее поколение. Коллекция)",
-        "poster_path": "/sddV6vaUC6x37icJS3opIXTXB07.jpg",
-        "backdrop_path": "/r7MMQenUURHhAVHFymtOb8AX4Bm.jpg"
-      },
-      "budget": 46000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0117731",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 146027888,
-      "runtime": 111,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 121856,
-      "original_language": "en",
-      "original_title": "Assassin's Creed",
-      "overview": "Благодаря революционной технологии, которая высвобождает генетическую память, Каллум Линч переживает приключения своего предка Агилара в Испании XV столетия. Заполучив невероятные знания и способности, Каллум сразится с рыцарями ордена тамплиеров в наше время.",
-      "popularity": 3.6347,
-      "poster_path": "/wT03h6OwpigfgFiK11RruS520j9.jpg",
-      "release_date": "2016-12-21",
-      "title": "Кредо убийцы",
-      "video": false,
-      "vote_average": 5.432,
-      "vote_count": 8051,
-      "belongs_to_collection": null,
-      "budget": 125000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2094766",
-      "origin_country": [
-        "FR",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 10104,
-          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
-          "name": "New Regency Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 862,
-          "logo_path": "/vdK6ZhC2CSW36j0VPEavRxOpbEg.png",
-          "name": "The Kennedy/Marshall Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 83857,
-          "logo_path": "/8bWIe866WwroX2I7MJP77BTPG5y.png",
-          "name": "Ubisoft Film & Television",
-          "origin_country": "FR"
-        },
-        {
-          "id": 86766,
-          "logo_path": null,
-          "name": "DMC Film",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 240700000,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Portuguese",
-          "iso_639_1": "pt",
-          "name": "Português"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nYLn7NG5Srm6JNVjmycppRl7OE9.jpg",
-      "genre_ids": [
-        18,
-        28,
-        53,
-        878
-      ],
-      "id": 79467,
-      "original_language": "en",
-      "original_title": "Gangland",
-      "overview": "Апокалипсис свершился. Цивилизации больше не существует. Все средства связи разрушены, крупные города лежат в руинах. Самые опасные преступники объединились в армию, превратив Лос-Анджелес в «зону криминала», а его население — в заложников и рабов. Со скоростью лесного пожара распространяется «черная чума», поедающая человеческую плоть изнутри.  Узнав, что доктор Адамс нашел вакцину от этой страшной болезни, главарь преступной армии Люцифер решил завладеть лекарством. Бывший военный Джаред, вся семья которого была убита подручными Люцифера, должен как можно скорее переправить доктора Адамса в Финикс, на территорию свободную от криминала. Но, чтобы добраться до пункта назначения, им придется совершить головокружительное путешествие через царство апокалиптического ада.",
-      "popularity": 1.1909,
-      "poster_path": "/o3MMKRM9XqcxUcTP9GV3w3fsCV7.jpg",
-      "release_date": "2001-01-01",
-      "title": "Зона криминала",
-      "video": false,
-      "vote_average": 4.1,
-      "vote_count": 12,
-      "belongs_to_collection": null,
-      "budget": 4000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0265198",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 5480,
-          "logo_path": null,
-          "name": "Dominion Entertainment",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 94,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/q0YwDyjYc7ymp1xml95ZPxIHUej.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1389881,
-      "original_language": "en",
-      "original_title": "The Cure",
-      "overview": "10 лет назад Элли была удочерена парой биотехнологических миллионеров. В дизайнерском особняке в Малибу девушка отмечает 16-й день рождения, но радости ей это не приносит — у неё тяжёлое аутоиммунное заболевание и нет друзей. Тайком от родителей Элли пробирается на пляж, где находит себе подругу по имени Брук. Они всё больше времени проводят вместе, и вскоре Брук начинает подозревать, что родители Элли что-то скрывают.",
-      "popularity": 2.7427,
-      "poster_path": "/enxF32km4P9gXYhAUXWgoVfQqg5.jpg",
-      "release_date": "2026-03-20",
-      "title": "Обитель зла: Мутация",
-      "video": false,
-      "vote_average": 4.3,
-      "vote_count": 9,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt26470786",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 87472,
-          "logo_path": null,
-          "name": "Showdown Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 41945,
-          "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
-          "name": "Indy Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 91,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ttUwYbMtKEjWfXoPrNAXjqB8JRd.jpg",
-      "genre_ids": [
-        18,
-        878,
-        10770
-      ],
-      "id": 30944,
-      "original_language": "en",
-      "original_title": "On the Beach",
-      "overview": "В 2006 году обмен ракетными ударами между Китаем и США и последовавшая за этим мировая ядерная война сметают человечество с лица Земли. Радиоактивные осадки угрожают уничтожить последний очаг цивилизации — Австралию.  Подводная лодка «Чарлстон» под командованием капитана Дуайта Тауэрса, единственный уцелевший в войне корабль американского военно — морского флота, прибывает в Мельбурн. Взяв на борт ученого Джулиана Осборна, «Чарлстон» отправляется в «экспедицию последней надежды» к берегам Аляски, откуда поступают таинственные, еле слышные радиосигналы…",
-      "popularity": 3.0746,
-      "poster_path": "/9Vt1ZzlSNnMfOKbkbJX4BKfzXR.jpg",
-      "release_date": "2000-05-28",
-      "title": "На последнем берегу",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 81,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0219224",
-      "origin_country": [
-        "AU",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 417,
-          "logo_path": "/w7d3hoHQaC0XwjrxEG1yPeuUhu5.png",
-          "name": "Australian Film Commission",
-          "origin_country": "AU"
-        },
-        {
-          "id": 4343,
-          "logo_path": "/rXq1B1Hnkdnw6soz1zoGcslK3wb.png",
-          "name": "Showtime Networks",
-          "origin_country": "US"
-        },
-        {
-          "id": 36026,
-          "logo_path": "/3uPAUIzpCE62X4JKEFREWqXoiDc.png",
-          "name": "Southern Star",
-          "origin_country": "AU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 197,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
