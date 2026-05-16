@@ -5,76 +5,58 @@
   },
   "page": 2,
   "limit": 20,
-  "total": 148,
+  "total": 147,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
+      "backdrop_path": "/f7sQHmdZdPHaRVt3428XmdoZ8Hs.jpg",
       "genre_ids": [
+        18,
         12,
-        28,
-        14
+        10749,
+        53
       ],
-      "id": 1995,
+      "id": 1907,
       "original_language": "en",
-      "original_title": "Lara Croft: Tomb Raider",
-      "overview": "Она - само совершенство! На нашей планете нет женщины, которая могла бы сравниться с ней. Она - божественно прекрасна, невероятно умна и потрясающе отважна. Она владеет всеми видами рукопашного боя, изумительно стреляет из любых видов оружия и способна выжить в самых экстремальных условиях.Эта девушка - дочь лорда. Её имя - леди Лара Крофт. И пусть трепещут злодеи, которые попытаются встать у нее на пути…",
-      "popularity": 6.2553,
-      "poster_path": "/t5uxQfHMw5sPrAJWmLTC3FfA7eu.jpg",
-      "release_date": "2001-06-15",
-      "title": "Лара Крофт: Расхитительница гробниц",
+      "original_title": "The Beach",
+      "overview": "Ричард — американский юноша, жаждущий приключений — отправляется в Тайланд, где в дешевой гостинице знакомится со странным человеком. Этот человек передает ему карту таинственного острова, где «трава» растет как сорняк, а на пляже живет коммуна. Это и есть рай на Земле. Ричард знакомится с парочкой французов, и они втроем отправляются на этот остров.",
+      "popularity": 4.1763,
+      "poster_path": "/tGP1STASvHKdFnHl3He7mWvVcRg.jpg",
+      "release_date": "2000-02-03",
+      "title": "Пляж",
       "video": false,
-      "vote_average": 5.908,
-      "vote_count": 6364,
-      "belongs_to_collection": {
-        "id": 2467,
-        "name": "Лара Крофт (Коллекция)",
-        "poster_path": "/e9qixqGXiB8OaiqiXPl4wg6ff0P.jpg",
-        "backdrop_path": "/dY55rtfQMOMGHJXGDNfSEyuHPGG.jpg"
-      },
-      "budget": 115000000,
+      "vote_average": 6.486,
+      "vote_count": 4582,
+      "belongs_to_collection": null,
+      "budget": 40000000,
       "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
         {
           "id": 12,
           "name": "приключения"
         },
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 10749,
+          "name": "мелодрама"
         },
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0146316",
+      "imdb_id": "tt0163978",
       "origin_country": [
-        "US"
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 762,
-          "logo_path": "/3T7EpKcS13viHu3WzRtQGvi9sTY.png",
-          "name": "Mutual Film Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 840,
+          "id": 359,
           "logo_path": null,
-          "name": "Lawrence Gordon Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 19105,
-          "logo_path": "/7RdbaZqDLb4q2PdtMZx0SIrAyDt.png",
-          "name": "Eidos Films",
+          "name": "Figment Films",
           "origin_country": "GB"
         }
       ],
@@ -82,99 +64,39 @@
         {
           "iso_3166_1": "GB",
           "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
         }
       ],
-      "revenue": 274703340,
-      "runtime": 100,
+      "revenue": 144056873,
+      "runtime": 119,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Croatian",
+          "iso_639_1": "hr",
+          "name": "Hrvatski"
+        },
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        },
+        {
+          "english_name": "Thai",
+          "iso_639_1": "th",
+          "name": "ภาษาไทย"
         }
       ],
       "status": "Released",
-      "tagline": "«Самое большое приключение начинается в 2001 году»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_adventure"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Vrwr58Blq4ucyTPBgHT5mclnfT.jpg",
-      "genre_ids": [
-        14,
-        28,
-        12
-      ],
-      "id": 31947,
-      "original_language": "en",
-      "original_title": "King Kong Lives",
-      "overview": "Чтобы вылечить Кинг-Конга после падения с крыши Международного Торгового Центра потребовалось хирургическое вмешательство лучших кардиологов. Никто и никогда еще не проделывал операций такого масштаба. Как раз во время того, как огромное, механическое сердце застучало в груди царя обезьян, в далеких тропических лесах Индонезии был найден еще один Кинг-Конг! Но на этот раз это оказалась леди. И влюбчивый Кинг-Конг не смог перед ней устоять. Призывный клич самки оживит его и пошлет вперед, на новые «подвиги», на новые разрушения и схватки с армией…",
-      "popularity": 3.3115,
-      "poster_path": "/9Xm2GKs2s74eYvjepsbTQPsIrqM.jpg",
-      "release_date": "1986-12-16",
-      "title": "Кинг Конг жив",
-      "video": false,
-      "vote_average": 5.1,
-      "vote_count": 241,
-      "belongs_to_collection": {
-        "id": 135498,
-        "name": "Кинг-Конг (1976) (Коллекция)",
-        "poster_path": "/dnmXCO2VpjnlL9LrEWF6AyqQuW8.jpg",
-        "backdrop_path": "/k98iowBJdKDRKbllrpdpk4SarJE.jpg"
-      },
-      "budget": 10000000,
-      "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0091344",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 484,
-          "logo_path": "/y3jYroFE9tjDTx5aSOgecXV732c.png",
-          "name": "DEG",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 4711220,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
+      "tagline": "Где-нибудь на планете рай существует",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -183,55 +105,89 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/rfxj5qsqSnbpF8SK8Gnis8Ejz4e.jpg",
+      "backdrop_path": "/gjfqiAULKlmI4CaKWXiEVcRMf6s.jpg",
       "genre_ids": [
-        37
+        10751,
+        12
       ],
-      "id": 32634,
-      "original_language": "en",
-      "original_title": "Two Rode Together",
-      "overview": "Гатри Маккейб служит шерифом в небольшом городке, за что получает 10% дохода местного салуна. Однажды здесь появляется лейтенант Джим Гэри со своим кавалерийским отрядом, чтобы предложить Маккейбу следующую работу: разыскать на индейских территориях белых людей, похищенных во время недавней войны с команчами",
-      "popularity": 1.3221,
-      "poster_path": "/gAFUWIeHyaY357N36XLphDfh38u.jpg",
-      "release_date": "1961-05-24",
-      "title": "Два всадника",
+      "id": 1214082,
+      "original_language": "ru",
+      "original_title": "Мой дикий друг",
+      "overview": "Семиклассник Саша Меньшиков заканчивает учебный год в новой школе и живёт со своей тётей Ниной в маленьком живописном городке. Мама Саши, известный учёный, на время своей очередной экспедиции привезла его сюда из Москвы. С одноклассниками у Саши не заладилось, после школы он часто в одиночестве гуляет на природе. Однажды в лесу Саша находит маленького лисёнка, попавшего в капкан. Узнав, что за лисёнком охотятся браконьеры, мальчик прячет его в землянке в глубине леса и начинает выхаживать. С этого начинается трогательная и полная приключений история о дружбе, ответственности и справедливости.",
+      "popularity": 0.3382,
+      "poster_path": "/b2EBU6FqD1HgRrb5HGx5OZs6nwA.jpg",
+      "release_date": "2024-08-08",
+      "title": "Мой дикий друг",
       "video": false,
-      "vote_average": 6.4,
-      "vote_count": 148,
-      "belongs_to_collection": null,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": {
+        "id": 1590182,
+        "name": "Мой дикий друг",
+        "poster_path": null,
+        "backdrop_path": null
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 37,
-          "name": "вестерн"
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0055558",
+      "imdb_id": "tt29522660",
       "origin_country": [
-        "US"
+        "RU"
       ],
       "production_companies": [
         {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
+          "id": 215242,
+          "logo_path": null,
+          "name": "Smart Film",
+          "origin_country": "RU"
+        },
+        {
+          "id": 11989,
+          "logo_path": null,
+          "name": "Interfest",
+          "origin_country": "RU"
+        },
+        {
+          "id": 103195,
+          "logo_path": null,
+          "name": "Propeller Production",
+          "origin_country": "RU"
+        },
+        {
+          "id": 76049,
+          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+          "name": "Cinema Foundation of Russia",
+          "origin_country": "RU"
+        },
+        {
+          "id": 13850,
+          "logo_path": "/6KsdcnTIpQ47NHad4EtxOCkB94K.png",
+          "name": "Sverdlovsk Film Studio",
+          "origin_country": "RU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "RU",
+          "name": "Russia"
         }
       ],
       "revenue": 0,
-      "runtime": 109,
+      "runtime": 100,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
@@ -1542,6 +1498,95 @@
       ],
       "status": "Released",
       "tagline": "«Стоит ли что-нибудь ужаса Бездны?»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_adventure"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tO1wEUOSmZLyttwkhOMzUxTiR7k.jpg",
+      "genre_ids": [
+        18,
+        12,
+        28
+      ],
+      "id": 2133,
+      "original_language": "en",
+      "original_title": "The Perfect Storm",
+      "overview": "Волны Атлантики вздымаются на 100-футовую высоту. Завывающий ветер невиданной силы. Хэллоуин 1991 года. Стихия наступает на трех фронтах, и один из них — ураган «Грейс» — поднимает сильнейший в истории человечества шторм.",
+      "popularity": 4.2772,
+      "poster_path": "/7YEp68gpShRciy63JdNZFm6lcyT.jpg",
+      "release_date": "2000-06-29",
+      "title": "Идеальный шторм",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2473,
+      "belongs_to_collection": null,
+      "budget": 130000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0177971",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 18990,
+          "logo_path": null,
+          "name": "Radiant Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 11407,
+          "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+          "name": "Baltimore Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 705,
+          "logo_path": null,
+          "name": "Spring Creek Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 328718434,
+      "runtime": 130,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Почувствуй его ярость",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
