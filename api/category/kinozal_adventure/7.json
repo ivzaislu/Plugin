@@ -9,77 +9,174 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/eVHVwP71el20fofkCHo78ebQv7Q.jpg",
       "genre_ids": [
-        878,
+        28,
         12,
-        9648
+        35,
+        80
       ],
-      "id": 1389450,
-      "original_language": "ru",
-      "original_title": "Левша",
-      "overview": "Россия, конец XIX века. На фоне надвигающейся войны с Великобританией в императорском дворце находят загадочное устройство — механическую блоху. Расследовать происшествие поручают молодому офицеру Петру Огарёву, мечтающему заслужить доверие императора Александра III. В поисках истины он объединяется с Левшой — гениальным, но забытым мастером из Тулы. Вместе они погружаются в мир интриг и опасностей. Чтобы раскрыть заговор, героям предстоит бросить вызов системе, разгадать семейные тайны и сделать трудный выбор между долгом и чувством. На кону — безопасность страны и их собственные судьбы.",
-      "popularity": 0.6986,
-      "poster_path": "/b07G2aYar1Fup86e7PzgrGZThxU.jpg",
-      "release_date": "2026-01-22",
-      "title": "Левша",
+      "id": 343668,
+      "original_language": "en",
+      "original_title": "Kingsman: The Golden Circle",
+      "overview": "Когда штаб-квартиры секретной службы Kingsman уничтожены, и весь мир оказался в заложниках у неизвестных, британские суперагенты обнаруживают, что в один день вместе с их организацией была еще создана американская разведка Statesman. Теперь эти две элитные спецслужбы должны объединиться и бросить вызов общему безжалостному врагу, чтобы спасти мир, то есть заняться тем, что для Эггси становится обычным делом…",
+      "popularity": 6.6038,
+      "poster_path": "/vVQXYV7x6gpk9oVFbzsBxkIxdqT.jpg",
+      "release_date": "2017-09-20",
+      "title": "Kingsman: Золотое кольцо",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.946,
+      "vote_count": 11042,
+      "belongs_to_collection": {
+        "id": 391860,
+        "name": "Kingsman (Коллекция)",
+        "poster_path": "/pAaFjg5HRkFsGc0X5AkovPp61CQ.jpg",
+        "backdrop_path": "/esDXPeq4eBLI5uIWH9QiyHkCUBB.jpg"
+      },
+      "budget": 104000000,
       "genres": [
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 12,
           "name": "приключения"
         },
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt34587486",
+      "imdb_id": "tt4649466",
       "origin_country": [
-        "RU"
+        "US",
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 120379,
-          "logo_path": "/l1LWjsXuzmIDXceAJraQijM20tV.png",
-          "name": "Legio Felix",
-          "origin_country": "RU"
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
+          "origin_country": "US"
         },
         {
-          "id": 82340,
-          "logo_path": "/dj89PnCx2Pt7vAE3Fp7n54vvmOt.png",
-          "name": "TNT",
-          "origin_country": "RU"
+          "id": 5374,
+          "logo_path": "/pMUiImmYANjZUlZFiZMWziQDSs6.png",
+          "name": "Marv",
+          "origin_country": "GB"
         },
         {
-          "id": 76049,
-          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
-          "name": "Cinema Foundation of Russia",
-          "origin_country": "RU"
+          "id": 78995,
+          "logo_path": null,
+          "name": "Cloudy Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 410902662,
+      "runtime": 141,
+      "spoken_languages": [
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Reports of my death have been greatly exaggerated»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_adventure"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 662707,
+      "original_language": "en",
+      "original_title": "Starbright",
+      "overview": "Юная сирота пытается убежать от реалий своей жизни, фантазируя о сказочном мире, а затем попадая в него.",
+      "popularity": 18.9466,
+      "poster_path": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+      "release_date": "2026-02-27",
+      "title": "Сияние звезды",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1742179",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 238654,
+          "logo_path": null,
+          "name": "Lucente Filmed Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 117,
+      "runtime": 148,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -92,180 +189,75 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/zLhDPMW6qzTXDbFC7FMRwt2F3VH.jpg",
+      "backdrop_path": "/tZcrOPnjYc7y4aPJaJzFLslckZC.jpg",
       "genre_ids": [
-        12,
-        28,
-        878,
-        10770
+        37
       ],
-      "id": 2965,
-      "original_language": "en",
-      "original_title": "20,000 Leagues Under the Sea",
-      "overview": "Руководство морского флота озадачено тем, что в водах северной Атлантики загадочное существо нападает на корабли и топит их. Для помощи в разгадке этой тайны привлекают известного биолога - профессора Аронакса, который отправляется вместе с экспедицией. Но оказалось, что вовсе не чудовище хозяйничает в Атлантике, а неуловимая подводная лодка под командованием капитана Немо. После попытки уничтожить лодку профессор, его дочь и один из моряков оказываются на борту Наутилуса. Они поражены как роскошью внутреннего убранства субмарины, так и жестокостью ее капитана. Невольные пленники Немо впервые видят изумительный подводный мир, затонувшую Атлантиду и гигантских существ, спастись от которых даже Наутилусу удается с большим трудом...",
-      "popularity": 0.8586,
-      "poster_path": "/8kVSztb6A7gA0K4eFJIxjzgdiH0.jpg",
-      "release_date": "1997-03-23",
-      "title": "Наутилус",
+      "id": 140529,
+      "original_language": "es",
+      "original_title": "El sabor de la venganza",
+      "overview": "Трое братьев встают на путь мести, когда их отца убивают. При этом каждый брат идет своим путем.",
+      "popularity": 0.5313,
+      "poster_path": "/6zh6dL6tQEGY9GXhu7Wb8XlkcBu.jpg",
+      "release_date": "1964-02-04",
+      "title": "Вкус мести",
       "video": false,
-      "vote_average": 5.7,
-      "vote_count": 24,
+      "vote_average": 5.6,
+      "vote_count": 12,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
+          "id": 37,
+          "name": "вестерн"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0118247",
+      "imdb_id": "tt0057464",
       "origin_country": [
-        "US"
+        "ES"
       ],
       "production_companies": [
         {
-          "id": 4056,
-          "logo_path": "/dnz7zZ2e11usyjPG3mTYvJfyciD.png",
-          "name": "Hallmark Entertainment",
-          "origin_country": "US"
+          "id": 7508,
+          "logo_path": null,
+          "name": "PEA",
+          "origin_country": "IT"
         },
         {
-          "id": 20358,
-          "logo_path": "/jPZ0jwLGGELbSxKoUrJzOytNpnp.png",
-          "name": "RHI Entertainment",
-          "origin_country": "US"
+          "id": 11203,
+          "logo_path": null,
+          "name": "Centauro Films",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
         }
       ],
       "revenue": 0,
-      "runtime": 95,
+      "runtime": 97,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Ужас таится в глубинах...»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_adventure"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5PJkK2iVXRO1ydrtgwuJdevmnOe.jpg",
-      "genre_ids": [
-        37,
-        35,
-        80
-      ],
-      "id": 648878,
-      "original_language": "en",
-      "original_title": "Eddington",
-      "overview": "Май 2020 года, в США набирает обороты пандемия. В тихом провинциальном Эддингтоне, где объявлен карантин и введён масочный режим, назревает противостояние между шерифом округа Севилья Джо Кроссом и мэром города Тэдом Гарсией, который планирует переизбираться и задумывает грандиозный проект — возведение масштабного центра по обработке данных на базе искусственного интеллекта. Не желая мириться с планами властного чиновника, Кросс решает бросить ему вызов и выдвигает свою кандидатуру на пост мэра, не подозревая к каким непредсказуемым последствиям приведёт его решение.",
-      "popularity": 15.1615,
-      "poster_path": "/dvmvBTmjIJwG6LgyS5PJAFB53Qp.jpg",
-      "release_date": "2025-07-16",
-      "title": "Эддингтон",
-      "video": false,
-      "vote_average": 6.434,
-      "vote_count": 577,
-      "belongs_to_collection": null,
-      "budget": 25000000,
-      "genres": [
-        {
-          "id": 37,
-          "name": "вестерн"
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         },
         {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31176520",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 41077,
-          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
-          "name": "A24",
-          "origin_country": "US"
-        },
-        {
-          "id": 123620,
-          "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-          "name": "Square Peg",
-          "origin_country": "US"
-        },
-        {
-          "id": 178359,
-          "logo_path": "/8Vir3jz2OMrcLFdcpRAg6LQixJp.png",
-          "name": "828 Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 142269,
-          "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
-          "name": "IPR.VC",
-          "origin_country": "FI"
-        },
-        {
-          "id": 103376,
-          "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
-          "name": "Access Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "FI",
-          "name": "Finland"
-        }
-      ],
-      "revenue": 13570360,
-      "runtime": 148,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "2160p",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_adventure"
@@ -355,217 +347,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_adventure"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/s7InPuEqbxTjuLUpIZeBX3R9uEA.jpg",
-      "genre_ids": [
-        28,
-        12,
-        18,
-        36
-      ],
-      "id": 10544,
-      "title": "Банда Келли",
-      "original_language": "en",
-      "original_title": "Ned Kelly",
-      "overview": "Выходец из бедной семьи ирландских эмигрантов, сосланных в Австралию, Келли испытал на своей шкуре несправедливость колониальных властей и жесткость полицейских. Сколотив банду, куда вошли его родной брат Дэн и двое друзей — Джо и Стив, Келли принялся грабить банки в штате и быстро стал героем народных масс. Однажды они три дня держали в страхе целый городок. За поимку Неда Келли была назначена награда в 8 тысяч фунтов, но разбойникам постоянно удавалось скрыться…",
-      "popularity": 2.2739,
-      "poster_path": "/1djZ2iWMegV6CuaGi1mqu2WjYYl.jpg",
-      "release_date": "2003-03-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.069,
-      "vote_count": 392,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0277941",
-      "origin_country": [
-        "FR",
-        "AU",
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 53042,
-          "logo_path": null,
-          "name": "Woss Group Film Productions",
-          "origin_country": "AU"
-        },
-        {
-          "id": 694,
-          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
-          "name": "StudioCanal",
-          "origin_country": "FR"
-        },
-        {
-          "id": 7887,
-          "logo_path": null,
-          "name": "Endymion Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 53041,
-          "logo_path": null,
-          "name": "WTA",
-          "origin_country": ""
-        },
-        {
-          "id": 10163,
-          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
-          "name": "Working Title Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 417,
-          "logo_path": "/w7d3hoHQaC0XwjrxEG1yPeuUhu5.png",
-          "name": "Australian Film Commission",
-          "origin_country": "AU"
-        },
-        {
-          "id": 1380,
-          "logo_path": "/y4JH9ncZJAFJGYWK84k1dmXnsw0.png",
-          "name": "Australian Film Finance Corporation",
-          "origin_country": "AU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 6585516,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_adventure"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gSFkUGrgCSDDQpsQ6HbrEQ41tMl.jpg",
-      "genre_ids": [
-        12,
-        37,
-        18,
-        28
-      ],
-      "id": 11943,
-      "title": "Иеремия Джонсон",
-      "original_language": "en",
-      "original_title": "Jeremiah Johnson",
-      "overview": "Иеремия Джонсон решает покинуть равнины и уйти в горы, где его подстерегает полуголодное существование и угрозы со стороны гризли и индейцев. Он стремится целиком слиться с природой, противопоставляя себя так называемому «цивилизованному человеку». Со временем он вполне осваивается среди дикой природы, недружелюбных индейцев и трапперов.",
-      "popularity": 2.5865,
-      "poster_path": "/fANj1S3UmBB51wnKxYRKtw8LMBn.jpg",
-      "release_date": "1972-09-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.295,
-      "vote_count": 686,
-      "belongs_to_collection": null,
-      "budget": 3100000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 37,
-          "name": "вестерн"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0068762",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 12273,
-          "logo_path": null,
-          "name": "Sanford Productions (III)",
-          "origin_country": ""
-        },
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 44700000,
-      "runtime": 108,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_adventure"
@@ -1892,6 +1673,160 @@
       ],
       "status": "Released",
       "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_adventure"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yn1XpVtDpENvJ2qWD7E2istIgjM.jpg",
+      "genre_ids": [
+        37,
+        10770
+      ],
+      "id": 16331,
+      "original_language": "en",
+      "original_title": "The Jack Bull",
+      "overview": "Америка конца XIX века. На западных территориях, где все еще могли развернуться предприимчивые авантюристы, царил закон сильнейшего. Богатый землевладелец Баллард решил хорошенько проучить нахального соседа Реддинга, посмевшего ему прекословить.  Но урок Реддингу не понравился, и он обратился в суд на обидчика. Не добившись правды в суде, ссора переросла в смертельную вражду, в которую оказались вовлечены соседи…",
+      "popularity": 2.6073,
+      "poster_path": "/yPbvb9cHQxcg9GzXG8DCb0yMSJI.jpg",
+      "release_date": "1999-04-17",
+      "title": "Джек Булл",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 98,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 37,
+          "name": "вестерн"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0171410",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 12886,
+          "logo_path": "/eLRJ9Rxd2JCDMXvRgF3HSMZma9t.png",
+          "name": "New Crime Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 10631,
+          "logo_path": null,
+          "name": "River One Films",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 116,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_adventure"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1jEe13ja7rSCmkHcbotdZNe0laL.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 121358,
+      "original_language": "fr",
+      "original_title": "Tamango",
+      "overview": "Одно из самых больших несчастий и бед, которые принесла цивилизация человечеству — работорговля. Таманго — это африканский воин, узнавший власть денег и быстро привыкший к «благам» цивилизации — спиртному, оружию, предательству.  Таманго такой же чернокожий, как и те, кого он продает белым. Но воин верит, что репутация хорошего поставщика «черного дерева» сможет защитить его от любой беды.",
+      "popularity": 0.6857,
+      "poster_path": "/uGGLxVSJTuTh2U3PbVYEI4lmi3i.jpg",
+      "release_date": "1958-01-24",
+      "title": "Таманго",
+      "video": false,
+      "vote_average": 6.75,
+      "vote_count": 10,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0051049",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 16059,
+          "logo_path": null,
+          "name": "Les Films du Cyclope",
+          "origin_country": "FR"
+        },
+        {
+          "id": 10795,
+          "logo_path": null,
+          "name": "CEI Incom",
+          "origin_country": "IT"
+        },
+        {
+          "id": 56122,
+          "logo_path": null,
+          "name": "Da.Ma. Cinematografica",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 104,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Любовь и приключения смелые и дерзкие",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
