@@ -9,54 +9,61 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
+      "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
       "genre_ids": [
         16,
-        10751,
-        14,
-        12
+        35,
+        10751
       ],
-      "id": 12092,
+      "id": 35,
+      "title": "Симпсоны в кино",
       "original_language": "en",
-      "original_title": "Alice in Wonderland",
-      "overview": "Убежав из дома, Алиса увидела под старой яблоней большого белого кролика, одетого в куртку и жилет. Достав из кармана часы, кролик торопливо скрылся в подозрительно темной норе. Набравшись смелости, Алиса шагнула вслед за ним... и попала в чудесный сказочный мир, где сбываются самые несбыточные фантазии. Чтобы попасть обратно домой, Алисе придется совершить путешествие через весь этот странный и причудливый мир, в котором ее поджидают совершенно невероятные приключения и совершенно фантастические существа...",
-      "popularity": 6.2564,
-      "poster_path": "/pf42bgjheUgQFnwgDS83aCF3uWX.jpg",
-      "release_date": "1951-07-28",
-      "title": "Алиса в стране чудес",
+      "original_title": "The Simpsons Movie",
+      "overview": "После того, как Гомер сбросил отходы в водохранилище, Спрингфилд объявили карантинной зоной и накрыли гигантским стеклянным колпаком, а местные жители ополчились на Симпсонов, за то что их отрезали от остального мира…",
+      "popularity": 6.6562,
+      "poster_path": "/51mnJmefPpRYNgQ9j1G13Rcar6J.jpg",
+      "release_date": "2007-07-25",
+      "softcore": false,
       "video": false,
-      "vote_average": 7.19,
-      "vote_count": 6160,
-      "belongs_to_collection": null,
-      "budget": 3000000,
+      "vote_average": 7.021,
+      "vote_count": 8502,
+      "belongs_to_collection": {
+        "id": 1554359,
+        "name": "The Simpsons Movie Collection",
+        "poster_path": "/rKWwES65W3zqUuRiRVOiqcExMrg.jpg",
+        "backdrop_path": "/2KbUwB7F8bsknsEPxuhMceWkYcm.jpg"
+      },
+      "budget": 75000000,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 10751,
           "name": "семейный"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0043274",
+      "imdb_id": "tt0462538",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 3166,
-          "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
-          "name": "Walt Disney Productions",
+          "id": 18,
+          "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+          "name": "Gracie Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
           "origin_country": "US"
         }
       ],
@@ -66,8 +73,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 57200000,
-      "runtime": 75,
+      "revenue": 527068851,
+      "runtime": 83,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -76,224 +83,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iwAQV8m7jknUflreDmQpSdmmCmf.jpg",
-      "genre_ids": [
-        16,
-        14,
-        27,
-        28,
-        53,
-        878,
-        10770
-      ],
-      "id": 13204,
-      "title": "Хеллбой: Кровь и металл",
-      "original_language": "en",
-      "original_title": "Hellboy Animated: Blood and Iron",
-      "overview": "В 1939, молодой Профессор Бруттенхольм уничтожил вампиршу, которая купалась в крови невинных, чтобы оставаться молодой. Теперь кто-то в провинциальных областях штата, Нью-Йорк пытается возвратить ее, и пожилой Профессор Брум, решает исследовать это самолично.",
-      "popularity": 1.7802,
-      "poster_path": "/7QDAsOcUn4XpMYymTV3o8lkCnqx.jpg",
-      "release_date": "2007-03-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.375,
-      "vote_count": 148,
-      "belongs_to_collection": {
-        "id": 123203,
-        "name": "Хеллбой (Коллекция мультфильмов)",
-        "poster_path": "/xb7CnlGTi8rAGnTGA4pqaaRzc9O.jpg",
-        "backdrop_path": "/v0zsDCbWF3XiyzClTiHbLhIAmbt.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0817910",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4279,
-          "logo_path": "/y9mgnG8pd7Ym4OpJdV1aht3KfR4.png",
-          "name": "IDT Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 19,
-          "logo_path": "/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png",
-          "name": "Film Roman",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 75,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/d8VGgwr2WApwFewrL5yZQgo78E0.jpg",
-      "genre_ids": [
-        878,
-        16,
-        14,
-        28,
-        27,
-        12,
-        53,
-        10770
-      ],
-      "id": 16774,
-      "title": "Хеллбой: Меч громов",
-      "original_language": "en",
-      "original_title": "Hellboy Animated: Sword of Storms",
-      "overview": "Университетский профессор открывает запретный свиток и становится одержим древним японским демоном грома и молнии, который мечтает прорваться в наш мир, чтобы завладеть им. Бюро по Исследованию Паранормальных Явлений и Защите посылает Хэллбоя и его команду расследовать это дело, но когда Хэллбой поднимает самурайский меч, он бесследно исчезает в удивительном мире японских легенд, призраков и монстров. Агенты Кэйт Корриган и Рассел Торн следуют по-пятам за одержимым профессором, чтобы вернуть Хеллбоя обратно…",
-      "popularity": 1.9146,
-      "poster_path": "/5cAZTBTdtB173wGk6Bz2Kkpj2L8.jpg",
-      "release_date": "2006-10-28",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.314,
-      "vote_count": 153,
-      "belongs_to_collection": {
-        "id": 123203,
-        "name": "Хеллбой (Коллекция мультфильмов)",
-        "poster_path": "/xb7CnlGTi8rAGnTGA4pqaaRzc9O.jpg",
-        "backdrop_path": "/v0zsDCbWF3XiyzClTiHbLhIAmbt.jpg"
-      },
-      "budget": 5000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0810895",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4279,
-          "logo_path": "/y9mgnG8pd7Ym4OpJdV1aht3KfR4.png",
-          "name": "IDT Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 19,
-          "logo_path": "/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png",
-          "name": "Film Roman",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 77,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
+      "tagline": "Посмотри на нашу семью и порадуйся за свою",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -554,85 +345,60 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/vpviitHyakuHAGlVJOR3fvzN0YP.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        16,
-        35,
-        878,
-        10749
+        16
       ],
-      "id": 12889,
-      "original_language": "en",
-      "original_title": "Futurama: The Beast with a Billion Backs",
-      "overview": "События происходят непосредственно после «Большого куша Бендера». Огромный раскол в пространстве и времени позволяет отвратительному, размером с планету монстру из другой вселенной проникнуть на Землю. Он берёт под контроль Фрая, делая из него Папу новой религии, которая охватывает всю планету и в последствие приводит к тому, что население покидает Землю, оставляя её в руках роботов.",
-      "popularity": 1.5892,
-      "poster_path": "/76konYvLSroLXNiCpSBNtku7y5A.jpg",
-      "release_date": "2008-06-24",
-      "title": "Футурама: Зверь с миллиардом спин",
+      "id": 454212,
+      "title": "Воспоминание",
+      "original_language": "ru",
+      "original_title": "Воспоминание",
+      "overview": "Мультипликационный фильм на военно-патриотическую тему и посвящается детям военных лет. Он рассказывает о маленькой девочке, которая во время Великой отечественной войны в разоренном фашистами селе мечтала об учебе в школе.",
+      "popularity": 0.3329,
+      "poster_path": "/7ZUkGLSSsNj5O0sqKkSAZSUtiP5.jpg",
+      "release_date": "1986-04-25",
+      "softcore": false,
       "video": false,
-      "vote_average": 6.968,
-      "vote_count": 595,
-      "belongs_to_collection": {
-        "id": 13800,
-        "name": "Футурама (Коллекция)",
-        "poster_path": "/gzGs80MlFtjmTTIsQImLysHjwhw.jpg",
-        "backdrop_path": "/wZ1Xuwhu4hbcHPAAZz9sFTIZTKX.jpg"
-      },
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1054485",
+      "imdb_id": null,
       "origin_country": [
-        "US"
+        "SU"
       ],
       "production_companies": [
         {
-          "id": 29500,
-          "logo_path": "/a3ltwX7b1opYeG7MxaxxswDmkeg.png",
-          "name": "The Curiosity Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 1556,
-          "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
-          "name": "20th Century Fox Television",
-          "origin_country": "US"
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
         }
       ],
       "revenue": 0,
-      "runtime": 90,
+      "runtime": 9,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
-      "tagline": "Новое полнометражное космическое приключение!",
+      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -1593,34 +1359,100 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "backdrop_path": "/xCHjzUUVfPLJjGnBG0cYL3rKlrD.jpg",
       "genre_ids": [
-        16,
-        10751,
-        14
+        16
       ],
-      "id": 129,
-      "title": "Унесённые призраками",
-      "original_language": "ja",
-      "original_title": "千と千尋の神隠し",
-      "overview": "Тихиро с мамой и папой переезжает в новый дом. Заблудившись по дороге, они оказываются в странном пустынном городе, где их ждет великолепный пир. Родители с жадностью набрасываются на еду и к ужасу девочки превращаются в свиней, став пленниками злой колдуньи Юбабы. Теперь, оказавшись одна среди волшебных существ и загадочных видений, Тихиро должна придумать, как избавить своих родителей от чар коварной старухи.",
-      "popularity": 28.8568,
-      "poster_path": "/uANcal3l15d0rFb5fTXhCAhSold.jpg",
-      "release_date": "2001-07-20",
+      "id": 454258,
+      "title": "Салют",
+      "original_language": "uk",
+      "original_title": "Салют",
+      "overview": "О том, как мальчик с папой ждут салют в День Победы - 9 Мая. Мальчик узнает, что его дедушка, как и дедушки друзей, не вернулись с войны, защищая их светлое будущее.",
+      "popularity": 0.43,
+      "poster_path": "/wH0nQxBsNRcTm3af9dDXFWYhR5Y.jpg",
+      "release_date": "1975-04-24",
       "softcore": false,
       "video": false,
-      "vote_average": 8.534,
-      "vote_count": 18253,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
-      "budget": 19000000,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt6839130",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 19997,
+          "logo_path": "/n1XHZgKeOC4GAGcLMAqQSr9Cchz.png",
+          "name": "Kyivnaukfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 6,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+      "genre_ids": [
+        16,
+        28,
+        10749,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "劇場版 チェンソーマン レゼ篇",
+      "overview": "Молодой охотник на демонов Дэндзи, который ждал свидания со своей возлюбленной Макимой, попадает под ливень. Укрывшись от дождя, он случайно встречает девушку по имени Резе, работающую в соседнем кафе. Та добродушно ему улыбается, и разговор становится более непринужденным. После этой встречи повседневная жизнь Дэндзи начинает меняться.",
+      "popularity": 65.3864,
+      "poster_path": "/f4Bv4JWv85zHSisuq7SD2WeuJGr.jpg",
+      "release_date": "2025-09-19",
+      "title": "Человек-бензопила. Фильм: История Резе",
+      "video": false,
+      "vote_average": 8.288,
+      "vote_count": 560,
+      "belongs_to_collection": null,
+      "budget": 4100000,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
         },
         {
-          "id": 10751,
-          "name": "семейный"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         },
         {
           "id": 14,
@@ -1628,45 +1460,15 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0245429",
+      "imdb_id": "tt30472557",
       "origin_country": [
         "JP"
       ],
       "production_companies": [
         {
-          "id": 10342,
-          "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
-          "name": "Studio Ghibli",
-          "origin_country": "JP"
-        },
-        {
-          "id": 1779,
-          "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
-          "name": "Tokuma Shoten",
-          "origin_country": "JP"
-        },
-        {
-          "id": 6755,
-          "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
-          "name": "Nippon Television Network Corporation",
-          "origin_country": "JP"
-        },
-        {
-          "id": 11847,
-          "logo_path": "/rZP0I1p3hZNUMNFPHUSal6rWThQ.png",
-          "name": "Mitsubishi",
-          "origin_country": "JP"
-        },
-        {
-          "id": 1778,
-          "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
-          "name": "dentsu",
-          "origin_country": "JP"
-        },
-        {
-          "id": 1780,
-          "logo_path": "/4Qzhr7FxVtaMwmsh7118G3yvOhO.png",
-          "name": "TFC",
+          "id": 21444,
+          "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+          "name": "MAPPA",
           "origin_country": "JP"
         }
       ],
@@ -1676,9 +1478,14 @@
           "name": "Japan"
         }
       ],
-      "revenue": 274925095,
-      "runtime": 124,
+      "revenue": 158289386,
+      "runtime": 100,
       "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
         {
           "english_name": "Japanese",
           "iso_639_1": "ja",
@@ -1686,7 +1493,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Туннель привел Тихиро в таинственный город ...»",
+      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -1695,23 +1502,24 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fnI36SFs9M5nS2XdCLarS1tlEyl.jpg",
+      "backdrop_path": "/4ZZiOP4Imzv6ULF9QczvfQ1VdEO.jpg",
       "genre_ids": [
         16,
-        35
+        28,
+        18,
+        878
       ],
-      "id": 1650340,
-      "title": "Обычный мультик: Утерянные плёнки",
-      "original_language": "en",
-      "original_title": "Regular Show: The Lost Tapes",
-      "overview": "Мордекай и Ригби – лучшие друзья, которые работают и живут в местном парке. Каким-то образом их обыденная работа всегда превращается в сюрреалистический хаос, к большому неудовольствию их босса и коллег. От того, чтобы вломиться в гости к другу, до поиска самого уютного местечка, где можно вздремнуть, бегство от работы быстро превращается в сюрреалистический срыв, как самый весёлый и занимательный из способов.",
-      "popularity": 1.3863,
-      "poster_path": "/w4jqOLlSOPmayWWhABqVz6N1EKN.jpg",
-      "release_date": "2026-05-11",
-      "softcore": false,
-      "video": true,
-      "vote_average": 0,
-      "vote_count": 0,
+      "id": 1406657,
+      "original_language": "ja",
+      "original_title": "果てしなきスカーレット",
+      "overview": "История о храброй принцессе, способной путешествовать сквозь пространство и время.",
+      "popularity": 28.8415,
+      "poster_path": "/7HP8SjHGCpys1m4b1lNlqz8CZYh.jpg",
+      "release_date": "2025-11-21",
+      "title": "Скарлет",
+      "video": false,
+      "vote_average": 6.936,
+      "vote_count": 47,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -1720,36 +1528,140 @@
           "name": "мультфильм"
         },
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": null,
+      "imdb_id": "tt35114460",
       "origin_country": [
-        "AU"
+        "JP"
       ],
       "production_companies": [
         {
-          "id": 7899,
-          "logo_path": "/qnhd98hnBxCMMMod58FJqbCZ5O7.png",
-          "name": "Cartoon Network Studios",
+          "id": 15662,
+          "logo_path": "/onTO8FymA6J6puYznAjZDsXvHYf.png",
+          "name": "Studio Chizu",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6755,
+          "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+          "name": "Nippon Television Network Corporation",
+          "origin_country": "JP"
+        },
+        {
+          "id": 34,
+          "logo_path": "/mtp1fvZbe4H991Ka1HOORl572VH.png",
+          "name": "Sony Pictures",
           "origin_country": "US"
+        },
+        {
+          "id": 82346,
+          "logo_path": "/jqgK6CSkPrEsIv6Nk390JaBcXYF.png",
+          "name": "Sony Pictures",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2073,
+          "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+          "name": "KADOKAWA",
+          "origin_country": "JP"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 60,
+      "revenue": 1730000,
+      "runtime": 116,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 448021,
+      "title": "Золотые колосья",
+      "original_language": "ru",
+      "original_title": "Золотые колосья",
+      "overview": "Мультипликационный фильм по мотивам белорусского фольклора о том, как бедные дети Янка и Олеся остались сиротами и не было у них ничего, кроме лукошка зерна. Но жадный богач отнял его за долги. Петушок принес детям три зернышка, но их унес Ветер. И дети решили вернуть свои зерна.",
+      "popularity": 0.5143,
+      "poster_path": "/mugKRxKbcWmUCa1nBOpWTyjSpj4.jpg",
+      "release_date": "1958-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4857874",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 20,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
