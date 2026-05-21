@@ -5,501 +5,78 @@
   },
   "page": 2,
   "limit": 20,
-  "total": 65,
+  "total": 66,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+      "backdrop_path": "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg",
       "genre_ids": [
         16,
-        35,
-        10751
+        10751,
+        14,
+        12
       ],
-      "id": 35,
-      "title": "Симпсоны в кино",
+      "id": 12092,
       "original_language": "en",
-      "original_title": "The Simpsons Movie",
-      "overview": "После того, как Гомер сбросил отходы в водохранилище, Спрингфилд объявили карантинной зоной и накрыли гигантским стеклянным колпаком, а местные жители ополчились на Симпсонов, за то что их отрезали от остального мира…",
-      "popularity": 6.6562,
-      "poster_path": "/51mnJmefPpRYNgQ9j1G13Rcar6J.jpg",
-      "release_date": "2007-07-25",
-      "softcore": false,
+      "original_title": "Alice in Wonderland",
+      "overview": "Убежав из дома, Алиса увидела под старой яблоней большого белого кролика, одетого в куртку и жилет. Достав из кармана часы, кролик торопливо скрылся в подозрительно темной норе. Набравшись смелости, Алиса шагнула вслед за ним... и попала в чудесный сказочный мир, где сбываются самые несбыточные фантазии. Чтобы попасть обратно домой, Алисе придется совершить путешествие через весь этот странный и причудливый мир, в котором ее поджидают совершенно невероятные приключения и совершенно фантастические существа...",
+      "popularity": 6.2564,
+      "poster_path": "/pf42bgjheUgQFnwgDS83aCF3uWX.jpg",
+      "release_date": "1951-07-28",
+      "title": "Алиса в стране чудес",
       "video": false,
-      "vote_average": 7.021,
-      "vote_count": 8502,
-      "belongs_to_collection": {
-        "id": 1554359,
-        "name": "The Simpsons Movie Collection",
-        "poster_path": "/rKWwES65W3zqUuRiRVOiqcExMrg.jpg",
-        "backdrop_path": "/2KbUwB7F8bsknsEPxuhMceWkYcm.jpg"
-      },
-      "budget": 75000000,
+      "vote_average": 7.19,
+      "vote_count": 6160,
+      "belongs_to_collection": null,
+      "budget": 3000000,
       "genres": [
         {
           "id": 16,
           "name": "мультфильм"
         },
         {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
           "id": 10751,
           "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0462538",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 18,
-          "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
-          "name": "Gracie Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 527068851,
-      "runtime": 83,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Посмотри на нашу семью и порадуйся за свою",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "genre_ids": [
-        10751,
-        35,
-        12,
-        14,
-        16
-      ],
-      "id": 1226863,
-      "original_language": "en",
-      "original_title": "The Super Mario Galaxy Movie",
-      "overview": "Сиквел анимационного хита «Братья Супер Марио в кино» возвращает любимых героев — Марио, Луиджи, Принцессу Пич и Браузера. На этот раз братьям предстоит отправиться в новые миры, встретить неожиданных союзников и противников и вновь доказать, что даже самые маленькие герои могут изменить судьбу целого королевства.",
-      "popularity": 227.6338,
-      "poster_path": "/3NaiRtILh0UV8e64IzTALnqT7hr.jpg",
-      "release_date": "2026-04-01",
-      "title": "Супер Марио: Галактическое кино",
-      "video": false,
-      "vote_average": 6.939,
-      "vote_count": 338,
-      "belongs_to_collection": {
-        "id": 1434561,
-        "name": "Супер Марио (коллекция)",
-        "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
-        "backdrop_path": "/oZSRam2yEhScla7Z37UsODgIOwB.jpg"
-      },
-      "budget": 110000000,
-      "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
         },
         {
           "id": 14,
           "name": "фэнтези"
         },
         {
-          "id": 16,
-          "name": "мультфильм"
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt28650488",
+      "imdb_id": "tt0043274",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 6704,
-          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
-          "name": "Illumination",
+          "id": 3166,
+          "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+          "name": "Walt Disney Productions",
           "origin_country": "US"
-        },
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 12288,
-          "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
-          "name": "Nintendo",
-          "origin_country": "JP"
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 429011034,
-      "runtime": 98,
+      "revenue": 57200000,
+      "runtime": 75,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Космическое приключение»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yWWjEQDxX2SmghfJQvAoujzUguK.jpg",
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "id": 1409695,
-      "original_language": "ru",
-      "original_title": "Чебурашка. Новый год",
-      "overview": "Новый год уже на носу, а Чебурашка никак не может определиться с подарком! Пока Валера готовит праздничные блюда, Гена переживает, что не успеет подготовить сюрприз для своего ушастого друга.",
-      "popularity": 0.2967,
-      "poster_path": "/qipqX93M4J6zAh7AERVxuaOqnzr.jpg",
-      "release_date": "2025-01-01",
-      "title": "Чебурашка. Новый год",
-      "video": false,
-      "vote_average": 10,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": null,
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 11,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nGYx6cCKsx8ZR31DUIncHxKemj4.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751,
-        80,
-        10402,
-        37
-      ],
-      "id": 41394,
-      "title": "Безумный, Безумный, Безумный Кролик Банни",
-      "original_language": "en",
-      "original_title": "The Looney, Looney, Looney Bugs Bunny Movie",
-      "overview": "3 истории, в центре которых находятся классические персонажи Луни Тюнз.",
-      "popularity": 1.6507,
-      "poster_path": "/ttSgrplk22KF3U1BkmFTQPWZssZ.jpg",
-      "release_date": "1981-11-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.177,
-      "vote_count": 150,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 37,
-          "name": "вестерн"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0082679",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 79,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Совершенно Новые Мультфильмы для Большого Экрана»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16
-      ],
-      "id": 454212,
-      "title": "Воспоминание",
-      "original_language": "ru",
-      "original_title": "Воспоминание",
-      "overview": "Мультипликационный фильм на военно-патриотическую тему и посвящается детям военных лет. Он рассказывает о маленькой девочке, которая во время Великой отечественной войны в разоренном фашистами селе мечтала об учебе в школе.",
-      "popularity": 0.3329,
-      "poster_path": "/7ZUkGLSSsNj5O0sqKkSAZSUtiP5.jpg",
-      "release_date": "1986-04-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": null,
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 9,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751
-      ],
-      "id": 1297842,
-      "original_language": "en",
-      "original_title": "GOAT",
-      "overview": "Уилл, маленький козлёнок с большими мечтами, получает уникальный шанс присоединиться к профессионалам и играть в роарбол — высокоинтенсивный, смешанный, контактный вид спорта, в котором доминируют самые быстрые и свирепые животные в мире. Новые товарищи Уилла по команде не в восторге от появления маленького козлёнка в их составе, но Уилл полон решимости совершить революцию в этом виде спорта и раз и навсегда доказать, что «размер игре не помеха»! ​​Ему предстоит сделать то, чего он никогда раньше не делал.",
-      "popularity": 93.196,
-      "poster_path": "/9Cn2pHvEWqRgEsan23tBXXAYjtB.jpg",
-      "release_date": "2026-02-11",
-      "title": "Goat: Мечтай по-крупному",
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 126,
-      "belongs_to_collection": null,
-      "budget": 90000000,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27613895",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2251,
-          "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
-          "name": "Sony Pictures Animation",
-          "origin_country": "US"
-        },
-        {
-          "id": 120524,
-          "logo_path": "/6G31NBE33avSwnSw9OGiFhCOpkS.png",
-          "name": "Unanimous Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 184287,
-          "logo_path": "/yH5Zbs5SaOiXCazdQwrt00vK9Pj.png",
-          "name": "Modern Magic",
-          "origin_country": "US"
-        },
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 79426,
-          "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
-          "name": "MACRO",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 174435737,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Он играет по-крупному»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -1359,6 +936,335 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        14,
+        16
+      ],
+      "id": 1226863,
+      "original_language": "en",
+      "original_title": "The Super Mario Galaxy Movie",
+      "overview": "Сиквел анимационного хита «Братья Супер Марио в кино» возвращает любимых героев — Марио, Луиджи, Принцессу Пич и Браузера. На этот раз братьям предстоит отправиться в новые миры, встретить неожиданных союзников и противников и вновь доказать, что даже самые маленькие герои могут изменить судьбу целого королевства.",
+      "popularity": 227.6338,
+      "poster_path": "/3NaiRtILh0UV8e64IzTALnqT7hr.jpg",
+      "release_date": "2026-04-01",
+      "title": "Супер Марио: Галактическое кино",
+      "video": false,
+      "vote_average": 6.939,
+      "vote_count": 338,
+      "belongs_to_collection": {
+        "id": 1434561,
+        "name": "Супер Марио (коллекция)",
+        "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
+        "backdrop_path": "/oZSRam2yEhScla7Z37UsODgIOwB.jpg"
+      },
+      "budget": 110000000,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt28650488",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 6704,
+          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+          "name": "Illumination",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 12288,
+          "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+          "name": "Nintendo",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 429011034,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Космическое приключение»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yWWjEQDxX2SmghfJQvAoujzUguK.jpg",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 1409695,
+      "original_language": "ru",
+      "original_title": "Чебурашка. Новый год",
+      "overview": "Новый год уже на носу, а Чебурашка никак не может определиться с подарком! Пока Валера готовит праздничные блюда, Гена переживает, что не успеет подготовить сюрприз для своего ушастого друга.",
+      "popularity": 0.2967,
+      "poster_path": "/qipqX93M4J6zAh7AERVxuaOqnzr.jpg",
+      "release_date": "2025-01-01",
+      "title": "Чебурашка. Новый год",
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 11,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 454212,
+      "title": "Воспоминание",
+      "original_language": "ru",
+      "original_title": "Воспоминание",
+      "overview": "Мультипликационный фильм на военно-патриотическую тему и посвящается детям военных лет. Он рассказывает о маленькой девочке, которая во время Великой отечественной войны в разоренном фашистами селе мечтала об учебе в школе.",
+      "popularity": 0.3329,
+      "poster_path": "/7ZUkGLSSsNj5O0sqKkSAZSUtiP5.jpg",
+      "release_date": "1986-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 14599,
+          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
+          "name": "Soyuzmultfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 9,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 1297842,
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "Уилл, маленький козлёнок с большими мечтами, получает уникальный шанс присоединиться к профессионалам и играть в роарбол — высокоинтенсивный, смешанный, контактный вид спорта, в котором доминируют самые быстрые и свирепые животные в мире. Новые товарищи Уилла по команде не в восторге от появления маленького козлёнка в их составе, но Уилл полон решимости совершить революцию в этом виде спорта и раз и навсегда доказать, что «размер игре не помеха»! ​​Ему предстоит сделать то, чего он никогда раньше не делал.",
+      "popularity": 93.196,
+      "poster_path": "/9Cn2pHvEWqRgEsan23tBXXAYjtB.jpg",
+      "release_date": "2026-02-11",
+      "title": "Goat: Мечтай по-крупному",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 126,
+      "belongs_to_collection": null,
+      "budget": 90000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt27613895",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2251,
+          "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+          "name": "Sony Pictures Animation",
+          "origin_country": "US"
+        },
+        {
+          "id": 120524,
+          "logo_path": "/6G31NBE33avSwnSw9OGiFhCOpkS.png",
+          "name": "Unanimous Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 184287,
+          "logo_path": "/yH5Zbs5SaOiXCazdQwrt00vK9Pj.png",
+          "name": "Modern Magic",
+          "origin_country": "US"
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 79426,
+          "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+          "name": "MACRO",
+          "origin_country": "US"
+        },
+        {
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 174435737,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Он играет по-крупному»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/xCHjzUUVfPLJjGnBG0cYL3rKlrD.jpg",
       "genre_ids": [
         16
@@ -1414,6 +1320,181 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "title": "Унесённые призраками",
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "overview": "Тихиро с мамой и папой переезжает в новый дом. Заблудившись по дороге, они оказываются в странном пустынном городе, где их ждет великолепный пир. Родители с жадностью набрасываются на еду и к ужасу девочки превращаются в свиней, став пленниками злой колдуньи Юбабы. Теперь, оказавшись одна среди волшебных существ и загадочных видений, Тихиро должна придумать, как избавить своих родителей от чар коварной старухи.",
+      "popularity": 28.8568,
+      "poster_path": "/uANcal3l15d0rFb5fTXhCAhSold.jpg",
+      "release_date": "2001-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.534,
+      "vote_count": 18253,
+      "belongs_to_collection": null,
+      "budget": 19000000,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0245429",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 10342,
+          "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+          "name": "Studio Ghibli",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1779,
+          "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+          "name": "Tokuma Shoten",
+          "origin_country": "JP"
+        },
+        {
+          "id": 6755,
+          "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+          "name": "Nippon Television Network Corporation",
+          "origin_country": "JP"
+        },
+        {
+          "id": 11847,
+          "logo_path": "/rZP0I1p3hZNUMNFPHUSal6rWThQ.png",
+          "name": "Mitsubishi",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1778,
+          "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+          "name": "dentsu",
+          "origin_country": "JP"
+        },
+        {
+          "id": 1780,
+          "logo_path": "/4Qzhr7FxVtaMwmsh7118G3yvOhO.png",
+          "name": "TFC",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 274925095,
+      "runtime": 124,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Туннель привел Тихиро в таинственный город ...»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cEq9KqXxkGVFV5d7h5uP9ZMKg8d.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 1264821,
+      "title": "Коты Эрмитажа 2. Тайна египетского зала",
+      "original_language": "ru",
+      "original_title": "Коты Эрмитажа 2. Тайна египетского зала",
+      "overview": "После спасения Эрмитажа и предотвращения похищения «Моны Лизы» прошло два года. Мышь Морис мечтает о новых подвигах, Винсент и Клеопатра обзавелись двумя непоседливыми котятами и тоже истосковались по приключениям. Но в новом путешествии им всем предстоит соперничать между собой. В тайных тоннелях под Эрмитажем Морис обнаруживает древний папирус с картой, ведущей к египетскому Джинну. Проблема в том, что этот Джинн исполняет лишь одно желание раз в тысячу лет, а каждый хочет чего-то своего! Мышь, коты и котята отправляются на поиски Джинна наперегонки друг с другом. В Египте они познакомятся с новыми друзьями и перейдут дорогу врагам, побывают в величественных Пирамидах, спустятся по Нилу на огромном круизном лайнере и откроют затерянные подземелья Луксора. Опасности вновь сплотят их, и каждый из них поймет, что для исполнения желаний им нужен не Джинн, а настоящая дружба и взаимовыручка.",
+      "popularity": 0.9613,
+      "poster_path": "/qRYdMrcWqRehYumZbDjIyOl0ZvK.jpg",
+      "release_date": "2026-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 2,
+      "belongs_to_collection": {
+        "id": 1264823,
+        "name": "Коты в музее",
+        "poster_path": null,
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt30224625",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 103418,
+          "logo_path": null,
+          "name": "Licensing Brands",
+          "origin_country": "RU"
+        },
+        {
+          "id": 76049,
+          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+          "name": "Cinema Foundation of Russia",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
@@ -1605,68 +1686,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        16
-      ],
-      "id": 448021,
-      "title": "Золотые колосья",
-      "original_language": "ru",
-      "original_title": "Золотые колосья",
-      "overview": "Мультипликационный фильм по мотивам белорусского фольклора о том, как бедные дети Янка и Олеся остались сиротами и не было у них ничего, кроме лукошка зерна. Но жадный богач отнял его за долги. Петушок принес детям три зернышка, но их унес Ветер. И дети решили вернуть свои зерна.",
-      "popularity": 0.5143,
-      "poster_path": "/mugKRxKbcWmUCa1nBOpWTyjSpj4.jpg",
-      "release_date": "1958-03-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt4857874",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 14599,
-          "logo_path": "/hz8piJ9Np1MswUyav0JDNGf42pO.png",
-          "name": "Soyuzmultfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 20,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
