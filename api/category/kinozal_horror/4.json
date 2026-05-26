@@ -5,538 +5,88 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 121,
+  "total": 123,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/qhZgRQB6ExVcbFXXGL3ISvshfJm.jpg",
-      "genre_ids": [
-        18,
-        27,
-        878,
-        10749
-      ],
-      "id": 3036,
-      "title": "Франкенштейн",
-      "original_language": "en",
-      "original_title": "Mary Shelley's Frankenstein",
-      "overview": "Этот фильм — экранизация знаменитого готического романа Мэри Шелли о чудовище, созданном гениальным доктором Франкенштейном, признана критиками самой страшной из всех киноверсий книги. Продюсер фильма Френсис Коппола и режиссер Кеннет Брана, признанные мастера жанра создали по-настоящему гипнотическое зрелище о похождениях ужасного монстра, в роли которого выступил Роберт Де Ниро, еще раз продемонстрировавший свой уникальный дар — завораживать зрителей и заставлять трепетать от страха их сердца.",
-      "popularity": 2.6699,
-      "poster_path": "/w5Zjc2vDI37M2NgTDkm96tJyOFO.jpg",
-      "release_date": "1994-11-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.446,
-      "vote_count": 1359,
-      "belongs_to_collection": null,
-      "budget": 45000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0109836",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 70,
-          "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
-          "name": "American Zoetrope",
-          "origin_country": "US"
-        },
-        {
-          "id": 559,
-          "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
-          "name": "TriStar Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 5350,
-          "logo_path": null,
-          "name": "Japan Satellite Broadcasting",
-          "origin_country": "JP"
-        },
-        {
-          "id": 959,
-          "logo_path": null,
-          "name": "IndieProd Company Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        }
-      ],
-      "revenue": 112000000,
-      "runtime": 123,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/r0gCLDIPi0JWZ5sCzqKpWNGUNNh.jpg",
-      "genre_ids": [
-        12,
-        27,
-        53
-      ],
-      "id": 9360,
-      "original_language": "en",
-      "original_title": "Anaconda",
-      "overview": "Команда исследователей отправляется на поиски затерянных индейских племен в самое сердце таинственных джунглей Амазонки. Наслаждаясь пейзажами великой реки, они не подозревают, что их проводник — сумасшедший охотник, помешавшийся на идее поймать гигантскую змею.  Никто не верит его рассказам о мистическом хищнике, пока не появляется первая жертва, и их путешествие превращается в борьбу за выживание. Анаконда не ждёт охотников, она сама — охотник.",
-      "popularity": 11.765,
-      "poster_path": "/ukXo9dtJDu2AHse6eaZvH97B7Qx.jpg",
-      "release_date": "1997-04-11",
-      "title": "Анаконда",
-      "video": false,
-      "vote_average": 5.255,
-      "vote_count": 2683,
-      "belongs_to_collection": {
-        "id": 105995,
-        "name": "Анаконда (Коллекция)",
-        "poster_path": "/gR294O1fIIeU5mK6eGTPVmrTNlv.jpg",
-        "backdrop_path": "/uR7j2TEwJVCMz7CDJgNPuhty4J9.jpg"
-      },
-      "budget": 45000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0118615",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 55532,
-          "logo_path": null,
-          "name": "St. Tropez Films",
-          "origin_country": ""
-        },
-        {
-          "id": 55533,
-          "logo_path": null,
-          "name": "Cinema Line Film Corporation",
-          "origin_country": ""
-        },
-        {
-          "id": 3803,
-          "logo_path": null,
-          "name": "Middle Fork Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 16387,
-          "logo_path": null,
-          "name": "Skylight Cinema Foto Art",
-          "origin_country": "BR"
-        },
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 199837,
-          "logo_path": null,
-          "name": "Skylight Cinema Foto Art (US)",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BR",
-          "name": "Brazil"
-        },
-        {
-          "iso_3166_1": "PE",
-          "name": "Peru"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 136885767,
-      "runtime": 90,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Когда Ты не Можешь Дышать, Ты не Можешь Кричать»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2pi332EvEQjhV2YaqOeSC4VgVP.jpg",
-      "genre_ids": [
-        53,
-        27
-      ],
-      "id": 15011,
-      "title": "Багровая мгла",
-      "original_language": "en",
-      "original_title": "Red Mist",
-      "overview": "Молодая доктор вводит некий экспериментальный коктейль наркотических веществ пациенту, находящемуся в коме. В результате пациент выходит из комы, но довольно оригинальным образом — его дух начинает вселяться в тела других людей и, используя эти тела, мстит студентам-медикам, по вине которых он и впал в состояние комы. Главная героиня тоже входит в число его потенциальных жертв…",
-      "popularity": 1.0756,
-      "poster_path": "/an825NlVJ2XPSKb1tIJbmQspBVM.jpg",
-      "release_date": "2008-08-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.917,
-      "vote_count": 78,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1185264",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 5820,
-          "logo_path": null,
-          "name": "Generator Entertainment",
-          "origin_country": "GB"
-        },
-        {
-          "id": 22866,
-          "logo_path": null,
-          "name": "Geronimo Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 22867,
-          "logo_path": null,
-          "name": "Framestore CFC",
-          "origin_country": ""
-        },
-        {
-          "id": 11667,
-          "logo_path": "/dhBJdstAolGmqRfbQfElhsU1cTo.png",
-          "name": "Northern Ireland Screen",
-          "origin_country": "XI"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 98,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
-      "genre_ids": [
-        9648,
-        53,
-        18
-      ],
-      "id": 745,
-      "original_language": "en",
-      "original_title": "The Sixth Sense",
-      "overview": "Детский психиатр Малкольм Кроу сталкивается со странным случаем: девятилетнего Коула посещают страшные видения — призраки умерших. Все эти люди когда-то были убиты, и теперь они обрушивают на малыша свой гнетущий страх и отчаянный гнев.\r Как врач, Малкольм бессилен помочь. Но как человек, он пытается найти ключ к ужасному миру Коула, в котором веет дыхание смерти и распускаются страшные цветы боли.",
-      "popularity": 13.1948,
-      "poster_path": "/prITVK0LHHrA1fUK2bP8HZyIcnW.jpg",
-      "release_date": "1999-08-06",
-      "title": "Шестое чувство",
-      "video": false,
-      "vote_average": 7.95,
-      "vote_count": 12749,
-      "belongs_to_collection": null,
-      "budget": 40000000,
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0167404",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 158,
-          "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
-          "name": "Spyglass Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 862,
-          "logo_path": "/vdK6ZhC2CSW36j0VPEavRxOpbEg.png",
-          "name": "The Kennedy/Marshall Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 915,
-          "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
-          "name": "Hollywood Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 17032,
-          "logo_path": null,
-          "name": "Barry Mendel Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 672800000,
-      "runtime": 107,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Иногда дар – это проклятие",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nQbvPYjj3U3pz8alPpHIdvVIoHx.jpg",
+      "backdrop_path": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg",
       "genre_ids": [
         27
       ],
-      "id": 13567,
-      "title": "Спящий лагерь",
-      "original_language": "en",
-      "original_title": "Sleepaway Camp",
-      "overview": "На озере тонет яхта с мужчиной и двумя его детьми на борту. Катающиеся рядом на катерах подростки не обратили внимания на разыгравшуюся трагедию. В результате их неосторожной езды мужчина и его сын погибают. Оставшаяся в живых девочка Анжела отправляется жить вместе со своей тётей Мартой и двоюродным братом Рикки. Только теперь девочка постоянно молчит, перенеся сильный травматический шок. Восемь лет спустя Анжела и Рикки отправляются в летний лагерь, на озеро, где погибли её отец и брат. Необщительная Анжела становится предметом нападок и шуток со стороны подростков. Она не устраивает своим поведением даже взрослых. И вскоре люди, которые причиняли ей боль, начинают погибать от рук таинственного убийцы…",
-      "popularity": 2.6252,
-      "poster_path": "/lZ7KjSyHjP4ula5ybiXuQcDvZLg.jpg",
-      "release_date": "1983-11-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.292,
-      "vote_count": 777,
-      "belongs_to_collection": {
-        "id": 47391,
-        "name": "Спящий лагерь",
-        "poster_path": "/fJpfeO2d3MjXsKWQqnorvRkHTWm.jpg",
-        "backdrop_path": "/51coSlxdbEgBtsoRVOOhvs21XlK.jpg"
-      },
-      "budget": 350000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0086320",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2775,
-          "logo_path": null,
-          "name": "American Eagle",
-          "origin_country": "US"
-        },
-        {
-          "id": 180144,
-          "logo_path": null,
-          "name": "U.S. Films",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 11000000,
-      "runtime": 85,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zLL0a8UrC9BVSpML7Me9SmKcRrT.jpg",
-      "genre_ids": [
-        53,
-        27
-      ],
-      "id": 39434,
-      "title": "Синдром Стендаля",
+      "id": 8689,
+      "title": "Ад каннибалов",
       "original_language": "it",
-      "original_title": "La sindrome di Stendhal",
-      "overview": "«Синдром Стендаля» — это специфическая особенность психики, когда человек очень остро воспринимает картины, как бы переносясь в изображенную на холсте реальность. Граница между реальностью и фантазией для таких людей стирается.\r Главная героиня Анна становится жертвой маньяка, и это событие наносит непоправимый урон ее психике. Даже после того, как она расправляется с убийцей, ей кажется, что он всё ещё жив и преследует её. В доказательство её теории появляются всё новые трупы…",
-      "popularity": 2.0724,
-      "poster_path": "/bJixDTVpX5l9doJXsMSPEAEosD9.jpg",
-      "release_date": "1996-01-26",
+      "original_title": "Cannibal Holocaust",
+      "overview": "Несколько молодых репортеров отправляются в дебри Амазонки, чтобы снять сенсационный фильм о последних людоедах, оставшихся на Земле.  Попав туда, где не бывал еще ни один европеец, они бесследно исчезают. Что с ними случилось? Какие ужасные секреты хранит амазонская сельва?",
+      "popularity": 18.5366,
+      "poster_path": "/ohbhlbwwZMryZsEesBwCsJzVaG0.jpg",
+      "release_date": "1980-02-07",
       "softcore": false,
       "video": false,
-      "vote_average": 5.448,
-      "vote_count": 290,
+      "vote_average": 6.271,
+      "vote_count": 1845,
       "belongs_to_collection": null,
-      "budget": 3800000,
+      "budget": 100000,
       "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
         {
           "id": 27,
           "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0117658",
+      "imdb_id": "tt0078935",
       "origin_country": [
         "IT"
       ],
       "production_companies": [
         {
-          "id": 4817,
+          "id": 17893,
           "logo_path": null,
-          "name": "Cine 2000",
+          "name": "F.D. Cinematografica",
           "origin_country": "IT"
         },
         {
-          "id": 6246,
-          "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
-          "name": "Medusa Film",
-          "origin_country": "IT"
+          "id": 192617,
+          "logo_path": null,
+          "name": "Bolivariana Films",
+          "origin_country": "CO"
+        },
+        {
+          "id": 220144,
+          "logo_path": null,
+          "name": "United Artists Europa",
+          "origin_country": ""
+        },
+        {
+          "id": 1723,
+          "logo_path": null,
+          "name": "Transcontinental Films",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "CO",
+          "name": "Colombia"
+        },
         {
           "iso_3166_1": "IT",
           "name": "Italy"
         }
       ],
-      "revenue": 0,
-      "runtime": 119,
+      "revenue": 2000000,
+      "runtime": 95,
       "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
         {
           "english_name": "Italian",
           "iso_639_1": "it",
@@ -544,7 +94,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "Ад каннибалов",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -553,23 +103,22 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/gnaExMrBDw9hhgb1GacWapOV3mV.jpg",
+      "backdrop_path": "/kv8kCuvfhSQ50YxjowqpVn1QqhJ.jpg",
       "genre_ids": [
         27,
         53
       ],
-      "id": 407531,
-      "title": "Дьявол из мобилки",
+      "id": 801937,
       "original_language": "en",
-      "original_title": "Bedeviled",
-      "overview": "Пятеро друзей ошарашены смертью подруги Никки. Девушка была жизнерадостной и никогда не болела, но вдруг умерла от сердечного приступа. На следующий день каждый из ребят получает инвайт с телефона Никки, и все скачивают и устанавливают странное приложение. Вроде бы это личный помощник, который знает ответ на любой вопрос и может даже помогать в быту, а на самом деле — злая сущность, которая хочет только одного — запугать установившего приложение до смерти.",
-      "popularity": 1.3988,
-      "poster_path": "/6dFnKrfbDOA4PduEMBErMXjs6Pa.jpg",
-      "release_date": "2017-06-28",
-      "softcore": false,
+      "original_title": "Silent Night, Deadly Night",
+      "overview": "Когда-то родителей Билли жестоко убил человек в костюме Санта-Клауса. Годы спустя, он и сам примеряет этот образ, чтобы устроить праздничную резню и наказать тех, кто этого заслуживает. Теперь костюм Санты будет красным ещё и от крови, а всех непослушных ждёт по-настоящему ужасающий Новый год.",
+      "popularity": 12.4082,
+      "poster_path": "/6cvHz1TnF2ktoLbbHACh99nKL9H.jpg",
+      "release_date": "2025-12-11",
+      "title": "Тихая ночь, смертельная ночь",
       "video": false,
-      "vote_average": 5.2,
-      "vote_count": 282,
+      "vote_average": 5.8,
+      "vote_count": 34,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -583,33 +132,155 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt4998772",
+      "imdb_id": "tt34508974",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 79545,
-          "logo_path": null,
-          "name": "Conduit",
-          "origin_country": ""
+          "id": 238902,
+          "logo_path": "/jLAg5fOlAw1Jl8Q7WoyKxh1H22y.png",
+          "name": "Cineverse",
+          "origin_country": "US"
         },
         {
-          "id": 79546,
+          "id": 260081,
           "logo_path": null,
-          "name": "Circle 18",
-          "origin_country": ""
+          "name": "New Dimension Pictures",
+          "origin_country": "US"
         },
         {
-          "id": 79548,
+          "id": 166729,
           "logo_path": null,
-          "name": "STANDOFF Pictures",
-          "origin_country": ""
+          "name": "White Bear Films",
+          "origin_country": "CA"
         },
         {
-          "id": 6626,
-          "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
-          "name": "Voltage Pictures",
+          "id": 218453,
+          "logo_path": null,
+          "name": "Rebel 6 Film",
+          "origin_country": "US"
+        },
+        {
+          "id": 252730,
+          "logo_path": null,
+          "name": "Sixth Dimension",
+          "origin_country": "FR"
+        },
+        {
+          "id": 150235,
+          "logo_path": null,
+          "name": "Wonderwheel Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 694,
+          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+          "name": "StudioCanal",
+          "origin_country": "FR"
+        },
+        {
+          "id": 201651,
+          "logo_path": null,
+          "name": "Bear Paw Studios",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Akan",
+          "iso_639_1": "ak",
+          "name": "Ákán"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1470130,
+      "title": "Вскрытие демона",
+      "original_language": "en",
+      "original_title": "The Mortuary Assistant",
+      "overview": "Ребекка Оуэнс, выпускница медицинского вуза, устраивается на ночную работу в морг на должность ассистента патологоанатома. В первую же смену она вскрывает в морге демона, который пытается завладеть ее душой. Чтобы пережить ночь, ей придется раскрыть жуткие секреты своего загадочного наставника, преодолеть собственные страхи и пройти все круги ада.",
+      "popularity": 110.9249,
+      "poster_path": "/cucLpGnl3u41mVQ7JYM7R1kdBi.jpg",
+      "release_date": "2026-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.518,
+      "vote_count": 84,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt36647890",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 7662,
+          "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+          "name": "Epic Pictures Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 31787,
+          "logo_path": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+          "name": "Creativity Capital",
+          "origin_country": "GB"
+        },
+        {
+          "id": 153351,
+          "logo_path": "/dMusWUKSqpqXQOh0WiXHSmRBTci.png",
+          "name": "Dread",
+          "origin_country": "US"
+        },
+        {
+          "id": 138068,
+          "logo_path": null,
+          "name": "Traverse Terror",
           "origin_country": "US"
         }
       ],
@@ -617,6 +288,10 @@
         {
           "iso_3166_1": "US",
           "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
       "revenue": 0,
@@ -629,7 +304,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Вскрыв демона, пройди все круги ада»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -638,114 +313,22 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ryynYdXgP2vLZKH3154bLkNp1kx.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "id": 1272837,
-      "original_language": "en",
-      "original_title": "28 Years Later: The Bone Temple",
-      "overview": "Доктор Келсон вступает в опасный союз, который может перекроить будущее человечества. Тем временем Спайк попадает в ловушку Джимми Кристала и превращает собственную жизнь в кошмар, из которого нет выхода. Но настоящая угроза — не заражённые. Самые страшные монстры уже среди выживших, и их жестокость страшнее любого вируса",
-      "popularity": 32.3189,
-      "poster_path": "/lCel0uHnVgCGihg4xrWSPzOMnV4.jpg",
-      "release_date": "2026-01-14",
-      "title": "28 лет спустя: Храм костей",
-      "video": false,
-      "vote_average": 7.253,
-      "vote_count": 328,
-      "belongs_to_collection": {
-        "id": 1565,
-        "name": "28 дней (Коллекция)",
-        "poster_path": "/rkFqzEiZZoccSbeDigGnIlF4iM0.jpg",
-        "backdrop_path": "/liImaqVpPGo3ddLWkJPeJxvaqCI.jpg"
-      },
-      "budget": 63000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32141377",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 284,
-          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
-          "name": "DNA Films",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 58586229,
-      "runtime": 109,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Страх - это новая вера»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jdy2Q1JTKun986X6XOLWzGr7XB4.jpg",
+      "backdrop_path": "/1ibA1r3Zy4RlKsgZzJEZCuMMtsz.jpg",
       "genre_ids": [
         27
       ],
-      "id": 1189885,
-      "title": "Мумия. Возрождение зла",
+      "id": 54133,
+      "title": "Сумасшедший дом",
       "original_language": "en",
-      "original_title": "The Morrigan",
-      "overview": "Успешный археолог Фиона стоит на пороге большого открытия. Она нашла способ доказать, является ли языческая богиня Морриган историческим персонажем или мифическим демоном. Вместе со своей дочерью Лили она отправляется на так называемый остров мумий. Но после вскрытия саркофага Морриган на острове и с Лили начинают твориться жуткие вещи. Фионе и ее команде придется докопаться до древней тайны, чтобы остановить первобытное зло и спасти дочь.",
-      "popularity": 1.5234,
-      "poster_path": "/3J1KBwYeedUl8l6MGzvHkz1IyXh.jpg",
-      "release_date": "2026-04-09",
+      "original_title": "Madhouse",
+      "overview": "Джулия Салливан работает учителем в школе для глухих детей и в жизни у неё всё складывается удачно - привлекательная внешность, уважаемая работа и постоянный бойфренд. Но мало кто знает про неприятный секрет - о сестре-близнеце Мэри. Пока они росли вместе, жестокая Мэри дразнила и издевалась над Джулией, и в результате та порвала с ней отношения. Сёстры не общались много лет, пока дядька не сообщил Джулии, что Мэри оказалась в клинике с болезнью, полностью обезобразившей её.",
+      "popularity": 0.813,
+      "poster_path": "/6ebCs7FLor0um97T41UULuXd5EM.jpg",
+      "release_date": "1981-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 4,
-      "vote_count": 1,
+      "vote_average": 5.596,
+      "vote_count": 68,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -755,112 +338,31 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt29423057",
+      "imdb_id": "tt0093468",
       "origin_country": [
-        "GB",
-        "XI"
-      ],
-      "production_companies": [
-        {
-          "id": 248409,
-          "logo_path": "/njO6Ny1AmG4KzNe5qpKLP2QgLAE.png",
-          "name": "Cowboy Cosmonaut Films",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "XI",
-          "name": "Northern Ireland"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Irish",
-          "iso_639_1": "ga",
-          "name": "Gaeilge"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
-      "genre_ids": [
-        53,
-        878,
-        18,
-        27
-      ],
-      "id": 333371,
-      "original_language": "en",
-      "original_title": "10 Cloverfield Lane",
-      "overview": "Придя в себя после автомобильной аварии, девушка оказывается в подвале человека, утверждающего, что он спас её от химической атаки, которая сделала мир за пределами бункера непригодным для жизни.",
-      "popularity": 5.3971,
-      "poster_path": "/cwopSMf8KWltTlMaZQ1T208fCio.jpg",
-      "release_date": "2016-03-10",
-      "title": "Кловерфилд, 10",
-      "video": false,
-      "vote_average": 6.999,
-      "vote_count": 8594,
-      "belongs_to_collection": null,
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "http://www.10cloverfieldlane.com/",
-      "imdb_id": "tt1179933",
-      "origin_country": [
+        "IT",
         "US"
       ],
       "production_companies": [
         {
-          "id": 11461,
-          "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
-          "name": "Bad Robot",
+          "id": 888,
+          "logo_path": null,
+          "name": "Overseas FilmGroup",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 110216998,
-      "runtime": 103,
+      "revenue": 0,
+      "runtime": 93,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -869,8 +371,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Монстры бывают разные»",
-      "release_quality": "1080p",
+      "tagline": "«Много людей приезжает... никто никогда не возвращается»",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -878,28 +380,39 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/qXxFWyur7jFkg2aQgENcXuyYeHF.jpg",
+      "backdrop_path": "/acloCJG7yIvM8M8lh6GuuohlGJR.jpg",
       "genre_ids": [
         27,
+        53,
+        14,
         9648
       ],
-      "id": 1480387,
+      "id": 11618,
+      "title": "Призрак дома на холме",
       "original_language": "en",
-      "original_title": "undertone",
-      "overview": "Ведущая популярного подкаста о паранормальных явлениях начинает получать загадочные аудиозаписи от неизвестного отправителя.",
-      "popularity": 30.0455,
-      "poster_path": "/g4FzBPGjN2xWYajgVcRqkzxCWC7.jpg",
-      "release_date": "2026-03-12",
-      "title": "Полутон",
+      "original_title": "The Haunting",
+      "overview": "Жуткие легенды ходят вокруг огромного и зловещего особняка, известного как «Дом на холме». Это мрачное и величественное строение, некогда принадлежавшее богатейшему текстильному магнату Хью Крэйну, вот уже больше века стоит пустым и считается проклятым местом. Но именно его для своих экспериментов выбирает специалист по изучению сна доктор Марроу.  Группа из четырех страдающих бессоницей молодых людей, которую пригласил доктор Марроу, должна будет провести в жутком доме несколько дней и ночей. Однако никто из участников этого странного проекта не предполагал, с каким чудовищным кошмаром им придется столкнуться…",
+      "popularity": 4.0353,
+      "poster_path": "/yr06nXQpUbulTWHLsln41fpvlyX.jpg",
+      "release_date": "1999-07-23",
+      "softcore": false,
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 47,
+      "vote_average": 5.491,
+      "vote_count": 1514,
       "belongs_to_collection": null,
-      "budget": 500000,
+      "budget": 80000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
         },
         {
           "id": 9648,
@@ -907,61 +420,32 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt35892608",
+      "imdb_id": "tt0171363",
       "origin_country": [
-        "CA",
         "US"
       ],
       "production_companies": [
         {
-          "id": 9315,
-          "logo_path": "/uKmSLeRvSmbf156Q6mRl81qWf9D.png",
-          "name": "Black Fawn Films",
-          "origin_country": "CA"
-        },
-        {
-          "id": 262195,
-          "logo_path": null,
-          "name": "Slaterverse Pictures",
-          "origin_country": "CA"
-        },
-        {
-          "id": 262196,
-          "logo_path": null,
-          "name": "KINO Studios",
-          "origin_country": "CA"
-        },
-        {
-          "id": 169906,
-          "logo_path": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
-          "name": "Spooky Pictures",
+          "id": 7,
+          "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png",
+          "name": "DreamWorks Pictures",
           "origin_country": "US"
         },
         {
-          "id": 270846,
-          "logo_path": "/oBxigI3CRctXSwtiyKrqUjlT4od.png",
-          "name": "DimensionGate",
-          "origin_country": "CA"
-        },
-        {
-          "id": 270848,
+          "id": 1560,
           "logo_path": null,
-          "name": "Feel Everything Productions",
-          "origin_country": "CA"
+          "name": "Roth/Arnold Productions",
+          "origin_country": ""
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 19849179,
-      "runtime": 94,
+      "revenue": 177311151,
+      "runtime": 113,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -970,7 +454,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Не бойся темноты. Бойся тишины»",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -979,78 +463,67 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/qgSlGJurPzgSHKYlqBiDmr3vjrc.jpg",
+      "backdrop_path": "/m249ll0TW8rjwPlhZKGIduno6F5.jpg",
       "genre_ids": [
         27,
-        878,
-        9648
+        28,
+        53
       ],
-      "id": 60935,
-      "title": "Нечто",
-      "original_language": "en",
-      "original_title": "The Thing",
-      "overview": "Научная экспедиция обнаруживает в Антарктике потерпевший крушение инопланетный космический корабль. Группа отчаянных учёных проникает в его недра и неожиданно для самих себя открывает ящик Пандоры. Среди непроходимых снегов и ледяных гор, выпущенное на свободу Нечто устраивает на исследовательской станции жуткую бойню.",
-      "popularity": 4.9406,
-      "poster_path": "/bWpODbbyliODgFBjn2e22qHh4Ey.jpg",
-      "release_date": "2011-10-12",
+      "id": 1110034,
+      "title": "Кракен",
+      "original_language": "no",
+      "original_title": "Kraken",
+      "overview": "Морской биолог Йоханна проводит исследование на рыбной ферме в Вангснесе, сельском поселении на берегу фьорда, и сталкивается с несколькими странными явлениями. Помимо жестокой расправы над двумя местными подростками, все указывает на глубины фьорда. Может ли там быть что-то, чего не видно глазу? На дне самого глубокого фьорда обитает мифическое чудовище размером с гору, с множеством щупалец, готовых раздавить и поглотить все, до чего они смогут дотянуться.",
+      "popularity": 48.963,
+      "poster_path": "/v9XPf3LUvM0NbPIKkz3bsRIqgYM.jpg",
+      "release_date": "2026-02-06",
       "softcore": false,
       "video": false,
-      "vote_average": 6.229,
-      "vote_count": 3182,
-      "belongs_to_collection": {
-        "id": 479888,
-        "name": "Нечто (Коллекция)",
-        "poster_path": "/kSGx0PHVXT0MmbzgO0YGMT34T2U.jpg",
-        "backdrop_path": "/lUPruOqjDhZrCKz9Ze2tCufPxHR.jpg"
-      },
-      "budget": 35000000,
+      "vote_average": 6.1,
+      "vote_count": 25,
+      "belongs_to_collection": null,
+      "budget": 1000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0905372",
+      "imdb_id": "tt19838566",
       "origin_country": [
-        "US"
+        "NO"
       ],
       "production_companies": [
         {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
+          "id": 119141,
+          "logo_path": "/bTHtOUdHmlzZdMDaCwXbERngUId.png",
+          "name": "Handmade films in Norwegian Woods",
+          "origin_country": "NO"
         },
         {
-          "id": 10210,
-          "logo_path": "/fmFmUxBijh8764GNSSIiwXYD83K.png",
-          "name": "Morgan Creek Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 655,
-          "logo_path": null,
-          "name": "Strike Entertainment",
-          "origin_country": "US"
+          "id": 38072,
+          "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+          "name": "Nordisk Film Norway",
+          "origin_country": "NO"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "NO",
+          "name": "Norway"
         }
       ],
-      "revenue": 31505287,
-      "runtime": 103,
+      "revenue": 14329678,
+      "runtime": 94,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1063,14 +536,92 @@
           "name": "Norsk"
         },
         {
-          "english_name": "Danish",
-          "iso_639_1": "da",
-          "name": "Dansk"
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
         }
       ],
       "status": "Released",
-      "tagline": "«Величайшее открытие человечества может стать последним»",
+      "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fR5Hkf4OH6aLExl2qP2ucMV2Xdt.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 11470,
+      "title": "Джейсон Х",
+      "original_language": "en",
+      "original_title": "Jason X",
+      "overview": "Группа студентов-археологов из новой колонии «Земля-2» прилетает на Старую Землю, давно уже ставшую токсичной пустыней, чтобы исследовать древние останки прошлых цивилизаций. Студенты находят два замороженных криогеном тела, хранящихся около 400 лет в старом исследовательском центре.  Обрадованная своей находкой команда забирает тела с собой. Одно их тел принадлежит серийному убийце Джейсону Вурхису. Студенты не подозревают, с какой смертельной опасностью им предстоит столкнуться, хотя дальнейшее развитие событий не трудно предугадать. Джейсон самостоятельно реанимируется прямо на корабле и, быстро расправившись с небольшим отрядом спецназа, начинает охоту на студентов…",
+      "popularity": 4.3746,
+      "poster_path": "/cvi0PY9gHQbWAGghRoP4HQP4BWf.jpg",
+      "release_date": "2001-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.854,
+      "vote_count": 1500,
+      "belongs_to_collection": {
+        "id": 9735,
+        "name": "Пятница 13-е (Коллекция)",
+        "poster_path": "/p3fJC9R4pCj5Vw0gP7Di0GZts9Z.jpg",
+        "backdrop_path": "/yz9EdlfKU8bpN0hbdJMy6QkFBoN.jpg"
+      },
+      "budget": 11000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0211443",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 21783,
+          "logo_path": "/4iJR3l3eZ6vLwy2v8XLMGb0rADg.png",
+          "name": "Crystal Lake Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 17611,
+          "logo_path": null,
+          "name": "Sean S. Cunningham Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 17077882,
+      "runtime": 91,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Зло совершенствуется»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -1543,67 +1094,310 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/m249ll0TW8rjwPlhZKGIduno6F5.jpg",
+      "backdrop_path": "/ryynYdXgP2vLZKH3154bLkNp1kx.jpg",
       "genre_ids": [
         27,
-        28,
-        53
+        53,
+        878
       ],
-      "id": 1110034,
-      "title": "Кракен",
-      "original_language": "no",
-      "original_title": "Kraken",
-      "overview": "Морской биолог Йоханна проводит исследование на рыбной ферме в Вангснесе, сельском поселении на берегу фьорда, и сталкивается с несколькими странными явлениями. Помимо жестокой расправы над двумя местными подростками, все указывает на глубины фьорда. Может ли там быть что-то, чего не видно глазу? На дне самого глубокого фьорда обитает мифическое чудовище размером с гору, с множеством щупалец, готовых раздавить и поглотить все, до чего они смогут дотянуться.",
-      "popularity": 48.963,
-      "poster_path": "/v9XPf3LUvM0NbPIKkz3bsRIqgYM.jpg",
-      "release_date": "2026-02-06",
-      "softcore": false,
+      "id": 1272837,
+      "original_language": "en",
+      "original_title": "28 Years Later: The Bone Temple",
+      "overview": "Доктор Келсон вступает в опасный союз, который может перекроить будущее человечества. Тем временем Спайк попадает в ловушку Джимми Кристала и превращает собственную жизнь в кошмар, из которого нет выхода. Но настоящая угроза — не заражённые. Самые страшные монстры уже среди выживших, и их жестокость страшнее любого вируса",
+      "popularity": 32.3189,
+      "poster_path": "/lCel0uHnVgCGihg4xrWSPzOMnV4.jpg",
+      "release_date": "2026-01-14",
+      "title": "28 лет спустя: Храм костей",
       "video": false,
-      "vote_average": 6.1,
-      "vote_count": 25,
-      "belongs_to_collection": null,
-      "budget": 1000000,
+      "vote_average": 7.253,
+      "vote_count": 328,
+      "belongs_to_collection": {
+        "id": 1565,
+        "name": "28 дней (Коллекция)",
+        "poster_path": "/rkFqzEiZZoccSbeDigGnIlF4iM0.jpg",
+        "backdrop_path": "/liImaqVpPGo3ddLWkJPeJxvaqCI.jpg"
+      },
+      "budget": 63000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
           "id": 53,
           "name": "триллер"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt19838566",
+      "imdb_id": "tt32141377",
       "origin_country": [
-        "NO"
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 119141,
-          "logo_path": "/bTHtOUdHmlzZdMDaCwXbERngUId.png",
-          "name": "Handmade films in Norwegian Woods",
-          "origin_country": "NO"
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
         },
         {
-          "id": 38072,
-          "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
-          "name": "Nordisk Film Norway",
-          "origin_country": "NO"
+          "id": 22213,
+          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+          "name": "TSG Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 284,
+          "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
+          "name": "DNA Films",
+          "origin_country": "GB"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "NO",
-          "name": "Norway"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 14329678,
-      "runtime": 94,
+      "revenue": 58586229,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Страх - это новая вера»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
+      "genre_ids": [
+        878,
+        27,
+        35
+      ],
+      "id": 1159831,
+      "original_language": "en",
+      "original_title": "The Bride!",
+      "overview": "Одинокий Франкенштейн отправляется в Чикаго 1930‑ых годов, чтобы попросить учёного‑новатора доктора Эуфрониуса создать ему спутницу. Вдвоём они оживляют убитую молодую женщину, и рождается Невеста. Но то, что происходит дальше, превосходит все их ожидания.",
+      "popularity": 67.5342,
+      "poster_path": "/rlDfJgiAflgvDF2Zers1t8cHurB.jpg",
+      "release_date": "2026-03-04",
+      "title": "Невеста!",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 16,
+      "belongs_to_collection": null,
+      "budget": 80000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt30851137",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 206484,
+          "logo_path": null,
+          "name": "First Love Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 275188,
+          "logo_path": null,
+          "name": "In The Current Company",
+          "origin_country": ""
+        },
+        {
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 126,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«А вот и невеста!»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wNW576H4HtGy3kQHDeI4x8uHEZ3.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 419479,
+      "title": "Няня",
+      "original_language": "en",
+      "original_title": "The Babysitter",
+      "overview": "Коул по уши влюблён в свою няню Би, красивую, весёлую и популярную девушку. Однажды ночью мальчишка решает не ложиться спать и проследить за ней. Но события принимают неожиданный поворот: няня оказывается хладнокровной убийцей, служащей самому дьяволу.",
+      "popularity": 4.3984,
+      "poster_path": "/xMTu94081P6HL9pDEVHBEF0QUIC.jpg",
+      "release_date": "2017-10-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.181,
+      "vote_count": 3887,
+      "belongs_to_collection": {
+        "id": 737382,
+        "name": "Няня (Колллекция)",
+        "poster_path": "/ddQPvK8QzFnhZRpwrulgbU9pLHZ.jpg",
+        "backdrop_path": "/zOlhpQ5sP01iS1h9NCp6hZrEzAC.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4225622",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 4022,
+          "logo_path": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+          "name": "Wonderland Sound and Vision",
+          "origin_country": "US"
+        },
+        {
+          "id": 17866,
+          "logo_path": "/b6UEnuBOYgnsrq6VulNLlP5v5rz.png",
+          "name": "Boies/Schiller Film Group",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 99,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "\"Девушки мечты могут стать кошмаром\"",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v8VqsjdJfxYSNDGIQpbULPu11kS.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1426356,
+      "title": "Тапок сатаны",
+      "original_language": "en",
+      "original_title": "La Chancla Del Diablo",
+      "overview": "Роза - мать-одиночка двух мальчиков. Воспитывая их в маленьком городке на севере Техаса, она полагается на проверенное средство: свой верный шлёпанец. Когда после очередной детской шалости и последующего наказания шлёпанец ломается, Роза отправляется в местный магазин и покупает новую пару. Что может пойти не так? Многое, если один из шлёпанцев одержим злым духом, который хочет убивать.",
+      "popularity": 0.0481,
+      "poster_path": "/gJq5UGydPVFzTrOmb5YqK1s5xYg.jpg",
+      "release_date": "2024-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt21235290",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 18643,
+          "logo_path": null,
+          "name": "La Luna Entertainment",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1611,14 +1405,9 @@
           "name": "English"
         },
         {
-          "english_name": "Norwegian",
-          "iso_639_1": "no",
-          "name": "Norsk"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
@@ -1631,56 +1420,212 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fR5Hkf4OH6aLExl2qP2ucMV2Xdt.jpg",
+      "backdrop_path": "/jdy2Q1JTKun986X6XOLWzGr7XB4.jpg",
       "genre_ids": [
-        27,
-        878
+        27
       ],
-      "id": 11470,
-      "title": "Джейсон Х",
+      "id": 1189885,
+      "title": "Мумия. Возрождение зла",
       "original_language": "en",
-      "original_title": "Jason X",
-      "overview": "Группа студентов-археологов из новой колонии «Земля-2» прилетает на Старую Землю, давно уже ставшую токсичной пустыней, чтобы исследовать древние останки прошлых цивилизаций. Студенты находят два замороженных криогеном тела, хранящихся около 400 лет в старом исследовательском центре.  Обрадованная своей находкой команда забирает тела с собой. Одно их тел принадлежит серийному убийце Джейсону Вурхису. Студенты не подозревают, с какой смертельной опасностью им предстоит столкнуться, хотя дальнейшее развитие событий не трудно предугадать. Джейсон самостоятельно реанимируется прямо на корабле и, быстро расправившись с небольшим отрядом спецназа, начинает охоту на студентов…",
-      "popularity": 4.3746,
-      "poster_path": "/cvi0PY9gHQbWAGghRoP4HQP4BWf.jpg",
-      "release_date": "2001-11-09",
+      "original_title": "The Morrigan",
+      "overview": "Успешный археолог Фиона стоит на пороге большого открытия. Она нашла способ доказать, является ли языческая богиня Морриган историческим персонажем или мифическим демоном. Вместе со своей дочерью Лили она отправляется на так называемый остров мумий. Но после вскрытия саркофага Морриган на острове и с Лили начинают твориться жуткие вещи. Фионе и ее команде придется докопаться до древней тайны, чтобы остановить первобытное зло и спасти дочь.",
+      "popularity": 1.5234,
+      "poster_path": "/3J1KBwYeedUl8l6MGzvHkz1IyXh.jpg",
+      "release_date": "2026-04-09",
       "softcore": false,
       "video": false,
-      "vote_average": 4.854,
-      "vote_count": 1500,
-      "belongs_to_collection": {
-        "id": 9735,
-        "name": "Пятница 13-е (Коллекция)",
-        "poster_path": "/p3fJC9R4pCj5Vw0gP7Di0GZts9Z.jpg",
-        "backdrop_path": "/yz9EdlfKU8bpN0hbdJMy6QkFBoN.jpg"
-      },
-      "budget": 11000000,
+      "vote_average": 4,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0211443",
+      "imdb_id": "tt29423057",
+      "origin_country": [
+        "GB",
+        "XI"
+      ],
+      "production_companies": [
+        {
+          "id": 248409,
+          "logo_path": "/njO6Ny1AmG4KzNe5qpKLP2QgLAE.png",
+          "name": "Cowboy Cosmonaut Films",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "XI",
+          "name": "Northern Ireland"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Irish",
+          "iso_639_1": "ga",
+          "name": "Gaeilge"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6PKtrsAGNKOFKbdRkdKlKQLQInT.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 12517,
+      "title": "Мучение",
+      "original_language": "fr",
+      "original_title": "Calvaire",
+      "overview": "За несколько дней до Рождества у путешествующего по стране певца Марка ломается фургончик. Причём, ломается ни где-нибудь, а в туманной, лесисто-болотистой местности. Возникший из ниоткуда некий странный тип проводит Марка до ближайшей захудалой ночлежки. Хозяин сдаёт Марку комнату на ночь и обещает помочь с починкой фургона. Кроме всего прочего, он наказывает ни при каких обстоятельствах не посещать близлежащую деревню.",
+      "popularity": 1.3083,
+      "poster_path": "/opcj7nv96MwCjC25VJMgAxrYDOk.jpg",
+      "release_date": "2005-03-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.923,
+      "vote_count": 357,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0407621",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 3921,
+          "logo_path": "/n9mFExi3q5F1IFoFgKdm8dfJ6wP.png",
+          "name": "The Film",
+          "origin_country": "FR"
+        },
+        {
+          "id": 694,
+          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+          "name": "StudioCanal",
+          "origin_country": "FR"
+        },
+        {
+          "id": 2565,
+          "logo_path": "/i7ecMuPlAvNJjg9Rp26gJWzeEmu.png",
+          "name": "La Parti Production",
+          "origin_country": "BE"
+        },
+        {
+          "id": 112836,
+          "logo_path": "/rfmlWuH9lxt9pgQetWbNwZKSXvZ.png",
+          "name": "Tarantula",
+          "origin_country": "LU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "LU",
+          "name": "Luxembourg"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 88,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r7AKQ0OB69JOPskeTWL3U206ehY.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 855435,
+      "title": "Лики смерти",
+      "original_language": "en",
+      "original_title": "Faces of Death",
+      "overview": "Девушка, которая работает модератором онлайн-площадки для размещения и просмотра видео, сталкивается с серией жестоких видео, воссоздающих сцены смерти из фильма.",
+      "popularity": 34.925,
+      "poster_path": "/5KDjg1jZPCYDvDeevV9U5o6YdVf.jpg",
+      "release_date": "2026-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.563,
+      "vote_count": 16,
+      "belongs_to_collection": null,
+      "budget": 7400000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt14619456",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 21783,
-          "logo_path": "/4iJR3l3eZ6vLwy2v8XLMGb0rADg.png",
-          "name": "Crystal Lake Entertainment",
+          "id": 923,
+          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+          "name": "Legendary Pictures",
           "origin_country": "US"
         },
         {
-          "id": 17611,
-          "logo_path": null,
-          "name": "Sean S. Cunningham Films",
+          "id": 12087,
+          "logo_path": "/v4slnCQ0ICN69s1ihRR1WqjGjhd.png",
+          "name": "Angry Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 89115,
+          "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+          "name": "Divide / Conquer",
           "origin_country": "US"
         }
       ],
@@ -1690,8 +1635,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 17077882,
-      "runtime": 91,
+      "revenue": 1647717,
+      "runtime": 97,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1700,7 +1645,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Зло совершенствуется»",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
