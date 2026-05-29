@@ -5,53 +5,181 @@
   },
   "page": 8,
   "limit": 20,
-  "total": 155,
+  "total": 156,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/gnhr2vqd7pgkTJz3v0n6CNUQS94.jpg",
+      "backdrop_path": "/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg",
       "genre_ids": [
+        35,
         18
       ],
-      "id": 134215,
-      "title": "Героиня",
+      "id": 10757,
+      "title": "И в печали, и в радости..",
       "original_language": "hi",
-      "original_title": "Heroine",
-      "overview": "Блеск славы испокон веков манил к себе людей. Но опалял крылья мотылькам, осмелившимся подлететь слишком близко. Махи Арора, кинозвезда… и обратная сторона медали под названием «Болливуд».",
-      "popularity": 0.5624,
-      "poster_path": "/v1QyMNUpbWJwrU0OlI3uLivrENZ.jpg",
-      "release_date": "2012-09-21",
+      "original_title": "कभी ख़ुशी कभी ग़म",
+      "overview": "У богатого бизнесмена и его жены два сына - приемный Рахул и родной Рохан. Рахул дружит с Нэйной, которая влюблена в него, и отец предполагает поженить их. Но Рахул встречает Анджали - симпатичную девушку, живущую в бедном районе, и влюбляется в нее. Несмотря на данное отцу обещание отказаться от девушки, Рахул тайно женится на ней, чем вызывает гнев и проклятия отца. Рахул покидает родной дом и уезжает в Лондон. Проходит 10 лет. Подросший Рохан, чудом превратившийся из неповоротливого толстяка и обжоры в атлета и красавца, узнает о конфликте между отцом и братом и клянется вернуть брата в семью.",
+      "popularity": 4.0176,
+      "poster_path": "/lQ5Ys0h40SH0vdACPo27yLycMnr.jpg",
+      "release_date": "2001-12-14",
       "softcore": false,
       "video": false,
-      "vote_average": 5,
-      "vote_count": 44,
+      "vote_average": 7.659,
+      "vote_count": 600,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 7500000,
       "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
         {
           "id": 18,
           "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1949548",
+      "imdb_id": "tt0248126",
+      "origin_country": [
+        "IN",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 19146,
+          "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+          "name": "Dharma Productions",
+          "origin_country": "IN"
+        },
+        {
+          "id": 1569,
+          "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+          "name": "Yash Raj Films",
+          "origin_country": "IN"
+        },
+        {
+          "id": 120404,
+          "logo_path": null,
+          "name": "British Film Commission",
+          "origin_country": "GB"
+        },
+        {
+          "id": 209899,
+          "logo_path": null,
+          "name": "K3G Films Limited",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 11336308,
+      "runtime": 209,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gRoZG3Z0zJxgElmTsVHOl2dNYXe.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1582770,
+      "title": "Специалист: Месть",
+      "original_language": "hi",
+      "original_title": "धुरंधर: द रिवेंज",
+      "overview": "По мере того как враждующие банды, коррумпированные чиновники и безжалостный майор Икбал начинают преследовать Хамзу, его миссия на благо страны перерастает в кровавую личную войну, где на улицах Лиари стирается грань между патриотом и чудовищем.",
+      "popularity": 48.3122,
+      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "release_date": "2026-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.359,
+      "vote_count": 71,
+      "belongs_to_collection": {
+        "id": 1628043,
+        "name": "धुरंधर Collection",
+        "poster_path": "/r4w2Ps0QN9wzMHDepRoj4H7tAM.jpg",
+        "backdrop_path": "/4Xv36ZwubtUn6JlIKoKDdhZj565.jpg"
+      },
+      "budget": 22500000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt39139925",
       "origin_country": [
         "IN"
       ],
-      "production_companies": [],
+      "production_companies": [
+        {
+          "id": 115477,
+          "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+          "name": "Jio Studios",
+          "origin_country": "IN"
+        },
+        {
+          "id": 212774,
+          "logo_path": null,
+          "name": "B62 Studios",
+          "origin_country": "IN"
+        }
+      ],
       "production_countries": [
         {
           "iso_3166_1": "IN",
           "name": "India"
         }
       ],
-      "revenue": 0,
-      "runtime": 140,
+      "revenue": 210000000,
+      "runtime": 229,
       "spoken_languages": [
         {
           "english_name": "Hindi",
           "iso_639_1": "hi",
           "name": "हिन्दी"
+        },
+        {
+          "english_name": "Punjabi",
+          "iso_639_1": "pa",
+          "name": "ਪੰਜਾਬੀ"
         }
       ],
       "status": "Released",
@@ -133,6 +261,78 @@
           "english_name": "Tamil",
           "iso_639_1": "ta",
           "name": "தமிழ்"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eJD6RzWXN4iHeVLOfIPphczQiw9.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 51216,
+      "title": "Непокорившийся судьбе",
+      "original_language": "hi",
+      "original_title": "ग़ुलाम",
+      "overview": "Волею случая старший брат Сиддхартха Джай попадает в бандитскую группировку и главарь банды делает его правой рукой. Однажды Сиддхартх становится невольным свидетелем убийства людьми из этой группировки брата своей подружки. Теперь ему необходимо найти в себе мужество не подчиниться воле брата и включиться в борьбу против бандитов...",
+      "popularity": 0.8772,
+      "poster_path": "/eYzobUuVCFatyvTj1nASpIq6Vpx.jpg",
+      "release_date": "1998-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.282,
+      "vote_count": 62,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0190419",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 83145,
+          "logo_path": "/nf8VCbn5ctoU7ihWKPWGAYVGhrW.png",
+          "name": "NH Studioz",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 162,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
         }
       ],
       "status": "Released",
@@ -1104,78 +1304,6 @@
           "iso_639_1": "en",
           "name": "English"
         },
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/eJD6RzWXN4iHeVLOfIPphczQiw9.jpg",
-      "genre_ids": [
-        80,
-        18,
-        28
-      ],
-      "id": 51216,
-      "title": "Непокорившийся судьбе",
-      "original_language": "hi",
-      "original_title": "ग़ुलाम",
-      "overview": "Волею случая старший брат Сиддхартха Джай попадает в бандитскую группировку и главарь банды делает его правой рукой. Однажды Сиддхартх становится невольным свидетелем убийства людьми из этой группировки брата своей подружки. Теперь ему необходимо найти в себе мужество не подчиниться воле брата и включиться в борьбу против бандитов...",
-      "popularity": 0.8772,
-      "poster_path": "/eYzobUuVCFatyvTj1nASpIq6Vpx.jpg",
-      "release_date": "1998-06-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.282,
-      "vote_count": 62,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0190419",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 83145,
-          "logo_path": "/nf8VCbn5ctoU7ihWKPWGAYVGhrW.png",
-          "name": "NH Studioz",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 162,
-      "spoken_languages": [
         {
           "english_name": "Hindi",
           "iso_639_1": "hi",
