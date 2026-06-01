@@ -5,65 +5,64 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 124,
+  "total": 126,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/nyiiwNt5pHfjmf7DMU3yqsnc1Lh.jpg",
+      "backdrop_path": "/bWF5ImUscXXYia8owpm8coadR4m.jpg",
       "genre_ids": [
-        35,
-        27
+        28,
+        27,
+        10752
       ],
-      "id": 472338,
-      "title": "Виктор Кроули",
+      "id": 1257009,
       "original_language": "en",
-      "original_title": "Victor Crowley",
-      "overview": "В 2007 году девять человек были буквально разорваны на куски на болотах Луизианы. В течение последних десяти лет единственный выживший Эндрю Йонг продолжал твердить, будто эту резню учинил ужасный Виктор Кроули из местной легенды, однако парню никто не верил. И вот теперь судьба возвращает Эндрю к месту трагедии, чтобы столкнуть нос к носу с кровожадным призраком из прошлого.",
-      "popularity": 1.5697,
-      "poster_path": "/lcZtqUStEvS9y0bFZrO80oIUhJk.jpg",
-      "release_date": "2017-09-12",
-      "softcore": false,
+      "original_title": "Primitive War",
+      "overview": "Вьетнам. 1968 год. Разведывательный отряд «Стервятники» отправляется в труднодоступную долину в джунглях, чтобы выяснить судьбу пропавшего взвода сил специального назначения Армии США. Вскоре военные обнаруживают, что в долине находятся не только они.",
+      "popularity": 22.8877,
+      "poster_path": "/eRhA8xNKKAcuycC3e6WBvgu0bDo.jpg",
+      "release_date": "2025-08-21",
+      "title": "Первобытная война",
       "video": false,
-      "vote_average": 5.686,
-      "vote_count": 282,
-      "belongs_to_collection": {
-        "id": 124901,
-        "name": "Топор (Коллекция)",
-        "poster_path": "/3Y0JXGlLLYjlHVWUS50uwkSlxpL.jpg",
-        "backdrop_path": "/f3q5nrEJrhRFr0c2proh8Q9x4xx.jpg"
-      },
-      "budget": 400000,
+      "vote_average": 6.8,
+      "vote_count": 202,
+      "belongs_to_collection": null,
+      "budget": 0,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 27,
           "name": "ужасы"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt5534434",
+      "imdb_id": "tt18312380",
       "origin_country": [
-        "US"
+        "AU"
       ],
       "production_companies": [
         {
-          "id": 3960,
-          "logo_path": null,
-          "name": "ArieScope Pictures",
-          "origin_country": "US"
+          "id": 135020,
+          "logo_path": "/wqj9mXcpTrWs7yW6lrjYu37G0FC.png",
+          "name": "Sparke Films",
+          "origin_country": "AU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "AU",
+          "name": "Australia"
         }
       ],
-      "revenue": 0,
-      "runtime": 83,
+      "revenue": 217753,
+      "runtime": 133,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -81,48 +80,68 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/3GZaqiBRCc6gsP5fTVwGRtC6ICV.jpg",
       "genre_ids": [
-        53
+        27
       ],
-      "id": 1470424,
-      "original_language": "ru",
-      "original_title": "Голосовой помощник",
-      "overview": "Компания бывших однокурсников арендует загородный дом для того, чтобы отдохнуть, как в старые добрые времена. В современном шале есть всё для комфортного и весёлого отдыха, включая умную колонку «Алёна». «Алёна» знает, как развлечь своих постояльцев, у нее много «навыков». Она умеет решать головоломки, управлять домом, а ещё ей известны все «скелеты в шкафу», которые скрывают друзья. Устройство предлагает компании сыграть в игру «Найди убийцу» и выяснить обстоятельства смерти их лучшей подруги, которая погибла менее года назад при странных обстоятельствах.",
-      "popularity": 0.8271,
-      "poster_path": "/Aazw6ujSYylzKtZ9X124FXofZmX.jpg",
-      "release_date": "2025-11-06",
-      "title": "Голосовой помощник",
+      "id": 29107,
+      "title": "Гроздья смерти",
+      "original_language": "fr",
+      "original_title": "Les Raisins de la mort",
+      "overview": "Работники поливали виноградники какой-то гадостью, а после фестиваля молодого вина жители соседней деревни стали терять разум, гнить заживо и проявлять прочие повадки зомби.",
+      "popularity": 0.5777,
+      "poster_path": "/34J9DILoTmsFL2K9KeS7Q6pKtol.jpg",
+      "release_date": "1978-07-05",
+      "softcore": false,
       "video": false,
-      "vote_average": 7.25,
-      "vote_count": 2,
+      "vote_average": 5.8,
+      "vote_count": 103,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 27,
+          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": null,
+      "imdb_id": "tt0078077",
       "origin_country": [
-        "RU"
+        "FR"
       ],
-      "production_companies": [],
+      "production_companies": [
+        {
+          "id": 7996,
+          "logo_path": null,
+          "name": "Films A.B.C.",
+          "origin_country": ""
+        },
+        {
+          "id": 9127,
+          "logo_path": null,
+          "name": "Off Production",
+          "origin_country": ""
+        },
+        {
+          "id": 17908,
+          "logo_path": null,
+          "name": "Rush Production",
+          "origin_country": "FR"
+        }
+      ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
       "revenue": 0,
-      "runtime": 104,
+      "runtime": 85,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
@@ -135,67 +154,99 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/dAFKnTzyOBbZyRCAb33F632ctva.jpg",
+      "backdrop_path": "/wTnFy6B5QCeRgjgCGBGlZaDESJ1.jpg",
       "genre_ids": [
-        27,
-        18,
-        10749
+        27
       ],
-      "id": 10395,
-      "title": "Волк",
+      "id": 484437,
       "original_language": "en",
-      "original_title": "Wolf",
-      "overview": "Уил Рэндал живет двойной жизнью. Днем — он преуспевающий книгоиздатель, ночью — порождение преисподней, зверь, убивающий все живое. Но такая жизнь не угнетает его — он безнаказан и свободен, а инстинкты хищника только помогают ему жить. Он только на первый взгляд обычный человек, взгляните ему в глаза — это глаза волка!",
-      "popularity": 2.6021,
-      "poster_path": "/xZoHDvSb6Ne6KvWfpK9xeSU6Uzv.jpg",
-      "release_date": "1994-06-17",
-      "softcore": false,
+      "original_title": "The Hole in the Ground",
+      "overview": "Сара поселяется со своим сыном Крисом на окраине небольшого городка. Пугающая встреча с таинственным соседом повергает ее в состояние паранойи и недоверия. Она пытается понять, связаны ли тревожные изменения, происходящие с ее ребенком, со зловещей дырой, похороненной в чаще леса, примыкающего к ее дому.",
+      "popularity": 1.3211,
+      "poster_path": "/bkACoqRx4ILZYT1nabc7z1HVQU.jpg",
+      "release_date": "2019-03-01",
+      "title": "Другой",
       "video": false,
-      "vote_average": 6.142,
-      "vote_count": 1007,
+      "vote_average": 5.637,
+      "vote_count": 730,
       "belongs_to_collection": null,
-      "budget": 70000000,
+      "budget": 0,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0111742",
+      "imdb_id": "tt6198946",
       "origin_country": [
-        "US"
+        "IE",
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
+          "id": 61922,
+          "logo_path": "/aGPysvtFfH8d8UjekpZD3GT9m7k.png",
+          "name": "Bankside Films",
+          "origin_country": "GB"
         },
         {
-          "id": 215893,
-          "logo_path": null,
-          "name": "Douglas Wick Productions",
-          "origin_country": "US"
+          "id": 53509,
+          "logo_path": "/xmJMAss7BDsQPvODjYkDQKiNhUX.png",
+          "name": "Wrong Men",
+          "origin_country": "BE"
+        },
+        {
+          "id": 5056,
+          "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+          "name": "Head Gear Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 25954,
+          "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+          "name": "Metrol Technology",
+          "origin_country": "GB"
+        },
+        {
+          "id": 45732,
+          "logo_path": "/Lp13ZZW7Gc3syx1J2DdqAoU0dT.png",
+          "name": "Savage Productions",
+          "origin_country": "IE"
+        },
+        {
+          "id": 16214,
+          "logo_path": "/uPBm0dQNLBQ6CLbigDonXqKkA9Z.png",
+          "name": "Made",
+          "origin_country": "FI"
+        },
+        {
+          "id": 129815,
+          "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+          "name": "Wild Atlantic Pictures",
+          "origin_country": "IE"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        },
+        {
+          "iso_3166_1": "FI",
+          "name": "Finland"
+        },
+        {
+          "iso_3166_1": "IE",
+          "name": "Ireland"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
-      "revenue": 131002597,
-      "runtime": 125,
+      "revenue": 3373474,
+      "runtime": 90,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -264,89 +315,6 @@
       ],
       "revenue": 0,
       "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vsxNRlyovcME4gLl7xkXAvx1c2h.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12,
-        27
-      ],
-      "id": 1477953,
-      "title": "Юрский период: Возрождение",
-      "original_language": "en",
-      "original_title": "Jurassic Reborn",
-      "overview": "На острове Махака воссозданные велоцирапторы мутируют, превращаясь в неуязвимых гигантов за считанные часы. Система защиты отключена, пули бесполезны, а до эвакуации — 90 минут. Группе ученых нужно преодолеть путь до порта, пока они не превратились из исследователей в добычу.",
-      "popularity": 0.6784,
-      "poster_path": "/epZChWdhnWKMjqYIFZIAVZkCogd.jpg",
-      "release_date": "2025-06-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.3,
-      "vote_count": 15,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36827466",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1311,
-          "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
-          "name": "The Asylum",
-          "origin_country": "US"
-        },
-        {
-          "id": 162087,
-          "logo_path": null,
-          "name": "Atomic Blonde Entertainment",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 83,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -987,82 +955,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/n4Vd7XfTsTaO7Mmc68WiktyLXQo.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1193501,
-      "original_language": "en",
-      "original_title": "Whistle",
-      "overview": "Компания старшеклассников навлекает на себя смертельную опасность, обнаружив ацтекский свисток смерти, чей звук пробуждает и призывает их погибель. По мере того, как число жертв растёт, они изучают историю артефакта в надежде остановить роковую цепь событий, которую они невольно запустили.",
-      "popularity": 28.844,
-      "poster_path": "/4xAYiKP2yRwr2AegWeBepC5xLcL.jpg",
-      "release_date": "2026-01-20",
-      "title": "Свист",
-      "video": false,
-      "vote_average": 6.196,
-      "vote_count": 46,
-      "belongs_to_collection": null,
-      "budget": 2000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt29550683",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 35846,
-          "logo_path": "/tOJlsgZNRdMurnJgSiuRFIUz0te.png",
-          "name": "No Trace Camping",
-          "origin_country": "US"
-        },
-        {
-          "id": 129815,
-          "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
-          "name": "Wild Atlantic Pictures",
-          "origin_country": "IE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IE",
-          "name": "Ireland"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 2568027,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/1eJt8dcoraOUKGH2DOFiBCvEK3f.jpg",
       "genre_ids": [
         27,
@@ -1162,25 +1054,25 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/14ZaCEaHGe1wgGCbQaKAPp4YdWe.jpg",
+      "backdrop_path": "/lLxz3D3LBhyO3q9F0eBqSjepoD4.jpg",
       "genre_ids": [
         27,
         9648
       ],
-      "id": 571384,
-      "title": "Приходи поиграть",
+      "id": 24913,
+      "title": "День дурака",
       "original_language": "en",
-      "original_title": "Come Play",
-      "overview": "Аутист Оливер не очень любит проводить время с ровесниками, его лучшие друзья - планшет и телефон. У Ларри тоже нет настоящих друзей, и он очень хочет подружиться с Оливером. И всё бы ничего, но Ларри - злая потусторонняя сущность, которая жаждет пробраться в этот мир с помощью мобильных устройств.",
-      "popularity": 1.976,
-      "poster_path": "/fzuZkO3bhpC8bc0c5qaw8zGDsw.jpg",
-      "release_date": "2020-10-28",
+      "original_title": "April Fool's Day",
+      "overview": "Когда Маффи приглашает друзей по колледжу в родительский дом на острове, она просто забывает предупредить их, что это может оказаться последним приглашением в их жизни. Как только друзья приезжают на остров, кто-то начинает корректировать список приглашенных — и гости исчезают один за другим. Безобидные розыгрыши, традиционные в День дурака, превращаются в кровавый марафон на выживание.",
+      "popularity": 1.3534,
+      "poster_path": "/mifblvkheMj7Cht4kW2ZXU8q2ox.jpg",
+      "release_date": "1986-03-27",
       "softcore": false,
       "video": false,
-      "vote_average": 6.399,
-      "vote_count": 738,
+      "vote_average": 6.1,
+      "vote_count": 385,
       "belongs_to_collection": null,
-      "budget": 9000000,
+      "budget": 5000000,
       "genres": [
         {
           "id": 27,
@@ -1192,28 +1084,29 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt8004664",
+      "imdb_id": "tt0090655",
       "origin_country": [
+        "CA",
         "US"
       ],
       "production_companies": [
         {
-          "id": 121685,
-          "logo_path": "/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png",
-          "name": "Amblin Partners",
-          "origin_country": "US"
+          "id": 77507,
+          "logo_path": null,
+          "name": "YCTM",
+          "origin_country": ""
         },
         {
-          "id": 99132,
-          "logo_path": "/oKjgNvaMndJiBmcngrSWPWb8VYO.png",
-          "name": "The Picture Company",
-          "origin_country": "US"
+          "id": 52760,
+          "logo_path": null,
+          "name": "Hometown Films",
+          "origin_country": ""
         },
         {
-          "id": 7294,
-          "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
-          "name": "Reliance Entertainment",
-          "origin_country": "IN"
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -1222,8 +1115,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 13182254,
-      "runtime": 96,
+      "revenue": 0,
+      "runtime": 89,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1232,8 +1125,235 @@
         }
       ],
       "status": "Released",
-      "tagline": "Он умеет заводить друзей.",
-      "release_quality": "",
+      "tagline": "«Last one out's... a goner»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6AYl4PU29o2WXUPZzAo56GVQs5r.jpg",
+      "genre_ids": [
+        53,
+        18,
+        9648
+      ],
+      "id": 1381027,
+      "original_language": "en",
+      "original_title": "The Good Boy",
+      "overview": "Молодой хулиган Томми привык к жизни, полной порока и безнаказанности. Но после очередного загула он приходит в себя в подвале загородного дома с цепью на шее. Его похитители — странноватая семья, решившая радикально перевоспитать избалованного преступника. Чтобы выбраться на свободу, Томми придётся пройти череду изощренных психологических игр и стать по-настоящему другим человеком.",
+      "popularity": 39.5575,
+      "poster_path": "/9xo5lg5spzas1RUuV4iRuqgb2u7.jpg",
+      "release_date": "2026-03-06",
+      "title": "На цепи",
+      "video": false,
+      "vote_average": 8.033,
+      "vote_count": 15,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34381258",
+      "origin_country": [
+        "PL"
+      ],
+      "production_companies": [
+        {
+          "id": 11561,
+          "logo_path": "/8HB3TFUeo83keAPHfFfrNtN2MmA.png",
+          "name": "Recorded Picture Company",
+          "origin_country": "GB"
+        },
+        {
+          "id": 6265,
+          "logo_path": "/aXBnwAW7fzntkENZXIEo869etGw.png",
+          "name": "Skopia Film",
+          "origin_country": "PL"
+        },
+        {
+          "id": 2466,
+          "logo_path": "/596Eq7ivA0DpNfB5zzDU7yMeTB4.png",
+          "name": "Wytwórnia Filmów Dokumentalnych i Fabularnych",
+          "origin_country": "PL"
+        },
+        {
+          "id": 277343,
+          "logo_path": null,
+          "name": "Venatu Capital",
+          "origin_country": "PL"
+        },
+        {
+          "id": 250,
+          "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+          "name": "CANAL+ Polska",
+          "origin_country": "PL"
+        },
+        {
+          "id": 233704,
+          "logo_path": "/hXwh3n5q2ubbBwPTZG4UeYIJ56c.png",
+          "name": "TVN Warner Bros. Discovery",
+          "origin_country": "PL"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "PL",
+          "name": "Poland"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 310131,
+      "title": "Ведьма",
+      "original_language": "en",
+      "original_title": "The Witch",
+      "overview": "В 1630 году семья колонистов покидает плантацию, чтобы жить на уединенной ферме рядом с лесом в Новой Англии. Но вскоре младший ребёнок, ещё младенец, исчезает.",
+      "popularity": 8.3356,
+      "poster_path": "/hYDeKltfueY8CC4kqaBfAKQ9BXK.jpg",
+      "release_date": "2016-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.001,
+      "vote_count": 7627,
+      "belongs_to_collection": null,
+      "budget": 4000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4263482",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 79436,
+          "logo_path": null,
+          "name": "Very Special Projects",
+          "origin_country": ""
+        },
+        {
+          "id": 6531,
+          "logo_path": null,
+          "name": "Parts & Labor",
+          "origin_country": "US"
+        },
+        {
+          "id": 30666,
+          "logo_path": "/g8LmDZVFWDRJW72sj0nAj1gh8ac.png",
+          "name": "RT Features",
+          "origin_country": "BR"
+        },
+        {
+          "id": 34456,
+          "logo_path": "/8M1gePvKplgyHRD5WWfONbWOAuk.png",
+          "name": "Rooks Nest Entertainment",
+          "origin_country": "GB"
+        },
+        {
+          "id": 41641,
+          "logo_path": "/rBlfMlCcxulmS25zTQwmXDHZmnB.png",
+          "name": "Maiden Voyage Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 57430,
+          "logo_path": "/a637H7tJRLC9fdECq3vulT7W4jC.png",
+          "name": "Pulse Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 61011,
+          "logo_path": "/kDPeollsOtUtGqqEF4P29NwEjf5.png",
+          "name": "Scythia Films",
+          "origin_country": "CA"
+        },
+        {
+          "id": 79434,
+          "logo_path": "/Arvz4tu5nMsQyuNxXsbPh4jrMms.png",
+          "name": "Code Red Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 79435,
+          "logo_path": null,
+          "name": "Mott Street Pictures",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BR",
+          "name": "Brazil"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 40423945,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Сказка Новой-Англии»",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -1251,7 +1371,7 @@
       "original_language": "en",
       "original_title": "Bedlam",
       "overview": "1761 год. Лондон. Город содрогается только от одной мысли о Бедламе, так называют горожане — Лечебницу для душевнобольных святой Марии Вифлеемской, которой управляет главный врач и директор больницы Мастер Симс. При виде этого человека любой горожанин впадает в оцепенение, будь он даже сам Лорд Мортимер.  Этот страшный врач устроил из лечебницы настоящий театр абсурда, в котором поставленные им спектакли играют душевнобольные люди, истязаемые голодом и пытками. Вельможи и знать, когда приходят в больницу платят директору плату как за посещение настоящего театра, ведь психи-актеры, так забавляют здоровых людей.  Но есть и сострадающие больным люди, эти порядочные граждане, которые посмели вступить с жутким директором в схватку, но бой был неравный. Ведь Мастер Симс легко может одолеть любого правдоискателя, объявив его душевнобольным и помочь ему, затем уйти из жизни, инсценировав самоубийство, недаром Симс обладает изрядным театральным талантом...",
-      "popularity": 0.7868,
+      "popularity": 0.9554,
       "poster_path": "/rDYbo7kSkVjdKMAdJwN4pOMO6z1.jpg",
       "release_date": "1946-05-10",
       "softcore": false,
@@ -1592,55 +1712,67 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/dAFKnTzyOBbZyRCAb33F632ctva.jpg",
       "genre_ids": [
         27,
-        53
+        18,
+        10749
       ],
-      "id": 1528625,
+      "id": 10395,
+      "title": "Волк",
       "original_language": "en",
-      "original_title": "The Grieving",
-      "overview": "После смерти отца Миа приезжает в его дом, в котором вскоре начинает твориться нечто необъяснимое. После того, как она открывает урну с прахом, чтобы положить туда обручальное кольцо, сверхъестественные явления усиливаются. В поисках помощи она обращается к опытному медиуму.",
-      "popularity": 0.5728,
-      "poster_path": "/fxcRbARtthrwelaGOjIZd1ZB93j.jpg",
-      "release_date": "2026-02-12",
-      "title": "Верни меня из мёртвых",
+      "original_title": "Wolf",
+      "overview": "Уил Рэндал живет двойной жизнью. Днем — он преуспевающий книгоиздатель, ночью — порождение преисподней, зверь, убивающий все живое. Но такая жизнь не угнетает его — он безнаказан и свободен, а инстинкты хищника только помогают ему жить. Он только на первый взгляд обычный человек, взгляните ему в глаза — это глаза волка!",
+      "popularity": 2.6021,
+      "poster_path": "/xZoHDvSb6Ne6KvWfpK9xeSU6Uzv.jpg",
+      "release_date": "1994-06-17",
+      "softcore": false,
       "video": false,
-      "vote_average": 4,
-      "vote_count": 1,
+      "vote_average": 6.142,
+      "vote_count": 1007,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 70000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt32270641",
+      "imdb_id": "tt0111742",
       "origin_country": [
-        "IT"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 270820,
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 215893,
           "logo_path": null,
-          "name": "T3 Directors S.r.l.",
-          "origin_country": ""
+          "name": "Douglas Wick Productions",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IT",
-          "name": "Italy"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 95,
+      "revenue": 131002597,
+      "runtime": 125,
       "spoken_languages": [
         {
           "english_name": "English",
