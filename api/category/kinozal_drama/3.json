@@ -5,28 +5,201 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 143,
+  "total": 141,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/wlP3Sjw5WVvjsi2CGFp84QwrZZC.jpg",
+      "backdrop_path": "/eF7TVhcMLo1Upt7ex4sX2ZsITz4.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        36
+      ],
+      "id": 1365683,
+      "title": "Любимая ученица Вивальди",
+      "original_language": "it",
+      "original_title": "Primavera",
+      "overview": "Начало XVIII века, Оспедале-делла-Пьета. Талантливая скрипачка Чечилия воспитывается в приюте, куда приезжает новый преподаватель по скрипке Антонио Вивальди. Под его наставничеством девушка обретает смелость изменить судьбу и следовать своей мечте.",
+      "popularity": 6.5985,
+      "poster_path": "/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg",
+      "release_date": "2025-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.155,
+      "vote_count": 55,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33586629",
+      "origin_country": [
+        "IT",
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 1533,
+          "logo_path": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png",
+          "name": "Indigo Film",
+          "origin_country": "IT"
+        },
+        {
+          "id": 28360,
+          "logo_path": "/juWn38bElYfPvCCu8OUR1ovDBbO.png",
+          "name": "Paradise City",
+          "origin_country": "FR"
+        },
+        {
+          "id": 77550,
+          "logo_path": "/ewSUQIJIWTAXxqjZOBdNz6MDqPf.png",
+          "name": "Moana Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 153595,
+          "logo_path": null,
+          "name": "Warner Bros. Entertainment Italia",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 2861049,
+      "runtime": 111,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 147380,
+      "title": "Кармен",
+      "original_language": "ru",
+      "original_title": "Кармен",
+      "overview": "Он — примерный сотрудник милиции, честный и исполнительный, «правильный», как с плаката, скоро будет повышен по службе… Она — заключенная, отрабатывающая свой срок на табачной фабрике, прозванная за дикий и непокорный нрав «Кармен»…  Роковая встреча девушки и охранника меняет их жизни раз и навсегда. И это даже не история любви, не еще один фильм о «мужчине и женщине», это история настоящей страсти, страсти на грани между свободой и смертью.",
+      "popularity": 0.5767,
+      "poster_path": "/v0gyrsVTmilyH2wPsi4YrGd6feo.jpg",
+      "release_date": "2003-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.375,
+      "vote_count": 8,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0372361",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 15755,
+          "logo_path": "/cZDbkvJPOnzHlmu2CDx05DcEnaf.png",
+          "name": "Ministry of Culture of the Russian Federation",
+          "origin_country": "RU"
+        },
+        {
+          "id": 25924,
+          "logo_path": null,
+          "name": "Pygmalion Production",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2vObOLMqve3TCcrhXZYCtNdg11b.jpg",
       "genre_ids": [
         18
       ],
-      "id": 228970,
-      "title": "Дикая",
+      "id": 15660,
+      "title": "Дорогая мамочка",
       "original_language": "en",
-      "original_title": "Wild",
-      "overview": "В центре сюжета Шерил Стрэйд, раздавленная неудавшимся браком и смертью матери и потерявшая всякую надежду на счастье женщина, отправляется в пешее странствие по территории Pacific Crest Trail — маршруту по наиболее высоким участкам хребта Сьерра-Невада и Каскадных гор. Испытания, выпавшие в этом опасном одиночном путешествии на долю героини, неминуемо исцеляют ее от душевных страданий, но процесс этот будет отнюдь не безболезненным.",
-      "popularity": 2.9104,
-      "poster_path": "/1Nnc1NgUJpE6ANPwB3yodjA3N7B.jpg",
-      "release_date": "2014-12-05",
+      "original_title": "Mommie Dearest",
+      "overview": "Драматичная история взросления юной Кристины в семье своей приёмной матери Джоан Кроуфорд, одной из известнейших голливудских актрис 30-х годов.",
+      "popularity": 2.094,
+      "poster_path": "/3Amv5uQfadEonn7SmYLfNnoeOSu.jpg",
+      "release_date": "1981-09-16",
       "softcore": false,
       "video": false,
-      "vote_average": 7.009,
-      "vote_count": 2662,
+      "vote_average": 6.4,
+      "vote_count": 237,
       "belongs_to_collection": null,
-      "budget": 15000000,
+      "budget": 5000000,
       "genres": [
         {
           "id": 18,
@@ -34,33 +207,21 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt2305051",
+      "imdb_id": "tt0082766",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 93542,
-          "logo_path": null,
-          "name": "bob industries",
-          "origin_country": ""
-        },
-        {
-          "id": 43,
-          "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
-          "name": "Fox Searchlight Pictures",
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
           "origin_country": "US"
         },
         {
-          "id": 15829,
+          "id": 10501,
           "logo_path": null,
-          "name": "Pacific Standard",
-          "origin_country": "US"
-        },
-        {
-          "id": 22213,
-          "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-          "name": "TSG Entertainment",
+          "name": "The Irwin Yablans Company",
           "origin_country": "US"
         }
       ],
@@ -70,8 +231,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 52501541,
-      "runtime": 115,
+      "revenue": 19032261,
+      "runtime": 129,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -89,24 +250,24 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/rku5CJLLxA3Z8Zqsi76Ps8pMzSc.jpg",
+      "backdrop_path": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
       "genre_ids": [
         18
       ],
-      "id": 480928,
-      "title": "Лес",
-      "original_language": "ru",
-      "original_title": "Лес",
-      "overview": "Даниле шестнадцать. Катя вдвое старше. Он часами украдкой наблюдает за ней из старого сруба на окраине леса. У него не рождается и мысли попытаться быть с ней вместе. Пока на пороге Кати не появляется отец Данилы с желанием сбежать в ее объятия от навалившихся проблем. Отца и сына затягивает водоворот событий, где люди, живущие на одной земле, разделились на своих и чужих. Сильные все больше не считаются и презирают слабых, толкая общую жизнь к катастрофе",
-      "popularity": 0.7697,
-      "poster_path": "/mupb3XjvrTL8P5hlSOaZZtl1bE9.jpg",
-      "release_date": "2018-04-05",
+      "id": 396,
+      "title": "Кто боится Вирджинии Вульф?",
+      "original_language": "en",
+      "original_title": "Who's Afraid of Virginia Woolf?",
+      "overview": "Роль неряшливой, вульгарной Марты принесла Элизабет Тейлор ее вторую Награду Американской Киноакадемии, а также — Награду Нью-Йоркских кинокритиков и Награду Британской киноакадемии как лучшей актрисе. Ричард Бартон играет ее мужа, раздираемого на части эмоциями профессора истории. Джордж Сигал и Санди Деннис играют молодую пару новичков на факультете, которые попадают в паутину Джорджа и Марты, и понимают, что их собственный брак находится под угрозой…",
+      "popularity": 1.9651,
+      "poster_path": "/bHqhXLTyX9BLKwe9uWO0k2SLxcj.jpg",
+      "release_date": "1966-06-22",
       "softcore": false,
       "video": false,
-      "vote_average": 4.4,
-      "vote_count": 17,
+      "vote_average": 7.692,
+      "vote_count": 913,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 7500000,
       "genres": [
         {
           "id": 18,
@@ -114,29 +275,298 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt4594124",
+      "imdb_id": "tt0061184",
       "origin_country": [
-        "RU"
+        "US"
       ],
-      "production_companies": [],
-      "production_countries": [
+      "production_companies": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "id": 1684,
+          "logo_path": null,
+          "name": "Chenault Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
         }
       ],
-      "revenue": 0,
-      "runtime": 97,
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 33736689,
+      "runtime": 131,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
         }
       ],
       "status": "Released",
-      "tagline": "Честное кино о нас",
-      "release_quality": "",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gYWnbwKjow5qEXokRJI0mi5yowH.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1044741,
+      "title": "(Не)бывшие",
+      "original_language": "fr",
+      "original_title": "Hors-Saison",
+      "overview": "Известный актер Матье и учительница музыки Алис когда-то были влюблены. Теперь ему за пятьдесят, ей за сорок, их отношения остались в прошлом — и каждый давно живет своей жизнью. Однако, судьба вновь сводит их: парочка бывших оказывается на одном курорте в мертвый сезон, где просто идеальные условия для возобновления романа. Но смогут ли ожившие чувства прорваться через целый поток старых проблем и разногласий?",
+      "popularity": 0.6526,
+      "poster_path": "/nlDkcjfBfAe7jvAv1Jo3DC3cxOB.jpg",
+      "release_date": "2024-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.341,
+      "vote_count": 110,
+      "belongs_to_collection": null,
+      "budget": 6000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt27704325",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 9,
+          "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+          "name": "Gaumont",
+          "origin_country": "FR"
+        },
+        {
+          "id": 591,
+          "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+          "name": "France 3 Cinéma",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 116,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w2rWEjAMYErpNfoK2Z0GFh1LFhN.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 819,
+      "original_language": "en",
+      "original_title": "Sleepers",
+      "overview": "В 1960-е район «Адская кухня» в Нью-Йорке был местом, где правили священники и мафиози. Здесь росли четыре друга, беззаботное детство которых прервалось страшной бедой, толкнувшей их во взрослый мир насилия и подлости. Прошло полтора десятилетия, но ужасные воспоминания о прошлом все еще живы. Теперь уроки, усвоенные в «Адской кухне», помогут им свести счеты с судьбой, которая обошлась с ними столь сурово.",
+      "popularity": 4.3112,
+      "poster_path": "/dG0OisLgi9tW2JtsnBnx31NoSk9.jpg",
+      "release_date": "1996-10-18",
+      "title": "Спящие",
+      "video": false,
+      "vote_average": 7.604,
+      "vote_count": 3748,
+      "belongs_to_collection": null,
+      "budget": 44000000,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0117665",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 278,
+          "logo_path": "/r3Aya3Sy7f24t6Waaug3mQn6ew7.png",
+          "name": "Propaganda Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 11407,
+          "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+          "name": "Baltimore Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 1382,
+          "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+          "name": "PolyGram Filmed Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 165600000,
+      "runtime": 147,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Когда дружба глубже, чем кровь»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_drama"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b7xQ5fuyVO4c24igizCfPgF6n7q.jpg",
+      "genre_ids": [
+        10751,
+        18
+      ],
+      "id": 406997,
+      "original_language": "en",
+      "original_title": "Wonder",
+      "overview": "С одной стороны мальчик Август Пулман такой же как и другие мальчишки его возраста — любит ходить на дни рождения к друзьям, играть в компьютерные игры, фанатеет от «Звездных войн», играет со своей собакой, ссорится и мирится со старшей сестрой. А с другой — он совсем не такой как другие мальчишки его возраста. Во-первых, Август никогда не ходил в обычную школу — с первого класса с ним дома занималась мама. Во-вторых, Август перенес 27 операций. Из-за очень редкой, но иногда встречающейся генетической ошибки у Августа нет лица. И вот такой мальчик должен пойти в школу. В первый раз. К обычным детям.",
+      "popularity": 6.7625,
+      "poster_path": "/hRClAuV3PVW2ybSaM8AsOMK77pI.jpg",
+      "release_date": "2017-11-13",
+      "title": "Чудо",
+      "video": false,
+      "vote_average": 8.109,
+      "vote_count": 8146,
+      "belongs_to_collection": null,
+      "budget": 20000000,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2543472",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 6735,
+          "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+          "name": "Participant",
+          "origin_country": "US"
+        },
+        {
+          "id": 10221,
+          "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+          "name": "Walden Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 10227,
+          "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
+          "name": "Mandeville Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 72441,
+          "logo_path": null,
+          "name": "TIK Films",
+          "origin_country": "HK"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 315025930,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -665,242 +1095,56 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/w3BdYAQMxsqq6FnrR3AmDVy3P0t.jpg",
+      "backdrop_path": "/6ReVMJu87CMRH9ev0Py82weI1ro.jpg",
       "genre_ids": [
-        37
-      ],
-      "id": 77645,
-      "title": "Рыжая из Вайоминга",
-      "original_language": "en",
-      "original_title": "The Redhead from Wyoming",
-      "overview": "В Вайоминге идет пастбищная война между крупными скотоводами и поселенцами. В городке Свитуотер Ассоциация скотоводов во главе с королем скотоводов Рисом Дунканом противостоит местным поселенцам, собирающим на пастбищах неклейменный скот. На стороне поселенцев выступает амбициозный игрок Джим Аверелл, который преследует личные интересы и желает быть избранным в губернаторы. Он приглашает в Свитуотер свою бывшую любовницу, королеву салунов Кейт Максвелл, и делает ее скупщицей скота у поселенцев.",
-      "popularity": 0.4031,
-      "poster_path": "/aVLItfggirK1Wl1EYgM3qqolgXW.jpg",
-      "release_date": "1953-01-08",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.308,
-      "vote_count": 13,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 37,
-          "name": "вестерн"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0045077",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 10330,
-          "logo_path": "/vevakirICdmHxRPeZUdbjFqcFLM.png",
-          "name": "Universal International Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1100000,
-      "runtime": 80,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kfSIJ4hx2dm7njpln9VqGe9riy8.jpg",
-      "genre_ids": [
+        35,
         18,
-        36
+        10749
       ],
-      "id": 1159539,
+      "id": 8998,
+      "title": "Положись на друзей",
       "original_language": "en",
-      "original_title": "Peter Hujar's Day",
-      "overview": "Один день из жизни известного нью-йоркского фотографа 1970-х и 80-х годов, о котором он рассказывает своей подруге.",
-      "popularity": 3.42,
-      "poster_path": "/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "release_date": "2025-11-07",
-      "title": "День Питера Худжара",
-      "video": false,
-      "vote_average": 5.2,
-      "vote_count": 4,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34250044",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 145926,
-          "logo_path": null,
-          "name": "Complementary Colors",
-          "origin_country": "US"
-        },
-        {
-          "id": 93766,
-          "logo_path": "/58JONKkBMT9DrcsWF3652V6b8oS.png",
-          "name": "Blink Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 134166,
-          "logo_path": "/tINT6vMiVhG0LuLbDYxXZlGMm6L.png",
-          "name": "Primo Content",
-          "origin_country": "AR"
-        },
-        {
-          "id": 89900,
-          "logo_path": null,
-          "name": "We Are Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 209032,
-          "logo_path": null,
-          "name": "Materia Cinema",
-          "origin_country": "ES"
-        },
-        {
-          "id": 269387,
-          "logo_path": null,
-          "name": "Nightjar Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 270974,
-          "logo_path": null,
-          "name": "Sherpa Films",
-          "origin_country": ""
-        },
-        {
-          "id": 270975,
-          "logo_path": null,
-          "name": "Lake Forest Films",
-          "origin_country": ""
-        },
-        {
-          "id": 39720,
-          "logo_path": "/ibYDOzRUY7y8PHdM7JGuw5YLlcp.png",
-          "name": "One Two Films",
-          "origin_country": "DE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "AR",
-          "name": "Argentina"
-        },
-        {
-          "iso_3166_1": "ES",
-          "name": "Spain"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 76,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zcuF8dkH9rgHyigLRf9lkFsWVQp.jpg",
-      "genre_ids": [
-        80,
-        18
-      ],
-      "id": 650,
-      "title": "Ребята с улицы",
-      "original_language": "en",
-      "original_title": "Boyz n the Hood",
-      "overview": "Если вы хотите жить, вам не стоит соваться в лос-анджелесский квартал Южный Централ. Это очень опасное место, где обитают сплошь крутые черные парни — такие, например, как Тре и сводные братья Рики и Дагбой.",
-      "popularity": 6.2606,
-      "poster_path": "/eLaZ8Pe17HTnL2K2f9gSrv7RfLz.jpg",
-      "release_date": "1991-07-12",
+      "original_title": "Friends with Money",
+      "overview": "Не имей сто рублей, а имей сто друзей — и сможешь занять больше! Оливия давно поняла эту простую истину, поэтому когда в ее жизни наступает сложный период, а финансы поют романсы, она сразу обращается за помощью к старым знакомым.  Одна беда: те давно переженились, делают карьеру или нянчат детишек — и вторжение в их размеренную жизнь шалопутной одиночки Оливии производит жуткий переполох. Вот тут-то и выясняется, что еще неизвестно, кто кому должен помочь.  Но свободолюбивая и не утратившая легкого отношения к миру и себе Оливия, как оказывается, тоже кое-чему может научить своих погрязших в рутине и бытовых хлопотах друзей. И уж она не упустит шанса воспользоваться случаем — с непредсказуемыми для всех последствиями!..",
+      "popularity": 1.8013,
+      "poster_path": "/gOGrjwKLfSWe7CP1W6KQhXN60QF.jpg",
+      "release_date": "2006-04-07",
       "softcore": false,
       "video": false,
-      "vote_average": 7.62,
-      "vote_count": 2235,
-      "belongs_to_collection": {
-        "id": 1667962,
-        "name": "The Hood Collection",
-        "poster_path": "/h2IwDOobP547gwVuF8k8cJOi8T4.jpg",
-        "backdrop_path": null
-      },
+      "vote_average": 5.151,
+      "vote_count": 606,
+      "belongs_to_collection": null,
       "budget": 6500000,
       "genres": [
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0101507",
+      "imdb_id": "tt0436331",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
+          "id": 10059,
+          "logo_path": "/3Z2MZzMW9gUyZAhHKhFIUqF1hwx.png",
+          "name": "This is that",
+          "origin_country": "US"
+        },
+        {
+          "id": 58,
+          "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+          "name": "Sony Pictures Classics",
           "origin_country": "US"
         }
       ],
@@ -910,8 +1154,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 57504069,
-      "runtime": 112,
+      "revenue": 13400000,
+      "runtime": 88,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -920,8 +1164,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Однажды в южной части Центрального Лос-Анджелеса... Это не сказка»",
-      "release_quality": "1080p",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -929,23 +1173,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/mkBgQ5eiI3ICqpXOoXipvMJ69Rl.jpg",
+      "backdrop_path": "/dlH6bkq4SJwwlLpr7jAWeG2UATx.jpg",
       "genre_ids": [
         35,
         18
       ],
-      "id": 467956,
-      "title": "Во всё тяжкое",
-      "original_language": "en",
-      "original_title": "The Professor",
-      "overview": "Профессор колледжа решает жить на полную катушку после того, как ему ставят серьезный диагноз. Отныне все запреты сняты, а тайные желания могут наконец осуществиться!",
-      "popularity": 2.4513,
-      "poster_path": "/q09g1QTouHIWUZLa4tyXmNokRJF.jpg",
-      "release_date": "2019-05-10",
+      "id": 35031,
+      "title": "Млечный Путь",
+      "original_language": "fr",
+      "original_title": "La Voie lactée",
+      "overview": "Двое мужчин, полубродяги-полупаломники, возвращаются из Франции в Испанию. На пути они встречают целую галерею сомнительных и странных персонажей и оказываются вовлеченными в эротические, таинственные и сверхъестественные события.",
+      "popularity": 0.6878,
+      "poster_path": "/ycKbkUuUunu7uhxPKTaaNwdmEqt.jpg",
+      "release_date": "1969-02-28",
       "softcore": false,
       "video": false,
-      "vote_average": 6.838,
-      "vote_count": 1260,
+      "vote_average": 7.063,
+      "vote_count": 183,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -959,71 +1203,72 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt6865690",
+      "imdb_id": "tt0066534",
       "origin_country": [
-        "US"
+        "DE",
+        "IT",
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 104972,
-          "logo_path": "/y1MOtyfXpKTZVJsSF2djhNqP1rd.png",
-          "name": "Global Road Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 7625,
-          "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
-          "name": "Automatik Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 118603,
+          "id": 16183,
           "logo_path": null,
-          "name": "Leeding Media",
+          "name": "Fraia Film",
           "origin_country": ""
         },
         {
-          "id": 76992,
-          "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
-          "name": "Saban Films",
-          "origin_country": "US"
+          "id": 1657,
+          "logo_path": null,
+          "name": "Greenwich Film Production",
+          "origin_country": "FR"
         },
         {
-          "id": 2691,
-          "logo_path": "/Uas6Nps2Y58s9eRyoTHXgfEuZj.png",
-          "name": "Infinitum Nihil",
-          "origin_country": "US"
-        },
-        {
-          "id": 115012,
-          "logo_path": "/rMMWaTIfs7Yq0ZFIKaiNLpoJaqd.png",
-          "name": "Starlings Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
+          "id": 1702,
+          "logo_path": null,
+          "name": "Medusa Produzione",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
         }
       ],
-      "revenue": 3645308,
-      "runtime": 90,
+      "revenue": 0,
+      "runtime": 102,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
-      "tagline": "«Главное правило — никаких правил»",
+      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -1032,115 +1277,52 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/2vObOLMqve3TCcrhXZYCtNdg11b.jpg",
+      "backdrop_path": "/zABn62IJabcRqhB1Ea4GeqQaxJt.jpg",
       "genre_ids": [
+        37,
         18
       ],
-      "id": 15660,
-      "title": "Дорогая мамочка",
+      "id": 42252,
+      "title": "Излучины Миссури",
       "original_language": "en",
-      "original_title": "Mommie Dearest",
-      "overview": "Драматичная история взросления юной Кристины в семье своей приёмной матери Джоан Кроуфорд, одной из известнейших голливудских актрис 30-х годов.",
-      "popularity": 2.094,
-      "poster_path": "/3Amv5uQfadEonn7SmYLfNnoeOSu.jpg",
-      "release_date": "1981-09-16",
+      "original_title": "The Missouri Breaks",
+      "overview": "Дэвид Брэкстон много лет владеет ранчо на реке Миссури. Под его управлением когда-то дикие и бесплодные земли со временем стали давать богатые урожаи. Но благополучная жизнь фермера привлекает внимание известного преступника-конокрада. Когда в опасности оказывается не только хозяйство фермера, но и его семейная жизнь, Брэкстон наносит ответный удар. Он нанимает для избавления от одного преступника другого, настоящего бандита. В результате всё становится только хуже…",
+      "popularity": 1.3498,
+      "poster_path": "/3fbAVOm9w66jt1TMbeTO8wLyqxO.jpg",
+      "release_date": "1976-05-19",
       "softcore": false,
       "video": false,
-      "vote_average": 6.4,
-      "vote_count": 237,
+      "vote_average": 6.5,
+      "vote_count": 245,
       "belongs_to_collection": null,
-      "budget": 5000000,
+      "budget": 10000000,
       "genres": [
+        {
+          "id": 37,
+          "name": "вестерн"
+        },
         {
           "id": 18,
           "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0082766",
+      "imdb_id": "tt0074906",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 60,
+          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+          "name": "United Artists",
           "origin_country": "US"
         },
         {
-          "id": 10501,
+          "id": 29119,
           "logo_path": null,
-          "name": "The Irwin Yablans Company",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 19032261,
-      "runtime": 129,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 396,
-      "title": "Кто боится Вирджинии Вульф?",
-      "original_language": "en",
-      "original_title": "Who's Afraid of Virginia Woolf?",
-      "overview": "Роль неряшливой, вульгарной Марты принесла Элизабет Тейлор ее вторую Награду Американской Киноакадемии, а также — Награду Нью-Йоркских кинокритиков и Награду Британской киноакадемии как лучшей актрисе. Ричард Бартон играет ее мужа, раздираемого на части эмоциями профессора истории. Джордж Сигал и Санди Деннис играют молодую пару новичков на факультете, которые попадают в паутину Джорджа и Марты, и понимают, что их собственный брак находится под угрозой…",
-      "popularity": 1.9651,
-      "poster_path": "/bHqhXLTyX9BLKwe9uWO0k2SLxcj.jpg",
-      "release_date": "1966-06-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.692,
-      "vote_count": 913,
-      "belongs_to_collection": null,
-      "budget": 7500000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0061184",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1684,
-          "logo_path": null,
-          "name": "Chenault Productions",
+          "name": "Devon/Persky-Bright",
           "origin_country": ""
-        },
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -1149,23 +1331,18 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 33736689,
-      "runtime": 131,
+      "revenue": 14000000,
+      "runtime": 126,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_drama"
@@ -1387,178 +1564,6 @@
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ygE6FbYAE4RE61Bdrhg6xDr2mZQ.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 72987,
-      "title": "Дочь солдата никогда не плачет",
-      "original_language": "en",
-      "original_title": "A Soldier's Daughter Never Cries",
-      "overview": "С раннего детства Шанни Уиллис окружали достойные мужчины. Может, ей просто повезло, и поэтому до определенного момента контакты с представителями противоположного пола не вызывали у нее опасений. Взросление Шанни совпало с возвращением их семьи из Европы в Штаты, где раскованность и открытость в отношениях с юношами приводит ее в первый жизненный тупик. Оказалось, что пришло время обдуманных поступков, что не все могут сравниться с ее отцом, любовь к которому она понесет через всю жизнь",
-      "popularity": 0.402,
-      "poster_path": "/k3DmaY20ynkRTE17Oe1dR8pZWaR.jpg",
-      "release_date": "1998-09-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.239,
-      "vote_count": 23,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0120835",
-      "origin_country": [
-        "FR",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 106620,
-          "logo_path": null,
-          "name": "Merchant Ivory Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 285728,
-          "logo_path": null,
-          "name": "Merchant Ivory Productions",
-          "origin_country": "FR"
-        },
-        {
-          "id": 236,
-          "logo_path": "/domFRGExvHcf0IoK5vdOfY9aTvf.png",
-          "name": "October Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 826,
-          "logo_path": "/aqiR1prl8N00FfkC4FCJWsOpZIy.png",
-          "name": "Capitol Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 12745,
-          "logo_path": null,
-          "name": "British Screen Productions",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1782005,
-      "runtime": 127,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_drama"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/aWelzaq3cmOWPCQV3rgZmPiTakW.jpg",
-      "genre_ids": [
-        18,
-        35,
-        10770
-      ],
-      "id": 57978,
-      "title": "Тем временем",
-      "original_language": "en",
-      "original_title": "Meantime",
-      "overview": "Трое мужчин — отец и два взрослых сына — живут на пособия по безработице и ежемесячно ходят отмечаться на биржу труда. Тупые вечерние посиделки у телевизора сменяются столь же тупым просиживанием штанов в местном пабе. Скудный домашний быт, совсем как в наших общагах времен социализма, никак позитивно не отражается на самосознании обитателей…",
-      "popularity": 1.0355,
-      "poster_path": "/aYeCvrkgUCylSQwmMFcqXV27WvD.jpg",
-      "release_date": "1983-10-16",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 106,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0082727",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 166553,
-          "logo_path": null,
-          "name": "Central Independent Television",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
         }
       ],
       "status": "Released",

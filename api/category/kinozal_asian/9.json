@@ -5,71 +5,209 @@
   },
   "page": 9,
   "limit": 20,
-  "total": 165,
+  "total": 164,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/bBFpkBVlOR2qeT6oE3W9uPkfNOr.jpg",
+      "backdrop_path": "/bnXeBvYaurIqP0ESAAHUIZjIB0o.jpg",
       "genre_ids": [
-        10749,
-        18
+        28,
+        35,
+        10751,
+        14
       ],
-      "id": 962489,
-      "title": "Тоже",
-      "original_language": "ko",
-      "original_title": "동감",
-      "overview": "Пройдя обязательную службу в армии, амбициозный Ким-Ён, живущий в 1999 году, решил осуществить давнюю цель: получить высшее образование в престижном университете. Ким Му-Ни — яркая и необычная девушка, которая посещает тот же университет, но в 2022 году. Однажды, когда происходит полное лунное затмение, Му-Ни неожиданно связывается с Ким-Ёном из прошлого, используя ничем не примечательную радиосвязь. Случайное знакомство внезапно перерастает в долгие и интересные беседы обо всем на свете — от настоящей дружбы до романтических отношений…",
-      "popularity": 1.134,
-      "poster_path": "/8nvA2cGmvLTd8hcGsdZdhC7iDj6.jpg",
-      "release_date": "2022-11-16",
+      "id": 1421552,
+      "title": "Операция «Панда». Дикая миссия",
+      "original_language": "zh",
+      "original_title": "熊猫计划之部落奇遇记",
+      "overview": "Панда Сюсю и мастер кунг-фу Джеки случайно оказываются в первобытном племени, полностью отрезанном от внешнего мира. Местные жители принимают добродушную панду за «небесного священного зверя» и надеются, что она спасёт их от надвигающейся беды. Чтобы защитить Сюсю, Джеки приходится проявлять смекалку и находить общий язык с необычными обитателями племени: вождём, способным парить по воздуху, воином Цян Шанем, принцем Ту Лу с загадочной сверхсилой и принцессой Ша И, обладающей выдающимися боевыми навыками.",
+      "popularity": 8.2772,
+      "poster_path": "/xhRWwi3FEk5YMK72tyv30ymnnqy.jpg",
+      "release_date": "2026-02-17",
       "softcore": false,
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 59,
-      "belongs_to_collection": null,
+      "vote_average": 6.5,
+      "vote_count": 10,
+      "belongs_to_collection": {
+        "id": 1421776,
+        "name": "熊猫计划（系列）",
+        "poster_path": "/rO62kjEpxKoi22euZlM11o2hRJe.jpg",
+        "backdrop_path": "/s9DHA3FNm9ALszhSGhcV40AfVPJ.jpg"
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt22872370",
+      "imdb_id": "tt35514520",
       "origin_country": [
-        "KR"
+        "CN"
       ],
       "production_companies": [
         {
-          "id": 175845,
-          "logo_path": "/buRlWO3a6uohKQOoQH00ScECUXV.png",
-          "name": "Go Go Studio",
-          "origin_country": "KR"
+          "id": 30324,
+          "logo_path": "/dgwcWHsusZtDCDJ7rUikk452lBd.png",
+          "name": "Emei Film Studio",
+          "origin_country": "CN"
         },
         {
-          "id": 175846,
-          "logo_path": "/nvDW10govwZjHWfYMeisgHhyZg0.png",
-          "name": "BY4M Studio",
-          "origin_country": "KR"
+          "id": 96956,
+          "logo_path": "/nMaeUdQwAhN69omhooaPDKCpEFO.png",
+          "name": "Maoyan Entertainment",
+          "origin_country": "CN"
+        },
+        {
+          "id": 232065,
+          "logo_path": "/yXOzReA9mbTxW8EboUocNKBQjDb.png",
+          "name": "Uni Media",
+          "origin_country": "CN"
+        },
+        {
+          "id": 17818,
+          "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+          "name": "Beijing Enlight Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 25660,
+          "logo_path": "/q0418HVUNk0kq15tdU9idy00s11.png",
+          "name": "Huaxia Film Distribution",
+          "origin_country": "CN"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
+          "iso_3166_1": "CN",
+          "name": "China"
         }
       ],
       "revenue": 0,
-      "runtime": 114,
+      "runtime": 100,
       "spoken_languages": [
         {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_asian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iy08wTsqcWYT2PFTEWFYcxepLeB.jpg",
+      "genre_ids": [
+        28,
+        14,
+        9648,
+        12,
+        53
+      ],
+      "id": 634521,
+      "title": "Обещанный Неверленд",
+      "original_language": "ja",
+      "original_title": "約束のネバーランド",
+      "overview": "В приюте «Грейс Филд» под чутким надзором Мамы живёт группа детей разных возрастов. Самые умненькие - 11-летние Норман, Эмма и Рэй - лучшие друзья всю свою жизнь. Каждый ребёнок ждёт не дождётся усыновления, и когда он поедет в новую семью, а пока детишки играют целыми днями в догонялки и не знают бед и невзгод. Но в одну ночь Норман и Эмма узнают о приюте жуткую правду, и теперь у них остаётся выбор - сбежать или умереть.",
+      "popularity": 1.8707,
+      "poster_path": "/rpo05S802NLZHfU7JbOb8KqVkWI.jpg",
+      "release_date": "2020-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.265,
+      "vote_count": 68,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt11027510",
+      "origin_country": [
+        "JP"
+      ],
+      "production_companies": [
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        },
+        {
+          "id": 2918,
+          "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+          "name": "Shueisha",
+          "origin_country": "JP"
+        },
+        {
+          "id": 14625,
+          "logo_path": "/kgDY8gC5UQ33IHDRTrheMfNsvXg.png",
+          "name": "Office Crescendo",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3341,
+          "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+          "name": "Fuji Television Network",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 17710977,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -82,77 +220,75 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/i5c2Tvhn2mZWT43zdwHEliau58j.jpg",
+      "backdrop_path": "/35Qw3eseEgkUsQQv9f9lG9Z760U.jpg",
       "genre_ids": [
-        27,
-        53,
-        10752
+        18,
+        10749
       ],
-      "id": 1254594,
-      "title": "Омукадэ",
-      "original_language": "th",
-      "original_title": "โอมุคาเดะ",
-      "overview": "Действие происходит во времена Второй мировой войны, когда Япония оккупировала Таиланд. Группа японских солдат и их пленники оказывается запертой в старой шахте - месте, которое уже само по себе несёт ощущение угрозы. Сначала возникает напряжение между людьми: недоверие, страх, борьба за власть и отчаяние. Только потом появляется главный враг - демоническая гигантская многоножка, которая превращает замкнутое пространство в смертельный лабиринт.",
-      "popularity": 31.0545,
-      "poster_path": "/7RdzEmKj2yy3DttYkvZ6G5cCtoE.jpg",
-      "release_date": "2026-01-22",
+      "id": 1359916,
+      "title": "5 сантиметров в секунду",
+      "original_language": "ja",
+      "original_title": "秒速5センチメートル",
+      "overview": "Весна 1991 года: в токийской школе Такэки и Акари встречаются и словно нежно протягивая руки навстречу одиночеству друг друга, постепенно сближают свои сердца, но переезд разлучает их сразу после выпуска. Зимой в метель, под единственной сакурой, стоящей в снегу в Ивафуне, они дают обещание встретиться 26 марта 2009 года, и 18 лет спустя, в 2008-м, каждый, живя замкнутой жизнью в Токио, ощущают зов не угасающих воспоминаний и предчувствие судьбоносной встречи. Это тихая история о времени, расстоянии и хрупких связях, где слова прошлого всё ещё витают в воздухе, словно надежда на чудо.",
+      "popularity": 3.154,
+      "poster_path": "/nhvPn4TsUQk5ZBk9T9RBW7v7z1J.jpg",
+      "release_date": "2025-10-10",
       "softcore": false,
       "video": false,
-      "vote_average": 5.5,
-      "vote_count": 2,
-      "belongs_to_collection": {
-        "id": 1290778,
-        "name": "The One Hundred",
-        "poster_path": null,
-        "backdrop_path": null
-      },
+      "vote_average": 7.8,
+      "vote_count": 18,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 27,
-          "name": "ужасы"
+          "id": 18,
+          "name": "драма"
         },
         {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt38223449",
+      "imdb_id": "tt33477484",
       "origin_country": [
-        "TH"
+        "JP"
       ],
       "production_companies": [
         {
-          "id": 170213,
-          "logo_path": "/8f90dMTDLQU4yjPhwHrEUFdWMyV.png",
-          "name": "Neramitnung Film",
-          "origin_country": "TH"
+          "id": 199398,
+          "logo_path": "/Q6fnWCZTEw6x2hONWk9zrld81i.png",
+          "name": "Spoon.",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3341,
+          "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+          "name": "Fuji Television Network",
+          "origin_country": "JP"
+        },
+        {
+          "id": 882,
+          "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+          "name": "TOHO",
+          "origin_country": "JP"
+        },
+        {
+          "id": 3756,
+          "logo_path": "/t38uPdbKmyBB8brKKeTFWIwojRz.png",
+          "name": "CoMix Wave Films",
+          "origin_country": "JP"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "TH",
-          "name": "Thailand"
+          "iso_3166_1": "JP",
+          "name": "Japan"
         }
       ],
       "revenue": 0,
-      "runtime": 95,
+      "runtime": 121,
       "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Thai",
-          "iso_639_1": "th",
-          "name": "ภาษาไทย"
-        },
         {
           "english_name": "Japanese",
           "iso_639_1": "ja",
@@ -240,188 +376,6 @@
           "english_name": "Korean",
           "iso_639_1": "ko",
           "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6MZdEVe0COl9sB1sCIPOOFpngjO.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 158445,
-      "title": "Чудо в камере №7",
-      "original_language": "ko",
-      "original_title": "7번방의 선물",
-      "overview": "Любящий свою дочь умственно отсталый отец получает ложное обвинение в совершении преступления и отправляется в тюрьму. Его дочь, студентка юридического факультета, пытается доказать его невиновность.",
-      "popularity": 3.1178,
-      "poster_path": "/c9TqJPm4pZCuiEXumTayoNIrBSK.jpg",
-      "release_date": "2013-01-23",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.9,
-      "vote_count": 493,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2659414",
-      "origin_country": [
-        "KR"
-      ],
-      "production_companies": [
-        {
-          "id": 20064,
-          "logo_path": "/2In7Heq6DuXDjOwPmJqHWkpohaL.png",
-          "name": "Next Entertainment World",
-          "origin_country": "KR"
-        },
-        {
-          "id": 33257,
-          "logo_path": null,
-          "name": "Fineworks",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "revenue": 80300000,
-      "runtime": 128,
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_asian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
-      "genre_ids": [
-        28,
-        14,
-        12
-      ],
-      "id": 18672,
-      "title": "Легенда о фехтовальщике",
-      "original_language": "cn",
-      "original_title": "笑傲江湖II東方不敗",
-      "overview": "Разочарованный одержимостью Учителя поиском Священного Свитка, руководства о сверх способностях в боевых искусствах, фехтовальщик Линг и его братья по обучению решают уединиться для того, чтобы не соприкасаться с жестокостью. По дороге они встречают Инг, дочь вождя одного из кланов, с которой Линг длительное время дружил. Её отец был предан и заточен своими бывшими союзниками, которые называют себя \"Непобедимая Азия\", амбиции которых в свержении императора Минга с помощью более развитого стиля боевых искусств. Вопреки своим желаниям уединиться фехтовальщики нечаянно оказываются втянуты в разборки кланов.",
-      "popularity": 3.6174,
-      "poster_path": "/nHDvrm1tpaZIE3g5ZENIW7Kfe1E.jpg",
-      "release_date": "1992-06-26",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 129,
-      "belongs_to_collection": {
-        "id": 44917,
-        "name": "笑傲江湖（系列）",
-        "poster_path": "/jNaMbnAApWzP9mVH1fVnxEXFrg6.jpg",
-        "backdrop_path": "/m65TbPOEmA8hU5HS5qBAPGQ7ave.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0103295",
-      "origin_country": [
-        "HK"
-      ],
-      "production_companies": [
-        {
-          "id": 3618,
-          "logo_path": null,
-          "name": "Film Workshop",
-          "origin_country": "HK"
-        },
-        {
-          "id": 178376,
-          "logo_path": null,
-          "name": "Mei Ah Laser Disc Co, LTD",
-          "origin_country": ""
-        },
-        {
-          "id": 5551,
-          "logo_path": null,
-          "name": "Long Shong Pictures",
-          "origin_country": "TW"
-        },
-        {
-          "id": 6213,
-          "logo_path": null,
-          "name": "Golden Princess Film Productions",
-          "origin_country": "HK"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        },
-        {
-          "iso_3166_1": "TW",
-          "name": "Taiwan"
-        }
-      ],
-      "revenue": 4439832,
-      "runtime": 107,
-      "spoken_languages": [
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        },
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
-        {
-          "english_name": "Japanese",
-          "iso_639_1": "ja",
-          "name": "日本語"
         }
       ],
       "status": "Released",
