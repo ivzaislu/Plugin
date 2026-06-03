@@ -5,56 +5,157 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 139,
+  "total": 144,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+      "backdrop_path": "/v8zOcynvSd6IW3FzZrvst2HJ53s.jpg",
       "genre_ids": [
+        80,
         53
       ],
-      "id": 1366906,
-      "title": "Ворота",
+      "id": 276907,
+      "title": "Легенда",
       "original_language": "en",
-      "original_title": "The Gates",
-      "overview": "Дорожное путешествие троих друзей превращается в кошмар, когда они становятся свидетелями убийства в закрытом городке. Там их начинают преследовать враждебные местные жители, и друзья оказываются в западне.",
-      "popularity": 6.5293,
-      "poster_path": "/dWMiHlKz0OsbVXEEZR3hYyWHcdq.jpg",
-      "release_date": "2026-03-13",
+      "original_title": "Legend",
+      "overview": "Фильм расскажет историю близнецов Реджи и Ронни Крэй, культовых фигур преступного мира Великобритании 1960-х. Братья возглавляли самую влиятельную бандитскую группировку Ист-Энда. В их послужном списке: вооружённые грабежи, рэкет, поджоги, покушения, убийства и собственный ночной клуб, куда доезжали даже голливудские знаменитости. Среди их жертв — криминальные авторитеты Джек МакВитти и Джордж Корнелл.",
+      "popularity": 7.6617,
+      "poster_path": "/vkjHGlBxNgeLQDA8XpxpJDy0iij.jpg",
+      "release_date": "2015-09-09",
       "softcore": false,
       "video": false,
-      "vote_average": 6.143,
-      "vote_count": 14,
+      "vote_average": 7.054,
+      "vote_count": 4278,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 25000000,
       "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
         {
           "id": 53,
           "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33303521",
+      "imdb_id": "tt3569230",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 10163,
+          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+          "name": "Working Title Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 20664,
+          "logo_path": "/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png",
+          "name": "Anton Capital Entertainment",
+          "origin_country": "GB"
+        },
+        {
+          "id": 694,
+          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+          "name": "StudioCanal",
+          "origin_country": "FR"
+        },
+        {
+          "id": 10246,
+          "logo_path": "/rREvQNWAxkDfY9CDn2c5YxEMPdP.png",
+          "name": "Cross Creek Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 42972994,
+      "runtime": 131,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Преступление – как профессия. Взлёт и падение легендарных близнецов Крэй»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3kdSGx028h48Zzr6PFbGZWY4fJM.jpg",
+      "genre_ids": [
+        80,
+        28,
+        9648,
+        53
+      ],
+      "id": 11074,
+      "original_language": "en",
+      "original_title": "Striking Distance",
+      "overview": "Полицейский Том Харди, переведенный в отряд речной полиции, начинает вести неофициальное расследование по делу серийного убийцы, терроризующего город. Его версия о преступнике отличается от той, которой придерживаются власти и коллеги.  Он уверен, что маньяк — работник полиции, и только его напарница поддерживает эту идею. Продолжая поиск убийцы, они не догадываются о том, что тот, кого они разыскивают с таким упорством, сам ищет встречи с ними.",
+      "popularity": 2.9025,
+      "poster_path": "/zTgw5a6MPqG0DfYQTENPhNmRGft.jpg",
+      "release_date": "1993-09-17",
+      "title": "На расстоянии удара",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 876,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0108238",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 41945,
-          "logo_path": "/3Lb6fsbpbXaeOfxtNk1xzn70QB9.png",
-          "name": "Indy Entertainment",
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
           "origin_country": "US"
         },
         {
-          "id": 214050,
-          "logo_path": "/tH3zOqGk3MzCU9ZB7STpquI2Pd7.png",
-          "name": "Rebellium Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 265836,
+          "id": 25087,
           "logo_path": null,
-          "name": "Core 4 Films",
+          "name": "Arnon Milchan Productions",
           "origin_country": ""
         }
       ],
@@ -65,7 +166,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 99,
+      "runtime": 102,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -75,7 +176,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -83,66 +184,78 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
+      "backdrop_path": "/egNz2a18eQ9ycBfQQkQehSTeNwH.jpg",
       "genre_ids": [
-        35,
         18
       ],
-      "id": 1049471,
-      "original_language": "en",
-      "original_title": "Outcome",
-      "overview": "Риф Хоук, лицо Голливуда с 6-ти лет, попадает в беду. Узнав, что его собираются шантажировать загадочным видео, Риф действует на опережение и отправляется в поездку, чтобы восстановить репутацию, противостоять своим внутренним демонам и избежать бойкота.",
-      "popularity": 7.9613,
-      "poster_path": "/87QuAtDU6KOds14LYjCNckyUT0X.jpg",
-      "release_date": "2026-04-06",
-      "title": "Последствия",
+      "id": 1356670,
+      "original_language": "de",
+      "original_title": "Heldin",
+      "overview": "Совершенно обычный день в больничной палате хирургического отделения. Из-за нехватки персонала в сестринской бригаде не хватает персонала. Несмотря на напряженную обстановку, Флория заботится о своих пациентах квалифицированно и с полной самоотдачей. Несмотря на то, что она выкладывается полностью, этот сдвиг постепенно выходит из–под контроля - пока в конце концов не приводит к драматической вспышке.",
+      "popularity": 2.4089,
+      "poster_path": "/l0MScY2uQL3qFPXuKQ5ghaRb5H5.jpg",
+      "release_date": "2025-02-27",
+      "title": "Ночная смена",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 5,
+      "vote_average": 7.738,
+      "vote_count": 208,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 4600000,
       "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
         {
           "id": 18,
           "name": "драма"
         }
       ],
-      "homepage": "https://tv.apple.com/ua/movie/umc.cmc.3uvjztuy2y8ve2rj6nvgyop89?l=ru",
-      "imdb_id": "tt23724682",
+      "homepage": "",
+      "imdb_id": "tt32204858",
       "origin_country": [
-        "US"
+        "DE",
+        "CH"
       ],
       "production_companies": [
         {
-          "id": 194232,
-          "logo_path": "/oE7H93u8sy5vvW5EH3fpCp68vvB.png",
-          "name": "Apple Studios",
-          "origin_country": "US"
+          "id": 5485,
+          "logo_path": "/nN4hD2hrcJ3g1RrDsAIILb4Xwm5.png",
+          "name": "Zodiac Pictures",
+          "origin_country": "CH"
         },
         {
-          "id": 169219,
-          "logo_path": "/uprteAU9Rxy87dvfTF4tQ2I6Rmm.png",
-          "name": "Strong Baby Productions",
-          "origin_country": "US"
+          "id": 42145,
+          "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+          "name": "SRF",
+          "origin_country": "CH"
+        },
+        {
+          "id": 12431,
+          "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+          "name": "SRG SSR",
+          "origin_country": "CH"
+        },
+        {
+          "id": 86278,
+          "logo_path": "/fF6KocbuZsNUOrR1kjO8uzO21Kf.png",
+          "name": "MMC Zodiac",
+          "origin_country": "DE"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "CH",
+          "name": "Switzerland"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
         }
       ],
-      "revenue": 0,
-      "runtime": 84,
+      "revenue": 3995267,
+      "runtime": 92,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
         }
       ],
       "status": "Released",
@@ -155,70 +268,72 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/vbVe8HhnR1hJ6I5k49E6cqCajYX.jpg",
+      "backdrop_path": "/apMLieYY9z6tgBHLbCA7wsuar02.jpg",
       "genre_ids": [
-        18,
+        35,
         53,
-        10749
+        28,
+        18
       ],
-      "id": 2149,
+      "id": 51995,
+      "title": "Бульвар спасения",
       "original_language": "en",
-      "original_title": "Body of Evidence",
-      "overview": "Влюбившись в свою подзащитную, обвиняемую в убийстве, адвокат Фрэнк Дилэйн так умело строит речь в суде, что ему удается убедить присяжных вынести оправдательный вердикт. А через день Фрэнк становится невольным свидетелем разговора своей подзащитной с человеком, который помог ей совершить убийство.",
-      "popularity": 3.3284,
-      "poster_path": "/iP2fvxF8FJ5nCTjyqHGbM7RIawG.jpg",
-      "release_date": "1993-01-15",
-      "title": "Тело как улика",
+      "original_title": "Salvation Boulevard",
+      "overview": "Действие ленты разворачивается в управляемым супер-религиями будущем, где обратившийся в христианство дурачок спасается бегством от фундаменталистов, защищающих авторитет своего пастора.",
+      "popularity": 1.2597,
+      "poster_path": "/q8kPPcpPUGhdAOP5LYHDMKZBXYP.jpg",
+      "release_date": "2011-07-15",
+      "softcore": false,
       "video": false,
-      "vote_average": 5.007,
-      "vote_count": 335,
+      "vote_average": 5.3,
+      "vote_count": 83,
       "belongs_to_collection": null,
-      "budget": 30000000,
+      "budget": 5500000,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 53,
           "name": "триллер"
         },
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0106453",
+      "imdb_id": "tt1251743",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 47,
-          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
-          "name": "Constantin Film",
-          "origin_country": "DE"
+          "id": 6667,
+          "logo_path": null,
+          "name": "Mandalay Vision",
+          "origin_country": "US"
         },
         {
-          "id": 19737,
+          "id": 6691,
           "logo_path": null,
-          "name": "Dino de Laurentiis Communications",
-          "origin_country": "US"
+          "name": "10th Hole Productions",
+          "origin_country": ""
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 38000000,
-      "runtime": 99,
+      "revenue": 89182,
+      "runtime": 96,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -227,7 +342,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Это орудие убийства. Ее зовут Ребекка»",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -236,25 +351,149 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/j9QaQVuyQIEwckUbjHpAgA7E4jJ.jpg",
+      "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+      "genre_ids": [
+        36,
+        28,
+        12,
+        10752
+      ],
+      "id": 1207162,
+      "title": "Тамерлан",
+      "original_language": "en",
+      "original_title": "Rise of the Conqueror",
+      "overview": "К середине XIV века Великий шёлковый путь оказывается в состоянии полного упадка: после распада Монгольской империи на некогда процветающих землях царят хаос, разруха и гремят междоусобные войны. В это суровое время закалённому в боях великому воину Тимуру предстоит столкнуться с заговорами, интригами, предательством союзников и утратами. Но удары судьбы и происки врагов не смогут сломить волю могущественного полководца, призванного объединить разрозненные земли и защитить свой народ от внешней угрозы.",
+      "popularity": 106.1523,
+      "poster_path": "/3FLWixX2OVvkSCQe0sMwFq44iSH.jpg",
+      "release_date": "2026-04-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 7,
+      "belongs_to_collection": null,
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt25868520",
+      "origin_country": [
+        "KZ",
+        "US",
+        "UZ"
+      ],
+      "production_companies": [
+        {
+          "id": 213859,
+          "logo_path": "/lc3sHLuxiCZ377N904A1KwcrZGv.png",
+          "name": "Mystery Box",
+          "origin_country": "US"
+        },
+        {
+          "id": 20555,
+          "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+          "name": "Taurus Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 206783,
+          "logo_path": "/mVo5Ir4gatRa1U94v4p9Mr15OPJ.png",
+          "name": "Signature Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 122034,
+          "logo_path": "/kmZNR0LSuhSkEAje0v20Tn6WOt9.png",
+          "name": "Signature Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 114874,
+          "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+          "name": "Signature Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 74435,
+          "logo_path": "/jZYDf9z2fjjXlZkwfwR4QPwMNtm.png",
+          "name": "Capture",
+          "origin_country": "GB"
+        },
+        {
+          "id": 92394,
+          "logo_path": "/xnsTWHinFaR4oQuHFdxe6JNhfrI.png",
+          "name": "Well Go USA Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "UZ",
+          "name": "Uzbekistan"
+        },
+        {
+          "iso_3166_1": "KZ",
+          "name": "Kazakhstan"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
       "genre_ids": [
         80,
         18,
+        9648,
         53
       ],
-      "id": 50348,
+      "id": 10424,
       "original_language": "en",
-      "original_title": "The Lincoln Lawyer",
-      "overview": "Микки Холлер – блестящий и удачливый адвокат из Лос-Анджелеса, чей яркий имидж и образ жизни отлично дополняет его любимая машина «Линкольн». Очередное дело – нападение богатого клиента Луи Руле на проститутку сначала казалось легким, и он без труда добился оправдательного приговора для подзащитного. Но вскоре Микки понимает, что его клиент скрывает правду. Пока Холлер пытается вывести Руле на чистую воду, его подставляют по-крупному, и теперь уже угроза тюремного заключения нависает над самим Холлером.",
-      "popularity": 4.1467,
-      "poster_path": "/AbrSHgbDxCXSVOkwlFW9JaMKOVq.jpg",
-      "release_date": "2011-03-17",
-      "title": "Линкольн для адвоката",
+      "original_title": "Jennifer Eight",
+      "overview": "У детектива Джона Берлина, идущего по следу серийного убийцы, нет ни улик, ни подозреваемых. И нет алиби. Уставший от напряженного ритма «каменных джунглей», приходящий в себя после неудачного брака, только излечившийся от алкоголизма лос-анжелесский полицейский Джон Берлин решает сменить обстановку.  Он принимает приглашение своего друга и коллеги и приезжает в маленький городок на севере Калифорнии. Но вместо желанной тихой сельской жизни Джону приходится включиться в поиски серийного убийцы, чьими жертвами стали семь молоденьких слепых девушек.",
+      "popularity": 3.6368,
+      "poster_path": "/mF4bSFswTMN7WwhO4sGuLzrKFvU.jpg",
+      "release_date": "1992-11-06",
+      "title": "Дженнифер 8",
       "video": false,
-      "vote_average": 7.208,
-      "vote_count": 3571,
+      "vote_average": 6.067,
+      "vote_count": 389,
       "belongs_to_collection": null,
-      "budget": 40000000,
+      "budget": 20000000,
       "genres": [
         {
           "id": 80,
@@ -265,38 +504,24 @@
           "name": "драма"
         },
         {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
           "id": 53,
           "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1189340",
+      "imdb_id": "tt0104549",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 737,
-          "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
-          "name": "Sidney Kimmel Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 126,
-          "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
-          "name": "Lakeshore Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 7420,
-          "logo_path": null,
-          "name": "Stone Village Pictures",
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
           "origin_country": "US"
         }
       ],
@@ -306,8 +531,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 85412898,
-      "runtime": 114,
+      "revenue": 11390479,
+      "runtime": 124,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -316,8 +541,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
+      "tagline": "Есть тут кто-нибудь?",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -325,34 +550,39 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/gRlEnn9qyJCirqoJ34LqstyDwx7.jpg",
+      "backdrop_path": "/41rQ9Ebt2P89dYCuYyqkL7LdJcu.jpg",
       "genre_ids": [
-        9648,
         53,
+        80,
+        9648,
         27
       ],
-      "id": 43089,
-      "title": "Дорожные игры",
-      "original_language": "en",
-      "original_title": "Roadgames",
-      "overview": "Водитель грузовика Пат Квид должен доставить груз свиных туш. В дороге особо заняться нечем, поэтому он подмечает все автомобили на пустынной трассе, слушает радио и разговаривает сам с собой и со своим ручным динго. По радио твердят про найденные в округе женские конечности и про возможного маньяка, тогда Квид вспоминает странного типа в мотеле. Теперь ему кажется, что маньяк где-то рядом, и он — единственный, кто может вычислить и поймать убийцу. Дорожные игры начинаются.",
-      "popularity": 2.6588,
-      "poster_path": "/tWAtWBiG6f99sbNIeU5xQBkCLgY.jpg",
-      "release_date": "1981-02-27",
+      "id": 93142,
+      "title": "Человек без памяти",
+      "original_language": "it",
+      "original_title": "L'uomo senza memoria",
+      "overview": "В результате последствий автокатастрофы Эдвард Уолтон теряет память. В ее восстановлении заинтересованы не только он и его жена Сара, но и спецслужбы, добивающиеся своих целей. Эдвард, мучаясь и страдая, пытается склеить в воображении осколки своего прошлого, которые нередко буквально пугают его.",
+      "popularity": 0.7942,
+      "poster_path": "/vJTlv1HIjOMSQqbMdcIwE1CPfve.jpg",
+      "release_date": "1974-08-23",
       "softcore": false,
       "video": false,
-      "vote_average": 6.478,
-      "vote_count": 204,
+      "vote_average": 5.773,
+      "vote_count": 33,
       "belongs_to_collection": null,
-      "budget": 1750000,
+      "budget": 0,
       "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
         {
           "id": 53,
           "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         },
         {
           "id": 27,
@@ -360,126 +590,31 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0083000",
+      "imdb_id": "tt0072349",
       "origin_country": [
-        "AU"
+        "IT"
       ],
       "production_companies": [
         {
-          "id": 15099,
+          "id": 1701,
           "logo_path": null,
-          "name": "Essaness Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 38670,
-          "logo_path": null,
-          "name": "GUO",
-          "origin_country": "AU"
-        },
-        {
-          "id": 240709,
-          "logo_path": null,
-          "name": "Quest Productions",
-          "origin_country": ""
+          "name": "Dania Film",
+          "origin_country": "IT"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "AU",
-          "name": "Australia"
+          "iso_3166_1": "IT",
+          "name": "Italy"
         }
       ],
-      "revenue": 100000,
-      "runtime": 101,
+      "revenue": 0,
+      "runtime": 93,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/r0ZAhYrmidOZuPgZZ2vDfNC2ddd.jpg",
-      "genre_ids": [
-        18,
-        53
-      ],
-      "id": 2176,
-      "title": "Стеклянный дом",
-      "original_language": "en",
-      "original_title": "The Glass House",
-      "overview": "После гибели родителей подростков Руби и Ретта взяли к себе жить лучшие друзья покойных — бездетные Эрин и Терри Глассы, хозяева самого роскошного особняка в Малибу. Причудливое здание со стеклянными стенами отныне должно было стать им домом. Но не стало. Очень скоро внимательная Руби открывает, что этот шедевр архитектуры скрывает в себе некую страшную тайну. И что их приемные папа с мамой — вовсе не такие добрые и симпатичные люди, какими кажутся.  В этих стенах из стекла бродит смерть. Стоит промедлить — и она настигнет Руби и Ретта, как настигла их родителей. Единственный способ избежать гибели — раскрыть зловещий секрет, что прячут в своих холодных сердцах такие милые на вид Глассы…",
-      "popularity": 5.5911,
-      "poster_path": "/kTvFNNXykrb3ACRgt3fx0HjGw6O.jpg",
-      "release_date": "2001-09-14",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.952,
-      "vote_count": 1088,
-      "belongs_to_collection": {
-        "id": 520790,
-        "name": "Стеклянный дом (Коллекция)",
-        "poster_path": "/5cClctuwqZYg4txbHrtLKHCXQSU.jpg",
-        "backdrop_path": "/qt6axh79G35lQI4XTzlxx3aaC4C.jpg"
-      },
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0221218",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 333,
-          "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
-          "name": "Original Film",
-          "origin_country": "US"
-        },
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 23619609,
-      "runtime": 106,
-      "spoken_languages": [
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
         }
       ],
       "status": "Released",
@@ -586,7 +721,7 @@
       "original_language": "es",
       "original_title": "Fin",
       "overview": "Друзья собираются вместе провести выходные в горной хижине. Однако странное явление полностью меняет планы, оставляя их без связи с внешним миром. По дороге за помощью они отдаляются друг от друга, так как происходящее вокруг оказывает на них сильное влияние.",
-      "popularity": 0.7195,
+      "popularity": 0.7146,
       "poster_path": "/us2CjMroAk6dpouo6QrMYXEHQQq.jpg",
       "release_date": "2012-11-23",
       "softcore": false,
@@ -1021,22 +1156,22 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/yjOskYh5JJe8mWVnk0lM6eT5Sux.jpg",
+      "backdrop_path": "/kSACg3K1LAmpLcuDWwM0RyfHKFl.jpg",
       "genre_ids": [
         53
       ],
-      "id": 18591,
-      "title": "Фламандская доска",
+      "id": 1498348,
+      "title": "На краю Арктики",
       "original_language": "en",
-      "original_title": "Uncovered",
-      "overview": "Джулия реставрирует к аукциону старинную картину, принадлежащую древнему, но обедневшему аристократическому роду. На шедевре кисти фламандского художника 15-го века изображены погруженная в думы женщина и двое играющих в шахматы мужчин.  Казалось бы, ничего необычного — но только на первый взгляд. Под слоями краски в свете рентгеновских лучей Джулия обнаруживает надпись на латыни, оказавшуюся ключом к разгадке преступления, совершенного в те далекие времена.  Но когда убивают друга Джулии, она понимает, что каким-то загадочным образом кровавая ниточка тянется к реставрируемой картине. И цепь новых убийств связана с расстановкой шахматных фигур на нарисованной доске…",
-      "popularity": 0.8065,
-      "poster_path": "/p1JZ5ZLMAR8YpmCJrNVizUO1bnB.jpg",
-      "release_date": "1995-01-04",
+      "original_title": "Arctic's Edge",
+      "overview": "Кэлвин Траск живёт в северном городке на краю света, пока в его уединённое существование не врывается загадочный Лукас Уэйд. Любопытство берёт верх над осторожностью, и Кэлвин оказывается втянут в опасный мир своего нового знакомого. Постепенно раскрывая тайны Лукаса, Кэлвин понимает, что попал в смертельную ловушку.",
+      "popularity": 0.8427,
+      "poster_path": "/rrf9AWGwydteKaJ0W3L2mQ7MhNK.jpg",
+      "release_date": "2025-10-01",
       "softcore": false,
       "video": false,
-      "vote_average": 5.625,
-      "vote_count": 60,
+      "vote_average": 6,
+      "vote_count": 3,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -1046,343 +1181,27 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0111549",
+      "imdb_id": "tt24578426",
       "origin_country": [
         "GB"
       ],
       "production_companies": [
         {
-          "id": 105,
-          "logo_path": "/pyiNvPJYGz4W2SImgULoG2sn4y4.png",
-          "name": "CiBy 2000",
-          "origin_country": "FR"
-        },
-        {
-          "id": 252350,
-          "logo_path": null,
-          "name": "CiBy UK",
+          "id": 78564,
+          "logo_path": "/lFNfBsTDXIqpsCzhzNjSuyDy9qp.png",
+          "name": "Dark Temple Motion Pictures",
           "origin_country": "GB"
-        },
-        {
-          "id": 8718,
-          "logo_path": null,
-          "name": "Filmania",
-          "origin_country": ""
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "GB",
           "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "ES",
-          "name": "Spain"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
         }
       ],
       "revenue": 0,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/egNz2a18eQ9ycBfQQkQehSTeNwH.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1356670,
-      "original_language": "de",
-      "original_title": "Heldin",
-      "overview": "Совершенно обычный день в больничной палате хирургического отделения. Из-за нехватки персонала в сестринской бригаде не хватает персонала. Несмотря на напряженную обстановку, Флория заботится о своих пациентах квалифицированно и с полной самоотдачей. Несмотря на то, что она выкладывается полностью, этот сдвиг постепенно выходит из–под контроля - пока в конце концов не приводит к драматической вспышке.",
-      "popularity": 2.4089,
-      "poster_path": "/l0MScY2uQL3qFPXuKQ5ghaRb5H5.jpg",
-      "release_date": "2025-02-27",
-      "title": "Ночная смена",
-      "video": false,
-      "vote_average": 7.738,
-      "vote_count": 208,
-      "belongs_to_collection": null,
-      "budget": 4600000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32204858",
-      "origin_country": [
-        "DE",
-        "CH"
-      ],
-      "production_companies": [
-        {
-          "id": 5485,
-          "logo_path": "/nN4hD2hrcJ3g1RrDsAIILb4Xwm5.png",
-          "name": "Zodiac Pictures",
-          "origin_country": "CH"
-        },
-        {
-          "id": 42145,
-          "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
-          "name": "SRF",
-          "origin_country": "CH"
-        },
-        {
-          "id": 12431,
-          "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
-          "name": "SRG SSR",
-          "origin_country": "CH"
-        },
-        {
-          "id": 86278,
-          "logo_path": "/fF6KocbuZsNUOrR1kjO8uzO21Kf.png",
-          "name": "MMC Zodiac",
-          "origin_country": "DE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CH",
-          "name": "Switzerland"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        }
-      ],
-      "revenue": 3995267,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/apMLieYY9z6tgBHLbCA7wsuar02.jpg",
-      "genre_ids": [
-        35,
-        53,
-        28,
-        18
-      ],
-      "id": 51995,
-      "title": "Бульвар спасения",
-      "original_language": "en",
-      "original_title": "Salvation Boulevard",
-      "overview": "Действие ленты разворачивается в управляемым супер-религиями будущем, где обратившийся в христианство дурачок спасается бегством от фундаменталистов, защищающих авторитет своего пастора.",
-      "popularity": 1.2597,
-      "poster_path": "/q8kPPcpPUGhdAOP5LYHDMKZBXYP.jpg",
-      "release_date": "2011-07-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 83,
-      "belongs_to_collection": null,
-      "budget": 5500000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1251743",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 6667,
-          "logo_path": null,
-          "name": "Mandalay Vision",
-          "origin_country": "US"
-        },
-        {
-          "id": 6691,
-          "logo_path": null,
-          "name": "10th Hole Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 89182,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
-      "genre_ids": [
-        36,
-        28,
-        12,
-        10752
-      ],
-      "id": 1207162,
-      "title": "Тамерлан",
-      "original_language": "en",
-      "original_title": "Rise of the Conqueror",
-      "overview": "К середине XIV века Великий шёлковый путь оказывается в состоянии полного упадка: после распада Монгольской империи на некогда процветающих землях царят хаос, разруха и гремят междоусобные войны. В это суровое время закалённому в боях великому воину Тимуру предстоит столкнуться с заговорами, интригами, предательством союзников и утратами. Но удары судьбы и происки врагов не смогут сломить волю могущественного полководца, призванного объединить разрозненные земли и защитить свой народ от внешней угрозы.",
-      "popularity": 106.1523,
-      "poster_path": "/3FLWixX2OVvkSCQe0sMwFq44iSH.jpg",
-      "release_date": "2026-04-09",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.7,
-      "vote_count": 7,
-      "belongs_to_collection": null,
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt25868520",
-      "origin_country": [
-        "KZ",
-        "US",
-        "UZ"
-      ],
-      "production_companies": [
-        {
-          "id": 213859,
-          "logo_path": "/lc3sHLuxiCZ377N904A1KwcrZGv.png",
-          "name": "Mystery Box",
-          "origin_country": "US"
-        },
-        {
-          "id": 20555,
-          "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
-          "name": "Taurus Film",
-          "origin_country": "DE"
-        },
-        {
-          "id": 206783,
-          "logo_path": "/mVo5Ir4gatRa1U94v4p9Mr15OPJ.png",
-          "name": "Signature Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 122034,
-          "logo_path": "/kmZNR0LSuhSkEAje0v20Tn6WOt9.png",
-          "name": "Signature Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 114874,
-          "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
-          "name": "Signature Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 74435,
-          "logo_path": "/jZYDf9z2fjjXlZkwfwR4QPwMNtm.png",
-          "name": "Capture",
-          "origin_country": "GB"
-        },
-        {
-          "id": 92394,
-          "logo_path": "/xnsTWHinFaR4oQuHFdxe6JNhfrI.png",
-          "name": "Well Go USA Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "UZ",
-          "name": "Uzbekistan"
-        },
-        {
-          "iso_3166_1": "KZ",
-          "name": "Kazakhstan"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 119,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
+      "runtime": 81,
+      "spoken_languages": [],
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
@@ -1533,26 +1352,266 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/dAWlWircXrlnMjsVZSyb7vgMlIo.jpg",
+      "backdrop_path": "/xJrLEJdM9j03PLysjOOSIdtqNt.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        10749
+      ],
+      "id": 44414,
+      "title": "Либестраум",
+      "original_language": "en",
+      "original_title": "Liebestraum",
+      "overview": "Мужчина возвращается в свой родной город, и ему раскрывается ряд мрачных тайн",
+      "popularity": 1.8368,
+      "poster_path": "/a1H1MrpS9iWCKxQhlGRMbwyXHPe.jpg",
+      "release_date": "1991-09-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 22,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0102299",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 7380,
+          "logo_path": null,
+          "name": "Initial Entertainment Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 15526,
+          "logo_path": null,
+          "name": "MGM-Pathé Communications",
+          "origin_country": "US"
+        },
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 112,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "История о похоти, убийствах и мечтах",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6DgqYuIaEm9PVuXxfpXGSptkC2a.jpg",
+      "genre_ids": [
+        80,
+        28,
+        18
+      ],
+      "id": 196872,
+      "title": "Смертельное прошлое",
+      "original_language": "en",
+      "original_title": "Deadly Past",
+      "overview": "Условно освобожденный бармен вновь увлечён своей прежней подругой. Однако он обнаруживает, что стал частью её преступного плана.",
+      "popularity": 1.6538,
+      "poster_path": "/sXCsRXXeZ7IiMevNEQS0RkzSbRG.jpg",
+      "release_date": "1995-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 6,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0112829",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 7904,
+          "logo_path": null,
+          "name": "Atlantic Group Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 4861,
+          "logo_path": null,
+          "name": "Curb Entertainment International",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vFKEzYVfZZ5smPhTjYVB96X6Y06.jpg",
+      "genre_ids": [
+        53,
+        27,
+        18
+      ],
+      "id": 29396,
+      "title": "Смирительная рубашка",
+      "original_language": "en",
+      "original_title": "Strait-Jacket",
+      "overview": "Люси Харбин провела 20 лет в психиатрической клинике после того, как на глазах у маленькой дочки Кэрол убила топором мужа с любовницей. Оказавшись на свободе, женщина мечтает наладить отношения с дочерью, которая встречается с молодым человеком из обеспеченной семьи. Люси прибывает с дом брата, который вместе с женой после тех трагических событий взял на воспитание осиротевшую Кэрол, и почти сразу неприятные воспоминания выводят её из равновесия.",
+      "popularity": 1.8494,
+      "poster_path": "/eNL4ydW0KVhennniy3QSYYv18Hp.jpg",
+      "release_date": "1964-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.545,
+      "vote_count": 134,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0058620",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 10324,
+          "logo_path": null,
+          "name": "William Castle Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9NfwnRWloDU9SIpsLcjTEdEGcen.jpg",
       "genre_ids": [
         80,
         18,
-        9648,
         53
       ],
-      "id": 10424,
-      "original_language": "en",
-      "original_title": "Jennifer Eight",
-      "overview": "У детектива Джона Берлина, идущего по следу серийного убийцы, нет ни улик, ни подозреваемых. И нет алиби. Уставший от напряженного ритма «каменных джунглей», приходящий в себя после неудачного брака, только излечившийся от алкоголизма лос-анжелесский полицейский Джон Берлин решает сменить обстановку.  Он принимает приглашение своего друга и коллеги и приезжает в маленький городок на севере Калифорнии. Но вместо желанной тихой сельской жизни Джону приходится включиться в поиски серийного убийцы, чьими жертвами стали семь молоденьких слепых девушек.",
-      "popularity": 3.6368,
-      "poster_path": "/mF4bSFswTMN7WwhO4sGuLzrKFvU.jpg",
-      "release_date": "1992-11-06",
-      "title": "Дженнифер 8",
+      "id": 7291,
+      "title": "Набережная Орфевр, 36",
+      "original_language": "fr",
+      "original_title": "36 quai des Orfèvres",
+      "overview": "В Париже вот уже несколько месяцев хозяйничает банда неуловимых и опасных преступников. Чуть ли не каждый день они умудряются совершать нападения на хорошо охраняемые инкассаторские машины, и каждый раз выходят сухими из воды. У двух талантливых и амбициозных полицейских - Лео Вринкса, начальника Отдела по борьбе с бандитизмом, и Дэниса Клейна, главы Отдела по борьбе с организованной преступностью, появляется реальный шанс подняться по служебной лестнице. Шеф полиции Роберт Манчини, их добрый друг, ставит им следующее условие: тот, кто сумеет разоружить банду налетчиков, станет Шефом полиции знаменитого Управления по адресу Набережная Орфевр, 36. Между двумя суперполицейскими разворачивается настоящая борьба. Бывшие друзья, а ныне непримиримые враги, испытывают разногласия буквально во всем - начиная от методов поимки преступников и заканчивая выбором подчиненных. Кроме того, вот уже много лет между ними стоит прекрасная женщина Камилль Вринкс.",
+      "popularity": 2.1436,
+      "poster_path": "/A2viqF5ZICd620opYYFNegr6Xfz.jpg",
+      "release_date": "2004-11-24",
+      "softcore": false,
       "video": false,
-      "vote_average": 6.067,
-      "vote_count": 389,
+      "vote_average": 6.904,
+      "vote_count": 639,
       "belongs_to_collection": null,
-      "budget": 20000000,
+      "budget": 0,
       "genres": [
         {
           "id": 80,
@@ -1563,122 +1622,77 @@
           "name": "драма"
         },
         {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
           "id": 53,
           "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0104549",
+      "imdb_id": "tt0390808",
       "origin_country": [
-        "US"
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 11390479,
-      "runtime": 124,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Есть тут кто-нибудь?",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/41rQ9Ebt2P89dYCuYyqkL7LdJcu.jpg",
-      "genre_ids": [
-        53,
-        80,
-        9648,
-        27
-      ],
-      "id": 93142,
-      "title": "Человек без памяти",
-      "original_language": "it",
-      "original_title": "L'uomo senza memoria",
-      "overview": "В результате последствий автокатастрофы Эдвард Уолтон теряет память. В ее восстановлении заинтересованы не только он и его жена Сара, но и спецслужбы, добивающиеся своих целей. Эдвард, мучаясь и страдая, пытается склеить в воображении осколки своего прошлого, которые нередко буквально пугают его.",
-      "popularity": 0.7942,
-      "poster_path": "/vJTlv1HIjOMSQqbMdcIwE1CPfve.jpg",
-      "release_date": "1974-08-23",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.773,
-      "vote_count": 33,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
+          "id": 9,
+          "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+          "name": "Gaumont",
+          "origin_country": "FR"
         },
         {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0072349",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 1701,
+          "id": 2490,
           "logo_path": null,
-          "name": "Dania Film",
-          "origin_country": "IT"
+          "name": "LGM Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 10891,
+          "logo_path": null,
+          "name": "KL Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 6301,
+          "logo_path": "/jma8ZaHq1KAzlXW3v0RswVOWSdn.png",
+          "name": "CinéCinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 314,
+          "logo_path": null,
+          "name": "Uni Etoile 2",
+          "origin_country": ""
+        },
+        {
+          "id": 104,
+          "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+          "name": "Canal+",
+          "origin_country": "FR"
+        },
+        {
+          "id": 356,
+          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+          "name": "TF1 Films Production",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IT",
-          "name": "Italy"
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
       "revenue": 0,
-      "runtime": 93,
+      "runtime": 111,
       "spoken_languages": [
         {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "",
+      "tagline": "«Криминальная драма Оливье Маршаля»",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
