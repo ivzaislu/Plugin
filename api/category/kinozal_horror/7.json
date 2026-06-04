@@ -9,81 +9,82 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/jrpLhYHxsE7XVZCtP8LZrfhlvIy.jpg",
+      "backdrop_path": "/m249ll0TW8rjwPlhZKGIduno6F5.jpg",
       "genre_ids": [
         27,
-        9648,
-        28
+        28,
+        53
       ],
-      "id": 1303055,
-      "title": "Псарня",
-      "original_language": "en",
-      "original_title": "A Breed Apart",
-      "overview": "По правилам реалити-шоу пятерым участникам нужно поймать одичавших псов и побороться за крупный приз. Вот только хозяин острова – сумасшедший стример Винс Вентура – скрывает от блогеров историю кровавой резни, случившейся здесь тринадцать лет назад. Вскоре охотники сами становятся добычей оголодавшей стаи.",
-      "popularity": 6.1511,
-      "poster_path": "/wPFYJ2SyHUF4rDwf8xdSCTCIFdP.jpg",
-      "release_date": "2025-05-16",
+      "id": 1110034,
+      "title": "Кракен",
+      "original_language": "no",
+      "original_title": "Kraken",
+      "overview": "Морской биолог Йоханна проводит исследование на рыбной ферме в Вангснесе, сельском поселении на берегу фьорда, и сталкивается с несколькими странными явлениями. Помимо жестокой расправы над двумя местными подростками, все указывает на глубины фьорда. Может ли там быть что-то, чего не видно глазу? На дне самого глубокого фьорда обитает мифическое чудовище размером с гору, с множеством щупалец, готовых раздавить и поглотить все, до чего они смогут дотянуться.",
+      "popularity": 48.963,
+      "poster_path": "/v9XPf3LUvM0NbPIKkz3bsRIqgYM.jpg",
+      "release_date": "2026-02-06",
       "softcore": false,
       "video": false,
-      "vote_average": 5.4,
-      "vote_count": 37,
-      "belongs_to_collection": {
-        "id": 1604632,
-        "name": "The Breed Collection",
-        "poster_path": null,
-        "backdrop_path": null
-      },
-      "budget": 0,
+      "vote_average": 6.1,
+      "vote_count": 25,
+      "belongs_to_collection": null,
+      "budget": 1000000,
       "genres": [
         {
           "id": 27,
           "name": "ужасы"
         },
         {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
           "id": 28,
           "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt32323148",
+      "imdb_id": "tt19838566",
       "origin_country": [
-        "US"
+        "NO"
       ],
       "production_companies": [
         {
-          "id": 12029,
-          "logo_path": "/8PAf5K4VVI6xO9SjB7bxLtpi4xH.png",
-          "name": "Curmudgeon Films",
-          "origin_country": "US"
+          "id": 119141,
+          "logo_path": "/bTHtOUdHmlzZdMDaCwXbERngUId.png",
+          "name": "Handmade films in Norwegian Woods",
+          "origin_country": "NO"
         },
         {
-          "id": 80713,
-          "logo_path": "/7pcqQVviN7Uao9B1h850ek65EPJ.png",
-          "name": "Daro Film Distribution",
-          "origin_country": "MC"
+          "id": 38072,
+          "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+          "name": "Nordisk Film Norway",
+          "origin_country": "NO"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "MC",
-          "name": "Monaco"
+          "iso_3166_1": "NO",
+          "name": "Norway"
         }
       ],
-      "revenue": 0,
-      "runtime": 100,
+      "revenue": 14329678,
+      "runtime": 94,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Norwegian",
+          "iso_639_1": "no",
+          "name": "Norsk"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
         }
       ],
       "status": "Released",

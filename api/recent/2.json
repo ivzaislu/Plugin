@@ -1,8 +1,75 @@
 {
   "page": 2,
   "limit": 20,
-  "total": 246,
+  "total": 249,
   "items": [
+    {
+      "adult": false,
+      "backdrop_path": "/fkgtYRmnBHWZtpF3vTgrJPvop4s.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1386343,
+      "title": "Мы умрем сегодня ночью",
+      "original_language": "sv",
+      "original_title": "Vi dör i natt",
+      "overview": "Когда в магазин врываются окровавленные мужчина и женщина, умоляющие о помощи, сотрудники решают помочь им и запирают все двери. Снаружи – жестокая банда, требующая выдать беглецов. Однако чем дольше длится осада, тем яснее становится: спасённые тоже что-то скрывают. Их история не так проста, а их тайны угрожают не только им, но и всем, кто решил их защитить.",
+      "popularity": 0.4236,
+      "poster_path": "/4w5VmWpk8nIv9hUU0z1149r5TGp.jpg",
+      "release_date": "2025-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34549572",
+      "origin_country": [
+        "SE"
+      ],
+      "production_companies": [
+        {
+          "id": 265993,
+          "logo_path": null,
+          "name": "Rock Hammer Films AB",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SE",
+          "name": "Sweden"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
     {
       "adult": false,
       "backdrop_path": "/i0zHBEYhXaK6N6ICmnJtweqOMi7.jpg",
@@ -77,124 +144,103 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/kfSIJ4hx2dm7njpln9VqGe9riy8.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        18,
-        36
+        35,
+        12,
+        10751
       ],
-      "id": 1159539,
-      "original_language": "en",
-      "original_title": "Peter Hujar's Day",
-      "overview": "Один день из жизни известного нью-йоркского фотографа 1970-х и 80-х годов, о котором он рассказывает своей подруге.",
-      "popularity": 3.42,
-      "poster_path": "/6ZIerMBfLbQpO0Es9JpN6OhxQzg.jpg",
-      "release_date": "2025-11-07",
-      "title": "День Питера Худжара",
+      "id": 1446942,
+      "title": "Моя собака – космонавт",
+      "original_language": "ru",
+      "original_title": "Моя собака – космонавт",
+      "overview": "1960 год. В городке у космодрома Байконур, где каждый запуск ракеты озаряет небо мечтами, живёт десятилетний Миша — мальчик со светлой головой, полной космических фантазий. В свой день рождения Миша находит собаку Белку, которая предопределит не только его судьбу, но и напишет новую страницу в истории освоения космоса.",
+      "popularity": 0.2049,
+      "poster_path": "/mUjRsFMRCHP5xEzf5LwSsQBp3QI.jpg",
+      "release_date": "2026-04-09",
+      "softcore": false,
       "video": false,
-      "vote_average": 5.2,
-      "vote_count": 4,
-      "belongs_to_collection": null,
+      "vote_average": 0,
+      "vote_count": 0,
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g52CF0q5hHGiWDoArJ4brD9nLmp.jpg",
+      "genre_ids": [
+        28,
+        14
+      ],
+      "id": 945801,
+      "original_language": "zh",
+      "original_title": "刺杀小说家2",
+      "overview": "Писатель ставшего популярным фэнтези-романа прозябает в безвестности, так как всю его славу присвоил мошенник-выскочка. Тем временем бог смерти и разрушения Рэдмейн из его книги восстает из мертвых и набирает силу, забирая суперспособности убитых им великих воинов. Он попадает в нашу реальность, и только автор с его персонажами могут спасти наш мир от гибели.",
+      "popularity": 4.0932,
+      "poster_path": "/qRPwniTK5UZMvgaXIohDMB4PWno.jpg",
+      "release_date": "2025-10-01",
+      "title": "Ассасин: Смертельная битва",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 17,
+      "belongs_to_collection": {
+        "id": 945803,
+        "name": "刺杀小说家（系列）",
+        "poster_path": "/eWCUwPeXhdONhLmO4Y5GoiszYEc.jpg",
+        "backdrop_path": "/flQrCoOtPWhGyF1byFaeyiVHOSD.jpg"
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 36,
-          "name": "история"
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt34250044",
+      "imdb_id": "tt33095008",
       "origin_country": [
-        "US"
+        "CN"
       ],
       "production_companies": [
         {
-          "id": 145926,
+          "id": 218024,
           "logo_path": null,
-          "name": "Complementary Colors",
-          "origin_country": "US"
+          "name": "Shanghai Maoyan Film 上海猫眼影业",
+          "origin_country": "CN"
         },
         {
-          "id": 93766,
-          "logo_path": "/58JONKkBMT9DrcsWF3652V6b8oS.png",
-          "name": "Blink Productions",
-          "origin_country": "GB"
+          "id": 2270,
+          "logo_path": "/7osqu50JpFIh0klZU0s1CrnNqcc.png",
+          "name": "China Film Group Corporation",
+          "origin_country": "CN"
         },
         {
-          "id": 134166,
-          "logo_path": "/tINT6vMiVhG0LuLbDYxXZlGMm6L.png",
-          "name": "Primo Content",
-          "origin_country": "AR"
-        },
-        {
-          "id": 89900,
+          "id": 72044,
           "logo_path": null,
-          "name": "We Are Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 209032,
-          "logo_path": null,
-          "name": "Materia Cinema",
-          "origin_country": "ES"
-        },
-        {
-          "id": 269387,
-          "logo_path": null,
-          "name": "Nightjar Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 270974,
-          "logo_path": null,
-          "name": "Sherpa Films",
-          "origin_country": ""
-        },
-        {
-          "id": 270975,
-          "logo_path": null,
-          "name": "Lake Forest Films",
-          "origin_country": ""
-        },
-        {
-          "id": 39720,
-          "logo_path": "/ibYDOzRUY7y8PHdM7JGuw5YLlcp.png",
-          "name": "One Two Films",
-          "origin_country": "DE"
+          "name": "Huace Film 华策电影",
+          "origin_country": "CN"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "AR",
-          "name": "Argentina"
-        },
-        {
-          "iso_3166_1": "ES",
-          "name": "Spain"
+          "iso_3166_1": "CN",
+          "name": "China"
         }
       ],
-      "revenue": 0,
-      "runtime": 76,
+      "revenue": 49870646,
+      "runtime": 134,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
         }
       ],
       "status": "Released",
@@ -361,33 +407,34 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/g52CF0q5hHGiWDoArJ4brD9nLmp.jpg",
+      "backdrop_path": "/aLw0jnLpvYHfB8BTwzj9RBRp0qI.jpg",
       "genre_ids": [
-        28,
+        35,
+        10749,
         14
       ],
-      "id": 945801,
-      "original_language": "zh",
-      "original_title": "刺杀小说家2",
-      "overview": "Писатель ставшего популярным фэнтези-романа прозябает в безвестности, так как всю его славу присвоил мошенник-выскочка. Тем временем бог смерти и разрушения Рэдмейн из его книги восстает из мертвых и набирает силу, забирая суперспособности убитых им великих воинов. Он попадает в нашу реальность, и только автор с его персонажами могут спасти наш мир от гибели.",
-      "popularity": 4.0932,
-      "poster_path": "/qRPwniTK5UZMvgaXIohDMB4PWno.jpg",
-      "release_date": "2025-10-01",
-      "title": "Ассасин: Смертельная битва",
+      "id": 1166170,
+      "title": "Любовь с того света",
+      "original_language": "fr",
+      "original_title": "L’Âme Idéale",
+      "overview": "Сорокалетняя одинокая женщина-врач по имени Эльза давно оставила попытки построить личную жизнь. Эльза обладает редким и пугающим даром - она способна видеть призраков и общаться с ними, помогая им перейти в мир иной. Из-за этого она изолирует себя от людей. Всё меняется, когда она знакомится с обаятельным мужчиной Оскаром. Он возвращает ей веру в любовь и счастье, однако вскоре выясняется трагическая деталь - Оскар сам является мертвецом, который поначалу даже не осознавал своей гибели.",
+      "popularity": 1.9539,
+      "poster_path": "/1YJJHlL9HSn4jq4siSUKBPN4a5P.jpg",
+      "release_date": "2025-12-17",
+      "softcore": false,
       "video": false,
-      "vote_average": 5.3,
-      "vote_count": 17,
-      "belongs_to_collection": {
-        "id": 945803,
-        "name": "刺杀小说家（系列）",
-        "poster_path": "/eWCUwPeXhdONhLmO4Y5GoiszYEc.jpg",
-        "backdrop_path": "/flQrCoOtPWhGyF1byFaeyiVHOSD.jpg"
-      },
+      "vote_average": 7.1,
+      "vote_count": 88,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         },
         {
           "id": 14,
@@ -395,43 +442,86 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33095008",
+      "imdb_id": "tt35526093",
       "origin_country": [
-        "CN"
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 218024,
+          "id": 142017,
           "logo_path": null,
-          "name": "Shanghai Maoyan Film 上海猫眼影业",
-          "origin_country": "CN"
-        },
-        {
-          "id": 2270,
-          "logo_path": "/7osqu50JpFIh0klZU0s1CrnNqcc.png",
-          "name": "China Film Group Corporation",
-          "origin_country": "CN"
-        },
-        {
-          "id": 72044,
-          "logo_path": null,
-          "name": "Huace Film 华策电影",
-          "origin_country": "CN"
+          "name": "Les films entre 2 et 4",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "CN",
-          "name": "China"
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
-      "revenue": 49870646,
-      "runtime": 134,
+      "revenue": 0,
+      "runtime": 98,
       "spoken_languages": [
         {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8p0ox5ZB4JMeLg3iacVYmnDNcEd.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1688177,
+      "title": "Враг внутри",
+      "original_language": "en",
+      "original_title": "An Enemy Within",
+      "overview": "Свадебное торжество Калеба Уингейта превращается в кошмар, когда наемный убийца по прозвищу Волк ставит ему ультиматум. Калеб должен за несколько часов вычислить, кто из близких является скрытым врагом и сделать невозможный выбор между жизнью возлюбленной и ее отца.",
+      "popularity": 7.5833,
+      "poster_path": "/r7IaQDH6kbeVKxtJjH25QgSnh1U.jpg",
+      "release_date": "2025-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 3,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt9788706",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -517,6 +607,78 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1264805,
+      "title": "Что, если мы...",
+      "original_language": "ko",
+      "original_title": "만약에 우리",
+      "overview": "Сеул, 2008 год. В автобусе по пути в родной город судьба сводит Ын Хо и Чон Вон, зарождая неожиданную дружбу. Сражаясь с суматошной и утомительной городской жизнью, они обнаруживают, что разделяют возвышенные мечты и любовь, которая кажется необыкновенной. Но в конце концов суровая реальность жизни заставляет их расстаться. Спустя более десяти лет после разлуки они неожиданно воссоединяются во время обратного рейса в Корею, где вспоминают о потерянном времени.",
+      "popularity": 3.055,
+      "poster_path": "/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
+      "release_date": "2025-12-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 18,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37764737",
+      "origin_country": [
+        "KR"
+      ],
+      "production_companies": [
+        {
+          "id": 170305,
+          "logo_path": null,
+          "name": "Covenant Pictures",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/az1Okg0lODJSmGbk0nRxu2Ut0ol.jpg",
       "genre_ids": [
         18,
@@ -589,78 +751,6 @@
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1264805,
-      "title": "Что, если мы...",
-      "original_language": "ko",
-      "original_title": "만약에 우리",
-      "overview": "Сеул, 2008 год. В автобусе по пути в родной город судьба сводит Ын Хо и Чон Вон, зарождая неожиданную дружбу. Сражаясь с суматошной и утомительной городской жизнью, они обнаруживают, что разделяют возвышенные мечты и любовь, которая кажется необыкновенной. Но в конце концов суровая реальность жизни заставляет их расстаться. Спустя более десяти лет после разлуки они неожиданно воссоединяются во время обратного рейса в Корею, где вспоминают о потерянном времени.",
-      "popularity": 3.055,
-      "poster_path": "/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
-      "release_date": "2025-12-31",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 18,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt37764737",
-      "origin_country": [
-        "KR"
-      ],
-      "production_companies": [
-        {
-          "id": 170305,
-          "logo_path": null,
-          "name": "Covenant Pictures",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
@@ -994,6 +1084,85 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/swGDhwM5BCVwb7B23gf0YgtyGWE.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1200545,
+      "title": "Этот дом, эта ложь, эта любовь",
+      "original_language": "en",
+      "original_title": "A Love Like This",
+      "overview": "Двое влюблённых проводят выходные в роскошном доме у океана, пытаясь забыться от реальности. Однако за идеальной картинкой скрываются секреты, которые могут разрушить и этот уикенд, и их отношения.",
+      "popularity": 1.044,
+      "poster_path": "/pcD5V2RfnvoNUYQibmvLhiLAsmV.jpg",
+      "release_date": "2026-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt8559298",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 292688,
+          "logo_path": null,
+          "name": "Go West Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 87024,
+          "logo_path": null,
+          "name": "Flux Capacitor Studios",
+          "origin_country": ""
+        },
+        {
+          "id": 292689,
+          "logo_path": null,
+          "name": "Hughes Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 0,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/ivU0ImepSAnRIVPop9REhYKX2S.jpg",
       "genre_ids": [
         10749
@@ -1127,85 +1296,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/swGDhwM5BCVwb7B23gf0YgtyGWE.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1200545,
-      "title": "Этот дом, эта ложь, эта любовь",
-      "original_language": "en",
-      "original_title": "A Love Like This",
-      "overview": "Двое влюблённых проводят выходные в роскошном доме у океана, пытаясь забыться от реальности. Однако за идеальной картинкой скрываются секреты, которые могут разрушить и этот уикенд, и их отношения.",
-      "popularity": 1.044,
-      "poster_path": "/pcD5V2RfnvoNUYQibmvLhiLAsmV.jpg",
-      "release_date": "2026-04-03",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt8559298",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 292688,
-          "logo_path": null,
-          "name": "Go West Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 87024,
-          "logo_path": null,
-          "name": "Flux Capacitor Studios",
-          "origin_country": ""
-        },
-        {
-          "id": 292689,
-          "logo_path": null,
-          "name": "Hughes Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 0,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/xeDv46idE2jLt2OKeKr8uopPqaW.jpg",
       "genre_ids": [
         10749
@@ -1244,173 +1334,6 @@
       ],
       "revenue": 0,
       "runtime": 116,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/Nn9hSIq9GW1MhUhvl6yWuLoXJp.jpg",
-      "genre_ids": [
-        53
-      ],
-      "id": 1552097,
-      "title": "Кое-что настоящее",
-      "original_language": "et",
-      "original_title": "Midagi tõelist",
-      "overview": "История рассказывает о мужчине по имени Лео, который живет в пригороде с женой Дианой и двумя детьми. Чувства в браке давно остыли, и в попытках найти человеческую близость и тепло Лео знакомится с женщиной на сайте знакомств. Назначенная встреча оборачивается катастрофой: Лео попадает в жесткую и тщательно спланированную схему шантажа, которую организовал Карл — человек с криминальным прошлым",
-      "popularity": 1.5252,
-      "poster_path": "/iwSrcegbYuh4BxRHCVsTgTiVYN0.jpg",
-      "release_date": "2026-03-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt36241806",
-      "origin_country": [
-        "EE"
-      ],
-      "production_companies": [
-        {
-          "id": 17692,
-          "logo_path": "/vdMBCn1foLJArmSaY094AQVrMyv.png",
-          "name": "Nafta",
-          "origin_country": "EE"
-        },
-        {
-          "id": 138100,
-          "logo_path": "/6cvw2OFBsqBPL1BAFek6eNuRqVQ.png",
-          "name": "Apollo Film Productions",
-          "origin_country": "EE"
-        },
-        {
-          "id": 117493,
-          "logo_path": "/pPudAOyLIRzNvGAyVQpqguRZ8vC.png",
-          "name": "INSCRIPT",
-          "origin_country": "LT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "EE",
-          "name": "Estonia"
-        },
-        {
-          "iso_3166_1": "LT",
-          "name": "Lithuania"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 113,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        },
-        {
-          "english_name": "Estonian",
-          "iso_639_1": "et",
-          "name": "Eesti"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/aNl3C4dEIZSHR8uAlWj9DDjrjbt.jpg",
-      "genre_ids": [
-        18,
-        35,
-        27
-      ],
-      "id": 1422120,
-      "title": "Русалка",
-      "original_language": "en",
-      "original_title": "Mermaid",
-      "overview": "Даг — погрязший в долгах и зависимостях неудачник из Флориды, которого только что уволили с работы. В момент полного отчаяния он находит на побережье раненую русалку. Спрятав существо в своём полуразвалившемся доме, Даг начинает выхаживать её, но забота быстро перерастает в опасную одержимость. Когда о русалке узнают жестокие дельцы, Дагу приходится пойти на всё, чтобы защитить свою жуткую тайну.",
-      "popularity": 14.9279,
-      "poster_path": "/ndGA7b7b81a32HQCAVRZ5RWyfJ1.jpg",
-      "release_date": "2026-04-08",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.5,
-      "vote_count": 4,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34435532",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 188565,
-          "logo_path": "/u2S01tvRVRyrBS5L5FEBrjNnoFC.png",
-          "name": "Bad Grey",
-          "origin_country": "US"
-        },
-        {
-          "id": 291304,
-          "logo_path": null,
-          "name": "Candy Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 291305,
-          "logo_path": "/vnEwLwwx7MxkBUdFhfwAuXKpDY3.png",
-          "name": "Pilot Moon",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 106,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1496,68 +1419,6 @@
           "name": "English"
         }
       ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wivNPOtg6saz1XrCTU3C7sYYFt6.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1473878,
-      "title": "Демон скорости",
-      "original_language": "en",
-      "original_title": "Speed Demon",
-      "overview": "Отец Новак и сестра Лу садятся в поезд, который следует из Монреаля в Нью-Йорк. В пути они сталкиваются с демоном Асмодеем, который вселяется в одного из пассажиров. Утратившей веру монахине сестре Лу предстоит провести первый в её жизни обряд экзорцизма и противостоять одержимым людям, пока поезд продолжает двигаться на высокой скорости.",
-      "popularity": 0.9722,
-      "poster_path": "/1qeO6qbbOXFkwN19aCWQAlmpbHQ.jpg",
-      "release_date": "2026-05-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34386603",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 3945,
-          "logo_path": "/sLqZ7WobXaGlPmti1yi6TFv5QuF.png",
-          "name": "Triumphant Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 106786,
-          "logo_path": "/w1frKfyOXbGcK6kKtRnTNJfmtBv.png",
-          "name": "RainMaker Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 93,
-      "spoken_languages": [],
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
