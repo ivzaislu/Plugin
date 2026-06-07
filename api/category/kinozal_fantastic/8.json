@@ -9,25 +9,134 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/tQLBp4KiJbKwgULhRCPlYtGAmxh.jpg",
+      "backdrop_path": "/qifYc5jT4CZxmLH9DfOlipioSPp.jpg",
       "genre_ids": [
-        14,
         12,
-        10751
+        14
       ],
-      "id": 951170,
-      "title": "Приключения хрустального черепа",
+      "id": 2268,
+      "title": "Золотой Компас",
       "original_language": "en",
-      "original_title": "Adventures of the Crystal Skull",
-      "overview": "Обычная экскурсия по историческому музею запускает цепочку невероятных событий в жизни обычного подроста по имени Скотт. Ведь оказывается, что он избранный, и только ему под силу снять древнее проклятие с хрустального черепа.",
-      "popularity": 0.1831,
-      "poster_path": "/f2hBptls4mFoR3Oh8TcXmPJ2kZ0.jpg",
-      "release_date": "2022-02-08",
+      "original_title": "The Golden Compass",
+      "overview": "Двенадцатилетняя Лира отправляется в удивительное путешествие к Северному Полюсу, чтобы спасти своего похищенного друга. В помощь к девочке приходят северные ведьмы под предводительством прекрасной Серафины Пеккала и огромный бронированный медведь. На пути их стоят зловещая Миссис Коултер и армия её монстров.",
+      "popularity": 5.3971,
+      "poster_path": "/gT8F02UnUOYqaThQOiY07WOgeBB.jpg",
+      "release_date": "2007-12-04",
       "softcore": false,
       "video": false,
-      "vote_average": 3,
-      "vote_count": 1,
+      "vote_average": 6.088,
+      "vote_count": 4830,
       "belongs_to_collection": null,
+      "budget": 180000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0385752",
+      "origin_country": [
+        "GB",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1473,
+          "logo_path": null,
+          "name": "Depth of Field",
+          "origin_country": "US"
+        },
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 1938,
+          "logo_path": "/Tmc9JLmLPTSQUgsMP4BjCN8Off.png",
+          "name": "Scholastic Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 290,
+          "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+          "name": "Ingenious Media",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 372234864,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "Icelandic",
+          "iso_639_1": "is",
+          "name": "Íslenska"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«За пределами нашего мира есть и другие. Компас укажет дорогу»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fMrqfn0gaHf2ZRV1Tlr7vCE5r5O.jpg",
+      "genre_ids": [
+        14,
+        10751
+      ],
+      "id": 1241894,
+      "title": "Дети леса",
+      "original_language": "de",
+      "original_title": "Woodwalkers",
+      "overview": "На первый взгляд, Караг — обычный подросток, но в его глазах скрывается удивительная тайна. Он — оборотень, наполовину человек, наполовину пума. Однажды ему выпадает шанс поступить в загадочную школу «Кристалл», где учатся подростки, умеющие превращаться в зверей. Карагу предстоит не только обрести новых друзей, но и пройти опасные испытания, узнав свое истинное предназначение.",
+      "popularity": 4.4607,
+      "poster_path": "/lyqg2LUQOPjCpib2a4B6d1jUlvp.jpg",
+      "release_date": "2024-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.283,
+      "vote_count": 76,
+      "belongs_to_collection": {
+        "id": 1278855,
+        "name": "Woodwalkers Collection",
+        "poster_path": null,
+        "backdrop_path": null
+      },
       "budget": 0,
       "genres": [
         {
@@ -35,35 +144,236 @@
           "name": "фэнтези"
         },
         {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
           "id": 10751,
           "name": "семейный"
         }
       ],
-      "homepage": "https://tffilmproductions.com/adventures-of-the-crystal-skull/",
-      "imdb_id": "tt13967784",
+      "homepage": "",
+      "imdb_id": "tt30398905",
       "origin_country": [
-        "GB"
+        "DE"
       ],
       "production_companies": [
         {
-          "id": 171879,
+          "id": 3460,
+          "logo_path": "/wayJJRUb4KSXwl5fTQCpuY8pK85.png",
+          "name": "Blue Eyes Fiction",
+          "origin_country": "DE"
+        },
+        {
+          "id": 142064,
+          "logo_path": "/lU0gJVT0WA2UfvDYiNw9O1Qo85w.png",
+          "name": "FilmVergnuegen",
+          "origin_country": "IT"
+        },
+        {
+          "id": 608,
+          "logo_path": "/dD2Do4GHXAql5c4LjXCbEOvxbFg.png",
+          "name": "Dor Film",
+          "origin_country": "AT"
+        },
+        {
+          "id": 106689,
+          "logo_path": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+          "name": "StudioCanal",
+          "origin_country": "DE"
+        },
+        {
+          "id": 19332,
           "logo_path": null,
-          "name": "TF Film Productions",
+          "name": "WS Filmproduktion",
+          "origin_country": "DE"
+        },
+        {
+          "id": 47,
+          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+          "name": "Constantin Film",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AT",
+          "name": "Austria"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 6412735,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/34rfkLkiHXdRUjv7Xsde8efHCKo.jpg",
+      "genre_ids": [
+        80,
+        14
+      ],
+      "id": 197772,
+      "title": "Другая жизнь Ришара Кемпа",
+      "original_language": "fr",
+      "original_title": "L'Autre vie de Richard Kemp",
+      "overview": "Расследуя очередное дело, капитан полиции Ришар Кемп обнаруживает, что новое убийство как две капли воды похоже на работу серийного маньяка, который орудовал в этих краях тридцать с лишним лет назад. Мистическим образом Ришар Кемп переносится в май 1989 года, ровно за день до того, как маньяк совершит первое убийство. Кемп решает изменить прошлое и поймать убийцу еще до того, как тот совершит преступление, но ему активно мешает молодой и амбициозный детектив — ни кто иной, как он сам.",
+      "popularity": 0.4143,
+      "poster_path": "/qfA6JAOJBgxRK8qiF7LXJtMypmW.jpg",
+      "release_date": "2013-06-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.394,
+      "vote_count": 47,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2843344",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 726,
+          "logo_path": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+          "name": "Haut et Court",
+          "origin_country": "FR"
+        },
+        {
+          "id": 17223,
+          "logo_path": "/dMH93k5WVtijdYAFLn4JZY1i3md.png",
+          "name": "Direct Cinéma",
+          "origin_country": "FR"
+        },
+        {
+          "id": 17224,
+          "logo_path": null,
+          "name": "Direct 8",
+          "origin_country": ""
+        },
+        {
+          "id": 104,
+          "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+          "name": "Canal+",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2shhKQsnL4DxZvY3m5PkAHnPOLf.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        878,
+        12
+      ],
+      "id": 20196,
+      "original_language": "en",
+      "original_title": "Mac and Me",
+      "overview": "Мак — обычный ребенок, только с другой планеты, и выглядит он совсем не так, как обитатели Земли. Вместе с мамой и папой он прилетает из космоса в мир людей, но потом теряется и находит убежище в доме семьи, где есть двое детей.  В новом пугающем мире Мак может полагаться только на свои необычные для землян способности. Лучшим другом Мака становится мальчик-инвалид, который помогает симпатяге-пришельцу адаптироваться в новых условиях и укрывает его от врагов.",
+      "popularity": 2.3112,
+      "poster_path": "/gZsIgK2W9K6e1ebNro3WT7u5yGX.jpg",
+      "release_date": "1988-08-12",
+      "title": "Мак и я",
+      "video": false,
+      "vote_average": 4.404,
+      "vote_count": 270,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0095560",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 41,
+          "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+          "name": "Orion Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 111840,
+          "logo_path": null,
+          "name": "Mac and Me Joint Venture",
           "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 90,
+      "revenue": 5935269,
+      "runtime": 99,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -81,75 +391,87 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/w4Kcg0D1TNm0zfYZ1sXf4iiW7ic.jpg",
+      "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
       "genre_ids": [
-        12,
-        14,
-        10751
+        28,
+        53,
+        878
       ],
-      "id": 1218377,
-      "original_language": "ru",
-      "original_title": "Артек. Сквозь столетия",
-      "overview": "Митя Неверовский — потомок легендарного генерал-лейтенанта. Но для своих родителей Митя — сплошная головная боль, он совершенно неуважительно относится к истории своей семьи, не ценит тот факт, что его предки — выдающиеся личности. Родители отправляют Митю в «Артек», где ему явно скучно, но желание выступить на «Артек-Арене» в рамках праздничного концерта — мечта для юного музыканта, и он хочет стать известным рэпером. Правда, прежде чем его мечта осуществится, Мите предстоит пройти немало испытаний. Первое приключение начинается в 1925 году, куда Митя попадает вместе с Птичкиным, где они, совершив немало ошибок, проваливают миссию — за это петля времени забрасывает героев в 1812 год. Ход истории может быть нарушен настолько, что ни лагеря «Артек», ни самого Мити в настоящем может не оказаться.",
-      "popularity": 0.3323,
-      "poster_path": "/lBqqbubu6iY7KNTBcXFj2k699Nq.jpg",
-      "release_date": "2025-06-12",
-      "title": "Артек. Сквозь столетия",
+      "id": 679,
+      "original_language": "en",
+      "original_title": "Aliens",
+      "overview": "Чужой – совершенный организм. Идеальная машина для убийства, чье физическое превосходство сочетается с его феноменальной жаждой уничтожения. Офицер Элен Рипли и команда космического корабля Ностромо один раз уже встретилась с такой тварью. В живых осталась только Элен. Капсула с Элен найдена спасателями после многих лет блуждания в космосе. Ей сообщают, что планета L.V. 426 колонизирована, и ей придется вернуться туда, где начался ее кошмар, ибо связь с колонистами прервалась. И вот в составе группы космического десанта Рипли отправляется на проклятую планету. Но теперь их там поджидает не один Чужой, а тысячи. Кто сможет выжить в этой войне: чудовища, способные только убивать, или люди, способные мыслить?",
+      "popularity": 12.9308,
+      "poster_path": "/sSCmIDZ2EO1oLa8QMq6dL8kNFKq.jpg",
+      "release_date": "1986-07-18",
+      "title": "Чужие",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 1,
+      "vote_average": 7.956,
+      "vote_count": 10520,
       "belongs_to_collection": {
-        "id": 1218379,
-        "name": "Артек",
-        "poster_path": null,
-        "backdrop_path": null
+        "id": 8091,
+        "name": "Чужой (Коллекция)",
+        "poster_path": "/qZtQ0RicbSSaX7UU58GyTZZzI75.jpg",
+        "backdrop_path": "/6X42JnSMdo3dPAswOHUuvebdTq7.jpg"
       },
-      "budget": 0,
+      "budget": 18500000,
       "genres": [
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 53,
+          "name": "триллер"
         },
         {
-          "id": 10751,
-          "name": "семейный"
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt23752846",
+      "imdb_id": "tt0090605",
       "origin_country": [
-        "RU"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 29924,
-          "logo_path": "/rRiZvBMdu2zN4UARzNYyrAdaq0w.png",
-          "name": "Fresh Film",
-          "origin_country": "RU"
+          "id": 396,
+          "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
+          "name": "SLM Production Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 25,
+          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+          "name": "20th Century Fox",
+          "origin_country": "US"
+        },
+        {
+          "id": 401,
+          "logo_path": "/t7mM3DvQ9MwDT3YzMCBrkWpWiiz.png",
+          "name": "Brandywine Productions",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 100,
+      "revenue": 183316455,
+      "runtime": 137,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "",
+      "tagline": "«В некоторых местах Вселенной вы не одиноки...»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -157,85 +479,67 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/e0MwhnT6ydLrgQbq4IIABhJdsmo.jpg",
+      "backdrop_path": "/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
       "genre_ids": [
-        14,
-        18,
-        12,
-        10751
+        28,
+        53,
+        878
       ],
-      "id": 16523,
-      "title": "Там, где живут чудовища",
+      "id": 798645,
       "original_language": "en",
-      "original_title": "Where the Wild Things Are",
-      "overview": "Мальчик убегает из дома ночью после ссоры с мамой и оказывается в близлежащем парке. На рассвете он находит водоем и лодку, садится в нее и к вечеру следующего дня его прибивает к маленькому острову, населенному необычайными существами.",
-      "popularity": 2.8783,
-      "poster_path": "/sRQlus0wKbCDJ9blMGuqk5hEr7C.jpg",
-      "release_date": "2009-10-16",
-      "softcore": false,
+      "original_title": "The Running Man",
+      "overview": "Ближайшее будущее. Отчаявшийся отец Бен Ричардс решает принять участие в жестоком реалити-шоу «Бегущий человек», надеясь выиграть деньги для лечения тяжелобольной дочери. Чтобы победить, участники должны выжить, пока в течение 30 дней на них охотится группа убийц.",
+      "popularity": 93.322,
+      "poster_path": "/40Mxw7P1l9KwkQipHgzVNHFMfVC.jpg",
+      "release_date": "2025-11-11",
+      "title": "Бегущий человек",
       "video": false,
-      "vote_average": 6.501,
-      "vote_count": 2018,
+      "vote_average": 6.823,
+      "vote_count": 886,
       "belongs_to_collection": null,
-      "budget": 100000000,
+      "budget": 110000000,
       "genres": [
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 53,
+          "name": "триллер"
         },
         {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
+          "id": 878,
+          "name": "фантастика"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0386117",
+      "imdb_id": "tt14107334",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
           "origin_country": "US"
         },
         {
-          "id": 923,
-          "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
-          "name": "Legendary Pictures",
+          "id": 131464,
+          "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
+          "name": "Complete Fiction",
+          "origin_country": "GB"
+        },
+        {
+          "id": 28788,
+          "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+          "name": "Genre Films",
           "origin_country": "US"
         },
         {
-          "id": 79,
-          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
-          "name": "Village Roadshow Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 4171,
-          "logo_path": "/cdwjRVcXP9zws9gkiim0KkBNs9N.png",
-          "name": "Playtone",
-          "origin_country": "US"
-        },
-        {
-          "id": 213477,
-          "logo_path": null,
-          "name": "KLG Film Invest",
-          "origin_country": "DE"
-        },
-        {
-          "id": 279152,
-          "logo_path": null,
-          "name": "Wild Things Productions",
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
           "origin_country": "US"
         }
       ],
@@ -245,12 +549,12 @@
           "name": "United States of America"
         },
         {
-          "iso_3166_1": "DE",
-          "name": "Germany"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
-      "revenue": 100140916,
-      "runtime": 101,
+      "revenue": 68615641,
+      "runtime": 133,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -259,8 +563,187 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "Найти его и поймать.",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+      "genre_ids": [
+        878,
+        28,
+        27
+      ],
+      "id": 1196067,
+      "original_language": "en",
+      "original_title": "Worldbreaker",
+      "overview": "Пять лет назад из-за разрыва реальности в наш мир проникли существа из другого измерения. Отец прячет дочь на удалённом острове, готовя ее к будущим сражениям. Но вскоре они осознают, что безопасных мест на Земле больше не существует.",
+      "popularity": 41.2324,
+      "poster_path": "/4pjvCr7sbqoOMWJ5X6Ekj8Qtthx.jpg",
+      "release_date": "2025-10-30",
+      "title": "Разрушитель миров",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 94,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt14264694",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 104678,
+          "logo_path": "/kdFFpWu5r2ziY9xXPrqhiWS9id8.png",
+          "name": "23ten",
+          "origin_country": "GB"
+        },
+        {
+          "id": 215935,
+          "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+          "name": "Gramercy Park Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 168295,
+          "logo_path": "/jy0UTvGugWYsUYJb7ISk5qd0fvo.png",
+          "name": "Studio507",
+          "origin_country": "US"
+        },
+        {
+          "id": 15465,
+          "logo_path": "/391VF4wQ568eSBChoPbgWBVByfl.png",
+          "name": "Amasia Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«За пределами страха лежит будущее»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5lUpy6OrDhzdeAGBaM1mIsQvfOl.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "id": 157,
+      "original_language": "en",
+      "original_title": "Star Trek III: The Search for Spock",
+      "overview": "Поражение Хана и создание планеты Генезис стали очередным триумфом капитана Джеймса Т. Керка; но для него эти победы больше не имеют значения. Керк потерял одного из своих лучших друзей, Спока, который погиб, спасая «Энтерпрайз», и эта потеря невосполнима.  Одновременно с этим Керк близок к тому, чтобы потерять еще одного своего лучшего друга, Мак-Коя, который потерял рассудок.  Неожиданный визит Зарека, отца Спока, проясняет ситуацию и дает Керку надежду — Спок жив, и его разум в данный момент помещен в тело Мак-Коя. Чтобы помочь друзьям, Керк угоняет свой корабль, к тому времени уже предназначенный на слом, и нарушает установленный Федерацией карантин на планете Генезис, на которой работает научная экспедиция во главе с его сыном Дэвидом.  Но в это же время о существовании Генезиса узнают Клингоны, и их боевой корабль под управлением командира Крюге спешно направляется к планете Генезис. Их встреча неизбежна…",
+      "popularity": 1.4304,
+      "poster_path": "/tYLxjJqQOkDREOF2dqxvsSS4P79.jpg",
+      "release_date": "1984-06-01",
+      "title": "Звёздный путь 3: В поисках Спока",
+      "video": false,
+      "vote_average": 6.587,
+      "vote_count": 1483,
+      "belongs_to_collection": {
+        "id": 151,
+        "name": "Звёздный путь (TOS Коллекция)",
+        "poster_path": "/vNrbrsHOpXS3whk9DLuBNcjJy1s.jpg",
+        "backdrop_path": "/qM8q2gWAeQF0XUpZ4XZc4CMX87a.jpg"
+      },
+      "budget": 18000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0088170",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 87000000,
+      "runtime": 105,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -437,38 +920,38 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/2shhKQsnL4DxZvY3m5PkAHnPOLf.jpg",
+      "backdrop_path": "/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
       "genre_ids": [
-        10751,
-        14,
         878,
+        28,
         12
       ],
-      "id": 20196,
+      "id": 13475,
       "original_language": "en",
-      "original_title": "Mac and Me",
-      "overview": "Мак — обычный ребенок, только с другой планеты, и выглядит он совсем не так, как обитатели Земли. Вместе с мамой и папой он прилетает из космоса в мир людей, но потом теряется и находит убежище в доме семьи, где есть двое детей.  В новом пугающем мире Мак может полагаться только на свои необычные для землян способности. Лучшим другом Мака становится мальчик-инвалид, который помогает симпатяге-пришельцу адаптироваться в новых условиях и укрывает его от врагов.",
-      "popularity": 2.3112,
-      "poster_path": "/gZsIgK2W9K6e1ebNro3WT7u5yGX.jpg",
-      "release_date": "1988-08-12",
-      "title": "Мак и я",
+      "original_title": "Star Trek",
+      "overview": "Когда Нерон с планеты Ромул приходит из будущего, чтобы отомстить Федерации, конкуренты Кирк и Спок должны объединиться, чтобы не дать ему разрушить все, что им дорого. Во время этого будоражащего путешествия, наполненного эффектными боями, юмором и космическими угрозами, новоиспеченные члены команды военного корабля «Энтерпрайз» смело встретятся лицом к лицу с невообразимыми опасностями.",
+      "popularity": 8.748,
+      "poster_path": "/9j0bQ4zDzrXerLP0TkUMKNT6AFy.jpg",
+      "release_date": "2009-05-06",
+      "title": "Звёздный путь",
       "video": false,
-      "vote_average": 4.404,
-      "vote_count": 270,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 7.43,
+      "vote_count": 10368,
+      "belongs_to_collection": {
+        "id": 115575,
+        "name": "Звёздный путь (Перезапуск) | (Коллекция)",
+        "poster_path": "/z7lWvltTQcGOLHKkBsbQi6Sv07f.jpg",
+        "backdrop_path": "/gWl5pN2FplE709aVtA4lakwsE6t.jpg"
+      },
+      "budget": 150000000,
       "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
         {
           "id": 878,
           "name": "фантастика"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 12,
@@ -476,22 +959,28 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0095560",
+      "imdb_id": "tt0796366",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 41,
-          "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
-          "name": "Orion Pictures",
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
           "origin_country": "US"
         },
         {
-          "id": 111840,
-          "logo_path": null,
-          "name": "Mac and Me Joint Venture",
-          "origin_country": ""
+          "id": 158,
+          "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+          "name": "Spyglass Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 11461,
+          "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+          "name": "Bad Robot",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -500,8 +989,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 5935269,
-      "runtime": 99,
+      "revenue": 386839614,
+      "runtime": 127,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -510,10 +999,11 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Будущее начинается»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
+        "kinozal_action",
         "kinozal_fantastic"
       ]
     },
@@ -616,6 +1106,276 @@
       "status": "Released",
       "tagline": "Сохраняйте спокойствие",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r2ZBqkOCWSEp3z7gmpjSJ8k3kCK.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 188927,
+      "original_language": "en",
+      "original_title": "Star Trek Beyond",
+      "overview": "События развиваются спустя 2 года после начала пятилетней миссии.  Экипаж звездного корабля «Энтерпрайз», во главе с капитаном Джеймсом Т. Кирком, были атакованы могущественной и опасной волной неизвестных пришельцев, которые уничтожают корабль, оставляя их без всего на новой неизведанной планете, где они оказываются в конфликте с новым безжалостным врагом.",
+      "popularity": 6.0903,
+      "poster_path": "/mkcP3g7XwmXT3fznyBfvGDcPgjA.jpg",
+      "release_date": "2016-07-07",
+      "title": "Стартрек: Бесконечность",
+      "video": false,
+      "vote_average": 6.783,
+      "vote_count": 7008,
+      "belongs_to_collection": {
+        "id": 115575,
+        "name": "Звёздный путь (Перезапуск) | (Коллекция)",
+        "poster_path": "/z7lWvltTQcGOLHKkBsbQi6Sv07f.jpg",
+        "backdrop_path": "/gWl5pN2FplE709aVtA4lakwsE6t.jpg"
+      },
+      "budget": 185000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2660888",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 82819,
+          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+          "name": "Skydance Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 11461,
+          "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+          "name": "Bad Robot",
+          "origin_country": "US"
+        },
+        {
+          "id": 34530,
+          "logo_path": "/5gUhbUIVYd94aIhHJJFMfBxkD0.png",
+          "name": "Perfect Storm Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 83644,
+          "logo_path": null,
+          "name": "Sneaky Shark",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 343471816,
+      "runtime": 122,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 54138,
+      "original_language": "en",
+      "original_title": "Star Trek Into Darkness",
+      "overview": "Вернувшись на Землю, команда корабля «Энтерпрайз» обнаруживает, что деятельность и принципы их организации подорваны изнутри. Флот скован необъяснимым ужасом и бездействует, пока мир все глубже погружается в бездну.  Капитан Кирк берет на себя руководство операцией по поимке злодея, ответственного за этот хаос и способного уничтожить все человечество.  В запутанной игре не на жизнь, а на смерть, любовь и дружба будут принесены в жертву ради единственного, что осталось у Кирка — его команды.",
+      "popularity": 6.5601,
+      "poster_path": "/afDcDs9nZhL871BID8X0BhyePrQ.jpg",
+      "release_date": "2013-05-05",
+      "title": "Стартрек: Возмездие",
+      "video": false,
+      "vote_average": 7.319,
+      "vote_count": 9546,
+      "belongs_to_collection": {
+        "id": 115575,
+        "name": "Звёздный путь (Перезапуск) | (Коллекция)",
+        "poster_path": "/z7lWvltTQcGOLHKkBsbQi6Sv07f.jpg",
+        "backdrop_path": "/gWl5pN2FplE709aVtA4lakwsE6t.jpg"
+      },
+      "budget": 190000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1408101",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 11461,
+          "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+          "name": "Bad Robot",
+          "origin_country": "US"
+        },
+        {
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 82819,
+          "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+          "name": "Skydance Media",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 467381584,
+      "runtime": 132,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Земля падёт",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8PKqcN6IREm2Xy43lzhPZ2ORzQi.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878,
+        10749
+      ],
+      "id": 27150,
+      "original_language": "en",
+      "original_title": "Silent Rage",
+      "overview": "Непобедимый шериф, один стоящий армии полицейских. Убийца — психопат, превращенный в зомби в медицинской лаборатории. В маленьком техасском городке их пути пересекаются.  Но на роковом перекрестке служителю закона не поможет полицейский значок. Чтобы остановить зверя в человеческом облике, ему понадобится нечеловеческая сила…",
+      "popularity": 4.0155,
+      "poster_path": "/wpEGwWbU7ZGLUbHVhtzLGRHIu0t.jpg",
+      "release_date": "1982-04-02",
+      "title": "Безмолвный гнев",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 175,
+      "belongs_to_collection": null,
+      "budget": 4500000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0084684",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 21470,
+          "logo_path": null,
+          "name": "Topkick Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 10500000,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
@@ -1027,745 +1787,6 @@
       ],
       "revenue": 146027888,
       "runtime": 111,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mNdsbVuRdsyo8eitW2IBW2BWRkU.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12,
-        53
-      ],
-      "id": 193,
-      "original_language": "en",
-      "original_title": "Star Trek: Generations",
-      "overview": "Слава первопроходцев, увенчанных лаврами, зовет на подвиги Новое поколение искателей приключений в бездонных глубинах мегагалактик. В прологе фильма капитан Кирк попадает в космическую воронку, где смещены понятия о времени.  Спустя семьдесят пять лет потомки звёздных путешественников натыкаются на эту же самую воронку и сталкиваются с безумцем — разрушителем, мечущемся по звёздным дорожкам в поисках бессмертия. Капитан Пикард отказывается от собственного бессмертия во имя жизни будущих поколений и вступает в смертельную схватку с безумцем.",
-      "popularity": 1.849,
-      "poster_path": "/kZiy2JlUPpkzinNUptwIkPDRRl6.jpg",
-      "release_date": "1994-11-18",
-      "title": "Звёздный путь 7: Поколения",
-      "video": false,
-      "vote_average": 6.513,
-      "vote_count": 1450,
-      "belongs_to_collection": {
-        "id": 115570,
-        "name": "Звёздный путь (Следующее поколение. Коллекция)",
-        "poster_path": "/sddV6vaUC6x37icJS3opIXTXB07.jpg",
-        "backdrop_path": "/r7MMQenUURHhAVHFymtOb8AX4Bm.jpg"
-      },
-      "budget": 38000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0111280",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 118071125,
-      "runtime": 118,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nGJTamFPZ9V4JX5YpiOS0UDuwmx.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12,
-        53
-      ],
-      "id": 174,
-      "original_language": "en",
-      "original_title": "Star Trek VI: The Undiscovered Country",
-      "overview": "После взрыва Праксиса, одной из лун Кроноса, уничтожившего у клингонов практически все средства к существованию, противостояние Федерации и Клингонской Империи окончилось. Настала пора мирных переговоров, но, как выяснилось, не все хотят мира — некоторых устраивает непрекращающаяся война.  Кирк и его верный экипаж, уже «без пяти минут в отставке», получают секретное задание провести первый, подготовительный раунд мирных переговоров с Канцлером Клингонской Империи. Но происходит непредвиденное — на клингонский корабль совершено нападение, канцлер убит, переговоры сорваны, и в этом злодеянии обвиняется «Энтерпрайз», а конкретно — капитан Кирк и доктор МакКой.",
-      "popularity": 2.2566,
-      "poster_path": "/xmHaeSkXvHIJikHs7Gvlf304I5y.jpg",
-      "release_date": "1991-12-06",
-      "title": "Звёздный путь 6: Неоткрытая страна",
-      "video": false,
-      "vote_average": 7.037,
-      "vote_count": 1391,
-      "belongs_to_collection": {
-        "id": 151,
-        "name": "Звёздный путь (TOS Коллекция)",
-        "poster_path": "/vNrbrsHOpXS3whk9DLuBNcjJy1s.jpg",
-        "backdrop_path": "/qM8q2gWAeQF0XUpZ4XZc4CMX87a.jpg"
-      },
-      "budget": 27000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0102975",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 96888996,
-      "runtime": 113,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 121856,
-      "original_language": "en",
-      "original_title": "Assassin's Creed",
-      "overview": "Благодаря революционной технологии, которая высвобождает генетическую память, Каллум Линч переживает приключения своего предка Агилара в Испании XV столетия. Заполучив невероятные знания и способности, Каллум сразится с рыцарями ордена тамплиеров в наше время.",
-      "popularity": 3.6347,
-      "poster_path": "/wT03h6OwpigfgFiK11RruS520j9.jpg",
-      "release_date": "2016-12-21",
-      "title": "Кредо убийцы",
-      "video": false,
-      "vote_average": 5.432,
-      "vote_count": 8051,
-      "belongs_to_collection": null,
-      "budget": 125000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2094766",
-      "origin_country": [
-        "FR",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 10104,
-          "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
-          "name": "New Regency Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 862,
-          "logo_path": "/vdK6ZhC2CSW36j0VPEavRxOpbEg.png",
-          "name": "The Kennedy/Marshall Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 83857,
-          "logo_path": "/8bWIe866WwroX2I7MJP77BTPG5y.png",
-          "name": "Ubisoft Film & Television",
-          "origin_country": "FR"
-        },
-        {
-          "id": 86766,
-          "logo_path": null,
-          "name": "DMC Film",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 240700000,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Portuguese",
-          "iso_639_1": "pt",
-          "name": "Português"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nYLn7NG5Srm6JNVjmycppRl7OE9.jpg",
-      "genre_ids": [
-        18,
-        28,
-        53,
-        878
-      ],
-      "id": 79467,
-      "original_language": "en",
-      "original_title": "Gangland",
-      "overview": "Апокалипсис свершился. Цивилизации больше не существует. Все средства связи разрушены, крупные города лежат в руинах. Самые опасные преступники объединились в армию, превратив Лос-Анджелес в «зону криминала», а его население — в заложников и рабов. Со скоростью лесного пожара распространяется «черная чума», поедающая человеческую плоть изнутри.  Узнав, что доктор Адамс нашел вакцину от этой страшной болезни, главарь преступной армии Люцифер решил завладеть лекарством. Бывший военный Джаред, вся семья которого была убита подручными Люцифера, должен как можно скорее переправить доктора Адамса в Финикс, на территорию свободную от криминала. Но, чтобы добраться до пункта назначения, им придется совершить головокружительное путешествие через царство апокалиптического ада.",
-      "popularity": 1.1909,
-      "poster_path": "/o3MMKRM9XqcxUcTP9GV3w3fsCV7.jpg",
-      "release_date": "2001-01-01",
-      "title": "Зона криминала",
-      "video": false,
-      "vote_average": 4.1,
-      "vote_count": 12,
-      "belongs_to_collection": null,
-      "budget": 4000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0265198",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 5480,
-          "logo_path": null,
-          "name": "Dominion Entertainment",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 94,
-      "spoken_languages": [
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
-      "genre_ids": [
-        35,
-        14
-      ],
-      "id": 620,
-      "original_language": "en",
-      "original_title": "Ghostbusters",
-      "overview": "В конце двадцатого века оказывается, что в Нью — Йорке живут не только обычные граждане, но и… привидения. Многомиллионное население не может противостоять натиску сверхъестественного.В конце концов на пути бесчисленных монстров не остается никого — кроме троих ученых — парапсихологов, которым известно все о потустороннем мире, правда только в теории. И теперь им придется оставить пыльные кабинеты и применить свои знания на практике…",
-      "popularity": 13.4783,
-      "poster_path": "/4T0fzZK0hQkEkM0FIVTkgMRYzBn.jpg",
-      "release_date": "1984-06-08",
-      "title": "Охотники за привидениями",
-      "video": false,
-      "vote_average": 7.493,
-      "vote_count": 9487,
-      "belongs_to_collection": {
-        "id": 2980,
-        "name": "Охотники за привидениями (Коллекция)",
-        "poster_path": "/4tHOffGVVCj6Owz1EAM28e9ayvc.jpg",
-        "backdrop_path": "/guigdRPHN65fsgZHmvVvBOyiArf.jpg"
-      },
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0087332",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 4267,
-          "logo_path": "/cw6C1E64Ckf5jV8ppAIz9gHaho4.png",
-          "name": "Delphi Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 47565,
-          "logo_path": null,
-          "name": "Black Rhino Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 296640120,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Кто-то борется с тараканами и насекомыми. Они очищают город от привидений»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
-      "genre_ids": [
-        878,
-        53,
-        9648,
-        28
-      ],
-      "id": 406990,
-      "original_language": "en",
-      "original_title": "What Happened to Monday",
-      "overview": "В мире, где семейным парам разрешено иметь только одного ребенка, рождается семь сестер-близняшек. Родители решают сохранить всех и дают малышкам имена в честь дней недели. Так девочки и появляются на людях — каждая в свой день. Но однажды Понедельник пропадает…",
-      "popularity": 5.8404,
-      "poster_path": "/v6BOv4uNYtX0sQCutyf8Gw3Fy44.jpg",
-      "release_date": "2017-08-18",
-      "title": "Тайна 7 сестер",
-      "video": false,
-      "vote_average": 7.148,
-      "vote_count": 6375,
-      "belongs_to_collection": null,
-      "budget": 20000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1536537",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2902,
-          "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
-          "name": "SND",
-          "origin_country": "FR"
-        },
-        {
-          "id": 3410,
-          "logo_path": null,
-          "name": "Raffaella De Laurentiis Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 7561,
-          "logo_path": "/yWTuzkQnp4NCS7fDVd5vzgLjoux.png",
-          "name": "Nexus Factory",
-          "origin_country": "BE"
-        },
-        {
-          "id": 19037,
-          "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
-          "name": "uMedia",
-          "origin_country": "BE"
-        },
-        {
-          "id": 22127,
-          "logo_path": "/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png",
-          "name": "uFund",
-          "origin_country": "BE"
-        },
-        {
-          "id": 23291,
-          "logo_path": "/rQMbm0oFbxreRQmgzgQlCQ6DDwQ.png",
-          "name": "Vendôme Production",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 27975429,
-      "runtime": 123,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Что случилось с Понедельник?»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
-      "genre_ids": [
-        80,
-        28,
-        878
-      ],
-      "id": 198184,
-      "original_language": "en",
-      "original_title": "Chappie",
-      "overview": "Чаппи — вундеркинд. Как и любой другой ребёнок, он попадает под влияние своего окружения, и только его сердце и душа помогут ему найти свой путь. Но есть одна вещь, которая делает Чаппи непохожим на всех остальных: он — первый робот способный чувствовать и думать.",
-      "popularity": 16.2531,
-      "poster_path": "/uAUa28v5xjsRLFEhfzA0gv7gT5r.jpg",
-      "release_date": "2015-03-04",
-      "title": "Робот по имени Чаппи",
-      "video": false,
-      "vote_average": 6.787,
-      "vote_count": 8361,
-      "belongs_to_collection": null,
-      "budget": 49000000,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1823672",
-      "origin_country": [
-        "ZA",
-        "MX",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 2531,
-          "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
-          "name": "MRC",
-          "origin_country": "US"
-        },
-        {
-          "id": 34034,
-          "logo_path": null,
-          "name": "LStar Capital",
-          "origin_country": "US"
-        },
-        {
-          "id": 28788,
-          "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-          "name": "Genre Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 3045,
-          "logo_path": "/5jNRqXspCmQ3XkHNzuZIbvnHOWw.png",
-          "name": "Sony Pictures Releasing",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "ZA",
-          "name": "South Africa"
-        },
-        {
-          "iso_3166_1": "MX",
-          "name": "Mexico"
-        }
-      ],
-      "revenue": 104399548,
-      "runtime": 120,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Я - Сознание. Я - Живой. Я - Чаппи»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/y0klN15XPVyYtd4P7HYecgJXSsZ.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12,
-        53
-      ],
-      "id": 172,
-      "original_language": "en",
-      "original_title": "Star Trek V: The Final Frontier",
-      "overview": "Кризис, разразившийся на песчаной планете Нимбус III (Nimbus III), расположенной в нейтральной зоне, казалось бы, был всего лишь еще одним актом заявления о себе местного бунтарства, желающем лишь привлечь внимание Федерации — но не на этот раз.  Теперь у повстанцев есть лидер, уроженец планеты Вулкан по имени Сайбок (Sybok), обладающий выдающимися даже по вулканеанским меркам парапсихологическими способностями — ему достаточно лишь краткого общения для того, чтобы человек либо другой инопланетянин испытывал к нему чувство безраздельного доверия. Сайбок объявляет себя новым мессией и собирается отправиться на поиски — кого бы вы думали? — Бога! И некстати подвернувшийся ему под руку «Энтерпрайз» со своей командой будет вынужден выполнить данную миссию, ведь даже Спок, один из немногих не поддавшися внушению, не может поднять руку на своего… родного брата.",
-      "popularity": 5.3315,
-      "poster_path": "/aSSbdOgcph2Lqu19wgKPdhTFUKz.jpg",
-      "release_date": "1989-06-09",
-      "title": "Звёздный путь 5: Последний рубеж",
-      "video": false,
-      "vote_average": 5.733,
-      "vote_count": 1283,
-      "belongs_to_collection": {
-        "id": 151,
-        "name": "Звёздный путь (TOS Коллекция)",
-        "poster_path": "/vNrbrsHOpXS3whk9DLuBNcjJy1s.jpg",
-        "backdrop_path": "/qM8q2gWAeQF0XUpZ4XZc4CMX87a.jpg"
-      },
-      "budget": 33000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0098382",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 63000000,
-      "runtime": 107,
       "spoken_languages": [
         {
           "english_name": "English",
