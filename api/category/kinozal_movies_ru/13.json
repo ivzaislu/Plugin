@@ -5,34 +5,30 @@
   },
   "page": 13,
   "limit": 20,
-  "total": 243,
+  "total": 245,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/cmKpVkTKEH3baSvBZkhqC9cIQRj.jpg",
+      "backdrop_path": "/vL9uK4oq5kxWW7tRGfyq5GBplua.jpg",
       "genre_ids": [
-        35,
         10749,
         18
       ],
-      "id": 28086,
+      "id": 458785,
+      "title": "Цветы от победителей",
       "original_language": "ru",
-      "original_title": "Двенадцатая ночь",
-      "overview": "Разлученные в детстве коварной морской стихией юные брат и сестра встречаются при довольно эксцентрических обстоятельствах. Сестра, переодевшись юношей, нанимается в слуги к герцогу, влюбленному в местную красавицу. Вскоре при дворе того же герцога появляется благородный юноша Себастьян — поразительно похожий на его слугу…",
-      "popularity": 3.4294,
-      "poster_path": "/vTzPDFxSOLTXr3SpUrTGmBnO82S.jpg",
-      "release_date": "1955-11-21",
-      "title": "Двенадцатая ночь",
+      "original_title": "Цветы от победителей",
+      "overview": "Пашка, Серега и Роман по прозвищу Лютик вместе воевали в горячей точке. Они увлекаются гонками на старых автомобилях (их «Мерседес» 40-го года неизменно занимает первые места), держат маленькую автомастерскую. Лютик встречает на соревнованиях девушку Олю, и между ними возникает неземная любовь. Оля, как выясняется позже, смертельно больна астмой.",
+      "popularity": 0.7236,
+      "poster_path": "/elvd7jLAFqUJ0LmuSOp0qmsFCnH.jpg",
+      "release_date": "1999-03-25",
+      "softcore": false,
       "video": false,
-      "vote_average": 4.6,
-      "vote_count": 12,
+      "vote_average": 2,
+      "vote_count": 2,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
         {
           "id": 10749,
           "name": "мелодрама"
@@ -43,26 +39,26 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0049166",
+      "imdb_id": "tt0477479",
       "origin_country": [
-        "SU"
+        "RU"
       ],
       "production_companies": [
         {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
+          "id": 20017,
+          "logo_path": null,
+          "name": "Krug",
           "origin_country": "SU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
+          "iso_3166_1": "RU",
+          "name": "Russia"
         }
       ],
       "revenue": 0,
-      "runtime": 90,
+      "runtime": 102,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -80,28 +76,33 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/53IDXoAiQnfq07iNITHVAhZrbKU.jpg",
+      "backdrop_path": "/cVkrxt6WsiYLR7rVnxKUjAY0Fmb.jpg",
       "genre_ids": [
-        35,
+        28,
         80
       ],
-      "id": 588099,
+      "id": 41955,
       "original_language": "ru",
-      "original_title": "БУМЕРанг",
-      "overview": "Петрович, художник-неудачник, пропивающий в гараже остатки таланта, решает свести счеты с жизнью. Забравшись на крышу московской высотки, он делает последний шаг в бездну, но приземляется на новенький BMW циничного владельца аптечного бизнеса с криминальным прошлым Эдика. Чудом выжив, безработный Петрович теперь обязан вернуть стоимость разбитого «бумера» — 10 миллионов. Прощать других — не в правилах Эдика, но чтобы повеселиться, он берет Петровича к себе в фирму креативным директором. Еще не зная, что все перевернется самым неожиданным образом, ведь у вселенной, как известно, отличное чувство юмора.",
-      "popularity": 1.7877,
-      "poster_path": "/xNDjHbT0p6GQ5vgnUZX73QdZoVb.jpg",
-      "release_date": "2021-12-02",
-      "title": "БУМЕРанг",
+      "original_title": "Антикиллер",
+      "overview": "Бывший сотрудник уголовного розыска майор Коренев по прозвищу Лис, освобождается из заключения. Увы, Фемида бывает слепа. Не малую роль в этом сыграл один из криминальных авторитетов этого города — Шаман.",
+      "popularity": 1.3821,
+      "poster_path": "/pkdnzpmacniXKJnEmlD7q5KCFrw.jpg",
+      "release_date": "2002-08-01",
+      "title": "Антикиллер",
       "video": false,
-      "vote_average": 5.4,
-      "vote_count": 18,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 4.6,
+      "vote_count": 35,
+      "belongs_to_collection": {
+        "id": 416491,
+        "name": "Антикиллер (Коллекция)",
+        "poster_path": "/3olGvGn88TvfB7NCyJge5Ivwus5.jpg",
+        "backdrop_path": "/vtM7Cxm7TUAWeZH2qfrbszZCnpQ.jpg"
+      },
+      "budget": 5000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 80,
@@ -109,28 +110,34 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt10924538",
+      "imdb_id": "tt0325005",
       "origin_country": [
         "RU"
       ],
       "production_companies": [
         {
-          "id": 65864,
+          "id": 3419,
+          "logo_path": "/byrxE2pJD9JLyBCIzyK0pYVanyG.png",
+          "name": "Central Partnership",
+          "origin_country": "RU"
+        },
+        {
+          "id": 23342,
           "logo_path": null,
-          "name": "Actober Films",
+          "name": "Golden Key Entertainment",
           "origin_country": ""
         },
         {
-          "id": 115817,
+          "id": 5950,
           "logo_path": null,
-          "name": "North Film Company",
-          "origin_country": "RU"
+          "name": "MB Productions",
+          "origin_country": ""
         },
         {
-          "id": 76049,
-          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
-          "name": "Cinema Foundation of Russia",
-          "origin_country": "RU"
+          "id": 81178,
+          "logo_path": null,
+          "name": "Russian Television and Radio Broadcasting Company",
+          "origin_country": ""
         }
       ],
       "production_countries": [
@@ -139,8 +146,8 @@
           "name": "Russia"
         }
       ],
-      "revenue": 0,
-      "runtime": 105,
+      "revenue": 340312,
+      "runtime": 114,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -149,7 +156,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "Хочешь рассмешить Бога?..",
+      "tagline": "Все по справедливости...",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -158,84 +165,53 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/4WdrM96kPIK70ncNXFdIDDrM99e.jpg",
+      "backdrop_path": "/ts6tugUdWzabPhzJQnpP2OURqdM.jpg",
       "genre_ids": [
-        10752,
         28,
-        18
+        80
       ],
-      "id": 672475,
+      "id": 41957,
       "original_language": "ru",
-      "original_title": "Девятаев",
-      "overview": "Лето 1944 года. Советские войска ведут наступление, но враг еще очень силен. Летчик-истребитель Михаил Девятаев попадает в плен. Ему предстоит сделать выбор - вернуться в небо, продолжив войну на стороне врага, или отправиться в концлагерь на остров Узедом. Отчаянный ас Девятаев выбирает третье - побег. Но с засекреченного острова, где идут испытания немецких крылатых ракет, нельзя убежать. Зато можно улететь - на аэродроме стоит новейший вражеский бомбардировщик с «оружием возмездия» Третьего рейха на борту. Улететь - и совершить самый дерзкий побег в военной истории.",
-      "popularity": 2.3328,
-      "poster_path": "/ixJt4Z9QUXHU1T0EJWhBx7SBf42.jpg",
-      "release_date": "2021-04-29",
-      "title": "Девятаев",
+      "original_title": "Антикиллер 2: Антитеррор",
+      "overview": "Россия. Начало 21-го века. Со времени событий первого «Антикиллера» прошло 10 лет. Мир изменился. Границы между странами стали практически прозрачными. И на первый план вышла прямая и явная угроза — терроризм, не имеющий национальности и угрожающий безопасности всего мира. «Крепкий орешек» Лис пытается сорвать планы террористов уничтожить многомиллионный город. Схватка будет смертельной и бескомпромиссной…",
+      "popularity": 1.0346,
+      "poster_path": "/iuWK6vmuSoWsqoCozJYV6Tv60xg.jpg",
+      "release_date": "2003-12-12",
+      "title": "Антикиллер 2: Антитеррор",
       "video": false,
-      "vote_average": 5.7,
-      "vote_count": 18,
-      "belongs_to_collection": null,
+      "vote_average": 3.6,
+      "vote_count": 22,
+      "belongs_to_collection": {
+        "id": 416491,
+        "name": "Антикиллер (Коллекция)",
+        "poster_path": "/3olGvGn88TvfB7NCyJge5Ivwus5.jpg",
+        "backdrop_path": "/vtM7Cxm7TUAWeZH2qfrbszZCnpQ.jpg"
+      },
       "budget": 0,
       "genres": [
-        {
-          "id": 10752,
-          "name": "военный"
-        },
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt11892034",
+      "imdb_id": "tt0405699",
       "origin_country": [
         "RU"
       ],
-      "production_companies": [
-        {
-          "id": 1038,
-          "logo_path": "/o62j8ZNXmRTrq6ThviFWiL9zb8J.png",
-          "name": "Bazelevs",
-          "origin_country": "RU"
-        },
-        {
-          "id": 130614,
-          "logo_path": "/fgwCU6TwNPlwXGiK0sL7Ak2vhV7.png",
-          "name": "ON Media",
-          "origin_country": "RU"
-        },
-        {
-          "id": 114349,
-          "logo_path": null,
-          "name": "VoenFilm",
-          "origin_country": "RU"
-        },
-        {
-          "id": 76049,
-          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
-          "name": "Cinema Foundation of Russia",
-          "origin_country": "RU"
-        },
-        {
-          "id": 294156,
-          "logo_path": "/9tK9On0RmJB6Zg4A2DFjQZxFaSp.png",
-          "name": "KION",
-          "origin_country": "RU"
-        }
-      ],
+      "production_companies": [],
       "production_countries": [
         {
           "iso_3166_1": "RU",
           "name": "Russia"
         }
       ],
-      "revenue": 0,
-      "runtime": 118,
+      "revenue": 2685000,
+      "runtime": 92,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -244,7 +220,140 @@
         }
       ],
       "status": "Released",
-      "tagline": "Уйдем по небу!",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wkDZ7F7Fy2z7T4SIEMlDh0r2lyH.jpg",
+      "genre_ids": [
+        878,
+        18,
+        14
+      ],
+      "id": 2973,
+      "original_language": "ru",
+      "original_title": "Аэлита",
+      "overview": "Инженер Лось создает космический корабль для полета на Марс. В полете его сопровождает красноармеец Гусев, мечтающий немедленно организовать на Марсе революцию, и детектив Кравцов, подозревающий Лося в убийстве жены.",
+      "popularity": 0.9899,
+      "poster_path": "/fw5zx3SuFF56MnFgWlAKvMMzc4a.jpg",
+      "release_date": "1924-09-24",
+      "title": "Аэлита",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 78,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0014646",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 8970,
+          "logo_path": null,
+          "name": "Mezhrabpomfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 111,
+      "spoken_languages": [
+        {
+          "english_name": "No Language",
+          "iso_639_1": "xx",
+          "name": "No Language"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jSCW9a3hig0mcIAuR0kTyaFhqN6.jpg",
+      "genre_ids": [
+        878
+      ],
+      "id": 72809,
+      "title": "Космический рейс",
+      "original_language": "ru",
+      "original_title": "Космический рейс",
+      "overview": "Первый советский научно-фантастический фильм о покорении космоса. Научная сторона фильма была почти безупречной. Кроме устаревших деталей (старт с эстакады, противоперегрузочные ванны), все остальное впечатляет и сегодня. Во многом благодаря тому, что консультировал создателей ленты сам Константин Эдуардович Циолковский.",
+      "popularity": 0.4253,
+      "poster_path": "/8JDUWGNeN4s2bV0yNzL6fIZ9X39.jpg",
+      "release_date": "1936-01-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.409,
+      "vote_count": 22,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0252612",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 70,
+      "spoken_languages": [
+        {
+          "english_name": "No Language",
+          "iso_639_1": "xx",
+          "name": "No Language"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [

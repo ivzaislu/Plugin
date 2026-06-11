@@ -5,27 +5,28 @@
   },
   "page": 7,
   "limit": 20,
-  "total": 158,
+  "total": 157,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/ihfeVnvXvaJiTutLYz5qGFV7q4f.jpg",
+      "backdrop_path": "/zsNqsUoon93MfsmXEoKBrfyoeaP.jpg",
       "genre_ids": [
         28,
-        18
+        18,
+        36
       ],
-      "id": 326494,
-      "title": "Патриот",
+      "id": 223091,
+      "title": "Раджа",
       "original_language": "hi",
-      "original_title": "देश प्रेमी",
-      "overview": "Повествование начинается в 1942 году, когда после призыва Ганди изгнать англичан из Индии колонисты ответили жесткими репрессиями. Один из активистов движения «Оставьте Индию» — наш заглавный герой, учитель Динанат. Пострадав за идею, через пять лет он удостаивается награды как патриот своей Родины. К этому времени у него уже есть семья и уважение односельчан. Но идиллия разрушается, когда принципы учителя не позволяют ему предать идеалы свободы даже ради спасения жены и дочери. Отказав торговцу оружием Тхакур Сингху в пособничестве, он разом лишается всего: уважения, семьи и дома. Преступники убеждают его, что жена и дочь погибли, а жене говорят, что учитель и сын погибли в пожаре",
-      "popularity": 0.5898,
-      "poster_path": "/yeYI52zW2TOJ7uC3drxBzwXpYdN.jpg",
-      "release_date": "1982-04-23",
+      "original_title": "Mard",
+      "overview": "Юный и бесшабашный извозчик влюбляется в красивую, но очень своенравную девушку. Молодые люди еще не знают, как страшно переплетены судьбы их семей",
+      "popularity": 0.7727,
+      "poster_path": "/gXGPkmYvztSnMNc48FhMlIjEhg1.jpg",
+      "release_date": "1985-10-09",
       "softcore": false,
       "video": false,
-      "vote_average": 4.333,
-      "vote_count": 7,
+      "vote_average": 6,
+      "vote_count": 18,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -36,10 +37,14 @@
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0083820",
+      "imdb_id": "tt0089552",
       "origin_country": [
         "IN"
       ],
@@ -51,14 +56,8 @@
         }
       ],
       "revenue": 0,
-      "runtime": 174,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
+      "runtime": 177,
+      "spoken_languages": [],
       "status": "Released",
       "tagline": "",
       "release_quality": "",
@@ -69,56 +68,82 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/7CTx02MMqqcOBFsSCWM3HSbI20X.jpg",
+      "backdrop_path": "/54HjaN1wfl8O7F2xuBoDrduEzKJ.jpg",
       "genre_ids": [
+        28,
+        80,
         18,
-        10749
+        36
       ],
-      "id": 96732,
-      "title": "Преданность",
+      "id": 14785,
+      "title": "Королева бандитов",
       "original_language": "hi",
-      "original_title": "आराधना",
-      "overview": "Фильм о безграничной любви и преданности матери к своему ребенку, о жизни женщины, принесенной в жертву ради сына. Молодой летчик влюбляется в очаровательную девушку. Но он погибает, а девушка рожает незаконного ребенка. Она отдает его в семью, а сама устраивается туда няней. Родственник хозяев пристает к женщине и маленький мальчик (ее сын!) убивает его. Мать идет в тюрьму вместо сына…",
-      "popularity": 1.083,
-      "poster_path": "/92cbGcrhCpL9rwnCtklWCc4INHv.jpg",
-      "release_date": "1969-11-07",
+      "original_title": "बैंडिट क्वीन",
+      "overview": "Эта действительная история, основанная на дневниках, написанных в тюрьме Фулан Деви — «Богиней бандитов», начинается летом 1968 года в Индии. В 11 лет родители одной из низших каст продали ее замуж. Не выдержав тяжелой работы, «любви» и побоев мужа, она бежала...",
+      "popularity": 0.8504,
+      "poster_path": "/mcDqtq85i8fIv7BZGnOJ3P2ISoF.jpg",
+      "release_date": "1994-01-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.167,
-      "vote_count": 18,
+      "vote_average": 6.6,
+      "vote_count": 60,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 36,
+          "name": "история"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0065416",
+      "imdb_id": "tt0109206",
       "origin_country": [
         "IN"
       ],
       "production_companies": [
         {
-          "id": 4470,
+          "id": 38210,
           "logo_path": null,
-          "name": "United Producers",
+          "name": "Kaleidoscope Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 2141,
+          "logo_path": "/6BIgHEzD1rBwTg2ElkJQyBujmUg.png",
+          "name": "Kaleidoscope Entertainment",
           "origin_country": "IN"
+        },
+        {
+          "id": 6705,
+          "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+          "name": "Film4 Productions",
+          "origin_country": "GB"
         }
       ],
       "production_countries": [
         {
           "iso_3166_1": "IN",
           "name": "India"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
-      "revenue": 0,
-      "runtime": 169,
+      "revenue": 399,
+      "runtime": 119,
       "spoken_languages": [
         {
           "english_name": "Hindi",
@@ -136,50 +161,112 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/rG2pFglPrNS1H0UmFu5z5KTTPtJ.jpg",
+      "backdrop_path": "/3znBFtDFd8D9WDeJ8Drrcfrvy28.jpg",
       "genre_ids": [
-        28,
-        878
+        10749
       ],
-      "id": 204435,
-      "title": "Крриш 3",
+      "id": 141166,
+      "title": "Танцовщица кабаре",
       "original_language": "hi",
-      "original_title": "कृष ३",
-      "overview": "После победы над злодеем Доктором Сидхартом Арья, и возвращения его отца Рохита, воскресшего из мертвых, Крриш продолжает бороться против зла и спасать невинные жизни.  Теперь Кришна живет жизнью в счастливом браке с Прией, в то время как Рохит использует свои научные данные на благо общества. И Крриш — любимый супергерой каждого спасённого.  Им неизвестно, что темная сила растет в другой части мира. Каал, злобный гений, эгоистично злоупотребляющий свои силы, чтобы посеять страх, смерть и разрушение. И он пользуется поддержкой армии очень опасных существ, которых он создал сам.",
-      "popularity": 1.68,
-      "poster_path": "/tpCrYKO0S6jIc4qf2rif4J4U4lh.jpg",
-      "release_date": "2013-11-01",
+      "original_title": "दिल आशना है",
+      "overview": "Танцовщица кабаре пятизвездного отеля Лейла провела свое детство в приюте. Умирая ее мать призналась ей, что она не ее родная мать, а приемная. Девушка поклялась найти свою мать и узнать все подробности о разлуке с родным человеком. Помочь Лейле в поисках матери высказался ее поклонник - единственный сын хозяина отеля Каран. Их поиски привели молодых людей к Разин, которая вспомнила историю с тремя подругами в колледже, произошедшую 18 лет назад...",
+      "popularity": 1.151,
+      "poster_path": "/l37YAfDvZegoExIRV4FwQnGvlzS.jpg",
+      "release_date": "1992-10-23",
       "softcore": false,
       "video": false,
-      "vote_average": 5.674,
-      "vote_count": 198,
-      "belongs_to_collection": {
-        "id": 246091,
-        "name": "Крриш (Коллекция)",
-        "poster_path": "/osAXXJdGLM1ozAcvnuDdbSYTgsV.jpg",
-        "backdrop_path": null
-      },
-      "budget": 20000000,
+      "vote_average": 7.2,
+      "vote_count": 13,
+      "belongs_to_collection": null,
+      "budget": 1100000,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0101732",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 85665,
+          "logo_path": null,
+          "name": "H. M. Creations",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 11000000,
+      "runtime": 164,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "genre_ids": [
+        28,
+        35,
+        18
+      ],
+      "id": 868668,
+      "title": "Устад Бхагат Сингх",
+      "original_language": "te",
+      "original_title": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "Кто такой Устаад Бхагат Сингх Тот, кто вершит суд там, где молчит закон. Когда политический хаос захлёстывает парламент, а коррумпированный вице-премьер Нагаппа сеет смерть ради власти, Бхагат наносит ответный удар — он похищает младшего сына Нагаппы. Теперь против него целая армия террористы, наёмники и сам Мия Бхай. Но Бхагата не остановить. Его справедливость — это огонь, который не гаснет, пока последний виновный не падёт.",
+      "popularity": 2.3604,
+      "poster_path": "/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "release_date": "2026-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 14000000,
       "genres": [
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 878,
-          "name": "фантастика"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1029231",
+      "imdb_id": "tt14338246",
       "origin_country": [
         "IN"
       ],
       "production_companies": [
         {
-          "id": 64779,
-          "logo_path": null,
-          "name": "Film Kraft",
+          "id": 69125,
+          "logo_path": "/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png",
+          "name": "Mythri Movie Makers",
           "origin_country": "IN"
         }
       ],
@@ -189,23 +276,18 @@
           "name": "India"
         }
       ],
-      "revenue": 84000000,
-      "runtime": 150,
+      "revenue": 0,
+      "runtime": 151,
       "spoken_languages": [
         {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Telugu",
+          "iso_639_1": "te",
+          "name": "తెలుగు"
         }
       ],
       "status": "Released",
-      "tagline": "Крриш 3",
-      "release_quality": "1080p",
+      "tagline": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_indian"
@@ -382,58 +464,65 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/wu85H8I8nM6YUI41IouC4oU5PVz.jpg",
+      "backdrop_path": "/sPMBiyjTco4JdKojlfGIz5Wd0jC.jpg",
       "genre_ids": [
         35,
-        10749
+        18
       ],
-      "id": 291157,
-      "title": "Красотка",
+      "id": 10757,
+      "title": "И в печали, и в радости..",
       "original_language": "hi",
-      "original_title": "खूबसूरत",
-      "overview": "Мили Чакраворти талантливый физиотерапевт, посещает королевскую семью, чтобы лечить больного короля, Шекхара Раторе. Родом из семьи среднего класса, спонтанная девушка, она не собирается следовать строгим правилам, установленным властной хозяйкой дома Раторе, Нирмалой Деви. По закону притяжения противоположностей, Мили встречает благородного и учтивого принца Викрама, и в её сердце расцветает любовь. Сможет ли Мили с её неуклюжим характером завоевать расположение этой семьи или она останется неподходящей партией для принца?",
-      "popularity": 1.463,
-      "poster_path": "/fJnWRipBGa5p1UxBLShDF1SMw01.jpg",
-      "release_date": "2014-09-19",
+      "original_title": "कभी ख़ुशी कभी ग़म",
+      "overview": "У богатого бизнесмена и его жены два сына - приемный Рахул и родной Рохан. Рахул дружит с Нэйной, которая влюблена в него, и отец предполагает поженить их. Но Рахул встречает Анджали - симпатичную девушку, живущую в бедном районе, и влюбляется в нее. Несмотря на данное отцу обещание отказаться от девушки, Рахул тайно женится на ней, чем вызывает гнев и проклятия отца. Рахул покидает родной дом и уезжает в Лондон. Проходит 10 лет. Подросший Рохан, чудом превратившийся из неповоротливого толстяка и обжоры в атлета и красавца, узнает о конфликте между отцом и братом и клянется вернуть брата в семью.",
+      "popularity": 4.0176,
+      "poster_path": "/lQ5Ys0h40SH0vdACPo27yLycMnr.jpg",
+      "release_date": "2001-12-14",
       "softcore": false,
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 126,
+      "vote_average": 7.659,
+      "vote_count": 600,
       "belongs_to_collection": null,
-      "budget": 230,
+      "budget": 7500000,
       "genres": [
         {
           "id": 35,
           "name": "комедия"
         },
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt3554418",
+      "imdb_id": "tt0248126",
       "origin_country": [
-        "IN"
+        "IN",
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 89347,
+          "id": 19146,
+          "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+          "name": "Dharma Productions",
+          "origin_country": "IN"
+        },
+        {
+          "id": 1569,
+          "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+          "name": "Yash Raj Films",
+          "origin_country": "IN"
+        },
+        {
+          "id": 120404,
           "logo_path": null,
-          "name": "Disney World Cinema",
-          "origin_country": "IN"
+          "name": "British Film Commission",
+          "origin_country": "GB"
         },
         {
-          "id": 2320,
-          "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
-          "name": "UTV Motion Pictures",
-          "origin_country": "IN"
-        },
-        {
-          "id": 221540,
-          "logo_path": "/6LVZ5JosGhxVTf2cnLr8iReoWXN.png",
-          "name": "Anil Kapoor Film & Communication Network",
-          "origin_country": "IN"
+          "id": 209899,
+          "logo_path": null,
+          "name": "K3G Films Limited",
+          "origin_country": "GB"
         }
       ],
       "production_countries": [
@@ -442,12 +531,143 @@
           "name": "India"
         },
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 11336308,
+      "runtime": 209,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
+      "genre_ids": [
+        36,
+        10752,
+        18
+      ],
+      "id": 1196946,
+      "original_language": "hi",
+      "original_title": "इक्कीस",
+      "overview": "Фильм рассказывает о короткой, но яркой жизни офицера Аруна Кетапала, павшего в битве при Басантаре в ходе индо-пакистанской войны 1971 года. Параллельно разворачивается история его отца, который спустя 30 лет отправляется в Пакистан, чтобы пройти по следам сына. Картина соткана из воспоминаний: военные будни, юношеская любовь и последний бой с превосходящими силами противника. Прошлое и настоящее сходятся воедино, чтобы сохранить память о подвиге.",
+      "popularity": 20.3341,
+      "poster_path": "/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg",
+      "release_date": "2026-01-01",
+      "title": "Двадцать один",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 11,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt15464188",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 86699,
+          "logo_path": null,
+          "name": "Maddock Films",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
         }
       ],
       "revenue": 0,
-      "runtime": 130,
+      "runtime": 148,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gnhr2vqd7pgkTJz3v0n6CNUQS94.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 134215,
+      "title": "Героиня",
+      "original_language": "hi",
+      "original_title": "Heroine",
+      "overview": "Блеск славы испокон веков манил к себе людей. Но опалял крылья мотылькам, осмелившимся подлететь слишком близко. Махи Арора, кинозвезда… и обратная сторона медали под названием «Болливуд».",
+      "popularity": 0.5624,
+      "poster_path": "/v1QyMNUpbWJwrU0OlI3uLivrENZ.jpg",
+      "release_date": "2012-09-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 44,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1949548",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 140,
       "spoken_languages": [
         {
           "english_name": "Hindi",
@@ -465,40 +685,427 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cWXpAoH5Uv4mcsNaW4CgSi2K30n.jpg",
+      "backdrop_path": "/gRoZG3Z0zJxgElmTsVHOl2dNYXe.jpg",
       "genre_ids": [
-        10749
+        28,
+        80,
+        53
       ],
-      "id": 217745,
-      "title": "Сердце просит большего",
+      "id": 1582770,
+      "title": "Специалист: Месть",
       "original_language": "hi",
-      "original_title": "दिल मांगे मोर",
-      "overview": "Никхил, простой провинциальный парень, отправляется в Мумбай за своей подружкой Нехой, мечтающей сделать блестящую карьеру. Но здесь у него завязываются близкие отношения с еще двумя милыми представительницами прекрасной половины человечества, соседкой Шагун и продавщицей Сарой. И теперь ему совсем не просто разобраться в собственных чувствах...",
-      "popularity": 0.3425,
-      "poster_path": "/7FX9KuLUFmuilftgQ4AdUfUwYQD.jpg",
-      "release_date": "2004-12-31",
+      "original_title": "धुरंधर: द रिवेंज",
+      "overview": "По мере того как враждующие банды, коррумпированные чиновники и безжалостный майор Икбал начинают преследовать Хамзу, его миссия на благо страны перерастает в кровавую личную войну, где на улицах Лиари стирается грань между патриотом и чудовищем.",
+      "popularity": 48.3122,
+      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "release_date": "2026-03-18",
       "softcore": false,
       "video": false,
-      "vote_average": 4.676,
-      "vote_count": 17,
+      "vote_average": 7.359,
+      "vote_count": 71,
+      "belongs_to_collection": {
+        "id": 1628043,
+        "name": "धुरंधर Collection",
+        "poster_path": "/r4w2Ps0QN9wzMHDepRoj4H7tAM.jpg",
+        "backdrop_path": "/4Xv36ZwubtUn6JlIKoKDdhZj565.jpg"
+      },
+      "budget": 22500000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt39139925",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 115477,
+          "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+          "name": "Jio Studios",
+          "origin_country": "IN"
+        },
+        {
+          "id": 212774,
+          "logo_path": null,
+          "name": "B62 Studios",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 210000000,
+      "runtime": 229,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        },
+        {
+          "english_name": "Punjabi",
+          "iso_639_1": "pa",
+          "name": "ਪੰਜਾਬੀ"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dVUBKQMehxVnEQMpcOPw3OQqNMF.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 127501,
+      "title": "Барфи!",
+      "original_language": "hi",
+      "original_title": "बर्फी!",
+      "overview": "В сознании Шрути любовь — это возвышенное чувство навсегда, когда два человека живут вместе и умирают вместе, оставляя после себя красивые воспоминания. Барфи — глухонемой парень из Дарджилинга — стал для нее тем самым человеком, с которым она хотела разделить каждую минуту своей жизни. Но как часто бывает, родительская прагматичность вмешивается в чистые надежды молодых, чтобы разрушить зарождающиеся чувства.",
+      "popularity": 1.8885,
+      "poster_path": "/5cJIx2zKjDoUtPSliou23xsReb1.jpg",
+      "release_date": "2012-09-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.61,
+      "vote_count": 368,
+      "belongs_to_collection": null,
+      "budget": 4437508,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2082197",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 80427,
+          "logo_path": null,
+          "name": "Ishana Movies",
+          "origin_country": ""
+        },
+        {
+          "id": 2320,
+          "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+          "name": "UTV Motion Pictures",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 2804874,
+      "runtime": 151,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Ll7wDWDDCkHCRBYLI0rqjlQu2Y.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 363343,
+      "original_language": "hi",
+      "original_title": "रईस",
+      "overview": "Для жестокого и умного бутлегера наступают тяжелые времена, когда храбрый полицейский начинает преследовать его.",
+      "popularity": 1.4154,
+      "poster_path": "/cXsH7wc1OuI8cnpm1omgyJLf2ZU.jpg",
+      "release_date": "2017-01-25",
+      "title": "Богатей",
+      "video": false,
+      "vote_average": 6.67,
+      "vote_count": 241,
+      "belongs_to_collection": null,
+      "budget": 46000000,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt3405236",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 2343,
+          "logo_path": "/fkrlAFxgAtIHgYJGIQcDggeucKV.png",
+          "name": "Red Chillies Entertainment",
+          "origin_country": "IN"
+        },
+        {
+          "id": 2934,
+          "logo_path": "/bFoQPEgrOKeQWPBM0RIkfaR3etq.png",
+          "name": "Excel Entertainment",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 143,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9XzWOwHn5sKFn0WdBSw56ISk6HN.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 251626,
+      "original_language": "hi",
+      "original_title": "हँसी तो फसी",
+      "overview": "Нихил вновь знакомится с Митой почти через десять лет после их первой встречи. Теперь, когда у Нихила есть одна неделя, чтобы доказать, что он достаточно достоин, чтобы жениться на сестре Миты Каришме, старые знакомые становятся довольно близкими друг другу.",
+      "popularity": 0.9404,
+      "poster_path": "/A6s9Nb0bfuH1KqXvnG22FCAgrP7.jpg",
+      "release_date": "2014-02-07",
+      "title": "Она улыбается, она в западне!",
+      "video": false,
+      "vote_average": 6.542,
+      "vote_count": 109,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
         {
           "id": 10749,
           "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0328729",
+      "imdb_id": "tt3173910",
       "origin_country": [
         "IN"
       ],
-      "production_companies": [],
-      "production_countries": [],
+      "production_companies": [
+        {
+          "id": 7435,
+          "logo_path": "/kckDWHAeT7NTAL9CAjq0T7trwLJ.png",
+          "name": "Phantom Films",
+          "origin_country": "IN"
+        },
+        {
+          "id": 19146,
+          "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+          "name": "Dharma Productions",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
       "revenue": 0,
-      "runtime": 123,
+      "runtime": 141,
       "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Любовь Сходит С Ума",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bEkGHeIZYtULSgEvyjIbGHnMqgf.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 480,
+      "original_language": "hi",
+      "original_title": "Monsoon Wedding",
+      "overview": "Героями этой истории стали представители «высшего среднего класса» современной Индии. Члены пенджабской семьи, для которой в порядке вещей стало пересечение западного стиля и старых традиций.  Съезжаясь на свадьбу 24-летней Адити в Нью-Дели со всех концов света, ее многочисленные родственники привозят самые разные представления о жизни. Из всех шкафов начинают вываливаться скелеты и тайны…",
+      "popularity": 1.0859,
+      "poster_path": "/nchsMqHcTE7kIylMKQjmEZb4E6H.jpg",
+      "release_date": "2001-08-30",
+      "title": "Свадьба в сезон дождей",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 214,
+      "belongs_to_collection": null,
+      "budget": 1200000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0265343",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 26468,
+          "logo_path": "/d6FzZaLRy1Lbmj0ySIQ5dCpN0rp.png",
+          "name": "IFC Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 252,
+          "logo_path": "/iASOYficVcY1QpUOySacOWfrObX.png",
+          "name": "Mirabai Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 448,
+          "logo_path": null,
+          "name": "Key Film Productions",
+          "origin_country": "IT"
+        },
+        {
+          "id": 140,
+          "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+          "name": "Pandora Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 255,
+          "logo_path": "/b1zTOpnNn5g0nHjhpn3Dx17QaoP.png",
+          "name": "Paradis Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 3866,
+          "logo_path": null,
+          "name": "iDream Productions",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 30787356,
+      "runtime": 114,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
         {
           "english_name": "Hindi",
           "iso_639_1": "hi",
@@ -596,44 +1203,50 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/3uEGOYV7wFf2aWeyV3IMFgKyfAv.jpg",
+      "backdrop_path": "/eJD6RzWXN4iHeVLOfIPphczQiw9.jpg",
       "genre_ids": [
-        12,
-        53
+        80,
+        18,
+        28
       ],
-      "id": 157129,
+      "id": 51216,
+      "title": "Непокорившийся судьбе",
       "original_language": "hi",
-      "original_title": "टेबल नम्. 21",
-      "overview": "Молодая семейная пара Виван и Сия на пятом году своей свадьбы решают посетить райский остров Фиджи. Неожиданно в их компанию вторгается мультимиллиардер Кхан. Видя бедственное положение четы, он предлагает улучшить их бюджет, сыграв с ними в игру «Верю-Не верю». Правила игры просты: 8 вопросов и никакого обмана. Эта игра определит характер, стойкость каждого из супругов и откроет шкафы со всеми спрятанными в ней скелетами, и наконец, распахнет завесу самой страшной тайны, долго лет так тщательно скрывавшейся в глубине сердца каждого из героев…. Что ж, поехали, но запомните одно: ЕСЛИ ВЫ СОВРЁТЕ ...ВЫ УМРЁТЕ!!!......",
-      "popularity": 0.5348,
-      "poster_path": "/2ScQShddKVoFz4LRnjKJprmRepZ.jpg",
-      "release_date": "2013-01-03",
-      "title": "Столик номер 21",
+      "original_title": "ग़ुलाम",
+      "overview": "Волею случая старший брат Сиддхартха Джай попадает в бандитскую группировку и главарь банды делает его правой рукой. Однажды Сиддхартх становится невольным свидетелем убийства людьми из этой группировки брата своей подружки. Теперь ему необходимо найти в себе мужество не подчиниться воле брата и включиться в борьбу против бандитов...",
+      "popularity": 0.8772,
+      "poster_path": "/eYzobUuVCFatyvTj1nASpIq6Vpx.jpg",
+      "release_date": "1998-06-19",
+      "softcore": false,
       "video": false,
-      "vote_average": 6.387,
-      "vote_count": 75,
+      "vote_average": 6.282,
+      "vote_count": 62,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 80,
+          "name": "криминал"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt2229842",
+      "imdb_id": "tt0190419",
       "origin_country": [
         "IN"
       ],
       "production_companies": [
         {
-          "id": 71637,
-          "logo_path": null,
-          "name": "Next Gen Films",
+          "id": 83145,
+          "logo_path": "/nf8VCbn5ctoU7ihWKPWGAYVGhrW.png",
+          "name": "NH Studioz",
           "origin_country": "IN"
         }
       ],
@@ -644,7 +1257,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 108,
+      "runtime": 162,
       "spoken_languages": [
         {
           "english_name": "Hindi",
@@ -662,26 +1275,179 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ulxoNgk9HYenfQKJ5nihMOVIiW7.jpg",
+      "backdrop_path": "/A28a6VEijdm9H4R3oZVOLdRqgNS.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        28
+      ],
+      "id": 391766,
+      "original_language": "hi",
+      "original_title": "Do Lafzon Ki Kahani",
+      "overview": "Бывший боксёр Сурадж теперь работает охранником на парковке и развозит воду в бутылях. Однажды во время вечернего дежурства к нему приходит слепая девушка Дженни, которая с прежним охранником смотрела сериалы по вечерам. Между молодыми людьми завязывается дружба, а затем и любовь. Сурадж чувствует, что должен защищать свою любимую и сделать всё возможное, чтобы вернуть ей способность видеть.",
+      "popularity": 0.2994,
+      "poster_path": "/yvWHmmWK8ZrGgnyLCBWw4rwnvS8.jpg",
+      "release_date": "2016-06-10",
+      "title": "В двух словах",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 12,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4857886",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 75203,
+          "logo_path": null,
+          "name": "Dhiraj Motion Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 168743,
+          "logo_path": null,
+          "name": "Deepak Tijori Films",
+          "origin_country": ""
+        },
+        {
+          "id": 153758,
+          "logo_path": null,
+          "name": "Focus Motion Pictures",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 128,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lDOwQKy0PjXmp9K6mZ87vb8t31B.jpg",
+      "genre_ids": [
+        28,
+        10749,
+        53
+      ],
+      "id": 14070,
+      "original_language": "hi",
+      "original_title": "गजनी",
+      "overview": "Санджай Сингхания — один из самых успешных предпринимателей страны. Калпана — модель, снимающаяся в дешевой рекламе. Вероятность их встречи была равна нулю. Тем не менее, пути их пересеклись, и родилась любовь, которой не суждено было расцвести. Однажды Калпана вступает в конфликт с преступником Гаджини; ценой своей жизни она спасает невинных девочек от гибели. В попытке спасти саму Калпану Санджай получает тяжелейшую травму. Спустя время он ищет преступника, чтобы отомстить. Ситуация осложняется тем, что Санджай теперь страдает амнезией и помнит лишь то, что происходило с ним в последние 15 минут.",
+      "popularity": 1.4374,
+      "poster_path": "/wNYwUQyk5Kgkj2oV4TpaUzZdbo4.jpg",
+      "release_date": "2008-12-25",
+      "title": "Гаджини",
+      "video": false,
+      "vote_average": 6.987,
+      "vote_count": 435,
+      "belongs_to_collection": null,
+      "budget": 9100000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1166100",
+      "origin_country": [
+        "IN"
+      ],
+      "production_companies": [
+        {
+          "id": 38582,
+          "logo_path": "/raGURQPCh7EvoBe9XHkOuw6v2o1.png",
+          "name": "Geetha Arts",
+          "origin_country": "IN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IN",
+          "name": "India"
+        }
+      ],
+      "revenue": 76000000,
+      "runtime": 186,
+      "spoken_languages": [
+        {
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_indian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9vAF7abyEUUcmhRAGMxfYXUkfRI.jpg",
       "genre_ids": [
         28,
         80,
         18
       ],
-      "id": 22460,
-      "title": "Стена",
+      "id": 84858,
       "original_language": "hi",
-      "original_title": "दीवार",
-      "overview": "Ананда Бабу - профсоюзного активиста, оклеветали, и он умер, не вынеся позора. Долгие годы на жене и детях висело клеймо «предателя». Дети вырастают и сами выбирают свои дороги. Рави Варма становится инспектором полиции, Виджай - гангстером. Полоса отчуждения пролегла между ними, но это не помешает им найти виновников и отомстить за гибель отца..",
-      "popularity": 0.7115,
-      "poster_path": "/alVHFaerbSgnuKhzSddJRNiCs8g.jpg",
-      "release_date": "1975-01-24",
-      "softcore": false,
+      "original_title": "अग्निपथ",
+      "overview": "Жизнь Виджая полностью рушится, когда злодей и наркоторговец становится причиной смерти отца. Виджай уезжает в Мумбаи со своей беременной матерью с одной только мыслью — вернуться в родную деревню и вернуть славу имени своего отца.",
+      "popularity": 1.1516,
+      "poster_path": "/xO9sErs0c3XMzh8O34ygQWcENTj.jpg",
+      "release_date": "2012-01-25",
+      "title": "Огненный путь",
       "video": false,
-      "vote_average": 7.268,
-      "vote_count": 69,
+      "vote_average": 6.3,
+      "vote_count": 153,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 8700000,
       "genres": [
         {
           "id": 28,
@@ -697,16 +1463,16 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0072860",
+      "imdb_id": "tt1849718",
       "origin_country": [
         "IN"
       ],
       "production_companies": [
         {
-          "id": 4027,
-          "logo_path": null,
-          "name": "Trimurti Films Pvt. Ltd.",
-          "origin_country": ""
+          "id": 19146,
+          "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+          "name": "Dharma Productions",
+          "origin_country": "IN"
         }
       ],
       "production_countries": [
@@ -715,7 +1481,7 @@
           "name": "India"
         }
       ],
-      "revenue": 0,
+      "revenue": 28000000,
       "runtime": 174,
       "spoken_languages": [
         {
@@ -734,31 +1500,32 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+      "backdrop_path": "/wv2nYFaobjDr6lI1TISBRltNHCH.jpg",
       "genre_ids": [
         28,
         80,
+        18,
         53
       ],
-      "id": 1291608,
-      "title": "Специалист",
+      "id": 69775,
+      "title": "Убийство 2",
       "original_language": "hi",
-      "original_title": "धुरंधर",
-      "overview": "Секретный агент Аджит Довал выполняет опасную миссию, связанную с геополитическими конфликтами.",
-      "popularity": 17.8734,
-      "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
-      "release_date": "2025-12-05",
+      "original_title": "मर्डर 2",
+      "overview": "Арджун Бхагват - бывший полицейский, ранее работавший в полиции Гоа. Он жаждет денег и зарабатывает себе на хлеб, не гнушаясь ничем. Кроме того, он в ссоре с богом, но регулярно приходит к церкви, чтобы пожертвовать пачки денег детям-сиротам. И вот однажды к нему обращается бандит Самир, чей бизнес начал нести убытки, так как стали пропадать его девушки по вызову. Тут еще девушка Арджуна тоже требует внимания, она хочет определенности. А Арджун стремится избежать любой ответственности. И вдруг принципы его жизни стали рушиться. А причиной этому послужила девушка Решма.",
+      "popularity": 1.3032,
+      "poster_path": "/y0Nb0eN5ybRX3j4uMyk5NN96ugl.jpg",
+      "release_date": "2011-07-07",
       "softcore": false,
       "video": false,
-      "vote_average": 7.108,
-      "vote_count": 272,
+      "vote_average": 5.7,
+      "vote_count": 54,
       "belongs_to_collection": {
-        "id": 1628043,
-        "name": "धुरंधर Collection",
-        "poster_path": "/r4w2Ps0QN9wzMHDepRoj4H7tAM.jpg",
-        "backdrop_path": "/4Xv36ZwubtUn6JlIKoKDdhZj565.jpg"
+        "id": 484529,
+        "name": "Murder Collection",
+        "poster_path": "/aKPlQwfmTmsPyssPh0387onFohl.jpg",
+        "backdrop_path": "/zKvn9nhlmGzWOTdEC4VPUXtEzoV.jpg"
       },
-      "budget": 22500000,
+      "budget": 0,
       "genres": [
         {
           "id": 28,
@@ -769,268 +1536,30 @@
           "name": "криминал"
         },
         {
+          "id": 18,
+          "name": "драма"
+        },
+        {
           "id": 53,
           "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33014583",
+      "imdb_id": "tt1918965",
       "origin_country": [
         "IN"
       ],
       "production_companies": [
         {
-          "id": 212774,
-          "logo_path": null,
-          "name": "B62 Studios",
+          "id": 3749,
+          "logo_path": "/vSqS9ovkpql7VN1HwTYwR5KexrB.png",
+          "name": "Vishesh Films",
           "origin_country": "IN"
         },
         {
-          "id": 115477,
-          "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
-          "name": "Jio Studios",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 170000000,
-      "runtime": 212,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        },
-        {
-          "english_name": "Punjabi",
-          "iso_639_1": "pa",
-          "name": "ਪੰਜਾਬੀ"
-        },
-        {
-          "english_name": "Urdu",
-          "iso_639_1": "ur",
-          "name": "اردو"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/77yQ1wWZaOH2NXNmHF5AELrkMuL.jpg",
-      "genre_ids": [
-        35,
-        80,
-        10749
-      ],
-      "id": 11763,
-      "original_language": "hi",
-      "original_title": "बंटी और बब्ली",
-      "overview": "И он и она - родом из небольшого провинциального городка. И его и ее не устраивает серая монотонная жизнь. И они вырываются из своих клеток в поисках счастья. А когда их пути пересекаются, на свет появляется пара Банти и Бабий, величайших мошенников-авантюристов, путешествующих по дорогам страны..",
-      "popularity": 0.9124,
-      "poster_path": "/kg850Ty4eNfe9nP6IHmYc7pdxNl.jpg",
-      "release_date": "2005-05-27",
-      "title": "Банти и Бабли",
-      "video": false,
-      "vote_average": 6.301,
-      "vote_count": 83,
-      "belongs_to_collection": {
-        "id": 920712,
-        "name": "Bunty Aur Babli",
-        "poster_path": "/oLoquYNB1wBxGSesJUMN3iyB8js.jpg",
-        "backdrop_path": null
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0448206",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 1569,
-          "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
-          "name": "Yash Raj Films",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 3370142,
-      "runtime": 170,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7p7WdxwhKTijbylGEAx4MPaIyR4.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "id": 97341,
-      "title": "Любить и не сдаваться",
-      "original_language": "hi",
-      "original_title": "दीवाने हुए पागल",
-      "overview": "История начинается как обычная лав-стори между «соседским парнем» Караном и симпатичной Таней. Но скоро к любви примешивается доза таинственности: за Таней постоянно наблюдает пара злых глаз, потому что она — обладательница известной только ей секретной информации.  Когда Таня переезжает в Дубай, друг Карана уговаривает его последовать за ней. Для того, чтобы найти ее, Каран нанимает Роки. Роки выполняет миссию, но он влюбляется в девушку с первого взгляда…",
-      "popularity": 0.9436,
-      "poster_path": "/gJJwTPur4VsCal7gVSXmPMk9QRp.jpg",
-      "release_date": "2005-11-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.279,
-      "vote_count": 52,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0444781",
-      "origin_country": [
-        "IN",
-        "CH"
-      ],
-      "production_companies": [
-        {
-          "id": 64331,
-          "logo_path": null,
-          "name": "Base Industries Group",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        },
-        {
-          "iso_3166_1": "CH",
-          "name": "Switzerland"
-        }
-      ],
-      "revenue": 355962,
-      "runtime": 150,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2wCaF36obO4LysX0m57h0BKxX27.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 393445,
-      "title": "Дела сердечные",
-      "original_language": "hi",
-      "original_title": "ऐ दिल है मुश्किल",
-      "overview": "Молодая пакистанка Ализе очень талантлива и уже добилась некоторых успехов на литературном и музыкальном поприще. У неё есть молодой человек Али, который также является её коллегой и другом. Родители категорически против близких отношений дочери с этим парнем: они хотят, чтобы Ализе вышла замуж за богача. После очередной крупной ссоры с родителями девушка собирает вещи и тайком улетает в Лондон.",
-      "popularity": 2.078,
-      "poster_path": "/hlDOF4UhUqrYY7gqLk3Rl0Fx4ns.jpg",
-      "release_date": "2016-10-27",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.403,
-      "vote_count": 217,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt4559006",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 83151,
-          "logo_path": null,
-          "name": "ADHM Films",
-          "origin_country": ""
-        },
-        {
-          "id": 12154,
-          "logo_path": "/dBjJavlqNxrYlqcbobDYYq9NuOq.png",
-          "name": "Fox Star Studios",
-          "origin_country": "IN"
-        },
-        {
-          "id": 19146,
-          "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
-          "name": "Dharma Productions",
+          "id": 15357,
+          "logo_path": "/uvaRT02pY9U8qLH8a9WwwAroDqr.png",
+          "name": "Prime Focus",
           "origin_country": "IN"
         }
       ],
@@ -1041,414 +1570,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 158,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/h3EJkzZNvFf3W8JlFokx4MLRPdv.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "id": 441906,
-      "original_language": "hi",
-      "original_title": "जब हैरी मेट सेजल",
-      "overview": "История путешествия Гарри и Седжал по всей Европе. Поиск обручального кольца Седжал заставляет Гарри лучше понять любовь и отношения. Седжал же наслаждается новообретённой свободой и чувством защищённости в компании Гарри.",
-      "popularity": 0.8878,
-      "poster_path": "/exPabb2o83BhW7irsZijgnMEZYm.jpg",
-      "release_date": "2017-08-04",
-      "title": "Когда Гарри встретил Седжал",
-      "video": false,
-      "vote_average": 6.448,
-      "vote_count": 201,
-      "belongs_to_collection": null,
-      "budget": 16600000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt5997666",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 2343,
-          "logo_path": "/fkrlAFxgAtIHgYJGIQcDggeucKV.png",
-          "name": "Red Chillies Entertainment",
-          "origin_country": "IN"
-        },
-        {
-          "id": 84618,
-          "logo_path": null,
-          "name": "Window Seat Films",
-          "origin_country": ""
-        },
-        {
-          "id": 86593,
-          "logo_path": "/6v8GxWfpySUJD66fqYyP4yrPb3X.png",
-          "name": "New Amsterdam Film Company",
-          "origin_country": "NL"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 15360368,
-      "runtime": 143,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/opq1sp8B6r9ExY9Nbx9UUjPMDit.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 254420,
-      "original_language": "hi",
-      "original_title": "Gulaab Gang",
-      "overview": "Ее обвиняли в том, что в борьбе с беззаконием она сама прибегает к беззаконию, но для жителей деревни Мадхавпур Раджо была любимой Сестрой, учившей девочек читать и считать, а женщин — бороться за свои права. Она встала на пути рвущейся любой ценой к власти Сумитры Багреча и сумела остановить ее победное восхождение.",
-      "popularity": 2.8509,
-      "poster_path": "/iGfRhEbULFryeMdUFuRq8zApsr9.jpg",
-      "release_date": "2014-03-07",
-      "title": "Розовое братство",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 16,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2573750",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 139,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oKqSmEMtD1eiaQKNDPitE9EVPpL.jpg",
-      "genre_ids": [
-        35,
-        18,
-        10749
-      ],
-      "id": 4157,
-      "original_language": "hi",
-      "original_title": "हे बेबी",
-      "overview": "Три молодых холостяка — Аруш, Танмей и Али, или просто Эл — беззаботно прожигают жизнь в Сиднее. Они давно уже потеряли счет своим романам, и не верят ни в любовь, ни в настоящую привязанность. Но неожиданное событие разрушает весь их привычный жизненный уклад — однажды утром на пороге своего дома они обнаруживают корзину с очаровательной восьмимесячной малышкой…",
-      "popularity": 0.8746,
-      "poster_path": "/jAZ4AwEbtyZj4OVw0IIkI8l3Q97.jpg",
-      "release_date": "2007-08-24",
-      "title": "Привет, малышка!",
-      "video": false,
-      "vote_average": 5.847,
-      "vote_count": 108,
-      "belongs_to_collection": null,
-      "budget": 9400000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0806088",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 60536,
-          "logo_path": "/chMIfiURhqvr6eWCrzxIwuaWVeN.png",
-          "name": "Nadiadwala Grandson Entertainment",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 2200000,
-      "runtime": 150,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wbhoYwvqgadchfMgUOfOp87QZDS.jpg",
-      "genre_ids": [
-        36,
-        10752,
-        18
-      ],
-      "id": 1196946,
-      "original_language": "hi",
-      "original_title": "इक्कीस",
-      "overview": "Фильм рассказывает о короткой, но яркой жизни офицера Аруна Кетапала, павшего в битве при Басантаре в ходе индо-пакистанской войны 1971 года. Параллельно разворачивается история его отца, который спустя 30 лет отправляется в Пакистан, чтобы пройти по следам сына. Картина соткана из воспоминаний: военные будни, юношеская любовь и последний бой с превосходящими силами противника. Прошлое и настоящее сходятся воедино, чтобы сохранить память о подвиге.",
-      "popularity": 20.3341,
-      "poster_path": "/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg",
-      "release_date": "2026-01-01",
-      "title": "Двадцать один",
-      "video": false,
-      "vote_average": 5.9,
-      "vote_count": 11,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt15464188",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 86699,
-          "logo_path": null,
-          "name": "Maddock Films",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 148,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ua4mb3GrFKWMvecNvfYK7eAuXwi.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1356084,
-      "title": "Старик и мальчик",
-      "original_language": "hi",
-      "original_title": "कालीधर लापता",
-      "overview": "Старик сбегает, не желая быть обузой для близких. В пути он знакомится с Баллу - восьмилетним сиротой, который учит его заново радоваться мелочам. Иногда чужой ребёнок может стать ближе, чем родная семья.",
-      "popularity": 0.4393,
-      "poster_path": "/a7ctu6C6f7tN87ve4HFDoELp7cH.jpg",
-      "release_date": "2025-07-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 10,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27866781",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 72146,
-          "logo_path": "/sQtwtEOpIdL7ux7oYoU4bdx9g5J.png",
-          "name": "Emmay Entertainment",
-          "origin_country": "IN"
-        },
-        {
-          "id": 86347,
-          "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
-          "name": "Zee Studios",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 109,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_indian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gnhr2vqd7pgkTJz3v0n6CNUQS94.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 134215,
-      "title": "Героиня",
-      "original_language": "hi",
-      "original_title": "Heroine",
-      "overview": "Блеск славы испокон веков манил к себе людей. Но опалял крылья мотылькам, осмелившимся подлететь слишком близко. Махи Арора, кинозвезда… и обратная сторона медали под названием «Болливуд».",
-      "popularity": 0.5624,
-      "poster_path": "/v1QyMNUpbWJwrU0OlI3uLivrENZ.jpg",
-      "release_date": "2012-09-21",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 44,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1949548",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 140,
+      "runtime": 127,
       "spoken_languages": [
         {
           "english_name": "Hindi",
