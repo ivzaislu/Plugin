@@ -5,65 +5,214 @@
   },
   "page": 3,
   "limit": 20,
-  "total": 79,
+  "total": 47,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/yOBb8qKbfHR7PZKItHXlbgHeJHQ.jpg",
+      "backdrop_path": "/hgot5YejCPdPzUHrmmQb9d73FaS.jpg",
       "genre_ids": [
-        18,
-        10768
+        35
       ],
-      "id": 283126,
+      "id": 242758,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Переводчик",
-      "overview": "Эта история о том, как обыкновенный негероический человек становится героем. Преподаватель химии Андрей Петрович Стариков – по прозвищу «Чарли Чаплин» – живёт с женой и матерью в старом доме-колодце, в котором, как в ковчеге, собрался пёстрый интернационал: украинцы, русские, евреи, татары и армяне. Но приход немцев резко меняет их жизнь. Чтобы спасти своих близких, Чарли вынужден служить переводчиком в фашистском штабе.",
-      "popularity": 1.0961,
-      "poster_path": "/kOZrf8wVxuw7QhZQfr0CBOn7cFZ.jpg",
-      "first_air_date": "2014-05-05",
-      "name": "Переводчик",
+      "original_name": "Инспектор Гаврилов",
+      "overview": "В надежде начать новую жизнь рецидивист Саша Медный решается на последнее ограбление. Но все идет не по плану. Скрываясь от преследования на поезде до Владивостока, он присваивает себе имя и форму соседа по купе — майора Гаврилова. Так недавний мошенник становится блюстителем порядка — начальником полиции провинциального Усть-Шахтинска. Насаждая в городе свои порядки, Медный переворачивает обычный уклад российской глубинки.",
+      "popularity": 2.2258,
+      "poster_path": "/5a0WJSWYJtYkpifvYTxshS6UQLt.jpg",
+      "first_air_date": "2024-01-02",
+      "softcore": false,
+      "name": "Инспектор Гаврилов",
+      "vote_average": 8.2,
+      "vote_count": 26,
+      "created_by": [],
+      "episode_run_time": [
+        24
+      ],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "in_production": true,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2026-05-11",
+      "last_episode_to_air": {
+        "id": 7212074,
+        "name": "Эпизод 2",
+        "overview": "Медный метит в мэры, правда, не по собственной воле. Майор Куценко инициирует служебную проверку, чтобы вычислить сотрудника-самозванца.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-05-15",
+        "episode_number": 2,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 3,
+        "show_id": 242758,
+        "still_path": "/6ArQKffkeS3hBC34bQe8pKzFtO2.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 7212075,
+        "name": "Эпизод 3",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-05-22",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 3,
+        "show_id": 242758,
+        "still_path": null
+      },
+      "networks": [
+        {
+          "id": 2493,
+          "logo_path": "/4WexbzcfwxtGtnhvAoHWhKrA1jt.png",
+          "name": "START",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 47,
+      "number_of_seasons": 3,
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2024-01-02",
+          "episode_count": 17,
+          "id": 372511,
+          "name": "Сезон 1",
+          "overview": "После тюрьмы Саша Медный работал на олигарха, не отличающегося особой щедростью. Теперь коррупционер в опале и планирует переждать трудные времена на заграничном курорте вместе с семьей и внушительными сбережениями. Саша, понимая, что делец не оставит ему ничего, решается на крайнюю меру и грабит своего работодателя.",
+          "poster_path": "/r93Ra5LmacMgiIxb0sezfzSDBsX.jpg",
+          "season_number": 1,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2025-01-24",
+          "episode_count": 17,
+          "id": 439613,
+          "name": "Сезон 2",
+          "overview": "Обаятельный рецидивист Саша Медный, которому удалось избежать разоблачения, откладывает побег до лучших времен и продолжает выдавать себя за начальника полиции. В Усть-Шахтинске у него есть все, чего так не хватало на криминальном пути: семья, любимое дело, признание окружающих. Однако легенда авантюриста вновь оказывается под угрозой. К очередному расследованию присоединяется опытная сыщица из столицы Кристина. Медному придется перехитрить проницательную москвичку, чтобы сохранить должность и свободу.",
+          "poster_path": "/m34dVhKUvWl26Dj9OR6AERVtBaf.jpg",
+          "season_number": 2,
+          "vote_average": 8
+        },
+        {
+          "air_date": "2026-05-15",
+          "episode_count": 13,
+          "id": 513976,
+          "name": "Сезон 3",
+          "overview": "Что случилось с Медным? Было ли ранение опасным или все обошлось? А если обошлось, то без последствий или в жизни народно любимого афериста грядут серьезные перемены? И что теперь будет с отделением полиции Усть-Шахтинска, которое возглавлял доблестный Гаврилов? Пока все, что мы знаем, это выборы мэра, которые грядут в Усть-Шахтинске. И кому-то очень выгодно, чтобы Гаврилов, он же Медный, в них участвовал.",
+          "poster_path": "/4VCJ9DyrIp7s6SK5nHv4n80ALMF.jpg",
+          "season_number": 3,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "2160p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xnkAExpsLE07rDmpb7UEVAj1YbO.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 294082,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Три королевы",
+      "overview": "«Три королевы» - именно так Михаил Погодин, директор и владелец винного завода города Черноморска, хотел назвать марку своего нового вина, но не успел... Его нашли мёртвым в своей квартире. Виктор, его сын, возвращается в родной город и решает разобраться в причинах смерти отца и сохранить семейный бизнес.",
+      "popularity": 0.3869,
+      "poster_path": "/bWWPpnaJivACgCXMxl4CQKVKTEP.jpg",
+      "first_air_date": "2016-12-26",
+      "softcore": false,
+      "name": "Три королевы",
       "vote_average": 0,
       "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [],
+      "created_by": [
+        {
+          "id": 2370890,
+          "credit_id": "68c97f50a027ad0987c13d75",
+          "name": "Karine Foliyants",
+          "original_name": "Karine Foliyants",
+          "gender": 1,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        50
+      ],
       "genres": [
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 10768,
-          "name": "Война и Политика"
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
       "in_production": false,
       "languages": [
-        "de",
         "ru"
       ],
-      "last_air_date": "2014-05-08",
+      "last_air_date": "2016-12-29",
       "last_episode_to_air": {
-        "id": 5945169,
-        "name": "Эпизод 4",
+        "id": 6319603,
+        "name": "Эпизод 8",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2014-05-08",
-        "episode_number": 4,
+        "air_date": "2016-12-29",
+        "episode_number": 8,
         "episode_type": "standard",
         "production_code": "",
         "runtime": 50,
         "season_number": 1,
-        "show_id": 283126,
-        "still_path": "/fUbyXUNUOGtZqbPNUeqaTiZF2TB.jpg"
+        "show_id": 294082,
+        "still_path": null
       },
       "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 4,
+      "networks": [
+        {
+          "id": 5897,
+          "logo_path": "/x3vZ1eMLcEeLSfz0JWweUy4u2Dc.png",
+          "name": "Кино1ТВ",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 8,
       "number_of_seasons": 1,
       "production_companies": [],
       "production_countries": [
@@ -74,9 +223,9 @@
       ],
       "seasons": [
         {
-          "air_date": "2014-05-05",
-          "episode_count": 4,
-          "id": 439964,
+          "air_date": "2016-12-26",
+          "episode_count": 8,
+          "id": 461412,
           "name": "Сезон 1",
           "overview": "",
           "poster_path": null,
@@ -86,11 +235,6 @@
       ],
       "spoken_languages": [
         {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        },
-        {
           "english_name": "Russian",
           "iso_639_1": "ru",
           "name": "Pусский"
@@ -99,7 +243,7 @@
       "status": "Ended",
       "tagline": "",
       "type": "Miniseries",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
@@ -107,25 +251,32 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [],
-      "id": 315689,
+      "backdrop_path": "/vC2SxRXKStnGbjeqjP5dcTNSQBa.jpg",
+      "genre_ids": [
+        10765
+      ],
+      "id": 317872,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Оливка, Игорёк и Рекс",
-      "overview": "Как поладить с людьми, если лучше всего ты понимаешь животных? Именно таким вопросом задается 7-летняя Оля, которую все зовут Оливкой. Она провела всё своё детство в деревне, где обнаружила уникальный талант: она понимает язык животных и может найти общий язык с кем угодно — хоть с овчаркой, хоть с козой. И даже научить их трюкам! Вот только мама и папа собираются увезти Оливку в город, где ей придется заново искать друзей и привыкать к совершенно другим порядкам. А еще — применить свои таланты и помочь взрослым понять своих питомцев.",
-      "popularity": 0.0543,
-      "poster_path": "/tneXusoYGu9jARlQA1XNhTbbHpn.jpg",
-      "first_air_date": "2026-05-13",
+      "original_name": "Малахит",
+      "overview": "В небольшом селе Красный Камень трое семиклассников — Рома, Ася и Гордей ― беззаботно проводят летние каникулы. Но однажды, купаясь в затопленном меднорудном карьере, Рома находит магический малахитовый самородок, который дарует ему удивительную способность: всё, что он рисует, становится реальностью. Но оказалось, что вместе с чудесной находкой из глубин старого карьера был высвобожден древний дух рудника Чёрный Ворон. Он и правда может исполнить абсолютно любое желание, но взамен потребует заплатить слишком высокую цену. Теперь героям предстоит проявить силу духа и доказать, что чистые помыслы, теплота сердец и настоящая крепкая дружба способны противостоять страшному древнему злу.",
+      "popularity": 0.6537,
+      "poster_path": "/rtxVkHHvD5JNygo9MvGxGmpizKc.jpg",
+      "first_air_date": "2026-06-12",
       "softcore": false,
-      "name": "Оливка, Игорёк и Рекс",
+      "name": "Малахит",
       "vote_average": 0,
       "vote_count": 0,
       "created_by": [],
       "episode_run_time": [],
-      "genres": [],
+      "genres": [
+        {
+          "id": 10765,
+          "name": "НФ и Фэнтези"
+        }
+      ],
       "homepage": "",
       "in_production": true,
       "languages": [
@@ -134,47 +285,29 @@
       "last_air_date": null,
       "last_episode_to_air": null,
       "next_episode_to_air": {
-        "id": 7005257,
-        "name": "Оливка, Игорёк и Рекс (2026)",
-        "overview": "Как поладить с людьми, если лучше всего ты понимаешь животных? Именно таким вопросом задается 7-летняя Оля, которую все зовут Оливкой. Она провела всё своё детство в деревне, где обнаружила уникальный талант: она понимает язык животных и может найти общий язык с кем угодно — хоть с овчаркой, хоть с козой. И даже научить их трюкам! Вот только мама и папа собираются увезти Оливку в город, где ей придется заново искать друзей и привыкать к совершенно другим порядкам. А еще — применить свои таланты и помочь взрослым понять своих питомцев.",
+        "id": 7088140,
+        "name": "Эпизод 1",
+        "overview": "Юный Рома с семьёй приезжает в уральское село к бабушке и дедушке. Он заводит дружбу с ровесниками Асей и Гордеем.",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-05-13",
+        "air_date": "2026-06-12",
         "episode_number": 1,
         "episode_type": "standard",
         "production_code": "",
         "runtime": null,
         "season_number": 1,
-        "show_id": 315689,
-        "still_path": null
+        "show_id": 317872,
+        "still_path": "/glEDOnrdCMXnh27aCixApRTABZ2.jpg"
       },
       "networks": [
-        {
-          "id": 2493,
-          "logo_path": "/4WexbzcfwxtGtnhvAoHWhKrA1jt.png",
-          "name": "START",
-          "origin_country": "RU"
-        },
         {
           "id": 3871,
           "logo_path": "/pMy0zJmwHTsmR2mxLd4ifkOSq6h.png",
           "name": "Okko",
           "origin_country": "RU"
-        },
-        {
-          "id": 3923,
-          "logo_path": "/oji1XHaTzRyLaXJoR2EWHizZkJS.png",
-          "name": "ivi",
-          "origin_country": "RU"
-        },
-        {
-          "id": 9051,
-          "logo_path": null,
-          "name": "Солнце",
-          "origin_country": ""
         }
       ],
-      "number_of_episodes": 10,
+      "number_of_episodes": 8,
       "number_of_seasons": 1,
       "production_companies": [
         {
@@ -184,33 +317,15 @@
           "origin_country": "RU"
         },
         {
-          "id": 114676,
-          "logo_path": "/aVsos0RDN9Ib7H8nW5Vv5kHKykz.png",
-          "name": "START Studio",
+          "id": 224758,
+          "logo_path": null,
+          "name": "Originals Production",
           "origin_country": "RU"
         },
         {
-          "id": 275243,
+          "id": 213739,
           "logo_path": null,
-          "name": "Меркурий контент",
-          "origin_country": "RU"
-        },
-        {
-          "id": 255908,
-          "logo_path": null,
-          "name": "SEREBRO",
-          "origin_country": "RU"
-        },
-        {
-          "id": 294280,
-          "logo_path": null,
-          "name": "Телеканал «СОЛНЦЕ»",
-          "origin_country": ""
-        },
-        {
-          "id": 144130,
-          "logo_path": "/oVMcnEmgzgDmkqTMXAe4Wtxp308.png",
-          "name": "ivi",
+          "name": "Norm Production",
           "origin_country": "RU"
         }
       ],
@@ -222,12 +337,12 @@
       ],
       "seasons": [
         {
-          "air_date": "2026-05-13",
-          "episode_count": 10,
-          "id": 503584,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": null,
+          "air_date": "2026-06-12",
+          "episode_count": 8,
+          "id": 507503,
+          "name": "Сезон 1",
+          "overview": "Красное озеро ― место, где исполняются желания. Лето, живописный Урал, романтика подростковой влюбленности и саспенс древних мифов о духах гор. На Красном озере издавна добывали медную руду и малахит. Сорок лет назад запасы драгоценного камня иссякли. Карьер запечатали. А вместе с ним запечатали и тайну магического зла. Трое подростков случайно освобождают дух малахитового рудника. Тот награждает спасителей исполнением любых желаний. Но за это вскоре придётся дорого заплатить.",
+          "poster_path": "/ua7bVJgWYvDSlfk6qIfYggksUAE.jpg",
           "season_number": 1,
           "vote_average": 0
         }
@@ -261,7 +376,7 @@
       "original_language": "ru",
       "original_name": "Враги",
       "overview": "В Белоуральске объявлена грандиозная стройка химкомбината и города-спутника. Но власть здесь уже давно поделена между местным авторитетом Умой и коррумпированным начальником уголовного розыска Мамоновым. Два врага развязывают криминальную войну, ведь каждый хочет заполучить контроль над строительством и миллиардными бюджетами. Чтобы остановить произвол, в Белоуральск отправляют полковника Дробного, а в группировку Умы внедряется агент Юра Гвоздев. Юра вырос в Белоуральске и здесь живут его близкие: отец, сестра и её муж - местный полицейский Егор Лебеда. Но игра под прикрытием становится всё опаснее, ведь у героя, помимо семьи, ещё есть любимая девушка, которая становится его слабым местом.",
-      "popularity": 0.3277,
+      "popularity": 0.2761,
       "poster_path": "/2bZzsycugEx4Mk5qcWAi7gzA445.jpg",
       "first_air_date": "2026-06-01",
       "softcore": false,
@@ -285,7 +400,7 @@
       "last_episode_to_air": {
         "id": 7340951,
         "name": "Эпизод 16",
-        "overview": "",
+        "overview": "Егор Лебеда с подчиненными ищут киллера, прибывшего в Белоуральск из Москвы. Опер Комаров предполагает, что тот приехал за Умой и продает информацию Шкиперу. Лебеда об этом узнает и обращает в свою пользу. У него также появляется рычаг давления на Никитоса. Ума безуспешно пытается сбежать. На допросе он вынужден принять условия Лебеды. От соседки Лены Гвоздев-старший узнает о том, что на самом деле случилось в день гибели дочери, и понимает, кто настоящий виновник ее смерти. Юрий решает сам с ним поквитаться и едет в Белоуральск...",
         "vote_average": 0,
         "vote_count": 0,
         "air_date": "2026-06-01",
@@ -364,365 +479,58 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/vjAXiyY8Me6WOyYPMVrUUKbvnst.jpg",
+      "backdrop_path": "/inRDo0krSzB6zXk0HwqEEBmsAq8.jpg",
       "genre_ids": [
-        9648,
-        10768
+        35,
+        18
       ],
-      "id": 256536,
+      "id": 296752,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Варшава'21",
-      "overview": "В ходе предвыборной гонки за кресло президента Польши цинично убивают знаменитого журналиста Козельского. Польские телеканалы моментально подхватывают версию о вмешательстве России во внутренние дела страны, с целью поддержки силезских сепаратистов и дестабилизации обстановки. В качестве доказательства по ТВ крутят аудиозапись разговора российского посла Конобеева и одного из кандидатов в президенты Домбровского, которая, якобы, была разослана с почты убитого журналиста. Из небольшой искры раздувается геополитический пожар, способный нанести огромный ущерб интересам страны. Скомпрометированный сотрудник дипмиссии попадает в больницу с инфарктом, а на его место прибывает кризисный дипломат Вячеслав Васильев. Ему предстоит доказать, что обвинения в адрес Москвы не имеют под собой никаких оснований.",
-      "popularity": 1.967,
-      "poster_path": "/3RyjmmjLZOaaD5EnvaWMD8SsyIu.jpg",
-      "first_air_date": "2024-06-10",
+      "original_name": "Адвокаты",
+      "overview": "Соседская лошадь снесла забор? Шапочка из фольги не спасает от облучения? Адвокаты «Юстасс» со всем разберутся. Людмила — лучший адвокат фирмы и худший наставник на свете. Поэтому, когда её ассистентом становится амбициозный новичок Артём, обоим приходится несладко. Вместе они распутывают самые разные дела, каждый день выбирая между совестью и стабильным гонораром.",
+      "popularity": 0.9674,
+      "poster_path": "/fhd8aWRnT1FsoP8Chq4t3vopnd2.jpg",
+      "first_air_date": "2026-05-29",
       "softcore": false,
-      "name": "Варшава'21",
-      "vote_average": 10,
-      "vote_count": 2,
-      "created_by": [
-        {
-          "id": 2247631,
-          "credit_id": "6666bb50485f6b6f38c09fd0",
-          "name": "Феликс Герчиков",
-          "original_name": "Феликс Герчиков",
-          "gender": 2,
-          "profile_path": "/7PHkPYWAfva2p14uVywV7B2lGAf.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 10768,
-          "name": "Война и Политика"
-        }
-      ],
-      "homepage": "https://okko.tv/serial/varshava-21-rashngejjt",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2024-07-03",
-      "last_episode_to_air": {
-        "id": 5462684,
-        "name": "Эпизод 12",
-        "overview": "Все паззлы собраны: Васильев может предоставить доказательства провокации, но угроза жизни дочери останавливает его.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2024-07-03",
-        "episode_number": 12,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": 48,
-        "season_number": 1,
-        "show_id": 256536,
-        "still_path": "/263qpoKdsQHaukJpEZkqOaAcoAZ.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 3871,
-          "logo_path": "/pMy0zJmwHTsmR2mxLd4ifkOSq6h.png",
-          "name": "Okko",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 12,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 175169,
-          "logo_path": "/qyqiYpqa9IWKfy48MSXTnquWYau.png",
-          "name": "Okko",
-          "origin_country": "RU"
-        },
-        {
-          "id": 103254,
-          "logo_path": null,
-          "name": "Киностудия «Медведь»",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2024-06-10",
-          "episode_count": 12,
-          "id": 397778,
-          "name": "Season 1",
-          "overview": "В ходе предвыборной гонки за кресло президента Польши цинично убивают знаменитого журналиста Козельского. Польские телеканалы моментально подхватывают версию о вмешательстве России во внутренние дела страны, с целью поддержки силезских сепаратистов и дестабилизации обстановки. В качестве доказательства по ТВ крутят аудиозапись разговора российского посла Конобеева и одного из кандидатов в президенты Домбровского, которая, якобы, была разослана с почты убитого журналиста. Из небольшой искры раздувается геополитический пожар, способный нанести огромный ущерб интересам страны. Скомпрометированный сотрудник дипмиссии попадает в больницу с инфарктом, а на его место прибывает кризисный дипломат Вячеслав Васильев. Ему предстоит доказать, что обвинения в адрес Москвы не имеют под собой никаких оснований",
-          "poster_path": "/3RyjmmjLZOaaD5EnvaWMD8SsyIu.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [],
-      "id": 209182,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Второе восстание Спартака",
-      "overview": "Спартак Котляревский был русским летчиком, бомбившим Берлин в августе 1941-го. Но вместо Звезды Героя он получил тюремный срок. И теперь у Спартака, как у его тезки, римского гладиатора, две тысячи лет назад, остался единственный выход – восстание. Котляревский организует самый крупный бунт заключенных за всю историю советского режима. Наперекор судьбе Спартак вырывается на волю, чтобы вернуться к любимой...",
-      "popularity": 0.2278,
-      "poster_path": "/dvgrffwjgY38xacvQxFwLGW7ZHT.jpg",
-      "first_air_date": "2013-02-08",
-      "softcore": false,
-      "name": "Второе восстание Спартака",
+      "name": "Адвокаты",
       "vote_average": 0,
       "vote_count": 0,
       "created_by": [],
       "episode_run_time": [],
-      "genres": [],
-      "homepage": "",
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://kion.ru/serial/advokaty",
       "in_production": true,
       "languages": [],
-      "last_air_date": "2013-02-08",
+      "last_air_date": "2026-05-29",
       "last_episode_to_air": {
-        "id": 3921204,
-        "name": "Эпизод #1.1",
-        "overview": "Описание эпизода",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2013-02-08",
-        "episode_number": 1,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 209182,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 1,
-      "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
-      "seasons": [
-        {
-          "air_date": "2013-02-08",
-          "episode_count": 1,
-          "id": 306651,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/94nlI0jKvCeC35RBwYXZGYPU5wt.jpg",
-      "genre_ids": [
-        10759,
-        9648,
-        18
-      ],
-      "id": 153653,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Магистраль",
-      "overview": "Четверо бойцов группы быстрого реагирования ведомственной железнодорожной охраны во главе с командиром Олегом Громовым оказываются в эпицентре криминальных разборок вокруг крупного железнодорожного узла и тысячекилометрового участка главной российской железнодорожной магистрали.",
-      "popularity": 0.765,
-      "poster_path": "/sGVtSbjqsJtQcjyED7K9dcDJsK5.jpg",
-      "first_air_date": "2021-12-09",
-      "softcore": false,
-      "name": "Магистраль",
-      "vote_average": 10,
-      "vote_count": 1,
-      "created_by": [],
-      "episode_run_time": [
-        50
-      ],
-      "genres": [
-        {
-          "id": 10759,
-          "name": "Боевик и Приключения"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2021-12-10",
-      "last_episode_to_air": {
-        "id": 3448782,
-        "name": "Эпизод 8",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2021-12-10",
-        "episode_number": 8,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 50,
-        "season_number": 1,
-        "show_id": 153653,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 1199,
-          "logo_path": "/9wVcHld7xpIZ5e6CQ3LJyFSiFhz.png",
-          "name": "NTV ",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 104397,
-          "logo_path": "/1JSyl40s2RAnMn7ywqFcSjpSNxG.png",
-          "name": "NTV",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2021-12-09",
-          "episode_count": 8,
-          "id": 236259,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": "/sGVtSbjqsJtQcjyED7K9dcDJsK5.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        18
-      ],
-      "id": 318439,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Приговор",
-      "overview": "22 года назад Савва связался с преступниками и был обвинен в убийстве. Выйдя на свободу, он решает завязать с криминальным прошлым и начать тихую жизнь с любимой. Но кто-то явно против такого развития событий: Савву втягивают в разборки, шантажируют и лишают надежды на светлое будущее. Ослеплённый местью, он решает расследовать собственное прошлое и найти тех, кто разрушил его жизнь. Вот только Савва не знает, что правда окажется гораздо сложнее, чем он ожидал.",
-      "popularity": 1.3682,
-      "poster_path": "/efHYoflwOTXcnAi5AAb9tcJynX8.jpg",
-      "first_air_date": "2026-05-01",
-      "softcore": false,
-      "name": "Приговор",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": null,
-      "last_episode_to_air": null,
-      "next_episode_to_air": {
-        "id": 7105993,
+        "id": 6405949,
         "name": "Эпизод 1",
-        "overview": "",
+        "overview": "Молодой юрист Артём устраивается в адвокатский центр «Юстасс». Его задача переводить звонки на опытных коллег, но амбиции парня куда выше.",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-05-01",
+        "air_date": "2026-05-29",
         "episode_number": 1,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": null,
+        "runtime": 27,
         "season_number": 1,
-        "show_id": 318439,
-        "still_path": null
+        "show_id": 296752,
+        "still_path": "/v0y9MKTiGJwAGi4R7BKW8Y5U6KE.jpg"
       },
+      "next_episode_to_air": null,
       "networks": [
-        {
-          "id": 1199,
-          "logo_path": "/9wVcHld7xpIZ5e6CQ3LJyFSiFhz.png",
-          "name": "NTV ",
-          "origin_country": "RU"
-        },
         {
           "id": 4085,
           "logo_path": "/iMenrHI1yGe7xbND6aQSOviB5Sz.png",
@@ -730,7 +538,7 @@
           "origin_country": "RU"
         }
       ],
-      "number_of_episodes": 10,
+      "number_of_episodes": 12,
       "number_of_seasons": 1,
       "production_companies": [
         {
@@ -740,21 +548,15 @@
           "origin_country": "RU"
         },
         {
+          "id": 69021,
+          "logo_path": "/aSB6HMp0WwENBz7LScQIVTF9K4Y.png",
+          "name": "LookFilm",
+          "origin_country": "RU"
+        },
+        {
           "id": 130614,
           "logo_path": "/fgwCU6TwNPlwXGiK0sL7Ak2vhV7.png",
           "name": "ON Media",
-          "origin_country": "RU"
-        },
-        {
-          "id": 116974,
-          "logo_path": null,
-          "name": "RoEl Studio",
-          "origin_country": "RU"
-        },
-        {
-          "id": 104397,
-          "logo_path": "/1JSyl40s2RAnMn7ywqFcSjpSNxG.png",
-          "name": "NTV",
           "origin_country": "RU"
         },
         {
@@ -772,454 +574,12 @@
       ],
       "seasons": [
         {
-          "air_date": "2026-05-01",
-          "episode_count": 10,
-          "id": 508587,
-          "name": "Сезон 1",
+          "air_date": "2026-05-29",
+          "episode_count": 12,
+          "id": 466893,
+          "name": "1 сезон",
           "overview": "",
-          "poster_path": "/ckVZ52JNMpMCuvcNUFmYjNKZiLx.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1qi06PmSbbt0NTAqWYmR72Z8StU.jpg",
-      "genre_ids": [
-        9648,
-        10759,
-        18
-      ],
-      "id": 282468,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Ронин",
-      "overview": "Иван Доронин — один из лучших бойцов спецназа СОБР. Во время операции по освобождению заложников мужчина получает серьезное ранение, из-за которого его отправляют в отпуск. В это же время Ивану сообщают о смерти бывшей жены, с которой тот почти не общался, лишь исправно платил алименты за сына Мишу. Доронин едет в родную деревню Медвежье, чтобы забрать ребенка. Но на месте узнает, что у его супруги есть еще один сын, от другого мужчины. И живут оба мальчика вместе с отчимом Доронина. Иван остается в Медвежьем для оформления опекунства над Мишей. Параллельно герою приходится подменять внезапно заболевшего отчима на работе в качестве почтальона. Развозя по окрестностям корреспонденцию, Иван то и дело попадает в сложные ситуации, где навыки спецназовца оказываются как нельзя кстати.",
-      "popularity": 0.355,
-      "poster_path": "/ysZchGn1W9XOzZVFXJzTV6awqFN.jpg",
-      "first_air_date": "2025-01-13",
-      "softcore": false,
-      "name": "Ронин",
-      "vote_average": 5,
-      "vote_count": 1,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 10759,
-          "name": "Боевик и Приключения"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2025-10-06",
-      "last_episode_to_air": {
-        "id": 6890575,
-        "name": "24 серия. Горько",
-        "overview": "В лесу обнаруживают труп только что вышедшего из тюрьмы насильника. Подозрение падает на жителя Медвежьего, бывшего военного Михалыча, с которым у убитого недавно был конфликт у магазина. Однако, опросив подозреваемого, Доронин и Самсонов сомневаются в том, что он совершил убийство и принимают решение найти и опросить всех пострадавших от рук насильника женщин.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2025-10-06",
-        "episode_number": 24,
-        "episode_type": "mid_season",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 2,
-        "show_id": 282468,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 1258,
-          "logo_path": "/1U8FtJNwKMiUITng9A6pOY6jnt7.png",
-          "name": "TV-3",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 44,
-      "number_of_seasons": 2,
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2025-01-13",
-          "episode_count": 20,
-          "id": 438753,
-          "name": "Сезон 1",
-          "overview": "Иван Доронин – один из лучших бойцов спецназа СОБР. Узнав о смерти бывшей жены, он вынужден ненадолго оставить службу и уехать в родные края. Там у Доронина остался маленький сын, с которым он последние годы почти не общался, лишь исправно платил алименты. Однако обстоятельства вынуждают Ивана задержаться на родине, где ему предстоит пройти немало испытаний: стать настоящим отцом не только своему собственному, но и чужому ребенку, самостоятельно раскрыть запутанные преступления, позаботившись о спокойствии обитателей этих краев, а также вступить в неравный бой с крупным чиновником за любовь местной красавицы.",
-          "poster_path": "/bwo1899ka7inxziPdC0lSCXZkV3.jpg",
-          "season_number": 1,
-          "vote_average": 8.3
-        },
-        {
-          "air_date": "2025-10-06",
-          "episode_count": 24,
-          "id": 497385,
-          "name": "Сезон 2",
-          "overview": "Иван Доронин с сыновьями Мишей и Сашкой уже несколько месяцев живет в Санкт-Петербурге. Дети очарованы Северной столицей, но со временем начинают скучать по дому в Медвежьем. К тому же, там героя ждет его возлюбленная Алена, с которой они постоянно на связи. Отслужив положенный срок в СОБРе, мужчина решает вместе с детьми вернуться в Медвежье. По приезде в родные края Доронин продолжает работать почтальоном и помогать местному участковому капитану Валерию Самсонову, поскольку в Медвежьем снова становится неспокойно. А вскоре и сам Доронин оказывается втянут в опасные криминальные разборки.",
-          "poster_path": "/yOs7vvsfEU8gLViEO8JnNN87Sfb.jpg",
-          "season_number": 2,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        10768
-      ],
-      "id": 152570,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Честь имею",
-      "overview": "Лента рассказывает о реальных событиях конца февраля 2000 года, произошедших в Аргунском ущелье в Чечне. Бойцы 6-й роты 104 парашютно-десантного полка Псковской дивизии ВДВ вступили в жестокий бой с двадцатикратно превосходящими силами террористов. Десантники не дрогнули, не отступили и выполнили задание, ценой своей жизни преградив путь бандитам, прорывающимся из окружения.",
-      "popularity": 0.7835,
-      "poster_path": "/5CUEK86dGX4Bos8vr9ilZNc6uwg.jpg",
-      "first_air_date": "2004-01-01",
-      "name": "Честь имею",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [
-        48
-      ],
-      "genres": [
-        {
-          "id": 10768,
-          "name": "Война и Политика"
-        }
-      ],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2004-01-29",
-      "last_episode_to_air": {
-        "id": 3381322,
-        "name": "Серия 5",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2004-01-29",
-        "episode_number": 5,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 152570,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 5,
-      "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
-      "seasons": [
-        {
-          "air_date": "2004-01-01",
-          "episode_count": 5,
-          "id": 234574,
-          "name": "Честь имею",
-          "overview": "",
-          "poster_path": "/5CUEK86dGX4Bos8vr9ilZNc6uwg.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zPPCm5ZzPWGwJ51yeYU9aG6U3w0.jpg",
-      "genre_ids": [
-        35,
-        9648
-      ],
-      "id": 251588,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Где лифт?",
-      "overview": "Однажды утром жители девятиэтажки обнаруживают, что у них пропал… лифт. За расследование берется старшая по подъезду Надежда Носова — домохозяйка и мать двух сыновей. Младший Артем вынужден ей помочь, но чем глубже они погружаются в дело, тем больше узнают соседских тайн, сталкиваются с интригами и загадками, которые неожиданно приводят к главному подозреваемому — старшему сыну Нади Денису. Теперь раскрытие преступления становится делом чести.",
-      "popularity": 0.1794,
-      "poster_path": "/9J7we0CSkE2mBBJYNxdzJ4p62m4.jpg",
-      "first_air_date": "2026-04-27",
-      "softcore": false,
-      "name": "Где лифт?",
-      "vote_average": 7,
-      "vote_count": 1,
-      "created_by": [
-        {
-          "id": 2005630,
-          "credit_id": "69e3cbeec970697a8c531043",
-          "name": "Эдуард Илоян",
-          "original_name": "Эдуард Илоян",
-          "gender": 2,
-          "profile_path": "/tjoQ9ec4wawl3TCgDozXYSnTsrB.jpg"
-        },
-        {
-          "id": 1257005,
-          "credit_id": "69e3cbfec5bb80e4653887f8",
-          "name": "Виталий Шляппо",
-          "original_name": "Виталий Шляппо",
-          "gender": 2,
-          "profile_path": "/sWKQSWuOQqFZPGHwGAHLW7X11Yq.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2026-05-13",
-      "last_episode_to_air": {
-        "id": 7164496,
-        "name": "Эпизод 16",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-05-13",
-        "episode_number": 16,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 22,
-        "season_number": 1,
-        "show_id": 251588,
-        "still_path": "/bQqRVOysOZqEjyjmpR1uQI2FKq5.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 806,
-          "logo_path": "/h3Al1s9eMwBpqrRZgyRIche9Vmd.png",
-          "name": "STS",
-          "origin_country": "RU"
-        },
-        {
-          "id": 2493,
-          "logo_path": "/4WexbzcfwxtGtnhvAoHWhKrA1jt.png",
-          "name": "START",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 16,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 27376,
-          "logo_path": "/rFKw0NgWTQuzmVqbyKvMYpd7e8V.png",
-          "name": "STS Media",
-          "origin_country": "RU"
-        },
-        {
-          "id": 114676,
-          "logo_path": "/aVsos0RDN9Ib7H8nW5Vv5kHKykz.png",
-          "name": "START Studio",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-04-27",
-          "episode_count": 16,
-          "id": 387982,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/hjz5kuP3jJFDTk1HX5mX7w0kDJD.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2GBJdNb0rX3I9qFyntCmfO4rNbP.jpg",
-      "genre_ids": [],
-      "id": 317957,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Новороссия. Потёмкин",
-      "overview": "Действие разворачивается в период стремительного расцвета России: создан Черноморский флот, идет активное строительство Херсона, где на воду спущен первый военный корабль, запущен «греческий проект» Екатерины II, присоединен Крым. Все это происходит благодаря поддержке и помощи князя Григория Потемкина на фоне тайной фабулы его личной жизни – венчания с императрицей Екатериной II.",
-      "popularity": 0.0071,
-      "poster_path": "/tul8n5a7o7VC8DWQxbix5Tp6z3j.jpg",
-      "first_air_date": "2026-03-27",
-      "name": "Новороссия. Потёмкин",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [],
-      "homepage": "",
-      "in_production": true,
-      "languages": [],
-      "last_air_date": "2026-03-27",
-      "last_episode_to_air": {
-        "id": 7090193,
-        "name": "Эпизод 1",
-        "overview": "Молодой Григорий Потемкин мечтает продолжить дело Петра I и отвоевать для России выход к Черному морю. После того как Османская империя объявляет войну, он добивается у императрицы Екатерины разрешения отправиться на фронт, несмотря на строгие протесты матери. Прибыв в действующую армию, Потемкин получает под свое начало не обученную бригаду. Он немедленно берет инициативу в свои руки: перешивает солдатам неудобную форму, учит их отливать пули и метко стрелять. Использовав римскую тактику, он заманивает в ловушку элитную турецкую конницу. Екатерина награждает героя и возвращает ко двору.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-03-27",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 317957,
-        "still_path": null
-      },
-      "next_episode_to_air": {
-        "id": 7090201,
-        "name": "Эпизод 2",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-04-03",
-        "episode_number": 2,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 317957,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 558,
-          "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
-          "name": "Channel One",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 125640,
-          "logo_path": null,
-          "name": "League Film",
-          "origin_country": "RU"
-        },
-        {
-          "id": 267950,
-          "logo_path": null,
-          "name": "12 Production Center",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [],
-      "seasons": [
-        {
-          "air_date": "2026-03-27",
-          "episode_count": 8,
-          "id": 507661,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/tul8n5a7o7VC8DWQxbix5Tp6z3j.jpg",
+          "poster_path": null,
           "season_number": 1,
           "vote_average": 0
         }
@@ -1236,63 +596,32 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/yOsANXDL9oxWp8t0J9uiYyyyOdq.jpg",
+      "backdrop_path": "/6i7cwmYwXtPmX81GLJChapnpbA.jpg",
       "genre_ids": [
         18
       ],
-      "id": 251301,
+      "id": 317190,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Чёрная графиня",
-      "overview": "В Москве и Петербурге уже год идёт сенсационное театральное шоу с единственным зрителем, где стирается грань между вымыслом и реальностью. Каждый спектакль создаётся индивидуально командой профессионалов под руководством успешного режиссёра. Очередное представление проходит в уединённом особняке в лесу, куда зрителя доставляют на вертолёте. Но на этот раз всё выходит из-под контроля: один из актёров погибает, а участники оказываются отрезаны от внешнего мира. Новый «спектакль» превращается в испытание, где раскрываются человеческие слабости и ответственность каждого за происходящее.",
-      "popularity": 1.1856,
-      "poster_path": "/w9eyH1RJv4kX5SwWpiOtVGhuLob.jpg",
-      "first_air_date": "2026-03-26",
-      "name": "Чёрная графиня",
+      "original_name": "Первая ракетка",
+      "overview": "Катя, талантливая теннисистка, которой приходится отказаться от официальной спортивной карьеры. Семья не поддерживает ее мечту, у родителей нет ни финансовых ресурсов, ни связей, ни желания бороться за будущее дочери в профессиональном теннисе. Однако Катя находит способ найти деньги: она тайно ездит на частные корты Москвы, притворяясь новичком, и зарабатывает, обыгрывая состоятельных любителей. Свидетелем этого становится бывший профессиональный спортсмен и тренер Игорь. Утомленный рутиной и разочарованный в карьере, он ищет игрока, в которого можно вложить все. Катя сразу привлекает его внимание.",
+      "popularity": 1.8502,
+      "poster_path": "/iFnQII48vTRaE5CLSdl2d0Ysx8i.jpg",
+      "first_air_date": "2026-04-30",
+      "softcore": false,
+      "name": "Первая ракетка",
       "vote_average": 0,
       "vote_count": 0,
       "created_by": [
         {
-          "id": 1257022,
-          "credit_id": "6639026f66565a012c169b3b",
-          "name": "Илья Куликов",
-          "original_name": "Илья Куликов",
+          "id": 2485427,
+          "credit_id": "69f31b981cd60045e8d5210a",
+          "name": "Евгений Корчагин",
+          "original_name": "Евгений Корчагин",
           "gender": 2,
-          "profile_path": "/36HDGd2N9s2Vapp8XiNvMyqz5Ro.jpg"
-        },
-        {
-          "id": 2833725,
-          "credit_id": "69c2523a55682cf7c97bca3a",
-          "name": "Иван Корвин",
-          "original_name": "Иван Корвин",
-          "gender": 2,
-          "profile_path": "/7iVGuEIREkONrcLyp56UmLluj4E.jpg"
-        },
-        {
-          "id": 2017467,
-          "credit_id": "69c2525dea323a2e61735c7a",
-          "name": "Варвара Бородина",
-          "original_name": "Варвара Бородина",
-          "gender": 1,
-          "profile_path": "/xqCpLus2WI7ktx2PWitlcwkLMrk.jpg"
-        },
-        {
-          "id": 1165851,
-          "credit_id": "69c25282a3c3ed416ac75e06",
-          "name": "Гавриил Гордеев",
-          "original_name": "Гавриил Гордеев",
-          "gender": 2,
-          "profile_path": "/bfl3X7Gwf4X1tUhTlyOO7QNikd0.jpg"
-        },
-        {
-          "id": 4432015,
-          "credit_id": "69c252a8a26ae6bfd0af0078",
-          "name": "Сергей Шишкин",
-          "original_name": "Сергей Шишкин",
-          "gender": 2,
-          "profile_path": "/1ToRbZ4XAhoMemxQjfYqPmJnnUn.jpg"
+          "profile_path": "/b3Vrkus3XRdjdVyBwZFTmVsGitY.jpg"
         }
       ],
       "episode_run_time": [],
@@ -1307,22 +636,183 @@
       "languages": [
         "ru"
       ],
-      "last_air_date": null,
-      "last_episode_to_air": null,
+      "last_air_date": "2026-05-14",
+      "last_episode_to_air": {
+        "id": 7181856,
+        "name": "Эпизод 3",
+        "overview": "Игорь тайно тренирует Катю и продолжает работать на Руслана. Конфликт интересов обостряется, когда он записывает на один турнир Катю и Дашу. Первой нужно зарабатывать очки, чтобы пробиться в большой спорт, а второй — хотя бы раз выиграть, чтобы ее богатые родители не разгневались на клуб. От результатов этого соревнования зависит будущее Черновой в теннисе и карьера Игоря…",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-05-14",
+        "episode_number": 3,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 317190,
+        "still_path": "/zXPRq1PPpXeYPGOU4O5hkmt9Fx9.jpg"
+      },
       "next_episode_to_air": {
-        "id": 5264198,
-        "name": "Серия 1",
+        "id": 7181857,
+        "name": "Эпизод 4",
         "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-03-26",
+        "air_date": "2026-05-21",
+        "episode_number": 4,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 1,
+        "show_id": 317190,
+        "still_path": null
+      },
+      "networks": [
+        {
+          "id": 5806,
+          "logo_path": "/nMd8AApGO1w0uCLx4JiKnlcFYTM.png",
+          "name": "Wink",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 8,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 274894,
+          "logo_path": "/jIJ1gCcLADZnD2FSO1fN6GGBghI.png",
+          "name": "NMG Studio",
+          "origin_country": "RU"
+        },
+        {
+          "id": 166046,
+          "logo_path": "/gpDdtrKHc7OZNDS4X1O5yT1ul33.png",
+          "name": "IRI",
+          "origin_country": "RU"
+        },
+        {
+          "id": 34668,
+          "logo_path": "/jObC3sm2t470pNGfUHyEl5qmQi2.png",
+          "name": "Black Box Production",
+          "origin_country": "RU"
+        },
+        {
+          "id": 224306,
+          "logo_path": "/pPmpNcksSvlnXwEXhokeItskclH.png",
+          "name": "Wink",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2026-04-30",
+          "episode_count": 8,
+          "id": 506415,
+          "name": "Сезон 1",
+          "overview": "Катя, талантливая теннисистка, которой приходится отказаться от официальной спортивной карьеры. Семья не поддерживает ее мечту, у родителей нет ни финансовых ресурсов, ни связей, ни желания бороться за будущее дочери в профессиональном теннисе. Однако Катя находит способ найти деньги: она тайно ездит на частные корты Москвы, притворяясь новичком, и зарабатывает, обыгрывая состоятельных любителей. Свидетелем этого становится бывший профессиональный спортсмен и тренер Игорь. Утомленный рутиной и разочарованный в карьере, он ищет игрока, в которого можно вложить все. Катя сразу привлекает его внимание.",
+          "poster_path": "/iFnQII48vTRaE5CLSdl2d0Ysx8i.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bqPajdAV7XjthJmhj60s1zfr01t.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 316567,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "След Чикатило",
+      "overview": "В начале 2000-х юг России сотрясает серия жутких нападений на трассе «Дон» и других дорогах. Сыщики выходят на след банды «амазонок» во главе с таинственной Оспой. Сыщикам предстоит спасти заложников и остановить преступниц, а также выяснить, как девушки связаны с делом Чикатило.",
+      "popularity": 0.8891,
+      "poster_path": "/f0rXIdawekALnLCZwPUKCBGwSw.jpg",
+      "first_air_date": "2026-05-21",
+      "softcore": false,
+      "name": "След Чикатило",
+      "vote_average": 0,
+      "vote_count": 0,
+      "created_by": [
+        {
+          "id": 232858,
+          "credit_id": "6a060a7f0b972511d4848661",
+          "name": "Сарик Андреасян",
+          "original_name": "Սարիկ Անդրեասյան",
+          "gender": 2,
+          "profile_path": "/cRoPQTvzhpKZzpToc9LjUh6DY01.jpg"
+        },
+        {
+          "id": 1303425,
+          "credit_id": "6a060aa43ab0c89f965c0429",
+          "name": "Гевонд Андреасян",
+          "original_name": "Гевонд Андреасян",
+          "gender": 2,
+          "profile_path": "/cqLjQwCVlomEh4RzHycD2HVDPrl.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "in_production": true,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": null,
+      "last_episode_to_air": null,
+      "next_episode_to_air": {
+        "id": 7039863,
+        "name": "Эпизод 1",
+        "overview": "На юге России орудует банда женщин, грабящая автомобилистов на трассах. Её возглавляет уголовница по кличке Оспа.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-05-21",
         "episode_number": 1,
         "episode_type": "standard",
         "production_code": "",
-        "runtime": 38,
+        "runtime": null,
         "season_number": 1,
-        "show_id": 251301,
-        "still_path": null
+        "show_id": 316567,
+        "still_path": "/A1frAYLJWTsEVFOmqL2SQf94Dlr.jpg"
       },
       "networks": [
         {
@@ -1336,220 +826,15 @@
       "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 135038,
-          "logo_path": "/3ZunTFiMFOtkjDzajKkKRgHIuCj.png",
-          "name": "Okko Studios",
+          "id": 175169,
+          "logo_path": "/qyqiYpqa9IWKfy48MSXTnquWYau.png",
+          "name": "Okko",
           "origin_country": "RU"
         },
         {
-          "id": 120379,
-          "logo_path": "/l1LWjsXuzmIDXceAJraQijM20tV.png",
-          "name": "Legio Felix",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2026-03-26",
-          "episode_count": 8,
-          "id": 387382,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/qFCCNcNOUaV9XCblI2N4JLNx7aS.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "«Убийство не по сценарию»",
-      "type": "Scripted",
-      "release_quality": "2160p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wkaGD0nWITX1Q1bYyRWx9PzIu7w.jpg",
-      "genre_ids": [],
-      "id": 321438,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Кузя. Путь к Успеху",
-      "overview": "Спин-офф «Универа» о пути Кузи от бывшего студента до пельменного короля. После громкого ухода из университета Эдуард Кузьмин возвращается в Агаповку. Неожиданно парень становится председателем колхоза и сам того не понимая, не просто сохраняет, но и увеличивает прибыль хозяйства. Это очень не нравится местному бизнесмену, который мечтает продать землю под строительство платной трассы. А пока Кузя борется за спасение родного колхоза, его сердце пытаются завоевать бойкая соседка Верка и городская девушка Даша",
-      "popularity": 0.4077,
-      "poster_path": "/iRZcIVVvloR4dMAzYTFr49TPvFG.jpg",
-      "first_air_date": "2026-05-04",
-      "softcore": false,
-      "name": "Кузя. Путь к Успеху",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [],
-      "homepage": "https://premier.one/show/kuzya-put-k-uspehu",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": null,
-      "last_episode_to_air": {
-        "id": 7224888,
-        "name": "Эпизод 4",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-05-05",
-        "episode_number": 4,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 321438,
-        "still_path": null
-      },
-      "next_episode_to_air": {
-        "id": 7224889,
-        "name": "Эпизод 5",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-05-06",
-        "episode_number": 5,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 321438,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 1191,
-          "logo_path": "/dj89PnCx2Pt7vAE3Fp7n54vvmOt.png",
-          "name": "TNT",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
-      "seasons": [
-        {
-          "air_date": "2026-05-04",
-          "episode_count": 8,
-          "id": 514360,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        35
-      ],
-      "id": 317662,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Участковый Саша",
-      "overview": "Выпускник академии МВД мечтал работать в элитном подразделении, а оказался в сельском участке. Он всеми силами старается вырваться назад в столицу, пока не замечает, что влюбился в деревню и ее жителей.\n\nСаша, воспитанный на голливудских боевиках, пытается применять свои профессиональные навыки в новой обстановке. Но в деревне жизнь совсем другая, умом ее, как говорится, не понять. Участковому предстоит разобраться в местных порядках, завоевать уважение жителей, обрести смекалку и даже найти свою любовь в лице местной доярки. А заодно он сталкивается с делом о загадочном исчезновении односельчанина, которое может оказаться не таким простым, как кажется на первый взгляд.",
-      "popularity": 0.6153,
-      "poster_path": "/5c5Ud1CybCPfqhXb65gGudu2ksP.jpg",
-      "first_air_date": "2025-09-19",
-      "softcore": false,
-      "name": "Участковый Саша",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2025-11-07",
-      "last_episode_to_air": {
-        "id": 7082700,
-        "name": "8 серия. Дядя Федя съел медведя",
-        "overview": "Саша отправляется в лес на поиски пропавшего Дяди Феди. А когда, наконец, находит - ему представляется шанс вернуться в Москву. Но бросить полюбившиеся Низовья Саше уже совсем не так просто...",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2025-11-07",
-        "episode_number": 8,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 317662,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 7286,
-          "logo_path": "/mbZrfXJBiuHmeM4n5eUvcsvaJVl.png",
-          "name": "Rutube",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 293393,
+          "id": 152330,
           "logo_path": null,
-          "name": "Академия",
-          "origin_country": ""
-        },
-        {
-          "id": 166046,
-          "logo_path": "/gpDdtrKHc7OZNDS4X1O5yT1ul33.png",
-          "name": "IRI",
+          "name": "K.B.A.",
           "origin_country": "RU"
         }
       ],
@@ -1561,188 +846,13 @@
       ],
       "seasons": [
         {
-          "air_date": "2025-09-19",
+          "air_date": "2026-05-21",
           "episode_count": 8,
-          "id": 507168,
+          "id": 505152,
           "name": "Сезон 1",
-          "overview": "",
-          "poster_path": null,
+          "overview": "В начале 2000-х юг России сотрясает серия жутких нападений на трассе «Дон» и других дорогах. Сыщики выходят на след банды «амазонок» во главе с таинственной Оспой. Сыщикам предстоит спасти заложников и остановить преступниц, а также выяснить, как девушки связаны с делом Чикатило.",
+          "poster_path": "/6V9kQVDaOLxudMT9TvetaB8C1I.jpg",
           "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lLMSpTZMYpzKD6vzHs4lVo7dgL0.jpg",
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "id": 234291,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Папины дочки. Новые",
-      "overview": "Проклятие Васнецовых настигает уже повзрослевших дочерей семейного психотерапевта. В канун очередной годовщины свадьбы из дома сбегает Даша, оставив трудоголику Венику прощальное письмо, обручальное кольцо и четырёх дочерей. Теперь Вениамин, совсем как его тесть когда-то, вынужден стать для своих детей и папой, и мамой, и другом. А поможет ему в этом неунывающее семейство Васнецовых.",
-      "popularity": 2.8105,
-      "poster_path": "/lYmzkYVq33E0wCqA5E8bJacT4PF.jpg",
-      "first_air_date": "2023-09-18",
-      "name": "Папины дочки. Новые",
-      "vote_average": 7,
-      "vote_count": 7,
-      "created_by": [
-        {
-          "id": 1578691,
-          "credit_id": "64f9864ce0ca7f014f6dbbb3",
-          "name": "Александр Жигалкин",
-          "original_name": "Александр Жигалкин",
-          "gender": 2,
-          "profile_path": "/34n34wRFoJGKydeSwyXWaBBJU7v.jpg"
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "https://ctc.ru/projects/serials/papiny-dochki-novye/",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2025-08-29",
-      "last_episode_to_air": {
-        "id": 7172830,
-        "name": "Эпизод 8",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-04-20",
-        "episode_number": 8,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 5,
-        "show_id": 234291,
-        "still_path": null
-      },
-      "next_episode_to_air": {
-        "id": 7172831,
-        "name": "Эпизод 9",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-04-21",
-        "episode_number": 9,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 5,
-        "show_id": 234291,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 806,
-          "logo_path": "/h3Al1s9eMwBpqrRZgyRIche9Vmd.png",
-          "name": "STS",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 80,
-      "number_of_seasons": 5,
-      "production_companies": [
-        {
-          "id": 114676,
-          "logo_path": "/aVsos0RDN9Ib7H8nW5Vv5kHKykz.png",
-          "name": "START Studio",
-          "origin_country": "RU"
-        },
-        {
-          "id": 27376,
-          "logo_path": "/rFKw0NgWTQuzmVqbyKvMYpd7e8V.png",
-          "name": "STS Media",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2023-09-18",
-          "episode_count": 20,
-          "id": 355841,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/4HY5r2zmUMbmmbDdKg9eruqZioW.jpg",
-          "season_number": 1,
-          "vote_average": 8
-        },
-        {
-          "air_date": "2024-04-15",
-          "episode_count": 20,
-          "id": 386511,
-          "name": "Сезон 2",
-          "overview": "",
-          "poster_path": "/i7JCdIjChsCcWmVytV9CPPOWoc4.jpg",
-          "season_number": 2,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2025-01-02",
-          "episode_count": 20,
-          "id": 436509,
-          "name": "Сезон 3",
-          "overview": "",
-          "poster_path": "/lYmzkYVq33E0wCqA5E8bJacT4PF.jpg",
-          "season_number": 3,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2025-08-18",
-          "episode_count": 20,
-          "id": 471239,
-          "name": "Сезон 4",
-          "overview": "У Веника — роман. У девочек — план. Сёстры узнают секрет папы и решают избавиться от его подруги. Продолжение семейного хита",
-          "poster_path": "/mwqWCG6IMsQLpFGSJTZuoAs3c2e.jpg",
-          "season_number": 4,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2026-04-13",
-          "episode_count": 20,
-          "id": 512181,
-          "name": "Сезон 5",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 5,
           "vote_average": 0
         }
       ],
@@ -1757,576 +867,6 @@
       "tagline": "",
       "type": "Scripted",
       "release_quality": "2160p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xcfnOeqKGHyS2CK8r4k5Zq4CP2E.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 105276,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Беспринципные",
-      "overview": "Сборник сатирических зарисовок, рассказывающих о приличных жителях Патриарших прудов и их неприличных историях. В сериал вошли трогательные, возмутительные и полные любви интимные истории, о которых не принято говорить вслух.",
-      "popularity": 6.5326,
-      "poster_path": "/dHHB5fWZr71Lu6p0oXYcl1ac5gT.jpg",
-      "first_air_date": "2020-10-15",
-      "softcore": false,
-      "name": "Беспринципные",
-      "vote_average": 7.6,
-      "vote_count": 22,
-      "created_by": [
-        {
-          "id": 1933127,
-          "credit_id": "6610693bdf86a8017e52b2fa",
-          "name": "Александр Цыпкин",
-          "original_name": "Александр Цыпкин",
-          "gender": 2,
-          "profile_path": "/cEvJKtQc9PUsWV5kVvpmBrPopGO.jpg"
-        }
-      ],
-      "episode_run_time": [
-        50
-      ],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2024-05-16",
-      "last_episode_to_air": {
-        "id": 5277800,
-        "name": "Эпизод 8",
-        "overview": "Любовь — это ВИП-пакет, доступный не всем даже на Патриках. Аленке нужно срочно спасать годовщину родителей, а Хадякову — концерт Вали LUX.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2024-05-16",
-        "episode_number": 8,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 4,
-        "show_id": 105276,
-        "still_path": "/nn3k8Unsr67KrUkC9Qb1oupwZE5.jpg"
-      },
-      "next_episode_to_air": {
-        "id": 7193548,
-        "name": "Эпизод 1",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-04-30",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 5,
-        "show_id": 105276,
-        "still_path": null
-      },
-      "networks": [
-        {
-          "id": 2493,
-          "logo_path": "/4WexbzcfwxtGtnhvAoHWhKrA1jt.png",
-          "name": "START",
-          "origin_country": "RU"
-        },
-        {
-          "id": 3827,
-          "logo_path": "/dvC56dxf4I2ghZwniRFBlpHBZJ0.png",
-          "name": "Kinopoisk",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 32,
-      "number_of_seasons": 5,
-      "production_companies": [
-        {
-          "id": 136332,
-          "logo_path": "/90StfHNuBb1jhgLHnj2uT2bM36N.png",
-          "name": "Mediaslovo",
-          "origin_country": "RU"
-        },
-        {
-          "id": 119413,
-          "logo_path": "/kZt7f5UkY5ePPzESXrmJj7o19Yg.png",
-          "name": "Plus Studio",
-          "origin_country": "RU"
-        },
-        {
-          "id": 293648,
-          "logo_path": "/5pUvmTSnTS0vpCpTdIiRTKUPC2z.png",
-          "name": "Kinopoisk",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2020-10-15",
-          "episode_count": 8,
-          "id": 154638,
-          "name": "Сезон 1",
-          "overview": "Знаете ли вы подноготную жителей Патриарших так, как ее знает Славик? Дерзкий герой готов стать проводником в безумный, лишенный всякой морали мир внутри Садового кольца и даже за его пределами. Друзья Славика — уважаемые люди, но за закрытыми дверями они позволяют себе многие слабости. Мужья в поисках новых ощущений находят себе любовниц. Но и их жены не промах: супруга генерала Хадякова всегда знает соперниц в лицо. Она понимает, как тяжело выжить в мире, где репутация — это все. Поддаваться чувствам в высшем обществе бывает опасно. Молодежь этого пока не понимает: аферисты Паша и Юля успешно разводили мужчин и женщин на деньги, но по глупости поженились. К счастью, заправский лгун Славик и его высокопоставленные друзья всегда готовы направить их на путь истинный. Ведь на Патриках нужно жить по правилам — даже когда кажется, что никаких правил нет.",
-          "poster_path": "/A5jeUByYZas2CcEA96qT1m3Yik.jpg",
-          "season_number": 1,
-          "vote_average": 8
-        },
-        {
-          "air_date": "2021-11-18",
-          "episode_count": 8,
-          "id": 220191,
-          "name": "Сезон 2",
-          "overview": "Помните Славика с Патриарших прудов, который постоянно попадал в передряги из-за лжи и измен жене? Он всё ещё верит в свою ловкость и смекалку, -поэтому вновь и вновь становится героем смешных и пикантных историй типичного представителя богемной Москвы. Вячеслав по-прежнему женат и любит ходить налево, у него всё те же друзья, которым он постоянно что-то должен. Внезапно Славик решает укрепить семейные связи и вспоминает про родственников, а также чуть не становится жертвой семейных традиций Кавказа. Даже в больнице он находит себе любовницу, и его добрые намерения приводят к чрезвычайным последствиям. Кажется, на Патриках ничего не меняется.",
-          "poster_path": "/3XI6HyL2cybKPoZi2k13gKgw078.jpg",
-          "season_number": 2,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2022-12-01",
-          "episode_count": 8,
-          "id": 316336,
-          "name": "Сезон 3",
-          "overview": "Welcome на Патрики! Того, кто справился с жизнью в этом фешенебельном районе, уже ничем не удивишь. К примеру, генерал-майор Ходяков то страдает от депрессии и откровенно скучает в стриптиз-клубах, то оказывается в психушке. Главный сплетник района Славик крутится как может. Он обещал исчезнуть из жизни супруги и дочек, которым оставил всё, променяв дорогие машины и рестораны на метлу и форму дворника. Но в городе грехов дорого стоит не только сходить на ланч, но и скелеты в шкафу. Пока одни дамы открывают для себя прелести йони-массажа, другие предпочитают рискованные инвестиции. Ничьих на Патриках не бывает. Либо ты кого-то кидаешь, либо — тебя. Но, в отличие от джунглей, пищевая цепочка может развернуться в любую сторону. Но бизнесмену Костику всё же стоит опасаться укуса «гадюки».",
-          "poster_path": "/5xuzHGZpOTJ5rq5JJDNPflZ9qoN.jpg",
-          "season_number": 3,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2024-03-28",
-          "episode_count": 8,
-          "id": 388433,
-          "name": "Сезон 4",
-          "overview": "Любимый район недолго пустовал без Славика. Главный сплетник возвращается в привычную среду. По-прежнему не отличается верностью и генерал Хадяков, который обрел вторую молодость, пока его жена Валя строит музыкальную карьеру. Отработанная схема Паши и Юли не дает сбоев: они по-прежнему ищут легкие способы добыть денег и остаться на плаву. А вот для Ромы и Веры, которые только-только пытаются наладить свой быт, все круто меняется. Пора принимать новых жителей из деревни, где Хадяков недавно справлял юбилей. Бойкая Аленка готова покорять высшее общество, но сначала ей нужно выйти из-под присмотра родителей — а они только входят во вкус красивой жизни…",
-          "poster_path": "/zhyOKbwafWuh71cXp6JlN6Wg1xe.jpg",
-          "season_number": 4,
-          "vote_average": 0
-        },
-        {
-          "air_date": "2026-04-30",
-          "episode_count": 8,
-          "id": 513190,
-          "name": "Сезон 5",
-          "overview": "Валентина перевозит из Санкт-Петербурга на Патрики вместе с собой сразу нескольких действующих лиц, в числе которых: критик Георгий с супругой Анной и авантюрный продюсер Сергей со своей ассистенткой Светой. В фокусе и все прежние герои: Славик с женой Олей, генерал Хадяков и Валентина, Паша с Юлей, Алёнка и Вера. Оля объявляет себя ментором и собирает вокруг себя девушек, чтобы учить их строить отношения и раскрывать женственность — на радость вездесущему Славику. Хадяков готовится бежать марафон, а у Вали новое достижение — миллиард просмотров.",
-          "poster_path": "/gd9DsfPnWLqtSA8reHFXcNgtDQH.jpg",
-          "season_number": 5,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Returning Series",
-      "tagline": "«Неприличные истории о приличных людях»",
-      "type": "Scripted",
-      "release_quality": "2160p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qaiQgSuuDsjwZRZrfkLa7ePE7UW.jpg",
-      "genre_ids": [],
-      "id": 138149,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Седьмая симфония",
-      "overview": "Исполнение Седьмой симфонии в переполненном зале Ленинградской филармонии 9 августа 1942 года и его трансляция по радио стали и музыкальным символом блокады Ленинграда, и невероятно сильным эмоциональным потрясением, подарившим надежду и укрепившим дух людей. Этому событию предшествовала огромная, тяжелейшая работа. Когда руководство страны приняло решение, что Седьмая симфония Шостаковича должна быть исполнена в осажденном городе, в июле специальным самолетом из Куйбышева, куда был эвакуирован композитор, была доставлена партитура. Главному дирижеру Большого симфонического оркестра Ленинграда, Карлу Элиасбергу, было поручено собрать оркестр и начать репетиции. Однако музыкантов, способных сыграть это сложное произведение, в Ленинграде фактически не осталось – кто-то умер от голода в городе, кто-то был призван на войну и погиб на фронте, а кто-то еще продолжал сражаться на передовой.",
-      "popularity": 1.8624,
-      "poster_path": "/sFcZIPFko3ATiUJg6ihJXdzwji6.jpg",
-      "first_air_date": "2021-11-08",
-      "softcore": false,
-      "name": "Седьмая симфония",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [
-        {
-          "id": 235112,
-          "credit_id": "661ea79a21621b0164f05eb9",
-          "name": "Александр Котт",
-          "original_name": "Александр Котт",
-          "gender": 2,
-          "profile_path": "/7CnrOSSnXhcs52RSuwHZGg53NgW.jpg"
-        }
-      ],
-      "episode_run_time": [
-        50
-      ],
-      "genres": [],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2021-11-11",
-      "last_episode_to_air": {
-        "id": 3327595,
-        "name": "Серия 8",
-        "overview": "Приближается день премьеры. Исполнение Седьмой симфонии Шостаковича в блокадном, измученном, но непобежденном Ленинграде – событие, которого ждет страна и весь мир. Но для Карла Ильича Элиасберга этот концерт может стать последним…",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2021-11-11",
-        "episode_number": 8,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 50,
-        "season_number": 1,
-        "show_id": 138149,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 412,
-          "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
-          "name": "Russia-1",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 8,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 5630,
-          "logo_path": "/s0mHCw53fp6EAapR7g0dwYbz0l5.png",
-          "name": "Non-Stop Productions",
-          "origin_country": "RU"
-        },
-        {
-          "id": 103450,
-          "logo_path": null,
-          "name": "58.5 Production",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2021-11-08",
-          "episode_count": 8,
-          "id": 218739,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/sFcZIPFko3ATiUJg6ihJXdzwji6.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Miniseries",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [],
-      "id": 307041,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Шальной отдел",
-      "overview": "Оперативник Кирилл Шальной живет и действует в полном соответствии со своей фамилией, которую ему дали в детдоме. Это и помогает ему, и в то же время мешает. Тяга к экстриму определила выбор профессии. Став взрослым, Кирилл пошел работать в полицию, где дослужился до замначальника ОУР одного из центральных УМВД.\n\nВ личной жизни Шального всё не так радужно. Несколько лет назад ему улыбнулась удача, и первая красавица отдела полиции — дознаватель Елизавета ответила «да» на его предложение руки и сердца. Но спустя время отношения между ними остыли. К тому же новый начальник УМВД стал назойливо ухаживать за Елизаветой. Кирилл не стерпел такого удара по самолюбию и на корпоративе дал начальнику по физиономии. Начальник пообещал, что этого просто так не оставит, и слово свое сдержал. Успешного опера перевели на службу в захудалый спальный район. Кирилла на новом месте ждет самый неласковый прием.",
-      "popularity": 0.0382,
-      "poster_path": "/9Ue37JprF1xud5rG67dxq2s7gIT.jpg",
-      "first_air_date": "2025-11-30",
-      "name": "Шальной отдел",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [],
-      "homepage": "",
-      "in_production": true,
-      "languages": [],
-      "last_air_date": "2025-11-30",
-      "last_episode_to_air": {
-        "id": 6738448,
-        "name": "Сезон охоты",
-        "overview": "Во время охоты убит менеджер крупной фирмы Куприн. Под подозрением трое его коллег, охотившихся вместе с ним. Но баллистики не находят никаких улик и вещдоков, да и сами подозреваемые вряд ли могли совершить точный выстрел. Может быть, всё дело в личных отношениях или в недовольных клиентах?",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2025-11-30",
-        "episode_number": 10,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 307041,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 10,
-      "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
-      "seasons": [
-        {
-          "air_date": "2025-11-30",
-          "episode_count": 10,
-          "id": 487160,
-          "name": "Первый сезон",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sSNdGXMbChdirbnbkaC17ncVWBh.jpg",
-      "genre_ids": [
-        18,
-        10768
-      ],
-      "id": 85115,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Крепость Бадабер",
-      "overview": "Весна 1985-ого. По заданию ГРУ разведчик Юрий Никитин проникает в пакистанскую крепость Бадабер. Никитин должен собрать доказательства существования здесь центра подготовки моджахедов под руководством ЦРУ. Выполнив опасное задание, Никитин видит на территории крепости группу русских военнопленных, среди которых узнает своего друга Михаила, сына своего командира генерала Колесова, несколько лет считавшегося пропавшим без вести. Никитин решает остаться и спасти обреченных на смерть ребят….",
-      "popularity": 1.3567,
-      "poster_path": "/IIC1Svzw8GHWqdwac0xHBEYfGl.jpg",
-      "first_air_date": "2018-02-12",
-      "softcore": false,
-      "name": "Крепость Бадабер",
-      "vote_average": 6.3,
-      "vote_count": 7,
-      "created_by": [
-        {
-          "id": 1297508,
-          "credit_id": "5de9152b11386c001358238f",
-          "name": "Кирилл Белевич",
-          "original_name": "Кирилл Белевич",
-          "gender": 2,
-          "profile_path": "/eFlg0i4kOUvC1Iglsaoi6H56wWL.jpg"
-        }
-      ],
-      "episode_run_time": [
-        42
-      ],
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10768,
-          "name": "Война и Политика"
-        }
-      ],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "en",
-        "ru"
-      ],
-      "last_air_date": "2018-02-15",
-      "last_episode_to_air": {
-        "id": 1649090,
-        "name": "4 СЕРИЯ",
-        "overview": "Вопреки приказу генерал Колесов вылетает в Афганистан, чтобы оказать хоть какую-то помощь Никитину, если представится случай. Пока солдаты отстреливаются Юрий берет в заложники Джефферса, тем самым заставив его людей сложить оружие и покинуть базу. Никитин и его бойцы отбивают еще одну атаку моджахедов, когда появляется связь с Колесовым, который сообщает, что помощи не будет - для операции нет оснований, но он сам готов встретить пленных у границы, прикрыв огнём. Тогда Никитин предлагает иной вариант ...",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2018-02-15",
-        "episode_number": 4,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 52,
-        "season_number": 1,
-        "show_id": 85115,
-        "still_path": "/hbbSoaFi2uz9lvNSiF3A1XC2XO7.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 4,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 99796,
-          "logo_path": "/9mf2AFZUoQP4ovnNiSOg7SKJjZa.png",
-          "name": "KIT Film Studio",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2018-02-12",
-          "episode_count": 4,
-          "id": 114725,
-          "name": "Сезон 1",
-          "overview": "Весна 1985-ого. По заданию ГРУ разведчик Юрий Никитин проникает в пакистанскую крепость Бадабер. Никитин должен собрать доказательства существования здесь центра подготовки моджахедов под руководством ЦРУ. Выполнив опасное задание, Никитин видит на территории крепости группу русских военнопленных, среди которых узнает своего друга Михаила, сына своего командира генерала Колесова, несколько лет считавшегося пропавшим без вести. Никитин решает остаться и спасти обреченных на смерть ребят....",
-          "poster_path": "/7v6iMoglv4Jjiadf3zI4STfZgUo.jpg",
-          "season_number": 1,
-          "vote_average": 6
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Miniseries",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        9648,
-        35
-      ],
-      "id": 321349,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Псы и волки",
-      "overview": "Алексей Шаповалов по кличке Магабан – один из наиболее дерзких и харизматичных бандитов эпохи 90-х, но слишком человечный для преступного мира. Оставшись не у дел и без гроша в кармане, Шаповалов устраивается простым банщиком. Охранный пост в этой бане занимает Юрий Рубцов по прозвищу Брюс, в прошлом один из самых известных, крутых и скандальных оперов, державший в страхе весь город, но не принявший новых правил системы.\n\nС первых минут оба всё друг про друга понимают и не скрывают взаимную неприязнь. Но всё меняется, когда в бане происходит происшествие: двое влиятельных гостей – начальник полиции Пугалов и криминальный авторитет Бетховен – оказываются убитыми. Подозрение сразу падает на Шувалова и Рубцова. Им предстоит объединиться, чтобы выяснить, кто их подставил. В попытках доказать свою невиновность главные герои с каждой минутой погружаются в среду, родную для одного и чуждую для другого, постепенно проникаясь друг к другу взаимным уважением",
-      "popularity": 0,
-      "poster_path": "/rMVPRuJ6BUwncpOb8BGBIOG1nuS.jpg",
-      "first_air_date": "2026-05-01",
-      "softcore": false,
-      "name": "Псы и волки",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [
-        {
-          "id": 4580434,
-          "credit_id": "69f5ae1ed3ba6fecfc0e7d4d",
-          "name": "Алан Дзоциев",
-          "original_name": "Алан Дзоциев",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "in_production": true,
-      "languages": [],
-      "last_air_date": "2026-05-01",
-      "last_episode_to_air": {
-        "id": 7220358,
-        "name": "Эпизод 1",
-        "overview": "Алексей Шаповалов по кличке Магабан – один из наиболее дерзких и харизматичных бандитов эпохи 90-х, но слишком человечный для преступного мира. Оставшись не у дел и без гроша в кармане, Шаповалов устраивается простым банщиком. Охранный пост в этой бане занимает Юрий Рубцов по прозвищу Брюс, в прошлом один из самых известных, крутых и скандальных оперов, державший в страхе весь город, но не принявший новых правил системы.\n\nС первых минут оба всё друг про друга понимают и не скрывают взаимную неприязнь. Но всё меняется, когда в бане происходит происшествие: двое влиятельных гостей – начальник полиции Пугалов и криминальный авторитет Бетховен – оказываются убитыми. Подозрение сразу падает на Шувалова и Рубцова. Им предстоит объединиться, чтобы выяснить, кто их подставил. В попытках доказать свою невиновность главные герои с каждой минутой погружаются в среду, родную для одного и чуждую для другого, постепенно проникаясь друг к другу взаимным уважением.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2026-05-01",
-        "episode_number": 1,
-        "episode_type": "standard",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 321349,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 1,
-      "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
-      "seasons": [
-        {
-          "air_date": "2026-05-01",
-          "episode_count": 1,
-          "id": 514228,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/rMVPRuJ6BUwncpOb8BGBIOG1nuS.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "1080p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
