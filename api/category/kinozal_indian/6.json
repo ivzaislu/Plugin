@@ -5,65 +5,66 @@
   },
   "page": 6,
   "limit": 20,
-  "total": 157,
+  "total": 158,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg",
+      "backdrop_path": "/ycRsscsENS6hTTRPlSv3YyBAkHD.jpg",
       "genre_ids": [
-        35,
-        18,
-        36,
-        10749
+        9648,
+        53
       ],
-      "id": 7913,
+      "id": 82825,
       "original_language": "hi",
-      "original_title": "रंग दे बसंती",
-      "overview": "Английская журналистка Сью приезжает в Индию, чтобы сделать документальный фильм об индийских борцах за независимость во времена английской колонизации, на основании дневника своего деда. С связи с недостатком средств она вынуждена работать не с профессиональными актёрами, а со студентами. Сначала компания друзей не особо горит желанием участвовать в проекте, но со временем они всё больше и больше погружаются в проблемы того времени… И постепенно понимают, что в стране мало что изменилось, что людям и сейчас приходится бороться за свои права. Вскоре они начинают собственную борьбу…",
-      "popularity": 1.6907,
-      "poster_path": "/qFTYUDuq3b7SRxh30Y9bGnaUW8O.jpg",
-      "release_date": "2006-01-26",
-      "title": "Цвет шафрана",
+      "original_title": "कहानी",
+      "overview": "Видья прилетает из Лондона в Калькутту, разыскивая своего без вести пропавшего мужа. Женщина находится на седьмом месяце беременности, но это не мешает ей с энергией взяться за поиски. Однако все люди, которые, по идее, так или иначе должны быть связаны с ее мужем, в один голос уверяют героиню, что никогда и слыхом не слыхивали о ее супруге. Все пытаются убедить ее, что ее мужа попросту не существует. Мало-помалу героиня осознает, что весь город погряз во лжи…",
+      "popularity": 1.2777,
+      "poster_path": "/eJpl0LdFTSA3wcPYtUUgbsBxPbe.jpg",
+      "release_date": "2012-03-08",
+      "title": "История",
       "video": false,
-      "vote_average": 7.1,
-      "vote_count": 495,
-      "belongs_to_collection": null,
-      "budget": 2200000,
+      "vote_average": 7.171,
+      "vote_count": 342,
+      "belongs_to_collection": {
+        "id": 499115,
+        "name": "Kahaani Collection",
+        "poster_path": "/920Rdqj4LkRLkwxkExe1Eu2fw4N.jpg",
+        "backdrop_path": "/jkuVmlODVv19JIG3WOqck1NRdlF.jpg"
+      },
+      "budget": 1200000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 9648,
+          "name": "детектив"
         },
         {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0405508",
+      "imdb_id": "tt1821480",
       "origin_country": [
         "IN"
       ],
       "production_companies": [
         {
-          "id": 2320,
-          "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
-          "name": "UTV Motion Pictures",
+          "id": 6808,
+          "logo_path": "/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png",
+          "name": "Viacom18 Studios",
           "origin_country": "IN"
         },
         {
-          "id": 108024,
+          "id": 103329,
+          "logo_path": "/bjJ6phaG9F8cGm3RYBjly8wYuH5.png",
+          "name": "Pen Studios",
+          "origin_country": "IN"
+        },
+        {
+          "id": 164741,
           "logo_path": null,
-          "name": "Rakeysh Omprakash Mehra Pictures",
-          "origin_country": ""
+          "name": "Bound Script Production",
+          "origin_country": "IN"
         }
       ],
       "production_countries": [
@@ -72,9 +73,14 @@
           "name": "India"
         }
       ],
-      "revenue": 11502151,
-      "runtime": 157,
+      "revenue": 16000000,
+      "runtime": 122,
       "spoken_languages": [
+        {
+          "english_name": "Bengali",
+          "iso_639_1": "bn",
+          "name": "বাংলা"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -84,15 +90,10 @@
           "english_name": "Hindi",
           "iso_639_1": "hi",
           "name": "हिन्दी"
-        },
-        {
-          "english_name": "Punjabi",
-          "iso_639_1": "pa",
-          "name": "ਪੰਜਾਬੀ"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "Мать историй",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [

@@ -5,68 +5,247 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 81,
+  "total": 82,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/p6hpV62s5VNeRNbtTPcWhI31FhD.jpg",
-      "genre_ids": [],
-      "id": 105415,
-      "origin_country": [],
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 317336,
+      "origin_country": [
+        "RU"
+      ],
       "original_language": "ru",
-      "original_name": "Под Большой медведицей",
-      "overview": "Лиза Арсеньева - глава преуспевающего рекламного агентства. Как и все обычные люди, она побаивается перемен. Но, одновременно, с тайной надеждой ждет их. Она частенько болтает об этом со своей сестрой Дуней. У Дуни хранятся неплохие копии яиц Фаберже, подаренные свекровью на свадьбу. Неожиданно выясняется, что яйца - подлинные. За ними начинается охота. Лиза и Дуня оказываются вовлечены в сложную интригу родственничков и знакомых. Каждый из которых надеется получить миллионное состояние.\n\nПараллельно у Лизы начинают происходить события, которые переворачивают всю ее жизнь. Начинается все с того, что на даче, где Лиза постоянно живет, нежданно-негаданно объявляется сосед. А вместе с соседом Димой - неприятности. Сначала Лиза обнаруживает в гараже труп своей сотрудницы.",
-      "popularity": 0.0193,
-      "poster_path": "/wLM5kJA7VP4rZAUGYJcpyZc71OF.jpg",
-      "first_air_date": "2006-01-01",
-      "name": "Под Большой медведицей",
+      "original_name": "Гордость",
+      "overview": "Алана — талантливый повар-стажёр в столичном ресторане. Девушка сталкивается с требованием отца вернуться домой в Осетию и выйти замуж. Она придумывает план: привезти «неудачного жениха» из Москвы на родину, чтобы отец его отверг. Случайным кандидатом становится Макс — бармен-мечтатель, оставшийся без жилья после ссоры с родителями. Он соглашается участвовать в брачной авантюре, даже не подозревая о последствиях.",
+      "popularity": 0,
+      "poster_path": "/qmE0A675AE54sYBOY8sbvD2k5e0.jpg",
+      "first_air_date": "2026-03-05",
+      "name": "Гордость",
       "vote_average": 0,
       "vote_count": 0,
       "created_by": [],
       "episode_run_time": [],
-      "genres": [],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
       "homepage": "",
-      "in_production": false,
-      "languages": [],
-      "last_air_date": "2006-02-19",
+      "in_production": true,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2026-03-19",
       "last_episode_to_air": {
-        "id": 2329968,
-        "name": "Эпизод 8",
-        "overview": "",
+        "id": 7070925,
+        "name": "4 серия",
+        "overview": "Алана ищет способы выиграть время для себя и Максима: через родственников и знакомых она пытается договориться о небольшой передышке от столичных дел и более долгом пребывании в Осетии. На фоне подготовки к важным семейным встречам и обсуждений будущего пары герои пробуют примерить на себя новую жизнь в горах — с местными традициями, правилами гостеприимства и внимательными соседями, которые замечают каждую мелочь.",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2006-02-19",
-        "episode_number": 8,
-        "episode_type": "finale",
+        "air_date": "2026-03-19",
+        "episode_number": 4,
+        "episode_type": "standard",
         "production_code": "",
-        "runtime": null,
+        "runtime": 25,
         "season_number": 1,
-        "show_id": 105415,
+        "show_id": 317336,
         "still_path": null
       },
-      "next_episode_to_air": null,
+      "next_episode_to_air": {
+        "id": 7070926,
+        "name": "5 серия",
+        "overview": "У Аланиной семьи и у Максима появляются свои ожидания от совместного пребывания в Осетии: кто‑то видит в этом шанс укрепить связи, а кто‑то — возможность быстрее вернуться к привычной жизни. Между делами по дому, разговорами за столом и встречами с родственниками герои узнают о прошлом друг друга больше, чем планировали, и начинают по‑новому смотреть на свои договорённости и границы свободы.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-03-26",
+        "episode_number": 5,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": 25,
+        "season_number": 1,
+        "show_id": 317336,
+        "still_path": null
+      },
       "networks": [],
       "number_of_episodes": 8,
       "number_of_seasons": 1,
-      "production_companies": [],
-      "production_countries": [],
+      "production_companies": [
+        {
+          "id": 274894,
+          "logo_path": "/jIJ1gCcLADZnD2FSO1fN6GGBghI.png",
+          "name": "NMG Studio",
+          "origin_country": "RU"
+        },
+        {
+          "id": 137453,
+          "logo_path": null,
+          "name": "Studio Videoprokat",
+          "origin_country": "RU"
+        },
+        {
+          "id": 224306,
+          "logo_path": "/pPmpNcksSvlnXwEXhokeItskclH.png",
+          "name": "Wink",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
       "seasons": [
         {
-          "air_date": "2006-01-01",
+          "air_date": "2026-03-05",
           "episode_count": 8,
-          "id": 154983,
-          "name": "Season 1",
+          "id": 506629,
+          "name": "Сезон 1",
           "overview": "",
           "poster_path": null,
           "season_number": 1,
           "vote_average": 0
         }
       ],
-      "spoken_languages": [],
-      "status": "Ended",
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Returning Series",
       "tagline": "",
       "type": "Scripted",
-      "release_quality": "",
+      "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3mofKiqQ2x2a2GMtNa6RAFtQNg8.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "id": 245651,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Страх над Невой",
+      "overview": "1967 год. В Ленинграде происходит серия загадочных убийств женщин. Поймать маньяка, оставляющего рядом с жертвами таинственные знаки, поручают опытному майору КГБ Чубину и капитану милиции Фёдорову.\n\nПреступления происходят в ночное время в районе Обводного канала, в самом центре города. Убийца оставляет рядом с жертвами необычные символы, нарисованные углём. Майор Чубин, расследующий дело, уже сталкивался с оккультными убийствами – несколько лет назад он пытался раскрыть религиозную секту, но миссия провалилась, а он сам чуть не погиб. Теперь Чубин живёт со страхом темноты и чувством вины за случайно совершённое убийство. Его напарником становится капитан Фёдоров, бывший постовой, влюблённый в жену своего лучшего друга. Находясь под колоссальным давлением со стороны руководства, они пытаются вычислить маньяка и предотвратить будущие убийства.",
+      "popularity": 1.2363,
+      "poster_path": "/oQjFxWSDYsivylkJ6wGFvhEgwCi.jpg",
+      "first_air_date": "2024-02-06",
+      "name": "Страх над Невой",
+      "vote_average": 6.2,
+      "vote_count": 6,
+      "created_by": [],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "in_production": true,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2024-02-06",
+      "last_episode_to_air": {
+        "id": 5131583,
+        "name": "Эпизод 9",
+        "overview": "Сыщики выясняют, что у маньяка, пытавшегося оживить умершего профессора, был сообщник... Допрашивая пойманного убийцу, Чубин понимает, что они опять взяли не того, а настоящий маньяк - это человек, напрямую связанный с его прошлым.",
+        "vote_average": 8,
+        "vote_count": 2,
+        "air_date": "2024-02-06",
+        "episode_number": 9,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 50,
+        "season_number": 1,
+        "show_id": 245651,
+        "still_path": "/mzyFt8iB6lYC8BGVHGnZcCHLlP2.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 1199,
+          "logo_path": "/9wVcHld7xpIZ5e6CQ3LJyFSiFhz.png",
+          "name": "NTV ",
+          "origin_country": "RU"
+        },
+        {
+          "id": 3923,
+          "logo_path": "/oji1XHaTzRyLaXJoR2EWHizZkJS.png",
+          "name": "ivi",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 9,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 116974,
+          "logo_path": null,
+          "name": "RoEl Studio",
+          "origin_country": "RU"
+        },
+        {
+          "id": 104397,
+          "logo_path": "/1JSyl40s2RAnMn7ywqFcSjpSNxG.png",
+          "name": "NTV",
+          "origin_country": "RU"
+        },
+        {
+          "id": 144130,
+          "logo_path": "/oVMcnEmgzgDmkqTMXAe4Wtxp308.png",
+          "name": "ivi",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2024-02-06",
+          "episode_count": 9,
+          "id": 377792,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/5KwKKVJ0pQS7XnxOhb82dJvZIA6.jpg",
+          "season_number": 1,
+          "vote_average": 8
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Returning Series",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "1080p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
