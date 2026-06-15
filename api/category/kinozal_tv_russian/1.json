@@ -5,37 +5,52 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 82,
+  "total": 83,
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/6s9NOWYiyu1yCKdHElEpBJDjBBH.jpg",
       "genre_ids": [
-        35,
-        18
+        35
       ],
-      "id": 323249,
+      "id": 293915,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Мой брат - клон",
-      "overview": "Молодой бизнесмен узнаёт, что на его наследство претендует и полицейский Егор — его брат, о котором никто никогда не слышал. Игорь и его мать пытаются разобраться, откуда взялся Егор. Но расследование приводит к неожиданным последствиям: теперь скромный вегетарианец Егор возглавляет мясной холдинг, а амбициозный Игорь делит хрущёвку с мамой брата.",
-      "popularity": 0,
-      "poster_path": "/x7xLioec0MVJtA0yj6Bnck4LLZQ.jpg",
-      "first_air_date": "2025-05-12",
+      "original_name": "Второй брак",
+      "overview": "Арина и Боря безумно счастливы в своих отношениях. Ведь каждый из них уже оставил позади «молочный» брак с проблемами, разбросанными носками, свадебными долгами и прочими ошибками молодости. Теперь они могут быть настоящими и неидеальными, потому что второй брак — это точно про любовь. Пара будет разбираться с переездом, финансовой грамотностью, отпуском мечты, выгоранием и прочими вопросами, чтобы построить идеальные отношения.",
+      "popularity": 0.7141,
+      "poster_path": "/2iFtMocCwh8z50Eu4XYCku4oVND.jpg",
+      "first_air_date": "2025-06-16",
       "softcore": false,
-      "name": "Мой брат - клон",
-      "vote_average": 0,
-      "vote_count": 0,
+      "name": "Второй брак",
+      "vote_average": 8,
+      "vote_count": 3,
       "created_by": [
         {
-          "id": 2282340,
-          "credit_id": "6a100c6d9a330962dcde2313",
-          "name": "Станислав Либин",
-          "original_name": "Станислав Либин",
+          "id": 1391563,
+          "credit_id": "686c1211c55cd072b9103b23",
+          "name": "Тина Канделаки",
+          "original_name": "Тина Канделаки",
+          "gender": 1,
+          "profile_path": "/z33FCWLX9dOoQRikyp0YZjqKpjR.jpg"
+        },
+        {
+          "id": 2399216,
+          "credit_id": "686c1228037b58e41a702efc",
+          "name": "Аркадий Водахов",
+          "original_name": "Аркадий Водахов",
           "gender": 2,
-          "profile_path": null
+          "profile_path": "/t3oJb8eQUbmpDtlfHQKC01m3lHc.jpg"
+        },
+        {
+          "id": 3904247,
+          "credit_id": "686c12436651939fb8702fca",
+          "name": "Марина Разумова",
+          "original_name": "Марина Разумова",
+          "gender": 1,
+          "profile_path": "/u707wJa5vW1jYATereB22NMbZCo.jpg"
         }
       ],
       "episode_run_time": [],
@@ -43,10 +58,6 @@
         {
           "id": 35,
           "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
         }
       ],
       "homepage": "",
@@ -54,41 +65,54 @@
       "languages": [
         "ru"
       ],
-      "last_air_date": "2025-05-12",
+      "last_air_date": "2025-06-26",
       "last_episode_to_air": {
-        "id": 7301469,
-        "name": "16 серия",
-        "overview": "",
+        "id": 6323603,
+        "name": "Эпизод 20",
+        "overview": "Арина и Боря впервые по-настоящему ссорятся. Не по поводу еды, уборки или ёлок, а по-серьёзному. Вопрос: смогут ли они это пережить или \"второй брак\" окажется последним?",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2025-05-12",
-        "episode_number": 16,
+        "air_date": "2025-06-26",
+        "episode_number": 20,
         "episode_type": "finale",
         "production_code": "",
         "runtime": null,
         "season_number": 1,
-        "show_id": 323249,
+        "show_id": 293915,
+        "still_path": "/d5STqckaZDq7M08SAvojFypel2n.jpg"
+      },
+      "next_episode_to_air": {
+        "id": 7377059,
+        "name": "Эпизод 1",
+        "overview": "Арина и Боря выясняют сколько зарабатывают блогеры и решают начать активно вести свои соцсети.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-06-15",
+        "episode_number": 1,
+        "episode_type": "standard",
+        "production_code": "",
+        "runtime": null,
+        "season_number": 2,
+        "show_id": 293915,
         "still_path": null
       },
-      "next_episode_to_air": null,
       "networks": [
         {
-          "id": 806,
-          "logo_path": "/h3Al1s9eMwBpqrRZgyRIche9Vmd.png",
-          "name": "STS",
+          "id": 1191,
+          "logo_path": "/dj89PnCx2Pt7vAE3Fp7n54vvmOt.png",
+          "name": "TNT",
+          "origin_country": "RU"
+        },
+        {
+          "id": 2859,
+          "logo_path": "/sE6SzJwo3yDXntlBohmHNGxmevq.png",
+          "name": "Premier",
           "origin_country": "RU"
         }
       ],
-      "number_of_episodes": 1,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 299342,
-          "logo_path": null,
-          "name": "«Промоушн Фильм»",
-          "origin_country": ""
-        }
-      ],
+      "number_of_episodes": 32,
+      "number_of_seasons": 2,
+      "production_companies": [],
       "production_countries": [
         {
           "iso_3166_1": "RU",
@@ -97,13 +121,23 @@
       ],
       "seasons": [
         {
-          "air_date": "2025-05-12",
-          "episode_count": 16,
-          "id": 517874,
-          "name": "Season 1",
-          "overview": "Молодой бизнесмен узнаёт, что на наследство претендует и полицейский Егор — его брат, о котором никто никогда не слышал. Игорь и его мать пытаются разобраться, откуда взялся Егор. Но расследование приводит к неожиданным последствиям: теперь скромный вегетарианец Егор возглавляет мясной холдинг, а амбициозный Игорь делит хрущёвку с мамой брата.",
-          "poster_path": "/x7xLioec0MVJtA0yj6Bnck4LLZQ.jpg",
+          "air_date": "2025-06-16",
+          "episode_count": 20,
+          "id": 461078,
+          "name": "Сезон 1",
+          "overview": "Арина и Боря безумно счастливы в своих отношениях. Ведь каждый из них уже оставил позади «молочный» брак с проблемами, разбросанными носками, свадебными долгами и прочими ошибками молодости. Теперь они могут быть настоящими и неидеальными, потому что второй брак — это точно про любовь. Пара будет разбираться с переездом, финансовой грамотностью, отпуском мечты, выгоранием и прочими вопросами, чтобы построить идеальные отношения.",
+          "poster_path": "/2iFtMocCwh8z50Eu4XYCku4oVND.jpg",
           "season_number": 1,
+          "vote_average": 0
+        },
+        {
+          "air_date": "2026-06-15",
+          "episode_count": 12,
+          "id": 521976,
+          "name": "Сезон 2",
+          "overview": "Брак Арины и Бори ждут новые испытания: старый друг девушки, легкий ремонт квартиры, отказ от вредных привычек, совместный бизнес с Ладой и даже неожиданное появление отца Арины. Пара станет еще ближе, дружнее и осознанней, чтобы доказать: построить здоровые отношения со второго раза вполне реально.",
+          "poster_path": "/hC7PWt2x20FVUDbsj3Go351US8m.jpg",
+          "season_number": 2,
           "vote_average": 0
         }
       ],
@@ -115,7 +149,7 @@
         }
       ],
       "status": "Returning Series",
-      "tagline": "",
+      "tagline": "«Основано на реальном счастье»",
       "type": "Scripted",
       "release_quality": "1080p",
       "media_type": "tv",
@@ -2207,113 +2241,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "id": 197035,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Дружная семейка",
-      "overview": "Семья Потыкаевых живёт в Москве в большом доме у Киевского вокзала напротив МИДа. Её глава Александр – работает менеджером в компании, продающей компьютеры. Мама не работает, потому что в семье трое детей: дочке 17 лет, старшему сыну 14, а маленькому Пашке всего 5.",
-      "popularity": 0.5715,
-      "poster_path": "/v5OxMreYCoMkfYgO2sjzgHV8N41.jpg",
-      "first_air_date": "2002-01-01",
-      "softcore": false,
-      "name": "Дружная семейка",
-      "vote_average": 7,
-      "vote_count": 1,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2003-04-08",
-      "last_episode_to_air": {
-        "id": 3649567,
-        "name": "Эпизод 67",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2003-04-08",
-        "episode_number": 67,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 45,
-        "season_number": 1,
-        "show_id": 197035,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 412,
-          "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
-          "name": "Russia-1",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 67,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 190354,
-          "logo_path": null,
-          "name": "Meriot",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2002-01-01",
-          "episode_count": 67,
-          "id": 286660,
-          "name": "Дружная семейка",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/i3b1QQBoOPt10tiU2Ot7qgm8UZU.jpg",
       "genre_ids": [
         9648
@@ -2425,6 +2352,113 @@
       "tagline": "«Не спрашивай, кто за этим стоит»",
       "type": "Miniseries",
       "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 197035,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Дружная семейка",
+      "overview": "Семья Потыкаевых живёт в Москве в большом доме у Киевского вокзала напротив МИДа. Её глава Александр – работает менеджером в компании, продающей компьютеры. Мама не работает, потому что в семье трое детей: дочке 17 лет, старшему сыну 14, а маленькому Пашке всего 5.",
+      "popularity": 0.5715,
+      "poster_path": "/v5OxMreYCoMkfYgO2sjzgHV8N41.jpg",
+      "first_air_date": "2002-01-01",
+      "softcore": false,
+      "name": "Дружная семейка",
+      "vote_average": 7,
+      "vote_count": 1,
+      "created_by": [],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "in_production": false,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2003-04-08",
+      "last_episode_to_air": {
+        "id": 3649567,
+        "name": "Эпизод 67",
+        "overview": "",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2003-04-08",
+        "episode_number": 67,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 45,
+        "season_number": 1,
+        "show_id": 197035,
+        "still_path": null
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 412,
+          "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
+          "name": "Russia-1",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 67,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 190354,
+          "logo_path": null,
+          "name": "Meriot",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2002-01-01",
+          "episode_count": 67,
+          "id": 286660,
+          "name": "Дружная семейка",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
