@@ -1746,66 +1746,86 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fF7higUaFGlfesmrFxRcyKQkt9l.jpg",
+      "backdrop_path": "/qkA2NPLmKLieMIggjC3LtRgEE6S.jpg",
       "genre_ids": [
+        12,
+        18,
         36,
-        18
+        10752
       ],
-      "id": 49125,
-      "title": "Аллонзанфан",
-      "original_language": "it",
-      "original_title": "Allonsanfàn",
-      "overview": "Лидер анархистов Фульвио хочет уйти на покой, так как он стар и устал. Он пытается спрятаться, но его друзья находят его и настаивают на том, чтобы он вернулся к своей деятельности.",
-      "popularity": 0.4895,
-      "poster_path": "/x6TM8RwxlvpYr5loqkXPFDHmZ1Q.jpg",
-      "release_date": "1974-09-06",
-      "softcore": false,
+      "id": 12701,
+      "original_language": "en",
+      "original_title": "Revolution",
+      "overview": "Американский охотник Том Добб меньше всего на свете хотел участвовать в Войне за независимость. Потеряв во время эпидемии жену и всех детей, кроме 14-летнего сына Неда, он полностью замкнулся в себе.  Но когда Нед записался в армию американских колонистов, Том, чтобы быть рядом с сыном, также вступил в ряды повстанцев.  Со временем к нему приходит убеждение, что сражаться за свободу Америки — его долг. Так же считает и богатая аристократка Дейзи, ставшая возлюбленной Тома.  Революционная армия, состоящая из простых фермеров и ремесленников, самоотверженно сражается с прекрасно обученными английскими солдатами. Путь к победе будет долгим и трудным…",
+      "popularity": 1.1794,
+      "poster_path": "/m4LPxSJ8G8KVtySaleJhlTJqKBF.jpg",
+      "release_date": "1985-12-25",
+      "title": "Революция",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 42,
+      "vote_average": 5.338,
+      "vote_count": 120,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 28000000,
       "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
         {
           "id": 36,
           "name": "история"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 10752,
+          "name": "военный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0069690",
+      "imdb_id": "tt0089913",
       "origin_country": [
-        "IT"
+        "US",
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 13559,
+          "id": 500,
+          "logo_path": "/yDDFvMZAEbLGAm90LxzmayEfvE5.png",
+          "name": "Goldcrest",
+          "origin_country": "GB"
+        },
+        {
+          "id": 25967,
           "logo_path": null,
-          "name": "Una Cooperativa Cinematografica",
-          "origin_country": "IT"
+          "name": "Viking Film",
+          "origin_country": "NO"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IT",
-          "name": "Italy"
+          "iso_3166_1": "NO",
+          "name": "Norway"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
-      "revenue": 0,
-      "runtime": 111,
+      "revenue": 358574,
+      "runtime": 126,
       "spoken_languages": [
         {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_historical"

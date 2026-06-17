@@ -5,35 +5,37 @@
   },
   "page": 4,
   "limit": 20,
-  "total": 134,
+  "total": 136,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/4WdrM96kPIK70ncNXFdIDDrM99e.jpg",
+      "backdrop_path": "/tCsYQTkQx7vknDmTw666K1XxAdx.jpg",
       "genre_ids": [
-        10752,
         28,
-        18
+        18,
+        53,
+        80
       ],
-      "id": 672475,
-      "title": "Девятаев",
-      "original_language": "ru",
-      "original_title": "Девятаев",
-      "overview": "Лето 1944 года. Советские войска ведут наступление, но враг еще очень силен. Летчик-истребитель Михаил Девятаев попадает в плен. Ему предстоит сделать выбор - вернуться в небо, продолжив войну на стороне врага, или отправиться в концлагерь на остров Узедом. Отчаянный ас Девятаев выбирает третье - побег. Но с засекреченного острова, где идут испытания немецких крылатых ракет, нельзя убежать. Зато можно улететь - на аэродроме стоит новейший вражеский бомбардировщик с «оружием возмездия» Третьего рейха на борту. Улететь - и совершить самый дерзкий побег в военной истории.",
-      "popularity": 1.2557,
-      "poster_path": "/ixJt4Z9QUXHU1T0EJWhBx7SBf42.jpg",
-      "release_date": "2021-04-29",
+      "id": 348893,
+      "title": "Неоспоримый 4",
+      "original_language": "en",
+      "original_title": "Boyka: Undisputed IV",
+      "overview": "Бойка пробует силы в высшей лиге боев без правил, однако случайная смерть на ринге заставляет его усомниться во всем, во что он верил. Когда он узнает, что жена человека, которого он случайно убил, в беде, Бойка решает принять участие в серии невероятных битв, чтобы освободить ее.",
+      "popularity": 11.0023,
+      "poster_path": "/qAyjIwzPwoeOCDCY6CfDR1yedTI.jpg",
+      "release_date": "2016-08-01",
       "softcore": false,
       "video": false,
-      "vote_average": 5.684,
-      "vote_count": 19,
-      "belongs_to_collection": null,
+      "vote_average": 7.175,
+      "vote_count": 1447,
+      "belongs_to_collection": {
+        "id": 117777,
+        "name": "Неоспоримый (Коллекция)",
+        "poster_path": "/w3ZhplmFRYX6nkQh8mt5Tmc24Vo.jpg",
+        "backdrop_path": "/oJsSJvtkf2xu04OSNZe9tKaynlw.jpg"
+      },
       "budget": 0,
       "genres": [
-        {
-          "id": 10752,
-          "name": "военный"
-        },
         {
           "id": 28,
           "name": "боевик"
@@ -41,32 +43,288 @@
         {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt11892034",
+      "imdb_id": "tt3344680",
+      "origin_country": [
+        "BG",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 34070,
+          "logo_path": null,
+          "name": "Nu Boyana Viburno",
+          "origin_country": "BG"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BG",
+          "name": "Bulgaria"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 63500000,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 707,
+      "title": "007: Вид на убийство",
+      "original_language": "en",
+      "original_title": "A View to a Kill",
+      "overview": "На этот раз агент 007 (Роджер Мур) сражается сразу с двумя преступниками. Одного из них зовут Макс Зорин (Кристофер Уокен - «Сонная лощина»), он продукт генетических исследований нацистов. Его помощница по имени Мэй-Дэй - настоящая экстремалка с безудержной тягой к преступлениям. Макс задумал уничтожить «Силиконовую долину» - центр научно-технических исследований США.",
+      "popularity": 5.0917,
+      "poster_path": "/1Jq92ofG2RMQF5D8bibPSWJWUjQ.jpg",
+      "release_date": "1985-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.247,
+      "vote_count": 2191,
+      "belongs_to_collection": {
+        "id": 645,
+        "name": "Джеймс Бонд (Коллекция)",
+        "poster_path": "/p2fMtkZBd3Vs4IN1Kl9QM4TJEBC.jpg",
+        "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
+      },
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0090264",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 7576,
+          "logo_path": "/oYcUi1byZ312Z3xiz5ojz9RQLND.png",
+          "name": "EON Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 60,
+          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+          "name": "United Artists",
+          "origin_country": "US"
+        },
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 152427960,
+      "runtime": 131,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Неужели Джеймс Бонд, наконец встретил достойного соперника?»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rcYoFja1KidJlTzQCHoxLHaw1AO.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 450932,
+      "title": "Вооружённый ответ",
+      "original_language": "en",
+      "original_title": "Armed Response",
+      "overview": "Команда оперативников оказывается в ловушке внутри воинской части. Без того удушающую атмосферу накаляет тот факт, что в этом самом здании уже погибла команда их предшественников.",
+      "popularity": 1.1465,
+      "poster_path": "/zOPEQ474Z4qih923b8cVOkLuUlR.jpg",
+      "release_date": "2017-08-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.159,
+      "vote_count": 182,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4557208",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 10339,
+          "logo_path": "/dU7bjpBabgAd6R8INdVAyCjQ70w.png",
+          "name": "WWE Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 76992,
+          "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
+          "name": "Saban Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 88645,
+          "logo_path": "/tvN8hY2RKdiFepU7jJ51JDVq5bV.png",
+          "name": "Erebus Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 96295,
+          "logo_path": null,
+          "name": "Maandi Films",
+          "origin_country": ""
+        },
+        {
+          "id": 6626,
+          "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+          "name": "Voltage Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 52036,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5XH1ez6nRN5k3rqoZJbjSw8W7o5.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        18
+      ],
+      "id": 565469,
+      "title": "Семь пар нечистых",
+      "original_language": "ru",
+      "original_title": "Семь пар нечистых",
+      "overview": "1941 г. Бунт в открытом море — это всегда страшно. Ненависть заключенных и охранников друг к другу копится десятилетиями. Эта ненависть переполняет людей. Бунт заключенных на корабле страшен вдвойне. Слишком много ненависти на ограниченном пространстве. Но все меняется, когда появляется общий враг.",
+      "popularity": 0.4974,
+      "poster_path": "/5WADkYUkGJ8CUH4ITWgNQMY6fSd.jpg",
+      "release_date": "2018-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt10505100",
       "origin_country": [
         "RU"
       ],
       "production_companies": [
-        {
-          "id": 1038,
-          "logo_path": "/o62j8ZNXmRTrq6ThviFWiL9zb8J.png",
-          "name": "Bazelevs",
-          "origin_country": "RU"
-        },
-        {
-          "id": 130614,
-          "logo_path": "/fgwCU6TwNPlwXGiK0sL7Ak2vhV7.png",
-          "name": "ON Media",
-          "origin_country": "RU"
-        },
-        {
-          "id": 114349,
-          "logo_path": null,
-          "name": "VoenFilm",
-          "origin_country": "RU"
-        },
         {
           "id": 76049,
           "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
@@ -74,9 +332,9 @@
           "origin_country": "RU"
         },
         {
-          "id": 294156,
-          "logo_path": "/9tK9On0RmJB6Zg4A2DFjQZxFaSp.png",
-          "name": "KION",
+          "id": 24346,
+          "logo_path": "/bHux65ez7JBVT0QSqUkkvjTY3ZE.png",
+          "name": "ARK-Film",
           "origin_country": "RU"
         }
       ],
@@ -87,7 +345,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 118,
+      "runtime": 87,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -96,7 +354,85 @@
         }
       ],
       "status": "Released",
-      "tagline": "Уйдем по небу!",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10752,
+        10751
+      ],
+      "id": 1454152,
+      "title": "Каруза",
+      "original_language": "ru",
+      "original_title": "Каруза",
+      "overview": "1939 год. Мите Васильеву дарят щенка. Его мать недовольна подарком из-за того, что питомец протяжно воет, за что получил кличку Карузо. Спустя несколько лет начинается Великая Отечественная война и блокада Ленинграда. Все, в том числе семья Мити, голодают, а пес, почуяв страдания хозяев, отправляется за добычей через минное поле. Через какое-то время Митя начинает ходить «на ту сторону» вместе с псом. Но однажды они попадаются на глаза немецким патрульным.",
+      "popularity": 0.5454,
+      "poster_path": "/rv2aiUtGkmnHt3m1ldAyYtEzbuN.jpg",
+      "release_date": "2025-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32829017",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 221693,
+          "logo_path": null,
+          "name": "Mirfilm",
+          "origin_country": "RU"
+        },
+        {
+          "id": 76049,
+          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+          "name": "Cinema Foundation of Russia",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -1042,458 +1378,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
-      "id": 338970,
-      "original_language": "en",
-      "original_title": "Tomb Raider",
-      "overview": "Лара Крофт - весьма самостоятельная дочь эксцентричного искателя приключений, который пропал, едва она стала подростком. Теперь ей двадцать один, она бесцельно проживает свою жизнь, курьером рассекая на байке по забитым улицам восточного Лондона, а ее заработка едва хватает на оплату квартиры и занятий в колледже. Решительно настроенная пробиться сама, она отказывается брать на себя руководство глобальной империей отца, столь же категорично отвергая мысль о том, что он действительно пропал. Слыша советы о том, что ей нужно смириться с этим фактом и жить дальше после семи лет бесплодных поисков, Лара уже и сама не понимает, что же заставляет ее распутывать обстоятельства его таинственной смерти.",
-      "popularity": 8.1244,
-      "poster_path": "/axjw5ouuJtHfFeHPPho9vGGMg2e.jpg",
-      "release_date": "2018-03-05",
-      "title": "Tomb Raider: Лара Крофт",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 8184,
-      "belongs_to_collection": null,
-      "budget": 94000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1365519",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 10038,
-          "logo_path": "/nCueXKwYIEXrZ5ofqSJBO1YcmRr.png",
-          "name": "Square Enix",
-          "origin_country": "JP"
-        },
-        {
-          "id": 3281,
-          "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
-          "name": "GK Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 21,
-          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
-          "name": "Metro-Goldwyn-Mayer",
-          "origin_country": "US"
-        },
-        {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 274650803,
-      "runtime": 120,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Её легенда начинается»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tCsYQTkQx7vknDmTw666K1XxAdx.jpg",
-      "genre_ids": [
-        28,
-        18,
-        53,
-        80
-      ],
-      "id": 348893,
-      "title": "Неоспоримый 4",
-      "original_language": "en",
-      "original_title": "Boyka: Undisputed IV",
-      "overview": "Бойка пробует силы в высшей лиге боев без правил, однако случайная смерть на ринге заставляет его усомниться во всем, во что он верил. Когда он узнает, что жена человека, которого он случайно убил, в беде, Бойка решает принять участие в серии невероятных битв, чтобы освободить ее.",
-      "popularity": 11.0023,
-      "poster_path": "/qAyjIwzPwoeOCDCY6CfDR1yedTI.jpg",
-      "release_date": "2016-08-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.175,
-      "vote_count": 1447,
-      "belongs_to_collection": {
-        "id": 117777,
-        "name": "Неоспоримый (Коллекция)",
-        "poster_path": "/w3ZhplmFRYX6nkQh8mt5Tmc24Vo.jpg",
-        "backdrop_path": "/oJsSJvtkf2xu04OSNZe9tKaynlw.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3344680",
-      "origin_country": [
-        "BG",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 34070,
-          "logo_path": null,
-          "name": "Nu Boyana Viburno",
-          "origin_country": "BG"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BG",
-          "name": "Bulgaria"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 63500000,
-      "runtime": 86,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg",
-      "genre_ids": [
-        12,
-        28,
-        53
-      ],
-      "id": 707,
-      "title": "007: Вид на убийство",
-      "original_language": "en",
-      "original_title": "A View to a Kill",
-      "overview": "На этот раз агент 007 (Роджер Мур) сражается сразу с двумя преступниками. Одного из них зовут Макс Зорин (Кристофер Уокен - «Сонная лощина»), он продукт генетических исследований нацистов. Его помощница по имени Мэй-Дэй - настоящая экстремалка с безудержной тягой к преступлениям. Макс задумал уничтожить «Силиконовую долину» - центр научно-технических исследований США.",
-      "popularity": 5.0917,
-      "poster_path": "/1Jq92ofG2RMQF5D8bibPSWJWUjQ.jpg",
-      "release_date": "1985-05-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.247,
-      "vote_count": 2191,
-      "belongs_to_collection": {
-        "id": 645,
-        "name": "Джеймс Бонд (Коллекция)",
-        "poster_path": "/p2fMtkZBd3Vs4IN1Kl9QM4TJEBC.jpg",
-        "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
-      },
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0090264",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 7576,
-          "logo_path": "/oYcUi1byZ312Z3xiz5ojz9RQLND.png",
-          "name": "EON Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 60,
-          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
-          "name": "United Artists",
-          "origin_country": "US"
-        },
-        {
-          "id": 21,
-          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
-          "name": "Metro-Goldwyn-Mayer",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 152427960,
-      "runtime": 131,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Неужели Джеймс Бонд, наконец встретил достойного соперника?»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rcYoFja1KidJlTzQCHoxLHaw1AO.jpg",
-      "genre_ids": [
-        28,
-        27,
-        53
-      ],
-      "id": 450932,
-      "title": "Вооружённый ответ",
-      "original_language": "en",
-      "original_title": "Armed Response",
-      "overview": "Команда оперативников оказывается в ловушке внутри воинской части. Без того удушающую атмосферу накаляет тот факт, что в этом самом здании уже погибла команда их предшественников.",
-      "popularity": 1.1465,
-      "poster_path": "/zOPEQ474Z4qih923b8cVOkLuUlR.jpg",
-      "release_date": "2017-08-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.159,
-      "vote_count": 182,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt4557208",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 10339,
-          "logo_path": "/dU7bjpBabgAd6R8INdVAyCjQ70w.png",
-          "name": "WWE Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 76992,
-          "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
-          "name": "Saban Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 88645,
-          "logo_path": "/tvN8hY2RKdiFepU7jJ51JDVq5bV.png",
-          "name": "Erebus Pictures",
-          "origin_country": "GB"
-        },
-        {
-          "id": 96295,
-          "logo_path": null,
-          "name": "Maandi Films",
-          "origin_country": ""
-        },
-        {
-          "id": 6626,
-          "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
-          "name": "Voltage Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 52036,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5XH1ez6nRN5k3rqoZJbjSw8W7o5.jpg",
-      "genre_ids": [
-        28,
-        10752,
-        18
-      ],
-      "id": 565469,
-      "title": "Семь пар нечистых",
-      "original_language": "ru",
-      "original_title": "Семь пар нечистых",
-      "overview": "1941 г. Бунт в открытом море — это всегда страшно. Ненависть заключенных и охранников друг к другу копится десятилетиями. Эта ненависть переполняет людей. Бунт заключенных на корабле страшен вдвойне. Слишком много ненависти на ограниченном пространстве. Но все меняется, когда появляется общий враг.",
-      "popularity": 0.4974,
-      "poster_path": "/5WADkYUkGJ8CUH4ITWgNQMY6fSd.jpg",
-      "release_date": "2018-12-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt10505100",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 76049,
-          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
-          "name": "Cinema Foundation of Russia",
-          "origin_country": "RU"
-        },
-        {
-          "id": 24346,
-          "logo_path": "/bHux65ez7JBVT0QSqUkkvjTY3ZE.png",
-          "name": "ARK-Film",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 87,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/nUMclZJRRwREfeP8liJ7LOddjnY.jpg",
       "genre_ids": [
         28,
@@ -1697,6 +1581,131 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg",
+      "genre_ids": [
+        18,
+        28,
+        80
+      ],
+      "id": 7347,
+      "title": "Элитный отряд",
+      "original_language": "pt",
+      "original_title": "Tropa de Elite",
+      "overview": "В 1997 году, перед визитом Папы Римского в Рио де-Жанейро, капитан Насцименто из БОПО (Батальона особых полицейских операций) получает задание устранить опасность, исходящую от наркоторговцев, действующих в опасных трущобах поблизости от резиденции Папы. Капитан Насцименто ищет человека, способного заменить его, так как жена капитана беременна, и он собирается оставить БОПО и стать наставником новобранцев. Тем временем, два друга-идеалиста Нето и Матиас начинают службу в военной полиции, рассчитывая стать честными полицейскими и бороться с криминалом. Однако они сталкиваются в военной полиции с коррупцией, недостатком профессионализма и бюрократическим идиотизмом. После серьёзного инцидента в Моро да Бабилония они решают вступить в ряды БОПО.",
+      "popularity": 4.9478,
+      "poster_path": "/8wps9Km34FOOps0tpDe3Jh36Rsc.jpg",
+      "release_date": "2007-10-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.06,
+      "vote_count": 2712,
+      "belongs_to_collection": {
+        "id": 119581,
+        "name": "Элитный отряд (Коллекция)",
+        "poster_path": "/yMiTQXAHJdZIWb56UGXVqbtZ75d.jpg",
+        "backdrop_path": "/nNUFlXdj8JIV6HnjVS58r0qCvE7.jpg"
+      },
+      "budget": 4000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0861739",
+      "origin_country": [
+        "BR"
+      ],
+      "production_companies": [
+        {
+          "id": 47046,
+          "logo_path": "/knYFwgHhMHhDrt7SRHqnQlqlc4R.png",
+          "name": "Universal Pictures do Brasil",
+          "origin_country": "BR"
+        },
+        {
+          "id": 308,
+          "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+          "name": "The Weinstein Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 2427,
+          "logo_path": null,
+          "name": "Zazen Produções",
+          "origin_country": "BR"
+        },
+        {
+          "id": 2430,
+          "logo_path": null,
+          "name": "Estúdios Mega",
+          "origin_country": "BR"
+        },
+        {
+          "id": 2432,
+          "logo_path": "/yxpvByZlaC9XrLM5tFEtjh661Ep.png",
+          "name": "Quanta Centro de Produções Cinematográficas",
+          "origin_country": "BR"
+        },
+        {
+          "id": 10187,
+          "logo_path": null,
+          "name": "Costa Films",
+          "origin_country": "AR"
+        },
+        {
+          "id": 47043,
+          "logo_path": null,
+          "name": "Posto 9",
+          "origin_country": ""
+        },
+        {
+          "id": 47044,
+          "logo_path": null,
+          "name": "Feijão Filmes",
+          "origin_country": "BR"
+        },
+        {
+          "id": 2433,
+          "logo_path": "/fVqsWV3nnSBKbT9krbWrdcORWRu.png",
+          "name": "Petrobras",
+          "origin_country": "BR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BR",
+          "name": "Brazil"
+        }
+      ],
+      "revenue": 14759148,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_action"
