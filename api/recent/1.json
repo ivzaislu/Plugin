@@ -1,86 +1,62 @@
 {
   "page": 1,
   "limit": 20,
-  "total": 253,
+  "total": 257,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/xIdshPSkYOPOwE3KZ54VM9LEsvM.jpg",
+      "backdrop_path": "/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
       "genre_ids": [
-        12,
-        10751,
-        80
+        10749,
+        18
       ],
-      "id": 1219542,
-      "title": "Три сыщика: Проклятие Острова мёртвых",
-      "original_language": "de",
-      "original_title": "Die drei ??? – Toteninsel",
-      "overview": "Летние каникулы мечты отменяются! Юстус, Питер и Боб собирались в беззаботный дорожный путешествие, но вместо этого перешли дорогу могущественному тайному ордену. Идя по следу преступников, юные детективы оказываются на Макатао зловещем вулканическом острове, который местные прозвали Островом мёртвых. Смогут ли Три сыщика разгадать тайну древнего проклятия и выбраться из огненной ловушки живыми?",
-      "popularity": 1.3292,
-      "poster_path": "/cQy8PqmhwRKuSmyb9eFdUe55B9V.jpg",
-      "release_date": "2026-01-22",
+      "id": 1477317,
+      "title": "Твоя вина: Лондон",
+      "original_language": "en",
+      "original_title": "Your Fault: London",
+      "overview": "Ноа уезжает в Оксфорд, чтобы продолжить учёбу, а Ник погружается в работу. В их жизни появляются новые люди, что пробуждает неожиданные эмоции и ревность. Доверие подвергается испытаниям, а отношения, которые казались нерушимыми, начинают давать трещину.  Оказавшись на распутье, Ноа и Ник должны сделать выбор: бороться за любовь, которая их объединила, или рискнуть потерять её навсегда",
+      "popularity": 115.1238,
+      "poster_path": "/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+      "release_date": "2026-06-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7,
-      "vote_count": 18,
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xGPb3wI8lhBxAvUbIM2hRtm8S6b.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 1171145,
-      "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Детектив Лу Любник выслеживает похитителя драгоценностей и придерживается правил «Преступления 101» - строгого набора рекомендаций для идеального ограбления.",
-      "popularity": 38.9362,
-      "poster_path": "/iGQTevT976QrQZ8te1SdtDojubA.jpg",
-      "release_date": "2026-02-11",
-      "title": "Ограбление в Лос-Анджелесе",
-      "video": false,
-      "vote_average": 6.992,
-      "vote_count": 126,
-      "belongs_to_collection": null,
-      "budget": 90000000,
+      "vote_average": 7.8,
+      "vote_count": 37,
+      "belongs_to_collection": {
+        "id": 1477387,
+        "name": "Коллекция фильмов \"Вина\"",
+        "poster_path": "/adu1IOlleVSh3lEYnUfw7eWYJHD.jpg",
+        "backdrop_path": "/vlG4g8WHEZamSOSmMdgenoeF7Zz.jpg"
+      },
+      "budget": 0,
       "genres": [
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 10749,
+          "name": "мелодрама"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 18,
+          "name": "драма"
         }
       ],
-      "homepage": "https://www.sonypictures.co.uk/movies/crime-101",
-      "imdb_id": "tt32430579",
+      "homepage": "",
+      "imdb_id": "tt36958376",
       "origin_country": [
-        "GB"
+        "ES",
+        "GB",
+        "US"
       ],
       "production_companies": [
         {
-          "id": 10163,
-          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
-          "name": "Working Title Films",
-          "origin_country": "GB"
+          "id": 32485,
+          "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+          "name": "Pokeepsie Films",
+          "origin_country": "ES"
         },
         {
-          "id": 122772,
-          "logo_path": null,
-          "name": "The Story Factory",
-          "origin_country": "US"
-        },
-        {
-          "id": 23949,
-          "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
-          "name": "RAW",
+          "id": 84988,
+          "logo_path": "/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png",
+          "name": "42",
           "origin_country": "GB"
         },
         {
@@ -88,15 +64,13 @@
           "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
           "name": "Amazon MGM Studios",
           "origin_country": "US"
-        },
-        {
-          "id": 183787,
-          "logo_path": "/8G6CbTenzORJdoep1AaghtSEQrY.png",
-          "name": "Wild State",
-          "origin_country": "US"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        },
         {
           "iso_3166_1": "GB",
           "name": "United Kingdom"
@@ -106,8 +80,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 59128962,
-      "runtime": 141,
+      "revenue": 0,
+      "runtime": 120,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -116,7 +90,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Все они связаны одним ограблением»",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -394,6 +368,32 @@
     },
     {
       "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        12,
+        10751
+      ],
+      "id": 1446942,
+      "title": "Моя собака – космонавт",
+      "original_language": "ru",
+      "original_title": "Моя собака – космонавт",
+      "overview": "1960 год. В городке у космодрома Байконур, где каждый запуск ракеты озаряет небо мечтами, живёт десятилетний Миша — мальчик со светлой головой, полной космических фантазий. В свой день рождения Миша находит собаку Белку, которая предопределит не только его судьбу, но и напишет новую страницу в истории освоения космоса.",
+      "popularity": 0.2049,
+      "poster_path": "/mUjRsFMRCHP5xEzf5LwSsQBp3QI.jpg",
+      "release_date": "2026-04-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/aLw0jnLpvYHfB8BTwzj9RBRp0qI.jpg",
       "genre_ids": [
         35,
@@ -458,32 +458,6 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        35,
-        12,
-        10751
-      ],
-      "id": 1446942,
-      "title": "Моя собака – космонавт",
-      "original_language": "ru",
-      "original_title": "Моя собака – космонавт",
-      "overview": "1960 год. В городке у космодрома Байконур, где каждый запуск ракеты озаряет небо мечтами, живёт десятилетний Миша — мальчик со светлой головой, полной космических фантазий. В свой день рождения Миша находит собаку Белку, которая предопределит не только его судьбу, но и напишет новую страницу в истории освоения космоса.",
-      "popularity": 0.2049,
-      "poster_path": "/mUjRsFMRCHP5xEzf5LwSsQBp3QI.jpg",
-      "release_date": "2026-04-09",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -729,61 +703,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/8p0ox5ZB4JMeLg3iacVYmnDNcEd.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1688177,
-      "title": "Враг внутри",
-      "original_language": "en",
-      "original_title": "An Enemy Within",
-      "overview": "Свадебное торжество Калеба Уингейта превращается в кошмар, когда наемный убийца по прозвищу Волк ставит ему ультиматум. Калеб должен за несколько часов вычислить, кто из близких является скрытым врагом и сделать невозможный выбор между жизнью возлюбленной и ее отца.",
-      "popularity": 7.5833,
-      "poster_path": "/r7IaQDH6kbeVKxtJjH25QgSnh1U.jpg",
-      "release_date": "2025-10-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 3,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt9788706",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 87,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg",
       "genre_ids": [
         35
@@ -974,6 +893,61 @@
           "english_name": "German",
           "iso_639_1": "de",
           "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8p0ox5ZB4JMeLg3iacVYmnDNcEd.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1688177,
+      "title": "Враг внутри",
+      "original_language": "en",
+      "original_title": "An Enemy Within",
+      "overview": "Свадебное торжество Калеба Уингейта превращается в кошмар, когда наемный убийца по прозвищу Волк ставит ему ультиматум. Калеб должен за несколько часов вычислить, кто из близких является скрытым врагом и сделать невозможный выбор между жизнью возлюбленной и ее отца.",
+      "popularity": 7.5833,
+      "poster_path": "/r7IaQDH6kbeVKxtJjH25QgSnh1U.jpg",
+      "release_date": "2025-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 3,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt9788706",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 87,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -1231,73 +1205,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "id": 1317448,
-      "title": "Эта страна не для одиноких",
-      "original_language": "it",
-      "original_title": "Non è un paese per single",
-      "overview": "В живописном тосканском городке Бельведер, обладающем непередаваемым очарованием, живет Элиза - молодая женщина, не склонная к романтическим увлечениям. Её размеренная жизнь, наполненная повседневными заботами и привычной рутиной, кардинально меняется, когда в город возвращается её друг детства. Это событие не только будит воспоминания о прошлых чувствах, но и приносит с собой неожиданные испытания. Элизе предстоит столкнуться с болезненными моментами и непредсказуемыми эмоциями, которые она пыталась оставить позади. Теперь ей необходимо разобраться в своих чувствах и принять непростые решения, которые способны изменить её будущее. Возвращение друга заставляет Элизу вновь оценить свои приоритеты и взглянуть на жизнь по-иному. Этот путь полон внутренних конфликтов и поисков себя, что делает её стремление к настоящему счастью непростым, но наполненным важными открытиями.",
-      "popularity": 18.7021,
-      "poster_path": "/3BsaBkOalMIRMwNE6OxFUGqrnEB.jpg",
-      "release_date": "2026-05-08",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.746,
-      "vote_count": 61,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34906817",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 1429,
-          "logo_path": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
-          "name": "Italian International Film",
-          "origin_country": "IT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/az1Okg0lODJSmGbk0nRxu2Ut0ol.jpg",
       "genre_ids": [
         18,
@@ -1370,6 +1277,73 @@
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1317448,
+      "title": "Эта страна не для одиноких",
+      "original_language": "it",
+      "original_title": "Non è un paese per single",
+      "overview": "В живописном тосканском городке Бельведер, обладающем непередаваемым очарованием, живет Элиза - молодая женщина, не склонная к романтическим увлечениям. Её размеренная жизнь, наполненная повседневными заботами и привычной рутиной, кардинально меняется, когда в город возвращается её друг детства. Это событие не только будит воспоминания о прошлых чувствах, но и приносит с собой неожиданные испытания. Элизе предстоит столкнуться с болезненными моментами и непредсказуемыми эмоциями, которые она пыталась оставить позади. Теперь ей необходимо разобраться в своих чувствах и принять непростые решения, которые способны изменить её будущее. Возвращение друга заставляет Элизу вновь оценить свои приоритеты и взглянуть на жизнь по-иному. Этот путь полон внутренних конфликтов и поисков себя, что делает её стремление к настоящему счастью непростым, но наполненным важными открытиями.",
+      "popularity": 18.7021,
+      "poster_path": "/3BsaBkOalMIRMwNE6OxFUGqrnEB.jpg",
+      "release_date": "2026-05-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.746,
+      "vote_count": 61,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34906817",
+      "origin_country": [
+        "IT"
+      ],
+      "production_companies": [
+        {
+          "id": 1429,
+          "logo_path": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+          "name": "Italian International Film",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 103,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
         }
       ],
       "status": "Released",
@@ -1532,6 +1506,79 @@
       ],
       "revenue": 0,
       "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cfV68tSyuTbXJ3NRnILoj5JU2sR.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1478052,
+      "title": "Балерина-убийца",
+      "original_language": "en",
+      "original_title": "Ballerina Assassin",
+      "overview": "Профессиональная киллерша вынуждена записаться в балетную школу, чтобы выполнить особо важное задание. После того, как тайную организацию, на которую она работала, уничтожают, девушке приходится самостоятельно искать виновных. Продвигаясь всё глубже в мир балета, она пытается разоблачить предателя и уничтожить преступный синдикат, разрушивший её жизнь.",
+      "popularity": 0.681,
+      "poster_path": "/xZXHG1FoeDL54MqnxtamDXAUGih.jpg",
+      "release_date": "2025-05-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 12,
+      "belongs_to_collection": null,
+      "budget": 100000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt35875787",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 261803,
+          "logo_path": null,
+          "name": "Vermicious Knid Entertainment",
+          "origin_country": ""
+        },
+        {
+          "id": 1311,
+          "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+          "name": "The Asylum",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
       "spoken_languages": [
         {
           "english_name": "English",

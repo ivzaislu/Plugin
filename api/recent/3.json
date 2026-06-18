@@ -1,64 +1,95 @@
 {
   "page": 3,
   "limit": 20,
-  "total": 253,
+  "total": 257,
   "items": [
     {
       "adult": false,
       "backdrop_path": null,
       "genre_ids": [
-        27,
-        53
+        18
       ],
-      "id": 1528625,
-      "original_language": "en",
-      "original_title": "The Grieving",
-      "overview": "После смерти отца Миа приезжает в его дом, в котором вскоре начинает твориться нечто необъяснимое. После того, как она открывает урну с прахом, чтобы положить туда обручальное кольцо, сверхъестественные явления усиливаются. В поисках помощи она обращается к опытному медиуму.",
-      "popularity": 0.5728,
-      "poster_path": "/fxcRbARtthrwelaGOjIZd1ZB93j.jpg",
-      "release_date": "2026-02-12",
-      "title": "Верни меня из мёртвых",
+      "id": 1247653,
+      "title": "Белый пароход",
+      "original_language": "ru",
+      "original_title": "Белый пароход",
+      "overview": "История любви якутской учительницы и русского директора школы, которая разворачивается на фоне перестройки, на стыке эпох, когда якутскому народу необходимо заново собрать представление о своей истории и месте в ней.",
+      "popularity": 0.0563,
+      "poster_path": "/uhROgFk1q16ZB4QgcysEK4ID5aw.jpg",
+      "release_date": "2025-06-19",
+      "softcore": false,
       "video": false,
-      "vote_average": 4,
-      "vote_count": 1,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt32270641",
+      "imdb_id": "tt37166296",
       "origin_country": [
-        "IT"
+        "RU",
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 270820,
+          "id": 103821,
           "logo_path": null,
-          "name": "T3 Directors S.r.l.",
-          "origin_country": ""
+          "name": "Saydam Baryl",
+          "origin_country": "RU"
+        },
+        {
+          "id": 125613,
+          "logo_path": "/4igxnZjJeSStLiMWf7xDCEaJWUN.png",
+          "name": "Kinoprime Foundation",
+          "origin_country": "RU"
+        },
+        {
+          "id": 214914,
+          "logo_path": null,
+          "name": "Studio Otkrytie",
+          "origin_country": "RU"
+        },
+        {
+          "id": 159401,
+          "logo_path": null,
+          "name": "Limitless Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 220156,
+          "logo_path": null,
+          "name": "Mimesis",
+          "origin_country": "RU"
+        },
+        {
+          "id": 15755,
+          "logo_path": "/cZDbkvJPOnzHlmu2CDx05DcEnaf.png",
+          "name": "Ministry of Culture of the Russian Federation",
+          "origin_country": "RU"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IT",
-          "name": "Italy"
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
       "revenue": 0,
-      "runtime": 95,
+      "runtime": 97,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
@@ -625,103 +656,6 @@
       ],
       "status": "Released",
       "tagline": "«Забыто, но не исчезло»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        18
-      ],
-      "id": 1247653,
-      "title": "Белый пароход",
-      "original_language": "ru",
-      "original_title": "Белый пароход",
-      "overview": "История любви якутской учительницы и русского директора школы, которая разворачивается на фоне перестройки, на стыке эпох, когда якутскому народу необходимо заново собрать представление о своей истории и месте в ней.",
-      "popularity": 0.0563,
-      "poster_path": "/uhROgFk1q16ZB4QgcysEK4ID5aw.jpg",
-      "release_date": "2025-06-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt37166296",
-      "origin_country": [
-        "RU",
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 103821,
-          "logo_path": null,
-          "name": "Saydam Baryl",
-          "origin_country": "RU"
-        },
-        {
-          "id": 125613,
-          "logo_path": "/4igxnZjJeSStLiMWf7xDCEaJWUN.png",
-          "name": "Kinoprime Foundation",
-          "origin_country": "RU"
-        },
-        {
-          "id": 214914,
-          "logo_path": null,
-          "name": "Studio Otkrytie",
-          "origin_country": "RU"
-        },
-        {
-          "id": 159401,
-          "logo_path": null,
-          "name": "Limitless Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 220156,
-          "logo_path": null,
-          "name": "Mimesis",
-          "origin_country": "RU"
-        },
-        {
-          "id": 15755,
-          "logo_path": "/cZDbkvJPOnzHlmu2CDx05DcEnaf.png",
-          "name": "Ministry of Culture of the Russian Federation",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -1327,6 +1261,95 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/gEHDCtR9PNZvLG70sFBYJCFznRY.jpg",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "id": 1368166,
+      "original_language": "en",
+      "original_title": "The Housemaid",
+      "overview": "Милли мечтает начать жизнь с чистого листа и с радостью принимает работу горничной в роскошном особняке семьи Винчестер. Но за закрытыми дверями и странными правилами скрывается нечто зловещее. Чем ближе Милли подбирается к шокирующей разгадке, тем очевиднее становится: её собственные тайны тоже не останутся в тени.",
+      "popularity": 226.366,
+      "poster_path": "/l9G0cHotnQRYJNJSBNdMjfwb5Fd.jpg",
+      "release_date": "2025-12-18",
+      "title": "Горничная",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 617,
+      "belongs_to_collection": {
+        "id": 1611146,
+        "name": "The Housemaid Collection",
+        "poster_path": "/nzfd4GSmANTyJVVryteFU3Xjuje.jpg",
+        "backdrop_path": "/lu7VARBXX1B5XjwYh3KhcV7WlGW.jpg"
+      },
+      "budget": 35000000,
+      "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt27543632",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 221429,
+          "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+          "name": "Media Capital Technologies",
+          "origin_country": "US"
+        },
+        {
+          "id": 198785,
+          "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
+          "name": "Hidden Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 284257,
+          "logo_path": null,
+          "name": "Pretty Dangerous Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 315700000,
+      "runtime": 131,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«У каждого есть свой секрет»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/4JwThVCKvaUITU9QYUhRaabNM1Y.jpg",
       "genre_ids": [
         35,
@@ -1517,95 +1540,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/gEHDCtR9PNZvLG70sFBYJCFznRY.jpg",
-      "genre_ids": [
-        9648,
-        53
-      ],
-      "id": 1368166,
-      "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "Милли мечтает начать жизнь с чистого листа и с радостью принимает работу горничной в роскошном особняке семьи Винчестер. Но за закрытыми дверями и странными правилами скрывается нечто зловещее. Чем ближе Милли подбирается к шокирующей разгадке, тем очевиднее становится: её собственные тайны тоже не останутся в тени.",
-      "popularity": 226.366,
-      "poster_path": "/l9G0cHotnQRYJNJSBNdMjfwb5Fd.jpg",
-      "release_date": "2025-12-18",
-      "title": "Горничная",
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 617,
-      "belongs_to_collection": {
-        "id": 1611146,
-        "name": "The Housemaid Collection",
-        "poster_path": "/nzfd4GSmANTyJVVryteFU3Xjuje.jpg",
-        "backdrop_path": "/lu7VARBXX1B5XjwYh3KhcV7WlGW.jpg"
-      },
-      "budget": 35000000,
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27543632",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 221429,
-          "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-          "name": "Media Capital Technologies",
-          "origin_country": "US"
-        },
-        {
-          "id": 198785,
-          "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
-          "name": "Hidden Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 284257,
-          "logo_path": null,
-          "name": "Pretty Dangerous Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 315700000,
-      "runtime": 131,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«У каждого есть свой секрет»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/tsr2bliRfVD6kFvG2d5L6DVrxGF.jpg",
       "genre_ids": [
         35,
@@ -1736,6 +1670,79 @@
           "name": "Türkçe"
         }
       ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1360708,
+      "title": "Давай любить",
+      "original_language": "en",
+      "original_title": "Let's Love",
+      "overview": "Однажды сценарист Найджел, режиссер Андреа и актеры Джексон и Джесс сняли фильм, который сделал их знаменитыми, но с тех пор никто из героев так и не смог достичь новых вершин. Спустя десять лет они приезжают в Уэльс на фанатский фестиваль, однако там оказывается, что брак Джексона и Андреа трещит по швам, а Найджел и Джесс до сих пор пытаются не говорить о чувствах, которые много лет прятали. Когда мероприятие внезапно срывается из-за ошибки организаторов, герои решают снять продолжение своего фильма, но постепенно понимают, что им нужно разобраться не только с новым сценарием, но и с собственной жизнью.",
+      "popularity": 2.6343,
+      "poster_path": "/oIBCo9NCFTXe1v49DTUHlYXcQx4.jpg",
+      "release_date": "2026-06-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": null,
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 244148,
+          "logo_path": null,
+          "name": "Boudica Entertainment",
+          "origin_country": ""
+        },
+        {
+          "id": 112163,
+          "logo_path": null,
+          "name": "Happy Hour Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 253002,
+          "logo_path": null,
+          "name": "Princ Films",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [],
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
