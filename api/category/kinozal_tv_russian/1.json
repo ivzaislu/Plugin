@@ -5,7 +5,7 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 83,
+  "total": 82,
   "items": [
     {
       "adult": false,
@@ -530,6 +530,135 @@
         }
       ],
       "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cZHudFCRcsGNbpmWbnIYWPxupDZ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 315751,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Время Счастливых",
+      "overview": "Незадолго до развала СССР у Марины и Ивана Счастливых рождается тройня и начинается жизнь в отдельной — наконец-то своей! — квартире номер 13. Но наивные 80-е сменяются голодными 90-ми, и настроения в семье уже не назовешь радужными. Некогда самый молодой и перспективный кандидат наук в МГУ, Иван вынужден стать репетитором и домохозяином, пока Марина зарабатывает на рынке. А потом приходит 2012 год, и энергия нового времени.",
+      "popularity": 1.2675,
+      "poster_path": "/lmEpZaEZoSQ6Gd4NcjxVTgZ3CGk.jpg",
+      "first_air_date": "2026-03-05",
+      "softcore": false,
+      "name": "Время Счастливых",
+      "vote_average": 7.333,
+      "vote_count": 3,
+      "created_by": [
+        {
+          "id": 2779014,
+          "credit_id": "69a9c0dc9739ff3af750a209",
+          "name": "Илья Силаев",
+          "original_name": "Илья Силаев",
+          "gender": 2,
+          "profile_path": "/1O7kbTjdwge3TPVG8G12lyqK9gb.jpg"
+        }
+      ],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "https://okko.tv/serial/vremja-schastlivykh",
+      "in_production": true,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2026-04-09",
+      "last_episode_to_air": {
+        "id": 7008420,
+        "name": "Эпизод 8",
+        "overview": "Фредрика ищет семья, соседи и человек из прошлого: он всегда был рядом. Старые раны Счастливых затягиваются, но боль Инги не унять.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2026-04-09",
+        "episode_number": 8,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 46,
+        "season_number": 1,
+        "show_id": 315751,
+        "still_path": "/kkkUyQ1GaIY07ipf1oAeQ1cD7rv.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 2493,
+          "logo_path": "/4WexbzcfwxtGtnhvAoHWhKrA1jt.png",
+          "name": "START",
+          "origin_country": "RU"
+        },
+        {
+          "id": 3871,
+          "logo_path": "/pMy0zJmwHTsmR2mxLd4ifkOSq6h.png",
+          "name": "Okko",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 8,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 175169,
+          "logo_path": "/qyqiYpqa9IWKfy48MSXTnquWYau.png",
+          "name": "Okko",
+          "origin_country": "RU"
+        },
+        {
+          "id": 114676,
+          "logo_path": "/aVsos0RDN9Ib7H8nW5Vv5kHKykz.png",
+          "name": "START Studio",
+          "origin_country": "RU"
+        },
+        {
+          "id": 166046,
+          "logo_path": "/gpDdtrKHc7OZNDS4X1O5yT1ul33.png",
+          "name": "IRI",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2026-03-05",
+          "episode_count": 8,
+          "id": 503692,
+          "name": "Сезон 1",
+          "overview": "Незадолго до развала СССР у Марины и Ивана Счастливых рождается тройня и начинается жизнь в отдельной — наконец-то своей! — квартире номер 13. Но наивные 80-е сменяются голодными 90-ми, и настроения в семье уже не назовешь радужными. Некогда самый молодой и перспективный кандидат наук в МГУ, Иван вынужден стать репетитором и домохозяином, пока Марина зарабатывает на рынке. А потом приходит 2012 год, и энергия нового времени.",
+          "poster_path": "/ivjiEaXSZ9BHKCshYGOWxEIXcNy.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Returning Series",
       "tagline": "",
       "type": "Scripted",
       "release_quality": "",
@@ -1421,96 +1550,75 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cZHudFCRcsGNbpmWbnIYWPxupDZ.jpg",
+      "backdrop_path": "/i3b1QQBoOPt10tiU2Ot7qgm8UZU.jpg",
       "genre_ids": [
-        18
+        9648
       ],
-      "id": 315751,
+      "id": 106419,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Время Счастливых",
-      "overview": "Незадолго до развала СССР у Марины и Ивана Счастливых рождается тройня и начинается жизнь в отдельной — наконец-то своей! — квартире номер 13. Но наивные 80-е сменяются голодными 90-ми, и настроения в семье уже не назовешь радужными. Некогда самый молодой и перспективный кандидат наук в МГУ, Иван вынужден стать репетитором и домохозяином, пока Марина зарабатывает на рынке. А потом приходит 2012 год, и энергия нового времени.",
-      "popularity": 1.2675,
-      "poster_path": "/lmEpZaEZoSQ6Gd4NcjxVTgZ3CGk.jpg",
-      "first_air_date": "2026-03-05",
+      "original_name": "Охотники за бриллиантами",
+      "overview": "В 1980 г. происходит ограбление вдовы Алексея Толстого. Из квартиры выносят антиквариат, но, главное, пропадает необыкновенной красоты брошь Королевская Лилия, изготовленная для Людовика XV. Дело получает широкий резонанс и к расследованию привлекаются самые серьезные силы МВД. За ходом следствия следит лично министр МВД.\n\nСледствие выходит на участницу ограбления – жену французского дипломата. Задержан и её сообщник, однако бриллиантов при них не обнаружено. Следователь Шахов раскручивает цепочку, надеясь выйти на заказчика, а следы уводят всё выше и выше по служебной лестнице, и расследование становится всё опаснее и опаснее...",
+      "popularity": 1.4475,
+      "poster_path": "/u5QIJBf2Ouak1swTrYOa86eIP0n.jpg",
+      "first_air_date": "2011-10-03",
       "softcore": false,
-      "name": "Время Счастливых",
-      "vote_average": 7.333,
-      "vote_count": 3,
+      "name": "Охотники за бриллиантами",
+      "vote_average": 1,
+      "vote_count": 1,
       "created_by": [
         {
-          "id": 2779014,
-          "credit_id": "69a9c0dc9739ff3af750a209",
-          "name": "Илья Силаев",
-          "original_name": "Илья Силаев",
+          "id": 235112,
+          "credit_id": "6208fe7f1d78f200db471f6f",
+          "name": "Александр Котт",
+          "original_name": "Александр Котт",
           "gender": 2,
-          "profile_path": "/1O7kbTjdwge3TPVG8G12lyqK9gb.jpg"
+          "profile_path": "/7CnrOSSnXhcs52RSuwHZGg53NgW.jpg"
         }
       ],
-      "episode_run_time": [],
+      "episode_run_time": [
+        424
+      ],
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 9648,
+          "name": "детектив"
         }
       ],
-      "homepage": "https://okko.tv/serial/vremja-schastlivykh",
-      "in_production": true,
+      "homepage": "",
+      "in_production": false,
       "languages": [
+        "hy",
+        "fr",
         "ru"
       ],
-      "last_air_date": "2026-04-09",
+      "last_air_date": "2011-10-13",
       "last_episode_to_air": {
-        "id": 7008420,
-        "name": "Эпизод 8",
-        "overview": "Фредрика ищет семья, соседи и человек из прошлого: он всегда был рядом. Старые раны Счастливых затягиваются, но боль Инги не унять.",
+        "id": 2363473,
+        "name": "8 серия",
+        "overview": "Шахов осужден за преступления, которых не совершал, и находится в тюрьме. На свидание к нему приходит Латышев, чем весьма поражает своего бывшего шефа. Да, он Игорь Латышев, но он не старший лейтенант угрозыска, а старший лейтенант КГБ. Комитет хотел знать все, что происходит в МУРе. Получается, что Игорь, стуча на Николая Георгиевича, просто выполнял свой долг. Поэтому и пришел сейчас, чувствуя угрызения.",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2026-04-09",
+        "air_date": "2011-10-13",
         "episode_number": 8,
         "episode_type": "finale",
         "production_code": "",
-        "runtime": 46,
+        "runtime": 53,
         "season_number": 1,
-        "show_id": 315751,
-        "still_path": "/kkkUyQ1GaIY07ipf1oAeQ1cD7rv.jpg"
+        "show_id": 106419,
+        "still_path": "/vYViW0xUTA1vXHQK892nGNxS1rD.jpg"
       },
       "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 2493,
-          "logo_path": "/4WexbzcfwxtGtnhvAoHWhKrA1jt.png",
-          "name": "START",
-          "origin_country": "RU"
-        },
-        {
-          "id": 3871,
-          "logo_path": "/pMy0zJmwHTsmR2mxLd4ifkOSq6h.png",
-          "name": "Okko",
-          "origin_country": "RU"
-        }
-      ],
+      "networks": [],
       "number_of_episodes": 8,
       "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 175169,
-          "logo_path": "/qyqiYpqa9IWKfy48MSXTnquWYau.png",
-          "name": "Okko",
-          "origin_country": "RU"
-        },
-        {
-          "id": 114676,
-          "logo_path": "/aVsos0RDN9Ib7H8nW5Vv5kHKykz.png",
-          "name": "START Studio",
-          "origin_country": "RU"
-        },
-        {
-          "id": 166046,
-          "logo_path": "/gpDdtrKHc7OZNDS4X1O5yT1ul33.png",
-          "name": "IRI",
+          "id": 69260,
+          "logo_path": null,
+          "name": "RIM",
           "origin_country": "RU"
         }
       ],
@@ -1522,27 +1630,37 @@
       ],
       "seasons": [
         {
-          "air_date": "2026-03-05",
+          "air_date": "2011-10-03",
           "episode_count": 8,
-          "id": 503692,
+          "id": 157222,
           "name": "Сезон 1",
-          "overview": "Незадолго до развала СССР у Марины и Ивана Счастливых рождается тройня и начинается жизнь в отдельной — наконец-то своей! — квартире номер 13. Но наивные 80-е сменяются голодными 90-ми, и настроения в семье уже не назовешь радужными. Некогда самый молодой и перспективный кандидат наук в МГУ, Иван вынужден стать репетитором и домохозяином, пока Марина зарабатывает на рынке. А потом приходит 2012 год, и энергия нового времени.",
-          "poster_path": "/ivjiEaXSZ9BHKCshYGOWxEIXcNy.jpg",
+          "overview": "Майор Николай Шахов расследует крупнейшее ограбление в истории СССР и выходит на первых лиц государства.",
+          "poster_path": null,
           "season_number": 1,
           "vote_average": 0
         }
       ],
       "spoken_languages": [
         {
+          "english_name": "Armenian",
+          "iso_639_1": "hy",
+          "name": ""
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
           "english_name": "Russian",
           "iso_639_1": "ru",
           "name": "Pусский"
         }
       ],
-      "status": "Returning Series",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
+      "status": "Ended",
+      "tagline": "«Не спрашивай, кто за этим стоит»",
+      "type": "Miniseries",
+      "release_quality": "1080p",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
@@ -1667,75 +1785,74 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/i3b1QQBoOPt10tiU2Ot7qgm8UZU.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        9648
+        35,
+        10751
       ],
-      "id": 106419,
+      "id": 197035,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Охотники за бриллиантами",
-      "overview": "В 1980 г. происходит ограбление вдовы Алексея Толстого. Из квартиры выносят антиквариат, но, главное, пропадает необыкновенной красоты брошь Королевская Лилия, изготовленная для Людовика XV. Дело получает широкий резонанс и к расследованию привлекаются самые серьезные силы МВД. За ходом следствия следит лично министр МВД.\n\nСледствие выходит на участницу ограбления – жену французского дипломата. Задержан и её сообщник, однако бриллиантов при них не обнаружено. Следователь Шахов раскручивает цепочку, надеясь выйти на заказчика, а следы уводят всё выше и выше по служебной лестнице, и расследование становится всё опаснее и опаснее...",
-      "popularity": 1.4475,
-      "poster_path": "/u5QIJBf2Ouak1swTrYOa86eIP0n.jpg",
-      "first_air_date": "2011-10-03",
+      "original_name": "Дружная семейка",
+      "overview": "Семья Потыкаевых живёт в Москве в большом доме у Киевского вокзала напротив МИДа. Её глава Александр – работает менеджером в компании, продающей компьютеры. Мама не работает, потому что в семье трое детей: дочке 17 лет, старшему сыну 14, а маленькому Пашке всего 5.",
+      "popularity": 0.5715,
+      "poster_path": "/v5OxMreYCoMkfYgO2sjzgHV8N41.jpg",
+      "first_air_date": "2002-01-01",
       "softcore": false,
-      "name": "Охотники за бриллиантами",
-      "vote_average": 1,
+      "name": "Дружная семейка",
+      "vote_average": 7,
       "vote_count": 1,
-      "created_by": [
-        {
-          "id": 235112,
-          "credit_id": "6208fe7f1d78f200db471f6f",
-          "name": "Александр Котт",
-          "original_name": "Александр Котт",
-          "gender": 2,
-          "profile_path": "/7CnrOSSnXhcs52RSuwHZGg53NgW.jpg"
-        }
-      ],
-      "episode_run_time": [
-        424
-      ],
+      "created_by": [],
+      "episode_run_time": [],
       "genres": [
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
       "in_production": false,
       "languages": [
-        "hy",
-        "fr",
         "ru"
       ],
-      "last_air_date": "2011-10-13",
+      "last_air_date": "2003-04-08",
       "last_episode_to_air": {
-        "id": 2363473,
-        "name": "8 серия",
-        "overview": "Шахов осужден за преступления, которых не совершал, и находится в тюрьме. На свидание к нему приходит Латышев, чем весьма поражает своего бывшего шефа. Да, он Игорь Латышев, но он не старший лейтенант угрозыска, а старший лейтенант КГБ. Комитет хотел знать все, что происходит в МУРе. Получается, что Игорь, стуча на Николая Георгиевича, просто выполнял свой долг. Поэтому и пришел сейчас, чувствуя угрызения.",
+        "id": 3649567,
+        "name": "Эпизод 67",
+        "overview": "",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2011-10-13",
-        "episode_number": 8,
+        "air_date": "2003-04-08",
+        "episode_number": 67,
         "episode_type": "finale",
         "production_code": "",
-        "runtime": 53,
+        "runtime": 45,
         "season_number": 1,
-        "show_id": 106419,
-        "still_path": "/vYViW0xUTA1vXHQK892nGNxS1rD.jpg"
+        "show_id": 197035,
+        "still_path": null
       },
       "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 8,
+      "networks": [
+        {
+          "id": 412,
+          "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
+          "name": "Russia-1",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 67,
       "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 69260,
+          "id": 190354,
           "logo_path": null,
-          "name": "RIM",
+          "name": "Meriot",
           "origin_country": "RU"
         }
       ],
@@ -1747,11 +1864,11 @@
       ],
       "seasons": [
         {
-          "air_date": "2011-10-03",
-          "episode_count": 8,
-          "id": 157222,
-          "name": "Сезон 1",
-          "overview": "Майор Николай Шахов расследует крупнейшее ограбление в истории СССР и выходит на первых лиц государства.",
+          "air_date": "2002-01-01",
+          "episode_count": 67,
+          "id": 286660,
+          "name": "Дружная семейка",
+          "overview": "",
           "poster_path": null,
           "season_number": 1,
           "vote_average": 0
@@ -1759,25 +1876,15 @@
       ],
       "spoken_languages": [
         {
-          "english_name": "Armenian",
-          "iso_639_1": "hy",
-          "name": ""
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
           "english_name": "Russian",
           "iso_639_1": "ru",
           "name": "Pусский"
         }
       ],
       "status": "Ended",
-      "tagline": "«Не спрашивай, кто за этим стоит»",
-      "type": "Miniseries",
-      "release_quality": "1080p",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
@@ -1917,215 +2024,6 @@
       "tagline": "",
       "type": "Scripted",
       "release_quality": "1080p",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sdXqIhDPDVrbVa3sm8yC4uc7bNo.jpg",
-      "genre_ids": [
-        80
-      ],
-      "id": 92046,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Верю не верю",
-      "overview": "Василиса Кремнева — старший сотрудник пресс-центра Следственного комитета РФ. Ей только что присвоили звание подполковника, но Василиса давно мечтает заняться настоящим делом. Ведь вместо того чтобы ловить преступников, она вынуждена работать «говорящей головой» — рассказывать зрителям о достижениях правоохранительных органов. Однако, несмотря на все ее просьбы, начальство отказывается переводить красавицу, давно ставшую «лицом» комитета, на оперативную работу. Радикально изменить жизнь девушке помогает случай.",
-      "popularity": 0.8513,
-      "poster_path": "/82Cu2ryVhIbaQRRb5OS0NYqXtWE.jpg",
-      "first_air_date": "2015-01-12",
-      "softcore": false,
-      "name": "Верю не верю",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2015-03-30",
-      "last_episode_to_air": {
-        "id": 3876901,
-        "name": "«Доказательство»",
-        "overview": "В агентство приходит Петр Симанов и рассказывает, что в шестнадцать лет он стал свидетелем убийства родителей. Один из убийц, Кудрявцев, был другом отца и начальником охраны в его компании. Симанов просит сыщиц помочь ему собрать доказательства вины Кудрявцева. Он рассказывает, что напарник Кудрявцева в тот момент потерял кольцо и переживал, что кольцо приметное. Степан выбирает обручальное кольцо для Василисы. Дана случайно узнает, что Василиса занимается нераскрытым делом об убийстве Симановых и тоже начитает им интересоваться. В какой-то момент они с Василисой договариваются объединить усилия в расследовании.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2015-03-30",
-        "episode_number": 12,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": null,
-        "season_number": 1,
-        "show_id": 92046,
-        "still_path": "/sdXqIhDPDVrbVa3sm8yC4uc7bNo.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 412,
-          "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
-          "name": "Russia-1",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 12,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 140380,
-          "logo_path": null,
-          "name": "Magnum",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2015-01-12",
-          "episode_count": 12,
-          "id": 129246,
-          "name": "Season 1",
-          "overview": "",
-          "poster_path": "/5RqljcbGPfl0N7H1J9YeZeW4Dty.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        35,
-        10751
-      ],
-      "id": 197035,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Дружная семейка",
-      "overview": "Семья Потыкаевых живёт в Москве в большом доме у Киевского вокзала напротив МИДа. Её глава Александр – работает менеджером в компании, продающей компьютеры. Мама не работает, потому что в семье трое детей: дочке 17 лет, старшему сыну 14, а маленькому Пашке всего 5.",
-      "popularity": 0.5715,
-      "poster_path": "/v5OxMreYCoMkfYgO2sjzgHV8N41.jpg",
-      "first_air_date": "2002-01-01",
-      "softcore": false,
-      "name": "Дружная семейка",
-      "vote_average": 7,
-      "vote_count": 1,
-      "created_by": [],
-      "episode_run_time": [],
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        }
-      ],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2003-04-08",
-      "last_episode_to_air": {
-        "id": 3649567,
-        "name": "Эпизод 67",
-        "overview": "",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2003-04-08",
-        "episode_number": 67,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 45,
-        "season_number": 1,
-        "show_id": 197035,
-        "still_path": null
-      },
-      "next_episode_to_air": null,
-      "networks": [
-        {
-          "id": 412,
-          "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
-          "name": "Russia-1",
-          "origin_country": "RU"
-        }
-      ],
-      "number_of_episodes": 67,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 190354,
-          "logo_path": null,
-          "name": "Meriot",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2002-01-01",
-          "episode_count": 67,
-          "id": 286660,
-          "name": "Дружная семейка",
-          "overview": "",
-          "poster_path": null,
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Scripted",
-      "release_quality": "",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
@@ -2322,41 +2220,30 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/nmKJflhFmkI6LJ4yZg4sFp9Dphh.jpg",
+      "backdrop_path": "/sdXqIhDPDVrbVa3sm8yC4uc7bNo.jpg",
       "genre_ids": [
-        18,
-        80,
-        9648
+        80
       ],
-      "id": 63438,
+      "id": 92046,
       "origin_country": [
         "RU"
       ],
       "original_language": "ru",
-      "original_name": "Охота на изюбря",
-      "overview": "Россия, первая половина 1990-х. Крупный металлургический комбинат города Ахтарска возглавляет опытный руководитель Вячеслав Извольский. Нищая область, богатый завод и далёкая Москва с её жадными до денег банками. Завод процветает, и наложить лапу на доходы Комбината не терпится многим. Неприятности не заставляют себя долго ждать. Происходит ЧП: похищен генеральный директор московского филиала Комбината Николай Заславский. В Москву для выяснения обстоятельств дела вылетает начальник Службы безопасности АМК Денис Черяга. С этой неприятной истории и начинается долгое противостояние Комбината и московского банка «Ивеко»...",
-      "popularity": 1.4621,
-      "poster_path": "/M2hPd7POUe4Jpl1GXJ8eOU6bHq.jpg",
-      "first_air_date": "2005-10-10",
-      "name": "Охота на изюбря",
-      "vote_average": 8.5,
-      "vote_count": 2,
+      "original_name": "Верю не верю",
+      "overview": "Василиса Кремнева — старший сотрудник пресс-центра Следственного комитета РФ. Ей только что присвоили звание подполковника, но Василиса давно мечтает заняться настоящим делом. Ведь вместо того чтобы ловить преступников, она вынуждена работать «говорящей головой» — рассказывать зрителям о достижениях правоохранительных органов. Однако, несмотря на все ее просьбы, начальство отказывается переводить красавицу, давно ставшую «лицом» комитета, на оперативную работу. Радикально изменить жизнь девушке помогает случай.",
+      "popularity": 0.8513,
+      "poster_path": "/82Cu2ryVhIbaQRRb5OS0NYqXtWE.jpg",
+      "first_air_date": "2015-01-12",
+      "softcore": false,
+      "name": "Верю не верю",
+      "vote_average": 0,
+      "vote_count": 0,
       "created_by": [],
-      "episode_run_time": [
-        50
-      ],
+      "episode_run_time": [],
       "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
         {
           "id": 80,
           "name": "криминал"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
         }
       ],
       "homepage": "",
@@ -2364,28 +2251,28 @@
       "languages": [
         "ru"
       ],
-      "last_air_date": "2005-10-27",
+      "last_air_date": "2015-03-30",
       "last_episode_to_air": {
-        "id": 1644120,
-        "name": "Эпизод 12",
-        "overview": "«Коваль» не может отказать в просьбе Лучкову и даёт задание Калягину «убрать» Извольского и Черягу. За выполнение акции Калягин требует миллион долларов. Черяга находит заказчика покушения на Извольского. Калягин же передаёт «заказ» на Извольского «Моцарту». Он вручает ему подробный план дома и провозит на территорию тщательно охраняемого особняка...",
+        "id": 3876901,
+        "name": "«Доказательство»",
+        "overview": "В агентство приходит Петр Симанов и рассказывает, что в шестнадцать лет он стал свидетелем убийства родителей. Один из убийц, Кудрявцев, был другом отца и начальником охраны в его компании. Симанов просит сыщиц помочь ему собрать доказательства вины Кудрявцева. Он рассказывает, что напарник Кудрявцева в тот момент потерял кольцо и переживал, что кольцо приметное. Степан выбирает обручальное кольцо для Василисы. Дана случайно узнает, что Василиса занимается нераскрытым делом об убийстве Симановых и тоже начитает им интересоваться. В какой-то момент они с Василисой договариваются объединить усилия в расследовании.",
         "vote_average": 0,
         "vote_count": 0,
-        "air_date": "2005-10-27",
+        "air_date": "2015-03-30",
         "episode_number": 12,
         "episode_type": "finale",
         "production_code": "",
-        "runtime": 48,
+        "runtime": null,
         "season_number": 1,
-        "show_id": 63438,
-        "still_path": "/135h4y4pnC4a0necpcsl2blyReP.jpg"
+        "show_id": 92046,
+        "still_path": "/sdXqIhDPDVrbVa3sm8yC4uc7bNo.jpg"
       },
       "next_episode_to_air": null,
       "networks": [
         {
-          "id": 558,
-          "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
-          "name": "Channel One",
+          "id": 412,
+          "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
+          "name": "Russia-1",
           "origin_country": "RU"
         }
       ],
@@ -2393,10 +2280,10 @@
       "number_of_seasons": 1,
       "production_companies": [
         {
-          "id": 144056,
+          "id": 140380,
           "logo_path": null,
-          "name": "Pro-Cinema Production",
-          "origin_country": "RU"
+          "name": "Magnum",
+          "origin_country": ""
         }
       ],
       "production_countries": [
@@ -2407,12 +2294,12 @@
       ],
       "seasons": [
         {
-          "air_date": "2005-10-10",
+          "air_date": "2015-01-12",
           "episode_count": 12,
-          "id": 69111,
-          "name": "Сезон 1",
+          "id": 129246,
+          "name": "Season 1",
           "overview": "",
-          "poster_path": "/M2hPd7POUe4Jpl1GXJ8eOU6bHq.jpg",
+          "poster_path": "/5RqljcbGPfl0N7H1J9YeZeW4Dty.jpg",
           "season_number": 1,
           "vote_average": 0
         }
@@ -2427,125 +2314,6 @@
       "status": "Ended",
       "tagline": "",
       "type": "Scripted",
-      "release_quality": "",
-      "media_type": "tv",
-      "categories": [
-        "kinozal_tv_russian"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jUyYVmn2rTzs6F2m04WiCSzBSKA.jpg",
-      "genre_ids": [],
-      "id": 233036,
-      "origin_country": [
-        "RU"
-      ],
-      "original_language": "ru",
-      "original_name": "Чёрные бушлаты",
-      "overview": "1941 год. Командующий Северным флотом адмирал Головин, предчувствуя неизбежность большой войны, создает специальное разведовательно-диверсионное подразделение, нацеленное на выполнение дерзких операций в тылу врага. Командиру отделения разведчиков старшине Леонтьеву в первые же дни войны поручено осуществлять корректировку огня двух эсминцев по немецкой артиллеристской батарее, расположенной в неприступном месте на скалистых берегах Баренцева моря. С отрядом разведчиков на задание идет девушка-снайпер Мария Белая, у которой есть свои счеты к «фрицам»…",
-      "popularity": 1.7293,
-      "poster_path": "/b1rNUIJzHyCns4CoxG0qfvwqWmD.jpg",
-      "first_air_date": "2018-02-23",
-      "softcore": false,
-      "name": "Чёрные бушлаты",
-      "vote_average": 0,
-      "vote_count": 0,
-      "created_by": [
-        {
-          "id": 3866482,
-          "credit_id": "64e358e5544c4100e16ce69c",
-          "name": "Николай Попов",
-          "original_name": "Николай Попов",
-          "gender": 0,
-          "profile_path": null
-        },
-        {
-          "id": 1437989,
-          "credit_id": "64e358cc076ce843b9b0ffd5",
-          "name": "Станислав Довжик",
-          "original_name": "Станислав Довжик",
-          "gender": 2,
-          "profile_path": "/9PF9T6CEESUgAiO9TAemdnHCWtj.jpg"
-        },
-        {
-          "id": 4226508,
-          "credit_id": "64e358fdb77d4b113fc7e00d",
-          "name": "Аркадий Данилов",
-          "original_name": "Аркадий Данилов",
-          "gender": 0,
-          "profile_path": null
-        }
-      ],
-      "episode_run_time": [],
-      "genres": [],
-      "homepage": "",
-      "in_production": false,
-      "languages": [
-        "ru"
-      ],
-      "last_air_date": "2018-03-16",
-      "last_episode_to_air": {
-        "id": 4669361,
-        "name": "Серия 4",
-        "overview": "Отряд разведчиков решает атаковать немецкую батарею, Маша остаётся прикрыаать снайперским огнём. Мотя пытается уничтожить ДОТ, но погибает. За ним гибнет Помор. Батарея захвачена. Маша ранена, она не видит. Десант, благодаря действиям разведчиков, успешно высадился.",
-        "vote_average": 0,
-        "vote_count": 0,
-        "air_date": "2018-03-16",
-        "episode_number": 4,
-        "episode_type": "finale",
-        "production_code": "",
-        "runtime": 47,
-        "season_number": 1,
-        "show_id": 233036,
-        "still_path": "/zoy0mhdq5utTTBcKWXM6bPu0Bfw.jpg"
-      },
-      "next_episode_to_air": null,
-      "networks": [],
-      "number_of_episodes": 4,
-      "number_of_seasons": 1,
-      "production_companies": [
-        {
-          "id": 41565,
-          "logo_path": "/cu8s37w8yytbGscWIGSD3X3SXBF.png",
-          "name": "Lunapark Film Company",
-          "origin_country": "RU"
-        },
-        {
-          "id": 293700,
-          "logo_path": null,
-          "name": "СинтезФильм",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "seasons": [
-        {
-          "air_date": "2018-02-23",
-          "episode_count": 4,
-          "id": 353451,
-          "name": "Сезон 1",
-          "overview": "",
-          "poster_path": "/GwQuUBSjLv6heZsELxLWRVnNnP.jpg",
-          "season_number": 1,
-          "vote_average": 0
-        }
-      ],
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Ended",
-      "tagline": "",
-      "type": "Miniseries",
       "release_quality": "",
       "media_type": "tv",
       "categories": [
@@ -2667,6 +2435,232 @@
       "tagline": "",
       "type": "Miniseries",
       "release_quality": "1080p",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3qSxUxuPjPPpLSfY7dOYgWwN7Co.jpg",
+      "genre_ids": [
+        10766,
+        10759
+      ],
+      "id": 138558,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Собор",
+      "overview": "Времена царствования Петра I, самое начало XVIII века. Молодой крепостной парень Иван Старшов безумно влюблён в княжну Марию. Но из-за разницы в социальном положении их брак невозможен. Из-за личной трагедии крепостной теряет веру в бога: что это за бог, который не может связать его с любимой девушкой? Иван покидает родную деревню и поступает в Преображенский полк. Крепостной становится участником больших побед армии и свидетелем глобальных реформ, которые проводит Пётр I. Иван категорически не согласен с тем, что, родившись холопом, он до конца своих дней должен оставаться в этом статусе. Он верит, что способен на большее. И доказывает это, во имя любви.",
+      "popularity": 1.3116,
+      "poster_path": "/kSa6GqivbsWvCe4Xwm7Rd0P2oOU.jpg",
+      "first_air_date": "2021-11-04",
+      "softcore": false,
+      "name": "Собор",
+      "vote_average": 6.8,
+      "vote_count": 13,
+      "created_by": [],
+      "episode_run_time": [],
+      "genres": [
+        {
+          "id": 10766,
+          "name": "Мыльная опера"
+        },
+        {
+          "id": 10759,
+          "name": "Боевик и Приключения"
+        }
+      ],
+      "homepage": "",
+      "in_production": false,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2021-12-30",
+      "last_episode_to_air": {
+        "id": 3451614,
+        "name": "12-я серия",
+        "overview": "Андрей узнаёт, что у него есть сын от любимой женщины. Пётр измучен хронической почечной болезнью, предательством жены и друзей. Иван, чувствуя опасность, исходящую от Даниэля, удерживает царя от осмотра флотилии. Несмотря на увещевания Старшова, государь требует спустить лодки на воду. Несчастный случай на воде окончательно подрывает здоровье Петра. На смертном одре государь пытается сказать Ивану что-то очень важное, но силы покидают его. Князь Меншиков сулит Старшову золотые горы, если тот скажет, что Пётр завещал власть Екатерине; князь Голицын - если Иван подтвердит обратное. Старшов направляется в Сенат, дабы сказать правду. Пытаясь не допустить Ивана на заседание, Даниэль отправляет Андрея убить его.",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2021-12-30",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 60,
+        "season_number": 1,
+        "show_id": 138558,
+        "still_path": null
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 3871,
+          "logo_path": "/pMy0zJmwHTsmR2mxLd4ifkOSq6h.png",
+          "name": "Okko",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 12,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 99796,
+          "logo_path": "/9mf2AFZUoQP4ovnNiSOg7SKJjZa.png",
+          "name": "KIT Film Studio",
+          "origin_country": "RU"
+        },
+        {
+          "id": 175169,
+          "logo_path": "/qyqiYpqa9IWKfy48MSXTnquWYau.png",
+          "name": "Okko",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2021-11-04",
+          "episode_count": 12,
+          "id": 219456,
+          "name": "Собор",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1,
+          "vote_average": 8
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
+      "media_type": "tv",
+      "categories": [
+        "kinozal_tv_russian"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nmKJflhFmkI6LJ4yZg4sFp9Dphh.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 63438,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Охота на изюбря",
+      "overview": "Россия, первая половина 1990-х. Крупный металлургический комбинат города Ахтарска возглавляет опытный руководитель Вячеслав Извольский. Нищая область, богатый завод и далёкая Москва с её жадными до денег банками. Завод процветает, и наложить лапу на доходы Комбината не терпится многим. Неприятности не заставляют себя долго ждать. Происходит ЧП: похищен генеральный директор московского филиала Комбината Николай Заславский. В Москву для выяснения обстоятельств дела вылетает начальник Службы безопасности АМК Денис Черяга. С этой неприятной истории и начинается долгое противостояние Комбината и московского банка «Ивеко»...",
+      "popularity": 1.4621,
+      "poster_path": "/M2hPd7POUe4Jpl1GXJ8eOU6bHq.jpg",
+      "first_air_date": "2005-10-10",
+      "name": "Охота на изюбря",
+      "vote_average": 8.5,
+      "vote_count": 2,
+      "created_by": [],
+      "episode_run_time": [
+        50
+      ],
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "in_production": false,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2005-10-27",
+      "last_episode_to_air": {
+        "id": 1644120,
+        "name": "Эпизод 12",
+        "overview": "«Коваль» не может отказать в просьбе Лучкову и даёт задание Калягину «убрать» Извольского и Черягу. За выполнение акции Калягин требует миллион долларов. Черяга находит заказчика покушения на Извольского. Калягин же передаёт «заказ» на Извольского «Моцарту». Он вручает ему подробный план дома и провозит на территорию тщательно охраняемого особняка...",
+        "vote_average": 0,
+        "vote_count": 0,
+        "air_date": "2005-10-27",
+        "episode_number": 12,
+        "episode_type": "finale",
+        "production_code": "",
+        "runtime": 48,
+        "season_number": 1,
+        "show_id": 63438,
+        "still_path": "/135h4y4pnC4a0necpcsl2blyReP.jpg"
+      },
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "id": 558,
+          "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
+          "name": "Channel One",
+          "origin_country": "RU"
+        }
+      ],
+      "number_of_episodes": 12,
+      "number_of_seasons": 1,
+      "production_companies": [
+        {
+          "id": 144056,
+          "logo_path": null,
+          "name": "Pro-Cinema Production",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2005-10-10",
+          "episode_count": 12,
+          "id": 69111,
+          "name": "Сезон 1",
+          "overview": "",
+          "poster_path": "/M2hPd7POUe4Jpl1GXJ8eOU6bHq.jpg",
+          "season_number": 1,
+          "vote_average": 0
+        }
+      ],
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Ended",
+      "tagline": "",
+      "type": "Scripted",
+      "release_quality": "",
       "media_type": "tv",
       "categories": [
         "kinozal_tv_russian"
