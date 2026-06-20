@@ -9,92 +9,133 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/dC15RaDX4mmPB0omILrjTKMGy6W.jpg",
+      "backdrop_path": "/g3hni0i9iAQ13jDGOFWavJFlojc.jpg",
       "genre_ids": [
-        53,
-        37
+        28,
+        12,
+        53
       ],
-      "id": 1200320,
+      "id": 341013,
       "original_language": "en",
-      "original_title": "Killing Faith",
-      "overview": "1849 год. Маленькая девочка Фэйт убивает все, к чему прикасается. Ее мать уверена, что Фэйт одержима демонами, и нанимает врача, чтобы он поехал с ними через весь Запад к знаменитому целителю.",
-      "popularity": 8.3358,
-      "poster_path": "/lVtv2tTNWYEY7UpfHveNquSk6Ks.jpg",
-      "release_date": "2025-10-03",
-      "title": "Грехи запада",
+      "original_title": "Atomic Blonde",
+      "overview": "Агент Лоррейн Бротон, бриллиант в короне Секретной разведывательной службы Её Величества, не просто мастер шпионажа: она бомбически сексуальна, взрывоопасна и использует весь арсенал своих уникальных умений во время невыполнимых миссий. В неспокойном Берлине, куда её направляют с заданием вернуть бесценное досье, она вынуждена объединиться с агентом под прикрытием, Дэвидом Персивалем. Вместе им предстоит проложить путь через тернии смертельных шпионских игр.",
+      "popularity": 6.9819,
+      "poster_path": "/ch9WDg6zKs1qTNR7Spz4QC63eG3.jpg",
+      "release_date": "2017-07-26",
+      "title": "Взрывная блондинка",
       "video": false,
-      "vote_average": 5.293,
-      "vote_count": 29,
+      "vote_average": 6.432,
+      "vote_count": 6484,
       "belongs_to_collection": null,
-      "budget": 7000000,
+      "budget": 30000000,
       "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
         {
           "id": 53,
           "name": "триллер"
-        },
-        {
-          "id": 37,
-          "name": "вестерн"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt29101725",
+      "imdb_id": "tt2406566",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 100121,
+          "id": 10146,
+          "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+          "name": "Focus Features",
+          "origin_country": "US"
+        },
+        {
+          "id": 3574,
+          "logo_path": "/j3iU6FoWplGPoO1Vxn8fFHX4VPE.png",
+          "name": "Denver & Delilah Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 23008,
+          "logo_path": "/5SarYupipdiejsEqUkwu1SpYfru.png",
+          "name": "87Eleven",
+          "origin_country": "US"
+        },
+        {
+          "id": 24049,
+          "logo_path": "/zOHQ0A3PpNoLLeAxRZwSqNV3nPr.png",
+          "name": "Sierra/Affinity",
+          "origin_country": "US"
+        },
+        {
+          "id": 87733,
           "logo_path": null,
-          "name": "Film Bridge International",
+          "name": "Closed on Mondays Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 159674,
-          "logo_path": "/2NAHsquI5QpycL3RnnxlESGgS7C.png",
-          "name": "Filmology Finance",
-          "origin_country": "AU"
-        },
-        {
-          "id": 121204,
-          "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
-          "name": "BondIt Media Capital",
+          "id": 92029,
+          "logo_path": null,
+          "name": "TGIM Films",
           "origin_country": "US"
         },
         {
-          "id": 50166,
-          "logo_path": "/7quALDl2QahHagPBSmTtwOM0Fw2.png",
-          "name": "Choice Films",
-          "origin_country": "US"
+          "id": 2801,
+          "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+          "name": "Film i Väst",
+          "origin_country": "SE"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "DE",
+          "name": "Germany"
         },
         {
-          "iso_3166_1": "AU",
-          "name": "Australia"
+          "iso_3166_1": "HU",
+          "name": "Hungary"
+        },
+        {
+          "iso_3166_1": "SE",
+          "name": "Sweden"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 105,
+      "revenue": 100014025,
+      "runtime": 115,
       "spoken_languages": [
+        {
+          "english_name": "Swedish",
+          "iso_639_1": "sv",
+          "name": "svenska"
+        },
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
         },
         {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         }
       ],
       "status": "Released",
-      "tagline": "«Присмотрись. Дьявол кроется в деталях»",
-      "release_quality": "2160p",
+      "tagline": "«Таланты можно переоценить»",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -102,24 +143,119 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/bml9iJaB6W3lAUXR2mIthlzl62o.jpg",
+      "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 524,
+      "original_language": "en",
+      "original_title": "Casino",
+      "overview": "Никто не может сравниться с Сэмом Ротстином. Никто не умеет зарабатывать деньги, как он. Никто не умеет работать так самоотверженно и аккуратно, как трудяга Сэм. За свои неоспоримые достоинства Ротстин получил кличку «Ас». И именно поэтому боссы мафии решили отправить Аса заправлять огромным шикарным казино в Лас-Вегасе. А чтобы Сэму никто не мешал работать, мафиози отправили вслед за Асом друга детства Ротстина — Никки Санторо, отпетого бандита и безжалостного головореза.",
+      "popularity": 8.0545,
+      "poster_path": "/lg8b1rzWjxNlN7GOBuVjI7QUDC3.jpg",
+      "release_date": "1995-11-22",
+      "title": "Казино",
+      "video": false,
+      "vote_average": 7.99,
+      "vote_count": 6388,
+      "belongs_to_collection": null,
+      "budget": 50000000,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0112641",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 11583,
+          "logo_path": null,
+          "name": "Syalis DA",
+          "origin_country": "FR"
+        },
+        {
+          "id": 22997,
+          "logo_path": "/niPdWsCgM1HoAEnh3Z200V4nDIo.png",
+          "name": "Légende Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 211783,
+          "logo_path": null,
+          "name": "Cappa/De Fina Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 116112375,
+      "runtime": 171,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Риск. Власть. Искушение»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
       "genre_ids": [
         27,
-        53
+        28,
+        53,
+        9648
       ],
-      "id": 1091267,
-      "title": "Ужасающие",
+      "id": 24655,
+      "title": "Автомобиль",
       "original_language": "en",
-      "original_title": "The Well",
-      "overview": "1993 год. Молодая американка Лиза приезжает в итальянский городок, чтобы отреставрировать покрытую слоем копоти картину XVI века. Чем больше девушка открывает фрагментов изображения, тем сильнее её мучают ужасающие видения, а в это время её соотечественников-зоологов, с которыми Лиза познакомилась в автобусе, похищают и сажают в клетки рядом с жутким колодцем.",
-      "popularity": 0.8845,
-      "poster_path": "/3L3bMwYwNdzZuowhxZSizs4Z1ev.jpg",
-      "release_date": "2024-08-01",
+      "original_title": "The Car",
+      "overview": "Шериф Уэйд Парент должен помешать огромному, черному двухдверному седану терроризировать маленький городок в Нью-Мехико. Никто не знает, откуда взялся этот автомобиль, кто за его рулем и как его остановить.Он уже убил трех человек, и теперь шериф должен найти способ покончить с этой дьявольской машиной.",
+      "popularity": 2.9894,
+      "poster_path": "/y0CyQQYI6GzLa20bG57jjNLvO95.jpg",
+      "release_date": "1977-05-12",
       "softcore": false,
       "video": false,
-      "vote_average": 5.637,
-      "vote_count": 139,
-      "belongs_to_collection": null,
+      "vote_average": 6.4,
+      "vote_count": 319,
+      "belongs_to_collection": {
+        "id": 629358,
+        "name": "Автомобиль (Коллекция)",
+        "poster_path": "/pbD74MhK40xcEGvb0vfYiSqrhE0.jpg",
+        "backdrop_path": "/xpTw5Nfae6pUEWEGlRLLUEigQqU.jpg"
+      },
       "budget": 0,
       "genres": [
         {
@@ -127,46 +263,55 @@
           "name": "ужасы"
         },
         {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
           "id": 53,
           "name": "триллер"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt26754354",
+      "imdb_id": "tt0075809",
       "origin_country": [
-        "IT"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 194281,
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 219583,
           "logo_path": null,
-          "name": "Iperuranio Film",
+          "name": "Hollywood Road Films",
           "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IT",
-          "name": "Italy"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 91,
+      "runtime": 96,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
         }
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -1372,68 +1517,63 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/sD17m2rWAQpRXOB2TiN2IgJBRVG.jpg",
+      "backdrop_path": "/3fZ5HvkrjaS34sZERshWm9koXdF.jpg",
       "genre_ids": [
-        53,
         80,
-        18,
-        10749
+        9648
       ],
-      "id": 11604,
-      "title": "Неуловимый",
+      "id": 1290432,
       "original_language": "fr",
-      "original_title": "Anthony Zimmer",
-      "overview": "Интерпол преследует неуловимого мошенника Энтони Циммера, специализирующегося на отмывании денег для русской мафии. Поймать Циммера стало вдесятеро трудней после того, как он сделал пластическую операцию и полностью изменил свою внешность. Теперь единственная ниточка к мошеннику — обворожительная красотка Кьяра, любовница Циммера. Но Кьяра, понимая, что ее попытаются использовать, заводит интрижку с простоватым парнем Франсуа. Некоторое сходство Франсуа и Циммера является вполне достаточным основанием и для спецслужб, и для мафии, чтобы попытаться убить Франсуа…",
-      "popularity": 0.6784,
-      "poster_path": "/mMBJnGPOr5lr7Dnyr3O4sMgpKPM.jpg",
-      "release_date": "2005-04-01",
-      "softcore": false,
+      "original_title": "Vie privée",
+      "overview": "Когда известный психиатр Лилиан Штайнер узнает о смерти одного из своих пациентов, она глубоко встревожена. Убежденная, что это было убийство, она решает провести расследование…",
+      "popularity": 16.6155,
+      "poster_path": "/djdvlPfichq5QIfnMxDkRNbJjX7.jpg",
+      "release_date": "2025-09-27",
+      "title": "Частная жизнь",
       "video": false,
-      "vote_average": 6.27,
-      "vote_count": 246,
+      "vote_average": 5.795,
+      "vote_count": 89,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
         {
           "id": 80,
           "name": "криминал"
         },
         {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 9648,
+          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0411118",
+      "imdb_id": "tt33852162",
       "origin_country": [
         "FR"
       ],
       "production_companies": [
         {
-          "id": 21172,
-          "logo_path": null,
-          "name": "Alter Films",
+          "id": 7117,
+          "logo_path": "/mVAjfnm0GI1V6ZHiGjq4HNH9xiA.png",
+          "name": "Les Films Velvet",
           "origin_country": "FR"
         },
         {
-          "id": 147,
-          "logo_path": null,
-          "name": "Fidélité Productions",
+          "id": 591,
+          "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+          "name": "France 3 Cinéma",
           "origin_country": "FR"
         },
         {
-          "id": 356,
-          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
-          "name": "TF1 Films Production",
+          "id": 109756,
+          "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+          "name": "Auvergne-Rhône-Alpes Cinéma",
           "origin_country": "FR"
+        },
+        {
+          "id": 286058,
+          "logo_path": null,
+          "name": "Buenos Hair",
+          "origin_country": ""
         }
       ],
       "production_countries": [
@@ -1443,94 +1583,12 @@
         }
       ],
       "revenue": 0,
-      "runtime": 90,
+      "runtime": 108,
       "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
         {
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
-        },
-        {
-          "english_name": "Polish",
-          "iso_639_1": "pl",
-          "name": "Polski"
-        },
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Выбери мужчину. Соблазни его. Замани его в ловушку.",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wyHgr0RZnSPRdcR08cP5nIshLAV.jpg",
-      "genre_ids": [
-        18,
-        53
-      ],
-      "id": 27033,
-      "title": "Странная любовь Марты Айверс",
-      "original_language": "en",
-      "original_title": "The Strange Love of Martha Ivers",
-      "overview": "Героиня фильма Марта Айверс собирается убежать с возлюбленным, но случайно убивает свою тетку. Побег не состоялся, возлюбленный исчез, а Марта унаследовала огромное фамильное состояние…",
-      "popularity": 1.0286,
-      "poster_path": "/iUAq0UYHglCsnHVbBLcJvZ6KQN9.jpg",
-      "release_date": "1946-08-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 189,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0038988",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 3250000,
-      "runtime": 115,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
         }
       ],
       "status": "Released",
@@ -1543,34 +1601,29 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/bXPKTWAuRO8Mu5rLCORFagX0YZ1.jpg",
+      "backdrop_path": "/9oRbHgbJf1Zr2fct8jBIKadpKya.jpg",
       "genre_ids": [
-        53,
-        9648,
+        80,
         18
       ],
-      "id": 574,
-      "title": "Человек, который знал слишком много",
+      "id": 4816,
+      "title": "Пес-призрак: Путь самурая",
       "original_language": "en",
-      "original_title": "The Man Who Knew Too Much",
-      "overview": "Доктор Бен и Джо МакКенна, простые, ничего не подозревающие туристы, едут провести отпуск в Марокко. Вместе с ними их сын Хэнк, они наслаждаются отпуском, когда встречают мистера и миссис Дрэйтон, супружескую пару из Англии, и подозрительного, но дружелюбного француза Луи Бернара.  Позже, когда Бен и Джо ходят по базару, к ним подбегает араб с ножом в спине. Бен буквально подхватывает падающего араба и, к своему ужасу, узнает, что это переодетый Луи Бернар. Француз успевает прошептать что-то Бену, и тот оказывается втянутым в самый центр международного заговора, участники которого ставят своей целью покушение на высокопоставленную особу, остановить ход событий может только Бен. Хичкок сам появляется в фильме в эпизодической роли, как и его композитор, Бернард Херрманн.",
-      "popularity": 2.7413,
-      "poster_path": "/mO9uOoFhuFsq4iFCAdfRqndcvzW.jpg",
-      "release_date": "1956-05-16",
+      "original_title": "Ghost Dog: The Way of the Samurai",
+      "overview": "«Пёс‑призрак» – загадочный воин, подчинивший свою жизнь древним законам чести Самураев. Он безропотно служит своему хозяину, когда‑то спасшему ему жизнь. Презирая опасность и не думая о собственной судьбе, таинственный убийца‑одиночка убирает с дороги врагов своего господина. Но его хозяин преследует далеко не благородные цели… Мелкий мафиози ради спасения своей жизни отправляет Пса‑призрака в неравную битву с целым преступным синдикатом.",
+      "popularity": 3.0518,
+      "poster_path": "/bBjFi0ytweeZVxpNqOhoKIVMKvl.jpg",
+      "release_date": "1999-10-06",
       "softcore": false,
       "video": false,
-      "vote_average": 7.44,
-      "vote_count": 1552,
+      "vote_average": 7.3,
+      "vote_count": 1398,
       "belongs_to_collection": null,
-      "budget": 1200000,
+      "budget": 2000000,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
+          "id": 80,
+          "name": "криминал"
         },
         {
           "id": 18,
@@ -1578,45 +1631,77 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0049470",
+      "imdb_id": "tt0165798",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
+          "id": 182,
+          "logo_path": "/1BPbXmwi1DZS1Qp0koK7AuponY6.png",
+          "name": "JVC",
+          "origin_country": "JP"
+        },
+        {
+          "id": 208,
+          "logo_path": "/bxQYlRhQu6nbohBEL0SWz8xIAGy.png",
+          "name": "Bac Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 140,
+          "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+          "name": "Pandora Film",
+          "origin_country": "DE"
+        },
+        {
+          "id": 59348,
+          "logo_path": null,
+          "name": "Plywood Productions",
           "origin_country": "US"
+        },
+        {
+          "id": 986,
+          "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+          "name": "ARD Degeto",
+          "origin_country": "DE"
+        },
+        {
+          "id": 183,
+          "logo_path": "/eadyph99FClrWlnE0jPniwOcvvw.png",
+          "name": "Le Studio Canal+",
+          "origin_country": "FR"
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 11300000,
-      "runtime": 121,
+      "revenue": 9392768,
+      "runtime": 116,
       "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Arabic",
-          "iso_639_1": "ar",
-          "name": "العربية"
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Самурай готовит себя к смерти всю жизнь»",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
