@@ -5,84 +5,155 @@
   },
   "page": 14,
   "limit": 20,
-  "total": 267,
+  "total": 266,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+      "backdrop_path": "/fA11VdaJsy6jneGuZZfMDApyTmt.jpg",
       "genre_ids": [
-        28,
         12,
-        14
+        878,
+        10770
       ],
-      "id": 572802,
-      "title": "Аквамен и потерянное царство",
+      "id": 50674,
+      "title": "Потерянное будущее",
       "original_language": "en",
-      "original_title": "Aquaman and the Lost Kingdom",
-      "overview": "Пока Аквамен пытается совмещать отцовство и работу царём подводного мира, Дэвид Хайд вынашивает план мести. Его исследовательская экспедиция обнаруживает трезубец проклятого и запертого во льдах повелителя потерянного царства — так Дэвид попадает под влияние его злых чар. Чтобы справиться с этой угрозой, Аквамену придётся помочь сбежать из тюрьмы младшему брату, которого он сам туда и посадил.",
-      "popularity": 14.0617,
-      "poster_path": "/vJoMnbQjLo1e7yOtFPW1LyPL6qR.jpg",
-      "release_date": "2023-12-20",
+      "original_title": "The Lost Future",
+      "overview": "Будущее наступило. Здесь нет ни звездолетов, ни небоскребов, ни модной одежды, ни высокого искусства. Человечество потерпело крах. После тысяч лет эволюции оно оказалось на самом дне! Теперь наше место обитания — джунгли, таящие опасности на каждом шагу. Сбиваясь в стаи, уцелевшие люди пытаются просто выжить. Только некоторые хранят память о великом прошлом человечества. И они отправятся на самый край земли, где по преданию находится Призрачный город. Чтобы вспомнить, кто они. Вспомнить свое будущее…",
+      "popularity": 2.3483,
+      "poster_path": "/fTGOkAJfOCN0Rb85HcKvrz8MUlK.jpg",
+      "release_date": "2010-11-13",
       "softcore": false,
       "video": false,
-      "vote_average": 6.523,
-      "vote_count": 3501,
-      "belongs_to_collection": {
-        "id": 573693,
-        "name": "Аквамен (Коллекция)",
-        "poster_path": "/gv1dE7d5A6lTSa4czVFusIulDlS.jpg",
-        "backdrop_path": "/ieX3uWD8G1OFkATC1LCi5Xw2YlX.jpg"
-      },
-      "budget": 205000000,
+      "vote_average": 4.932,
+      "vote_count": 156,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 10770,
+          "name": "телевизионный фильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt1615091",
+      "origin_country": [
+        "DE",
+        "ZA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2493,
+          "logo_path": "/opIskZN730MvBtnjUXoy8xLM772.png",
+          "name": "Tandem Communications",
+          "origin_country": "DE"
+        },
+        {
+          "id": 42272,
+          "logo_path": "/2bAuO4EvS59O1uXZQAKXG0HIXQg.png",
+          "name": "RTL",
+          "origin_country": "DE"
+        },
+        {
+          "id": 773,
+          "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+          "name": "Film Afrika",
+          "origin_country": "ZA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "ZA",
+          "name": "South Africa"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 20371,
+      "title": "Пандемия",
+      "original_language": "en",
+      "original_title": "Pandemic",
+      "overview": "Ветеринарный врач Сидни Стивенс оказывается в центре вирусной угрозы, более разрушительной, чем когда-либо видел мир. Ужасная эпидемия, где люди и животные поражены страшной инфекционной болезнью. Никто не знает что это за болезнь и откуда она взялась, но выяснить это — значит найти путь к спасению!",
+      "popularity": 0.4918,
+      "poster_path": "/v77xw22MaygF1rHOFpazl0MgKFa.jpg",
+      "release_date": "2009-10-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 18,
+      "belongs_to_collection": null,
+      "budget": 0,
       "genres": [
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 18,
+          "name": "драма"
         },
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt9663764",
+      "imdb_id": "tt0826593",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
+          "id": 4480,
+          "logo_path": null,
+          "name": "Hollywood Phoenix Studios",
+          "origin_country": ""
         },
         {
-          "id": 11565,
-          "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
-          "name": "The Safran Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 76907,
-          "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
-          "name": "Atomic Monster",
-          "origin_country": "US"
-        },
-        {
-          "id": 128064,
-          "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
-          "name": "DC Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
+          "id": 4481,
+          "logo_path": null,
+          "name": "Unconditional Entertainment",
+          "origin_country": ""
         }
       ],
       "production_countries": [
@@ -91,27 +162,17 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 440181226,
-      "runtime": 124,
+      "revenue": 0,
+      "runtime": 90,
       "spoken_languages": [
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        },
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
-      "tagline": "«Правила меняются»",
+      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -120,31 +181,26 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ovggmAOu1IbPGTQE8lg4lBasNC7.jpg",
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "genre_ids": [
-        14,
         878,
         12
       ],
-      "id": 412656,
-      "title": "Поступь хаоса",
+      "id": 687163,
+      "title": "Проект «Аве Мария»",
       "original_language": "en",
-      "original_title": "Chaos Walking",
-      "overview": "2257 год. Родина Тодда Хьюитта — колонизированная планета Новый Мир, где мысли мужчин имеют визуально-звуковое воплощение и называются шумом. Парень живёт в небольшой деревне, населённой исключительно мужчинами, и ещё не научился скрывать свои мысли от окружающих. Однажды над планетой терпит крушение корабль-разведчик из второй волны колонистов, в результате чего Тодд впервые в сознательной жизни видит девушку. Местный мэр решет использовать её в своих коварных планах, но девушка сбегает, и теперь без помощи Тодда ей не обойтись.",
-      "popularity": 4.05,
-      "poster_path": "/nKik625zZGwj7zniLH3uTgIeekC.jpg",
-      "release_date": "2021-02-24",
+      "original_title": "Project Hail Mary",
+      "overview": "Астронавт Райленд Грейс просыпается на космическом корабле, не помня ни себя, ни свою миссию. Постепенно мужчина приходит к выводу, что он — единственный выживший из экипажа, отправленного в звёздную систему Тау Кита в поисках спасения от катастрофы на Земле. Райленду предстоит положиться на свои обширные научные знания, изобретательность и силу воли, но, возможно, ему не придётся искать в одиночку.",
+      "popularity": 124.3072,
+      "poster_path": "/jucD9FzLjVsFfBiFcSdoLa6rPOl.jpg",
+      "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 6.552,
-      "vote_count": 2589,
+      "vote_average": 8.2,
+      "vote_count": 1995,
       "belongs_to_collection": null,
-      "budget": 125000000,
+      "budget": 200000000,
       "genres": [
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
         {
           "id": 878,
           "name": "фантастика"
@@ -155,58 +211,220 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt2076822",
+      "imdb_id": "tt12042730",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 80680,
+          "id": 77973,
+          "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+          "name": "Lord Miller",
+          "origin_country": "US"
+        },
+        {
+          "id": 210099,
+          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+          "name": "Amazon MGM Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 84041,
+          "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+          "name": "Pascal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 232193,
           "logo_path": null,
-          "name": "Quadrant Pictures",
+          "name": "Open Invite Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
+          "id": 22842,
+          "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+          "name": "Waypoint Entertainment",
           "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 643672721,
+      "runtime": 156,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
         },
         {
-          "id": 13240,
-          "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
-          "name": "Bron Studios",
-          "origin_country": "CA"
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
         },
         {
-          "id": 787,
-          "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
-          "name": "3 Arts Entertainment",
-          "origin_country": "US"
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
         },
         {
-          "id": 72441,
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Последняя надежда двух миров»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/myDXFMcw2lPVMZRrm1T7zqDRuOR.jpg",
+      "genre_ids": [
+        878,
+        53,
+        9648
+      ],
+      "id": 47393,
+      "title": "Кракатит",
+      "original_language": "cs",
+      "original_title": "Krakatit",
+      "overview": "Экранизация одноимённого романа Карела Чапека. Выход из галлюцинации вызванного болезнью инженера, изобретателя сверхопасного взрывчатого вещества \"Кракатит\". Режиссёр искусно передаёт сюрреалистическую атмосферу бреда, в котором переплетается реальность и вымысел. Вопросы о мировом господстве, аллюзии с атомной бомбой, экзистенциальные переживания учёного.",
+      "popularity": 0.525,
+      "poster_path": "/8yd2nhkKJslfR0KVi89fGjKKwmZ.jpg",
+      "release_date": "1948-04-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 22,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0039539",
+      "origin_country": [
+        "XC"
+      ],
+      "production_companies": [
+        {
+          "id": 48668,
           "logo_path": null,
-          "name": "TIK Films",
-          "origin_country": "HK"
+          "name": "Československá filmová společnost",
+          "origin_country": "XC"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "XC",
+          "name": "Czechoslovakia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "Czech",
+          "iso_639_1": "cs",
+          "name": "Český"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_fantastic"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/opkt6IK1Os5gAwhlpu27bCZCk8K.jpg",
+      "genre_ids": [
+        878,
+        28,
+        9648,
+        18,
+        53
+      ],
+      "id": 8452,
+      "original_language": "en",
+      "original_title": "The 6th Day",
+      "overview": "В начале третьего тысячелетия самым суровым законом стал «закон Шестого дня». Он запрещал клонирование людей и создание искусственных копий человека. Но огромная подпольная империя вопреки запрету выращивает человечество нового будущего, сотни управляемых теней.Налаженная машина преступления не давала сбоев, пока в ее совершенный механизм не вмешалась случайность: пилот вертолета Адам Гибсон неожиданно приоткрыл непроницаемую завесу заговора. Теперь он — последний рубеж обороны, отделяющий цивилизацию от общества зомби.",
+      "popularity": 2.9692,
+      "poster_path": "/7mNm67CfL0ExVEllcrfRR4asQVg.jpg",
+      "release_date": "2000-11-17",
+      "title": "Шестой день",
+      "video": false,
+      "vote_average": 5.992,
+      "vote_count": 2179,
+      "belongs_to_collection": null,
+      "budget": 82000000,
+      "genres": [
+        {
+          "id": 878,
+          "name": "фантастика"
         },
         {
-          "id": 147591,
-          "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
-          "name": "Hercules Film Fund",
-          "origin_country": "LU"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 47706,
-          "logo_path": null,
-          "name": "Allison Shearmur Productions",
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0216216",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 11317,
+          "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+          "name": "Phoenix Pictures",
           "origin_country": "US"
         },
         {
-          "id": 53152,
-          "logo_path": "/dbzRlKx3HesH6CkTwZkhpJVRvIg.png",
-          "name": "Creative Wealth Media Finance",
-          "origin_country": "CA"
+          "id": 216219,
+          "logo_path": null,
+          "name": "Jon Davison Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -217,18 +435,10 @@
         {
           "iso_3166_1": "CA",
           "name": "Canada"
-        },
-        {
-          "iso_3166_1": "HK",
-          "name": "Hong Kong"
-        },
-        {
-          "iso_3166_1": "LU",
-          "name": "Luxembourg"
         }
       ],
-      "revenue": 26508132,
-      "runtime": 109,
+      "revenue": 96085477,
+      "runtime": 123,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -237,7 +447,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Никому не скрыться от шума»",
+      "tagline": "«Вы тот, кем себя считаете?»",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -246,31 +456,25 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
+      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
       "genre_ids": [
         878,
         28,
-        12,
         53
       ],
-      "id": 106,
+      "id": 1236153,
       "original_language": "en",
-      "original_title": "Predator",
-      "overview": "Американский вертолет был сбит партизанами в Южной Америке, оставшийся в живых экипаж попал в плен. ЦРУ бросает лучшие силы для освобождения американских граждан — элитная группа спецназа во главе с Датчем отправляется в южноамериканские джунгли. Но там немало повидавшим бойцам предстоит встретиться с невероятным ужасом.",
-      "popularity": 22.0829,
-      "poster_path": "/9mXkVw1BxmjagxjdIK3sbVQU841.jpg",
-      "release_date": "1987-06-12",
-      "title": "Хищник",
+      "original_title": "Mercy",
+      "overview": "Недалёкое будущее, уровень преступности, караемой смертной казнью, резко возрос. Детектива обвиняют в совершении тяжкого преступления, и он вынужден доказывать свою невиновность.",
+      "popularity": 275.8216,
+      "poster_path": "/kRnAyc7cGQQBnPrKlLvGefnv1yh.jpg",
+      "release_date": "2026-01-20",
+      "title": "Казнить нельзя помиловать",
       "video": false,
-      "vote_average": 7.544,
-      "vote_count": 8753,
-      "belongs_to_collection": {
-        "id": 399,
-        "name": "Хищник (Коллекция)",
-        "poster_path": "/qblTMPK7umqQIzch7WlQ8TBmanU.jpg",
-        "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
-      },
-      "budget": 15000000,
+      "vote_average": 6.8,
+      "vote_count": 188,
+      "belongs_to_collection": null,
+      "budget": 60000000,
       "genres": [
         {
           "id": 878,
@@ -279,10 +483,6 @@
         {
           "id": 28,
           "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
         },
         {
           "id": 53,
@@ -290,309 +490,15 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0093773",
+      "imdb_id": "tt31050594",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 840,
-          "logo_path": null,
-          "name": "Lawrence Gordon Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 1885,
-          "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
-          "name": "Silver Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 1302,
-          "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-          "name": "Davis Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 5263,
-          "logo_path": null,
-          "name": "Amercent Films",
-          "origin_country": ""
-        },
-        {
-          "id": 5264,
-          "logo_path": null,
-          "name": "American Entertainment Partners L.P.",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 98267558,
-      "runtime": 104,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«В этом фильме Арнольд испытает все значения слова \"Боль\"»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 1930,
-      "original_language": "en",
-      "original_title": "The Amazing Spider-Man",
-      "overview": "В детстве Питер Паркер был оставлен своими родителями, и поэтому воспитывался дядей и тётей. Шли годы, Питер был обычным примерным школьником, подвергался нападкам хулиганов и был влюблён в свою одноклассницу Гвен Стэйси, которая сама втайне отвечала ему взаимностью. Но после укуса генетически изменённого паука, Питер получает невероятные сверхспособности и его жизнь меняется навсегда.  Однако его не перестаёт мучить вопрос о том, что случилось с его родителями. Он знакомится с давним другом и партнёром своего отца — генетиком Куртом Коннорсом, который вместе с отцом Питера разрабатывал формулу регенерации. Питер помогает её закончить, а Коннорс, всю жизнь мечтавший восстановить свою правую руку, вводит формулу себе и становится Ящером. Осознавая свою вину, Питер начинает новую жизнь в образе таинственного супергероя Человека-паука и становится грозой преступников, одновременно пытаясь найти способ остановить Коннорса.",
-      "popularity": 13.0792,
-      "poster_path": "/kby3x8wic9Lx4qEfstLu2vFHTVj.jpg",
-      "release_date": "2012-06-23",
-      "title": "Новый Человек-паук",
-      "video": false,
-      "vote_average": 6.724,
-      "vote_count": 18154,
-      "belongs_to_collection": {
-        "id": 125574,
-        "name": "Новый Человек-паук (Коллекция)",
-        "poster_path": "/rpS1w85pIZIIiKqss9gZFVR0qEG.jpg",
-        "backdrop_path": "/aLrNTcLN2kDu9jAJ4tS5haiWGc6.jpg"
-      },
-      "budget": 215000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0948470",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 7505,
-          "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
-          "name": "Marvel Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 326,
-          "logo_path": null,
-          "name": "Laura Ziskin Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 53462,
-          "logo_path": "/nx8B3Phlcse02w86RW4CJqzCnfL.png",
-          "name": "Matt Tolmach Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 14439,
-          "logo_path": null,
-          "name": "Arad Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 757930663,
-      "runtime": 136,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Новый герой, новая история, новая любовь",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/baJHUXBcoaHnMf2sjwegbuhIjEV.jpg",
-      "genre_ids": [
-        878,
-        28
-      ],
-      "id": 9482,
-      "title": "Судья Дредд",
-      "original_language": "en",
-      "original_title": "Judge Dredd",
-      "overview": "В третьем тысячелетии мир переменился. Климат, народы — все перевернулось… Земля превратилась в ядовитую, выжженную пустыню, которую стали называть «Проклятая земля». Миллионы людей сосредоточились в нескольких огромных городах, на улицах которых царили хаос и преступники. Система правосудия не смогла справиться с анархией, и был создан новый порядок — элитные подразделения, которые сами задерживали, судили, выносили приговор и приводили его в исполнение. Их называли Судьями.",
-      "popularity": 5.0556,
-      "poster_path": "/wxYYoXRYO6lXvtfknBsmmYV7gGn.jpg",
-      "release_date": "1995-06-30",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.859,
-      "vote_count": 2737,
-      "belongs_to_collection": null,
-      "budget": 90000000,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0113492",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1504,
-          "logo_path": "/yVAJJ4TgnV1FsDmLh6h5ZNJd0vf.png",
-          "name": "Cinergi Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 915,
-          "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
-          "name": "Hollywood Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "NL",
-          "name": "Netherlands"
-        }
-      ],
-      "revenue": 113493481,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«В будущем один человек — закон»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "genre_ids": [
-        28,
-        14,
-        878
-      ],
-      "id": 454639,
-      "title": "Властелины вселенной",
-      "original_language": "en",
-      "original_title": "Masters of the Universe",
-      "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
-      "popularity": 121.6616,
-      "poster_path": "/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
-      "release_date": "2026-06-03",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.234,
-      "vote_count": 248,
-      "belongs_to_collection": null,
-      "budget": 200000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0427340",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1423,
-          "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
-          "name": "Escape Artists",
-          "origin_country": "US"
-        },
-        {
-          "id": 168848,
-          "logo_path": "/omEguKifcJixMvKWq85sUp4lFdT.png",
-          "name": "Mattel Studios",
+          "id": 507,
+          "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+          "name": "Atlas Entertainment",
           "origin_country": "US"
         },
         {
@@ -600,83 +506,11 @@
           "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
           "name": "Amazon MGM Studios",
           "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 86387310,
-      "runtime": 141,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Только один может обладать силой...»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_fantastic"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 1228710,
-      "title": "Мандалорец и Грогу",
-      "original_language": "en",
-      "original_title": "The Mandalorian and Grogu",
-      "overview": "Империя пала, но её военачальники всё ещё держат под своим контролем части галактики. Зарождающаяся Новая Республика пытается защитить идеалы, за которые сражались повстанцы, и нанимает для задания мандалорца Дина Джарина, известного охотника за головами, и его юного ученика Грогу.",
-      "popularity": 212.2515,
-      "poster_path": "/yWPrjlrV9R0eXwBrCvbM95oiepd.jpg",
-      "release_date": "2026-05-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 493,
-      "belongs_to_collection": null,
-      "budget": 165000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
         },
         {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt30825738",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1,
-          "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
-          "name": "Lucasfilm Ltd.",
-          "origin_country": "US"
-        },
-        {
-          "id": 7297,
-          "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
-          "name": "Fairview Entertainment",
+          "id": 109501,
+          "logo_path": "/4dtmZKPLHzIALpGbdeSNX6Rw1p3.png",
+          "name": "Bazelevs",
           "origin_country": "US"
         }
       ],
@@ -686,8 +520,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 315100000,
-      "runtime": 132,
+      "revenue": 49463290,
+      "runtime": 100,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -696,8 +530,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Таков путь»",
-      "release_quality": "1080p",
+      "tagline": "«Докажите свою невиновность искусственному интеллекту»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_fantastic"
