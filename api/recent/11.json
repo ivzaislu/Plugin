@@ -1,108 +1,184 @@
 {
   "page": 11,
   "limit": 20,
-  "total": 260,
+  "total": 262,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/sUQQLJPQQSD2jEO2EgvchbQ0Yvy.jpg",
+      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "genre_ids": [
-        28,
-        18,
-        53
+        10402,
+        18
       ],
-      "id": 1300501,
-      "title": "Патриот",
-      "original_language": "ml",
-      "original_title": "പേട്രിയറ്റ്",
-      "overview": "Доктор Дэниел Джеймс создал систему слежки «Перископ» для безопасности нации, но узнал, что она используется против журналистов и активистов как оружие подавления. Решив раскрыть правду, он становится предателем в глазах властей. На его сторону встаёт полковник Рахим Наик, подозревающий заговор. Герои оказываются в эпицентре интриги, где сплелись политика, корпорации и технологии. Им предстоит гонка со временем, чтобы разоблачить преступную сеть, прежде чем их заставят замолчать. Сможет ли правда восторжествовать, когда на кону жизни миллионов, и кто истинный патриот - тот, кто жертвует всем ради разоблачения лжи?",
-      "popularity": 14.9579,
-      "poster_path": "/4cK4Js7yg8wL2YeZh7DWuoz1bgZ.jpg",
-      "release_date": "2026-05-01",
+      "id": 936075,
+      "title": "Майкл",
+      "original_language": "en",
+      "original_title": "Michael",
+      "overview": "Захватывающий и честный портрет гениального, но противоречивого человека, ставшего королём поп-музыки. Триумфы и трагедии его жизни — от личных испытаний и внутренней борьбы до раскрытия творческого гения, воплощённого в самых легендарных выступлениях артиста. Зрителям предстоит увидеть, как никогда прежде, внутренний мир одного из самых влиятельных и новаторских музыкантов в истории.",
+      "popularity": 167.9048,
+      "poster_path": "/AsPFMI3PhgCsraMq7RmMJwFQh2b.jpg",
+      "release_date": "2026-04-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.1,
-      "vote_count": 10,
-      "belongs_to_collection": null,
-      "budget": 15000000,
+      "vote_average": 8.135,
+      "vote_count": 1281,
+      "belongs_to_collection": {
+        "id": 1687197,
+        "name": "Michael Collection",
+        "poster_path": "/52UT6g6mLSJMm2khc0ZwWpQx4gU.jpg",
+        "backdrop_path": "/91BJtboK7dhZIzzmUUMDu4Ca9cW.jpg"
+      },
+      "budget": 250000000,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt11378946",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1632,
+          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+          "name": "Lionsgate",
+          "origin_country": "US"
+        },
+        {
+          "id": 3281,
+          "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+          "name": "GK Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 19222,
+          "logo_path": "/aQrYO4ziZbm24huYBahFKG4TfrJ.png",
+          "name": "Optimum Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 888317206,
+      "runtime": 128,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Узнайте историю короля»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10749
+      ],
+      "id": 1329471,
+      "title": "Каролина Кэролайн",
+      "original_language": "en",
+      "original_title": "Carolina Caroline",
+      "overview": "Молодая женщина присоединяется к обаятельному мошеннику, находящемуся в бегах, оставляя за собой след преступления и страсти, когда они спешат по Юго-востоку в поисках её матери, с которой она рассталась.",
+      "popularity": 21.5138,
+      "poster_path": "/61Dam4eJTY43R8ikC38iv2Vuit8.jpg",
+      "release_date": "2026-06-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 6,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
         },
         {
           "id": 18,
           "name": "драма"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33412884",
+      "imdb_id": "tt33365126",
       "origin_country": [
-        "IN"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 16399,
-          "logo_path": "/vKbSOtfudV2QTN1wfPqRSilvbBO.png",
-          "name": "Anto Joseph Film Company",
-          "origin_country": "IN"
+          "id": 85815,
+          "logo_path": null,
+          "name": "Bee-Hive Productions",
+          "origin_country": "US"
         },
         {
-          "id": 275943,
-          "logo_path": null,
-          "name": "Blue Tigers London",
-          "origin_country": ""
+          "id": 27497,
+          "logo_path": "/F8mSKEBTORPIYJ3XNvSFb5FEUD.png",
+          "name": "Star Thrower Entertainment",
+          "origin_country": "US"
         },
         {
-          "id": 166575,
+          "id": 182008,
           "logo_path": null,
-          "name": "Kichappus Entertainments",
-          "origin_country": "IN"
+          "name": "Create & Complete Entertainment",
+          "origin_country": "US"
         },
         {
-          "id": 275945,
+          "id": 197680,
           "logo_path": null,
-          "name": "CR Saleem Productions",
-          "origin_country": ""
+          "name": "The Wonder Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 173946,
+          "logo_path": "/As69t46gOyxtUzcQ3fdz5XAVzE2.png",
+          "name": "MacPac Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 7493,
+          "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+          "name": "FilmNation Entertainment",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "IN",
-          "name": "India"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
-      "revenue": 7700000,
-      "runtime": 177,
+      "revenue": 0,
+      "runtime": 105,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Kannada",
-          "iso_639_1": "kn",
-          "name": "?????"
-        },
-        {
-          "english_name": "Malayalam",
-          "iso_639_1": "ml",
-          "name": ""
-        },
-        {
-          "english_name": "Tamil",
-          "iso_639_1": "ta",
-          "name": "தமிழ்"
-        },
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
         }
       ],
       "status": "Released",
@@ -115,100 +191,189 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/pSjRDluxao3wVcTUG6DKanVlrcB.jpg",
+      "backdrop_path": "/6pb3DTtHYh6ChqsmX9yFEX9GXVt.jpg",
       "genre_ids": [
-        10749,
-        10402,
         18,
+        80,
+        9648,
         53
       ],
-      "id": 1214684,
+      "id": 1020047,
+      "title": "Кодекс Данте",
       "original_language": "en",
-      "original_title": "Kiss of the Spider Woman",
-      "overview": "Валентин, политический заключённый, делит камеру с Молиной, оформителем витрин, осуждённым за публичную непристойность. Молина рассказывает ему сюжет голливудского мюзикла с его любимой кинодивой Ингрид Луна.",
-      "popularity": 4.7206,
-      "poster_path": "/n7lHQ4xcSkfUQl0pUuPnopo279S.jpg",
-      "release_date": "2025-10-09",
-      "title": "Поцелуй женщины-паука",
+      "original_title": "In the Hand of Dante",
+      "overview": "Ник, писатель из Нью-Йорка XXI века, отправляется в опасное путешествие после того, как мафиозный босс поручает ему украсть рукопись «Божественной комедии», написанную рукой самого Данте Алигьери. В это же время Данте в XIV веке ищет вдохновение для создания своего величайшего произведения. Каждого из мужчин неосознанно связывает через время их одержимость любовью, красотой и божественным.",
+      "popularity": 4.4108,
+      "poster_path": "/i85r5XToa1qC8jyjoo4BbyMmdPT.jpg",
+      "release_date": "2026-07-09",
+      "softcore": false,
       "video": false,
-      "vote_average": 6.1,
-      "vote_count": 73,
+      "vote_average": 4.5,
+      "vote_count": 2,
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "genre_ids": [
+        9648,
+        35,
+        10751
+      ],
+      "id": 1301421,
+      "title": "Следствие ведут овечки",
+      "original_language": "en",
+      "original_title": "The Sheep Detectives",
+      "overview": "Джордж — пастух, который каждый вечер читает детективные романы своим любимым овцам, полагая, что они ничего не поймут. Но когда на ферме происходит загадочное происшествие, овцы понимают, что им придётся стать детективами. Следуя подсказкам и проверяя подозреваемых людей, они доказывают, что даже овцы могут блестяще раскрывать преступления.",
+      "popularity": 25.1148,
+      "poster_path": "/JHRxN92OgTixFDR1T8FdZfrPvn.jpg",
+      "release_date": "2026-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 2,
       "belongs_to_collection": null,
-      "budget": 34000000,
+      "budget": 0,
       "genres": [
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 9648,
+          "name": "детектив"
         },
         {
-          "id": 10402,
-          "name": "музыка"
+          "id": 35,
+          "name": "комедия"
         },
         {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
+          "id": 10751,
+          "name": "семейный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt30400277",
+      "imdb_id": "tt32565993",
       "origin_country": [
-        "US"
+        "US",
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 1894,
-          "logo_path": "/5yUCKe1VCBq53abMWdJtU1zY4lm.png",
-          "name": "Josephson Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 215529,
-          "logo_path": "/8ohoRBIvATJ0sWaNzBlGjEZYfWH.png",
-          "name": "Tom Kirdahy Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 187968,
-          "logo_path": "/xdVAEg1biNrQw5nnMXKswPCRpkq.png",
-          "name": "Artists Equity",
-          "origin_country": "US"
-        },
-        {
-          "id": 253273,
-          "logo_path": "/8K6JuEzRum2AKBuVFvDR2vV54Qm.png",
-          "name": "Mohari Media",
+          "id": 10163,
+          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+          "name": "Working Title Films",
           "origin_country": "GB"
         },
         {
-          "id": 209747,
-          "logo_path": null,
-          "name": "1000 Eyes",
+          "id": 77973,
+          "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+          "name": "Lord Miller",
           "origin_country": "US"
         },
         {
-          "id": 1620,
-          "logo_path": "/yTI712cgl8hh6FNT5E6td0eHfNb.png",
-          "name": "Nuyorican Productions",
+          "id": 1973,
+          "logo_path": null,
+          "name": "Three Strange Angels",
+          "origin_country": "GB"
+        },
+        {
+          "id": 210099,
+          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+          "name": "Amazon MGM Studios",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
           "iso_3166_1": "GB",
           "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Загадка для всего стада»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 1273221,
+      "title": "Очень страшное кино",
+      "original_language": "en",
+      "original_title": "Scary Movie",
+      "overview": "Двое друзей снова оказываются втянутыми в хаос, в котором участвуют убийцы, монстры и сверхъестественные существа.",
+      "popularity": 55.9817,
+      "poster_path": "/mHggwMptRO9dzmaLlYdxlh1eXpj.jpg",
+      "release_date": "2026-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.516,
+      "vote_count": 339,
+      "belongs_to_collection": {
+        "id": 4246,
+        "name": "Очень страшное кино (Коллекция)",
+        "poster_path": "/3OXEbla8wST1ikiX5CmGPNH6KVu.jpg",
+        "backdrop_path": "/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
+      },
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
         },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32093575",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 14,
+          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+          "name": "Miramax",
+          "origin_country": "US"
+        },
+        {
+          "id": 1608,
+          "logo_path": null,
+          "name": "Wayans Bros. Entertainment",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 1747220,
-      "runtime": 128,
-      "softcore": false,
+      "revenue": 202519753,
+      "runtime": 96,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -216,14 +381,165 @@
           "name": "English"
         },
         {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
-      "tagline": "«Пришло время снова оказаться в центре внимания»",
+      "tagline": "«Он вернулся. Никто не удивлён»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 614945,
+      "title": "Сообщения для Изабель",
+      "original_language": "en",
+      "original_title": "Voicemails for Isabelle",
+      "overview": "Девушка отправляет забавные и искренние голосовые сообщения покойной сестре, не подозревая, что их получает незнакомый человек и влюбляется в нее на расстоянии.",
+      "popularity": 57.318,
+      "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "release_date": "2026-06-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 30,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "https://www.netflix.com/ru/title/81716219",
+      "imdb_id": "tt10375624",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1423,
+          "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+          "name": "Escape Artists",
+          "origin_country": "US"
+        },
+        {
+          "id": 34,
+          "logo_path": "/xAb1o9HrSvKBo9mnXC8fJKDNu00.png",
+          "name": "Sony Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n5cTrsshcZhVSIcbukI29YEPSHG.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 1636186,
+      "title": "Семь вёрст до рассвета",
+      "original_language": "ru",
+      "original_title": "Семь вёрст до рассвета",
+      "overview": "Немецкие войска удерживают деревню в Псковской области и готовят диверсию в советском тылу. В качестве проводника они выбирают Матвея Кузьмина – старика, которого местные давно считают угрюмым одиночкой и едва ли не пособником оккупантов. Кузьмин подчиняется приказу и ведёт отряд через метель и лесное бездорожье, скрывая настоящий замысел.",
+      "popularity": 1.0355,
+      "poster_path": "/7fZKcLPpqsxTb75tehLnh7cebLU.jpg",
+      "release_date": "2026-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt34778141",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 81719,
+          "logo_path": null,
+          "name": "Ministry of Defence of the Russian Federation",
+          "origin_country": "RU"
+        },
+        {
+          "id": 296721,
+          "logo_path": null,
+          "name": "Студия «Река»",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 102,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -292,73 +608,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zZQQ5dd7jq1PfUnWTT9qH4RMf5a.jpg",
-      "genre_ids": [
-        35,
-        28
-      ],
-      "id": 1451344,
-      "title": "Мужья в действии",
-      "original_language": "ko",
-      "original_title": "남편들",
-      "overview": "Детектив объединяется с новым мужем своей бывшей жены, чтобы выследить похитителей. Смогут ли они преодолеть свои разногласия ради безумной спасательной операции?",
-      "popularity": 121.0248,
-      "poster_path": "/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
-      "release_date": "2026-06-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 26,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/82025112",
-      "imdb_id": "tt36876775",
-      "origin_country": [
-        "KR"
-      ],
-      "production_companies": [
-        {
-          "id": 70681,
-          "logo_path": null,
-          "name": "TPS Company",
-          "origin_country": "KR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -569,157 +818,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "id": 614945,
-      "title": "Сообщения для Изабель",
-      "original_language": "en",
-      "original_title": "Voicemails for Isabelle",
-      "overview": "Девушка отправляет забавные и искренние голосовые сообщения покойной сестре, не подозревая, что их получает незнакомый человек и влюбляется в нее на расстоянии.",
-      "popularity": 57.318,
-      "poster_path": "/canZTWSxACSnAluir3dCtMxKpA1.jpg",
-      "release_date": "2026-06-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.1,
-      "vote_count": 30,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "https://www.netflix.com/ru/title/81716219",
-      "imdb_id": "tt10375624",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1423,
-          "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
-          "name": "Escape Artists",
-          "origin_country": "US"
-        },
-        {
-          "id": 34,
-          "logo_path": "/xAb1o9HrSvKBo9mnXC8fJKDNu00.png",
-          "name": "Sony Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 119,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/n5cTrsshcZhVSIcbukI29YEPSHG.jpg",
-      "genre_ids": [
-        10752,
-        36,
-        18
-      ],
-      "id": 1636186,
-      "title": "Семь вёрст до рассвета",
-      "original_language": "ru",
-      "original_title": "Семь вёрст до рассвета",
-      "overview": "Немецкие войска удерживают деревню в Псковской области и готовят диверсию в советском тылу. В качестве проводника они выбирают Матвея Кузьмина – старика, которого местные давно считают угрюмым одиночкой и едва ли не пособником оккупантов. Кузьмин подчиняется приказу и ведёт отряд через метель и лесное бездорожье, скрывая настоящий замысел.",
-      "popularity": 1.0355,
-      "poster_path": "/7fZKcLPpqsxTb75tehLnh7cebLU.jpg",
-      "release_date": "2026-04-30",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34778141",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 81719,
-          "logo_path": null,
-          "name": "Ministry of Defence of the Russian Federation",
-          "origin_country": "RU"
-        },
-        {
-          "id": 296721,
-          "logo_path": null,
-          "name": "Студия «Река»",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -1496,249 +1594,6 @@
       ],
       "status": "Released",
       "tagline": "«Сегодня наследник, завтра - нет»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg",
-      "genre_ids": [
-        53,
-        27
-      ],
-      "id": 1127384,
-      "title": "Глубокие воды",
-      "original_language": "en",
-      "original_title": "Deep Water",
-      "overview": "Группа международных пассажиров на рейсе из Лос-Анджелеса в Шанхай вынуждена совершить аварийную посадку в водах, кишащих акулами. Испуганные люди должны объединиться и преодолеть свои разногласия, если они надеются выбраться из тонущего самолёта и избежать нападения акул, привлечённых обломками.",
-      "popularity": 47.9514,
-      "poster_path": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
-      "release_date": "2026-04-30",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.28,
-      "vote_count": 25,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt29516222",
-      "origin_country": [
-        "AU",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 231386,
-          "logo_path": "/4WS75ndvhPMm7Rj2RFZnFYwBS2o.png",
-          "name": "Magenta Light Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 2520,
-          "logo_path": "/dAfMKKimOSxL147xNghoXM1Tuah.png",
-          "name": "Arclight Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 200176,
-          "logo_path": null,
-          "name": "Simmons/Hamilton Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 11068,
-          "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
-          "name": "Nostromo Pictures",
-          "origin_country": "ES"
-        },
-        {
-          "id": 76098,
-          "logo_path": "/1DMLx7ZtpYPu9MvYH8Yswwsx0oH.png",
-          "name": "Aristos Films",
-          "origin_country": ""
-        },
-        {
-          "id": 293380,
-          "logo_path": null,
-          "name": "DW Film Holdings",
-          "origin_country": "AU"
-        },
-        {
-          "id": 229487,
-          "logo_path": "/vF5HUjsJU0jFtlhpUdcodrECXBk.png",
-          "name": "Rabbits Black",
-          "origin_country": "US"
-        },
-        {
-          "id": 2623,
-          "logo_path": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
-          "name": "Blue Rider Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 107262,
-          "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
-          "name": "Crea SGR",
-          "origin_country": "ES"
-        },
-        {
-          "id": 220394,
-          "logo_path": null,
-          "name": "Top Film",
-          "origin_country": "UA"
-        },
-        {
-          "id": 297215,
-          "logo_path": null,
-          "name": "Pink308",
-          "origin_country": "CN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "ES",
-          "name": "Spain"
-        },
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
-        {
-          "iso_3166_1": "UA",
-          "name": "Ukraine"
-        }
-      ],
-      "revenue": 2286163,
-      "runtime": 107,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Mandarin",
-          "iso_639_1": "zh",
-          "name": "普通话"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Выжить в этой авиакатастрофе, это только начало»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
-      "genre_ids": [
-        28,
-        27,
-        35
-      ],
-      "id": 1292695,
-      "title": "Они придут за тобой",
-      "original_language": "en",
-      "original_title": "They Will Kill You",
-      "overview": "Домработница откликается на вакансию в одном из престижных домов Нью-Йорка. Начиная работать на новых обеспеченных хозяев, она, сама того не подозревая, попадает в тайное сообщество, связанное с исчезновениями людей.",
-      "popularity": 20.9522,
-      "poster_path": "/xCDqSY3cxVQbZULUgpoqRMNLvFQ.jpg",
-      "release_date": "2026-03-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.5,
-      "vote_count": 142,
-      "belongs_to_collection": null,
-      "budget": 20000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt31728330",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 229398,
-          "logo_path": null,
-          "name": "Nocturna",
-          "origin_country": "US"
-        },
-        {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 773,
-          "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
-          "name": "Film Afrika",
-          "origin_country": "ZA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "ZA",
-          "name": "South Africa"
-        }
-      ],
-      "revenue": 18944180,
-      "runtime": 94,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Пусть попробуют»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
