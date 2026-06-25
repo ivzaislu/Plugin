@@ -5,6 +5,96 @@
   "items": [
     {
       "adult": false,
+      "backdrop_path": "/o94QPGgvZW3gysIfsbhQmysmAYo.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 843342,
+      "title": "Гамлет",
+      "original_language": "en",
+      "original_title": "Hamlet",
+      "overview": "Принц Гамлет перемещается из элитных районов города в бедные кварталы, палаточные городки и индуистские храмы. Пытаясь отомстить за убийство отца, он сталкивается с изнанкой мегаполиса и разложением собственной семьи.",
+      "popularity": 2.3807,
+      "poster_path": "/7cBh6fWchOJY961A8F1rT98HDdA.jpg",
+      "release_date": "2026-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 9,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt7798632",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 27543,
+          "logo_path": null,
+          "name": "JW Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 149331,
+          "logo_path": "/bNQ61EvZO1HWvAQKqzVqCqXNqkr.png",
+          "name": "Left Handed Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 22842,
+          "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+          "name": "Waypoint Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 288,
+          "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+          "name": "BBC Film",
+          "origin_country": "GB"
+        },
+        {
+          "id": 82857,
+          "logo_path": "/rp8g1y3wVKWfyQ21uWuzxKJ5bQn.png",
+          "name": "Confluential Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 78451724,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/35Qw3eseEgkUsQQv9f9lG9Z760U.jpg",
       "genre_ids": [
         18,
@@ -90,187 +180,85 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+      "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
       "genre_ids": [
-        18,
-        53,
-        80
+        28,
+        35,
+        53
       ],
-      "id": 1456349,
-      "original_language": "fa",
-      "original_title": "یک تصادف ساده",
-      "overview": "Семья едет домой, и внезапно их машина попадает в аварию. В автомастерской механик Вахид узнает по скрипу протеза отца семейства — это человек, которому он давно мечтал отомстить. Вахид готовит похищение, но все сильнее сомневается, не ошибся ли он. Простая случайность приводит к череде серьезных последствий.",
-      "popularity": 24.2979,
-      "poster_path": "/4Y1uQ0i4BSvoLL7qUzIWK7UsoBD.jpg",
-      "release_date": "2025-09-27",
-      "title": "Простая случайность",
+      "id": 1195506,
+      "original_language": "en",
+      "original_title": "Novocaine",
+      "overview": "Сан-Диего. Нэйтан Кейн — скромный интроверт, который работает помощником менеджера в кредитно-трастовой компании. А ещё у парня редкое заболевание — врождённая нечувствительность к боли с ангидрозом. Накануне Рождества в контору врываются трое грабителей в костюмах Санта-Клаусов, забирают из сейфа большую сумму денег, убивают менеджера и прибывших на вызов полицейских и скрываются, захватив в заложники сотрудницу Шерри, с которой у Нэйтана начали завязываться романтические отношения. Узнав, что прибытие подкрепления задерживается, Кейн бросается в погоню за преступниками, чтобы спасти девушку своей мечты.",
+      "popularity": 9.3926,
+      "poster_path": "/d7orM3Da3zt3AVf8qwfeOjVlozH.jpg",
+      "release_date": "2025-03-12",
+      "title": "Новокаин",
       "video": false,
-      "vote_average": 7.195,
-      "vote_count": 249,
+      "vote_average": 6.789,
+      "vote_count": 1576,
       "belongs_to_collection": null,
-      "budget": 6000000,
+      "budget": 18000000,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 53,
           "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt36491653",
+      "imdb_id": "tt29603959",
       "origin_country": [
-        "IR"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 2835,
-          "logo_path": null,
-          "name": "Jafar Panahi Productions",
-          "origin_country": "IR"
-        },
-        {
-          "id": 12389,
-          "logo_path": "/6yilbEvoHtPcTb4LwAueAq091iT.png",
-          "name": "Les Films Pelléas",
-          "origin_country": "FR"
-        },
-        {
-          "id": 20338,
-          "logo_path": "/yCTqaPPzFfjqKU2YAGWce4qQk1S.png",
-          "name": "Bidibul Productions",
-          "origin_country": "LU"
-        },
-        {
-          "id": 165898,
-          "logo_path": "/vBrwZHCYcp8T23rE3AsQu4ffA3J.png",
-          "name": "Pio & Co",
-          "origin_country": "FR"
-        },
-        {
-          "id": 94,
-          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
-          "name": "ARTE France Cinéma",
-          "origin_country": "FR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IR",
-          "name": "Iran"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "LU",
-          "name": "Luxembourg"
-        }
-      ],
-      "revenue": 9044840,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "Azerbaijani",
-          "iso_639_1": "az",
-          "name": "Azərbaycan"
-        },
-        {
-          "english_name": "Persian",
-          "iso_639_1": "fa",
-          "name": "فارسی"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/o94QPGgvZW3gysIfsbhQmysmAYo.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 843342,
-      "title": "Гамлет",
-      "original_language": "en",
-      "original_title": "Hamlet",
-      "overview": "Принц Гамлет перемещается из элитных районов города в бедные кварталы, палаточные городки и индуистские храмы. Пытаясь отомстить за убийство отца, он сталкивается с изнанкой мегаполиса и разложением собственной семьи.",
-      "popularity": 2.3807,
-      "poster_path": "/7cBh6fWchOJY961A8F1rT98HDdA.jpg",
-      "release_date": "2026-02-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.6,
-      "vote_count": 9,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt7798632",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 27543,
-          "logo_path": null,
-          "name": "JW Films",
+          "id": 25577,
+          "logo_path": "/2trboP7Exx3LEQqSHoo1sAmsC1i.png",
+          "name": "Safehouse Pictures",
           "origin_country": "US"
         },
         {
-          "id": 149331,
-          "logo_path": "/bNQ61EvZO1HWvAQKqzVqCqXNqkr.png",
-          "name": "Left Handed Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 22842,
-          "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
-          "name": "Waypoint Entertainment",
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
           "origin_country": "US"
         },
         {
-          "id": 288,
-          "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
-          "name": "BBC Film",
-          "origin_country": "GB"
+          "id": 247121,
+          "logo_path": null,
+          "name": "Infrared Pictures",
+          "origin_country": "US"
         },
         {
-          "id": 82857,
-          "logo_path": "/rp8g1y3wVKWfyQ21uWuzxKJ5bQn.png",
-          "name": "Confluential Films",
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 238806,
+          "logo_path": "/8KZiHGZs20UUS0zmzDbU1nUsIcr.png",
+          "name": "Circle Management + Production",
           "origin_country": "US"
         }
       ],
       "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
         {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 78451724,
-      "runtime": 113,
+      "revenue": 34536061,
+      "runtime": 110,
+      "softcore": false,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -279,7 +267,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
+      "tagline": "«Он не остановится, пока не вернёт её»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -503,157 +491,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
-      "genre_ids": [
-        28,
-        35,
-        53
-      ],
-      "id": 1195506,
-      "original_language": "en",
-      "original_title": "Novocaine",
-      "overview": "Сан-Диего. Нэйтан Кейн — скромный интроверт, который работает помощником менеджера в кредитно-трастовой компании. А ещё у парня редкое заболевание — врождённая нечувствительность к боли с ангидрозом. Накануне Рождества в контору врываются трое грабителей в костюмах Санта-Клаусов, забирают из сейфа большую сумму денег, убивают менеджера и прибывших на вызов полицейских и скрываются, захватив в заложники сотрудницу Шерри, с которой у Нэйтана начали завязываться романтические отношения. Узнав, что прибытие подкрепления задерживается, Кейн бросается в погоню за преступниками, чтобы спасти девушку своей мечты.",
-      "popularity": 9.3926,
-      "poster_path": "/d7orM3Da3zt3AVf8qwfeOjVlozH.jpg",
-      "release_date": "2025-03-12",
-      "title": "Новокаин",
-      "video": false,
-      "vote_average": 6.789,
-      "vote_count": 1576,
-      "belongs_to_collection": null,
-      "budget": 18000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt29603959",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 25577,
-          "logo_path": "/2trboP7Exx3LEQqSHoo1sAmsC1i.png",
-          "name": "Safehouse Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 247121,
-          "logo_path": null,
-          "name": "Infrared Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 238806,
-          "logo_path": "/8KZiHGZs20UUS0zmzDbU1nUsIcr.png",
-          "name": "Circle Management + Production",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 34536061,
-      "runtime": 110,
-      "softcore": false,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Он не остановится, пока не вернёт её»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/unXrjADknsh0kiQOT7hddvoiOhj.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 1629095,
-      "title": "Городские пацаны: Городские парни",
-      "original_language": "ro",
-      "original_title": "Băieți de oraș: Golden Boyz",
-      "overview": "Фильм рассказывает о приключениях двух недалеких молодых людей - Роби Роберто и Мэлоуна. В центре сюжета оказывается Мэлоун, который неожиданно получает шанс унаследовать 9 миллионов евро после смерти дальнего родственника. Однако есть условие: чтобы забрать деньги, ему необходимо получить диплом о высшем образовании. Герои пускаются во все тяжкие, пытаясь провернуть эту аферу, сталкиваясь с реалиями современного Бухареста.",
-      "popularity": 5.9509,
-      "poster_path": "/msmjEUOXH05AI5c6p3oQubJ282I.jpg",
-      "release_date": "2026-02-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 5,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt39195606",
-      "origin_country": [
-        "RO"
-      ],
-      "production_companies": [],
-      "production_countries": [
-        {
-          "iso_3166_1": "RO",
-          "name": "Romania"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "Romanian",
-          "iso_639_1": "ro",
-          "name": "Română"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
       "genre_ids": [
         36,
@@ -715,6 +552,61 @@
           "english_name": "Korean",
           "iso_639_1": "ko",
           "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/unXrjADknsh0kiQOT7hddvoiOhj.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1629095,
+      "title": "Городские пацаны: Городские парни",
+      "original_language": "ro",
+      "original_title": "Băieți de oraș: Golden Boyz",
+      "overview": "Фильм рассказывает о приключениях двух недалеких молодых людей - Роби Роберто и Мэлоуна. В центре сюжета оказывается Мэлоун, который неожиданно получает шанс унаследовать 9 миллионов евро после смерти дальнего родственника. Однако есть условие: чтобы забрать деньги, ему необходимо получить диплом о высшем образовании. Герои пускаются во все тяжкие, пытаясь провернуть эту аферу, сталкиваясь с реалиями современного Бухареста.",
+      "popularity": 5.9509,
+      "poster_path": "/msmjEUOXH05AI5c6p3oQubJ282I.jpg",
+      "release_date": "2026-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt39195606",
+      "origin_country": [
+        "RO"
+      ],
+      "production_companies": [],
+      "production_countries": [
+        {
+          "iso_3166_1": "RO",
+          "name": "Romania"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "Romanian",
+          "iso_639_1": "ro",
+          "name": "Română"
         }
       ],
       "status": "Released",
@@ -917,6 +809,85 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 1339210,
+      "title": "Привязанность",
+      "original_language": "en",
+      "original_title": "Affection",
+      "overview": "Элли сталкивается с тревожным состоянием, которое отнимает у нее память, из-за чего героиня не узнаёт мужа и дочь. Каждый провал в памяти дезориентирует её, оставляя после себя мучительные воспоминания о незнакомой жизни.",
+      "popularity": 8.4037,
+      "poster_path": "/epcmOEeDi3Jb4cOVE7tXk818zb1.jpg",
+      "release_date": "2026-05-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.25,
+      "vote_count": 8,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33249097",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 237316,
+          "logo_path": null,
+          "name": "Superconductive",
+          "origin_country": ""
+        },
+        {
+          "id": 59031,
+          "logo_path": "/tsuWPN5YdahhDmXkndvXGkikwCV.png",
+          "name": "Minutehand Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 63690,
+          "logo_path": null,
+          "name": "Circa 1888",
+          "origin_country": ""
+        },
+        {
+          "id": 11658,
+          "logo_path": "/hDKTXUEj1BR3Istbh2Zu5GOYvej.png",
+          "name": "Brainstorm Media",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/gEHDCtR9PNZvLG70sFBYJCFznRY.jpg",
       "genre_ids": [
         9648,
@@ -998,73 +969,6 @@
       ],
       "status": "Released",
       "tagline": "«У каждого есть свой секрет»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tsr2bliRfVD6kFvG2d5L6DVrxGF.jpg",
-      "genre_ids": [
-        35,
-        53
-      ],
-      "id": 1303498,
-      "title": "$Активы",
-      "original_language": "en",
-      "original_title": "$POSITIONS",
-      "overview": "В этой бурлящей современной комедии рабочий со Среднего Запада рискует своими сбережениями, вкладывая их в криптовалюту. У него уже образовалась зависимость от азарта, а также страдают отношения с девушкой, братом-инвалидом и восстанавливающимся кузеном-наркоманом.",
-      "popularity": 0.3178,
-      "poster_path": "/dCLWCSbqcb9bfOixZokehjimIKK.jpg",
-      "release_date": "2025-03-08",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 7,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt30304841",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 283135,
-          "logo_path": null,
-          "name": "Missing Link Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 97,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -1219,78 +1123,163 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+      "backdrop_path": "/tsr2bliRfVD6kFvG2d5L6DVrxGF.jpg",
       "genre_ids": [
-        18,
-        10751,
-        10749
+        35,
+        53
       ],
-      "id": 1427540,
-      "title": "Свобода в сердце",
-      "original_language": "de",
-      "original_title": "Free at Heart",
-      "overview": "В небольшом немецком городке подросток Себастьян живёт обычной жизнью: проводит время с друзьями, встречается с девушкой и пытается найти своё место в мире. Всё меняется после смерти давней знакомой его отца. Её сын Коля переезжает жить в их семью, и Себастьяну приходится делить дом с незнакомцем.  Коля быстро становится популярным в школе благодаря своему обаянию. Постепенно между парнями возникает крепкая дружба, которая вскоре перерастает в нечто большее. Себастьян начинает испытывать к Коле чувства, которых никогда раньше не знал, и оказывается перед непростым выбором: принять себя или продолжать скрывать правду.  Осознавая, что их отношения могут вызвать непонимание со стороны друзей и родителей, молодые люди вынуждены хранить свои чувства в тайне. Однако вскоре выясняется, что в этой семье есть и другие секреты, способные изменить жизнь каждого из её членов.",
-      "popularity": 1.3753,
-      "poster_path": "/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
-      "release_date": "2025-09-25",
+      "id": 1303498,
+      "title": "$Активы",
+      "original_language": "en",
+      "original_title": "$POSITIONS",
+      "overview": "В этой бурлящей современной комедии рабочий со Среднего Запада рискует своими сбережениями, вкладывая их в криптовалюту. У него уже образовалась зависимость от азарта, а также страдают отношения с девушкой, братом-инвалидом и восстанавливающимся кузеном-наркоманом.",
+      "popularity": 0.3178,
+      "poster_path": "/dCLWCSbqcb9bfOixZokehjimIKK.jpg",
+      "release_date": "2025-03-08",
       "softcore": false,
       "video": false,
-      "vote_average": 10,
-      "vote_count": 4,
+      "vote_average": 6.9,
+      "vote_count": 7,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt30304841",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 283135,
+          "logo_path": null,
+          "name": "Missing Link Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 97,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1443576,
+      "title": "Воскресенья",
+      "original_language": "es",
+      "original_title": "Los domingos",
+      "overview": "Молодая женщина по имени Айнара оказывается на распутье в личной жизни, размышляя о своих профессиональных перспективах, что вызывает немалое беспокойство у её семьи.",
+      "popularity": 4.2205,
+      "poster_path": "/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
+      "release_date": "2025-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 133,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 18,
           "name": "драма"
-        },
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt40204609",
+      "imdb_id": "tt35513027",
       "origin_country": [
-        "DE"
+        "ES"
       ],
       "production_companies": [
         {
-          "id": 56362,
-          "logo_path": "/bBI4iiqT8LDjtetbHyyjIL0Lf59.png",
-          "name": "Junifilm",
-          "origin_country": "DE"
+          "id": 13285,
+          "logo_path": "/eSTUEqS5IAoUZdGEnm36TMiD2ft.png",
+          "name": "Encanta Films",
+          "origin_country": "ES"
         },
         {
-          "id": 29133,
-          "logo_path": "/jMePj4vRoaWcMMFqOPFNaHPraQR.png",
-          "name": "Bremedia Produktion",
-          "origin_country": "DE"
+          "id": 7344,
+          "logo_path": "/wSPFwK4I42Z63YWcuTzcq8e4dhw.png",
+          "name": "Sayaka Producciones",
+          "origin_country": "ES"
         },
         {
-          "id": 23983,
-          "logo_path": "/mwdVAta6xcY8eCpL5t8KKc96BWm.png",
-          "name": "SR",
-          "origin_country": "DE"
+          "id": 10128,
+          "logo_path": "/apcQLKRuLLqhi9fD1gaSL3argeo.png",
+          "name": "Think Studio",
+          "origin_country": "ES"
+        },
+        {
+          "id": 55260,
+          "logo_path": "/camFxiEQydhhZF5in1SGzMkLKuU.png",
+          "name": "Colosé Producciones",
+          "origin_country": "ES"
+        },
+        {
+          "id": 5125,
+          "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+          "name": "Le Pacte",
+          "origin_country": "FR"
+        },
+        {
+          "id": 67412,
+          "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+          "name": "Movistar Plus+",
+          "origin_country": "ES"
+        },
+        {
+          "id": 200804,
+          "logo_path": "/7rQ6WdOccPyIPI0pTztsxy3QikE.png",
+          "name": "Buena Pinta Media",
+          "origin_country": "ES"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "DE",
-          "name": "Germany"
+          "iso_3166_1": "ES",
+          "name": "Spain"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
       "revenue": 0,
-      "runtime": 116,
+      "runtime": 112,
       "spoken_languages": [
         {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
         }
       ],
       "status": "Released",
@@ -1387,23 +1376,82 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+      "backdrop_path": "/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
       "genre_ids": [
-        27,
-        9648
+        18,
+        10751,
+        10749
       ],
-      "id": 986097,
-      "title": "Тот самый",
-      "original_language": "en",
-      "original_title": "HIM",
-      "overview": "Перспективный квотербек Кэмерон Кэйд, с детства восхищавшийся великим игроком Исайей Уайтом, перед важным матчем получает черепно-мозговую травму и проваливает игру. У парня ещё есть шанс попасть в профессиональную команду, и ему поступает предложение от его кумира, уже завершающего карьеру, провести неделю на его личной тренировочной базе. Считая приглашение большой честью, Кэйд начинает подготовку в похожем на бункер специально оборудованном дизайнерском особняке Уайта, но нестандартный подход к тренировкам вызывает у парня всё больше сомнений.",
-      "popularity": 5.0871,
-      "poster_path": "/cFHadaNVKS57VevH7iGB3cEIugB.jpg",
-      "release_date": "2025-09-18",
+      "id": 1427540,
+      "title": "Свобода в сердце",
+      "original_language": "de",
+      "original_title": "Free at Heart",
+      "overview": "В небольшом немецком городке подросток Себастьян живёт обычной жизнью: проводит время с друзьями, встречается с девушкой и пытается найти своё место в мире. Всё меняется после смерти давней знакомой его отца. Её сын Коля переезжает жить в их семью, и Себастьяну приходится делить дом с незнакомцем.  Коля быстро становится популярным в школе благодаря своему обаянию. Постепенно между парнями возникает крепкая дружба, которая вскоре перерастает в нечто большее. Себастьян начинает испытывать к Коле чувства, которых никогда раньше не знал, и оказывается перед непростым выбором: принять себя или продолжать скрывать правду.  Осознавая, что их отношения могут вызвать непонимание со стороны друзей и родителей, молодые люди вынуждены хранить свои чувства в тайне. Однако вскоре выясняется, что в этой семье есть и другие секреты, способные изменить жизнь каждого из её членов.",
+      "popularity": 1.3753,
+      "poster_path": "/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
+      "release_date": "2025-09-25",
       "softcore": false,
       "video": false,
-      "vote_average": 5.626,
-      "vote_count": 396,
+      "vote_average": 10,
+      "vote_count": 4,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt40204609",
+      "origin_country": [
+        "DE"
+      ],
+      "production_companies": [
+        {
+          "id": 56362,
+          "logo_path": "/bBI4iiqT8LDjtetbHyyjIL0Lf59.png",
+          "name": "Junifilm",
+          "origin_country": "DE"
+        },
+        {
+          "id": 29133,
+          "logo_path": "/jMePj4vRoaWcMMFqOPFNaHPraQR.png",
+          "name": "Bremedia Produktion",
+          "origin_country": "DE"
+        },
+        {
+          "id": 23983,
+          "logo_path": "/mwdVAta6xcY8eCpL5t8KKc96BWm.png",
+          "name": "SR",
+          "origin_country": "DE"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 116,
+      "spoken_languages": [
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -1474,54 +1522,56 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+      "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "genre_ids": [
-        53,
-        9648,
-        35
+        28,
+        12,
+        878
       ],
-      "id": 812583,
+      "id": 1228710,
+      "title": "Мандалорец и Грогу",
       "original_language": "en",
-      "original_title": "Wake Up Dead Man: A Knives Out Mystery",
-      "overview": "Детектив Бенуа Бланк объединяет силы с молодым священником, чтобы раскрыть идеальное до невозможности преступление, совершённое в церкви небольшого городка с тёмной историей.",
-      "popularity": 95.508,
-      "poster_path": "/rffS3bS0shNAhsgCoXtJJOIEl70.jpg",
-      "release_date": "2025-11-26",
-      "title": "Достать ножи: Воскрешение покойника",
+      "original_title": "The Mandalorian and Grogu",
+      "overview": "Империя пала, но её военачальники всё ещё держат под своим контролем части галактики. Зарождающаяся Новая Республика пытается защитить идеалы, за которые сражались повстанцы, и нанимает для задания мандалорца Дина Джарина, известного охотника за головами, и его юного ученика Грогу.",
+      "popularity": 212.2515,
+      "poster_path": "/yWPrjlrV9R0eXwBrCvbM95oiepd.jpg",
+      "release_date": "2026-05-20",
+      "softcore": false,
       "video": false,
-      "vote_average": 7.208,
-      "vote_count": 1551,
-      "belongs_to_collection": {
-        "id": 722971,
-        "name": "Достать ножи (Коллекция)",
-        "poster_path": "/gtYz96onVcEfSUAbYwhZnPYL2NB.jpg",
-        "backdrop_path": "/G7qYINSq5xyDd0I0zn3DpAssA0.jpg"
-      },
-      "budget": 210000000,
+      "vote_average": 6.7,
+      "vote_count": 493,
+      "belongs_to_collection": null,
+      "budget": 165000000,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 12,
+          "name": "приключения"
         },
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 878,
+          "name": "фантастика"
         }
       ],
-      "homepage": "https://www.netflix.com/ru/title/81458424",
-      "imdb_id": "tt14364480",
+      "homepage": "",
+      "imdb_id": "tt30825738",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 37871,
-          "logo_path": "/aUOo1S2AabqQnRrXK6XuObWPDyK.png",
-          "name": "T-Street",
+          "id": 1,
+          "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+          "name": "Lucasfilm Ltd.",
+          "origin_country": "US"
+        },
+        {
+          "id": 7297,
+          "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
+          "name": "Fairview Entertainment",
           "origin_country": "US"
         }
       ],
@@ -1531,8 +1581,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 4000000,
-      "runtime": 140,
+      "revenue": 315100000,
+      "runtime": 132,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1541,7 +1591,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Не все секреты могут оставаться похороненными»",
+      "tagline": "«Таков путь»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [

@@ -5,67 +5,159 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg",
+      "backdrop_path": "/6pb3DTtHYh6ChqsmX9yFEX9GXVt.jpg",
       "genre_ids": [
-        35
+        18,
+        80,
+        9648,
+        53
       ],
-      "id": 1462322,
-      "original_language": "it",
-      "original_title": "Le città di pianura",
-      "overview": "Двое друзей отправляются в алкотур по окрестностям Венеции, вспоминают о бурной юности и разговаривают по душам. Они сталкиваются с молодым застенчивым студентом-архитектором и решают научить его веселиться так, чтобы было, о чем рассказать.",
-      "popularity": 0.7772,
-      "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-      "release_date": "2025-09-25",
-      "title": "На посошок",
+      "id": 1020047,
+      "title": "Кодекс Данте",
+      "original_language": "en",
+      "original_title": "In the Hand of Dante",
+      "overview": "Ник, писатель из Нью-Йорка XXI века, отправляется в опасное путешествие после того, как мафиозный босс поручает ему украсть рукопись «Божественной комедии», написанную рукой самого Данте Алигьери. В это же время Данте в XIV веке ищет вдохновение для создания своего величайшего произведения. Каждого из мужчин неосознанно связывает через время их одержимость любовью, красотой и божественным.",
+      "popularity": 27.4576,
+      "poster_path": "/i85r5XToa1qC8jyjoo4BbyMmdPT.jpg",
+      "release_date": "2026-06-12",
+      "softcore": false,
       "video": false,
-      "vote_average": 7.837,
-      "vote_count": 86,
+      "vote_average": 2.6,
+      "vote_count": 5,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 25000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt36491632",
+      "imdb_id": "tt1333644",
       "origin_country": [
-        "IT"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 7144,
-          "logo_path": "/wqc8HTYdCCFnguN2Ma55lr2HIyC.png",
-          "name": "Vivo Film",
+          "id": 124433,
+          "logo_path": "/35qnhOVKH84U5hehax1QvwXfRJt.png",
+          "name": "DreamCrew",
+          "origin_country": "US"
+        },
+        {
+          "id": 64061,
+          "logo_path": null,
+          "name": "MeMo Films",
           "origin_country": "IT"
         },
         {
-          "id": 112609,
-          "logo_path": "/9lpuWYlMInFARjrNUhVAzBW2YzT.png",
-          "name": "Maze Pictures",
-          "origin_country": "DE"
+          "id": 207819,
+          "logo_path": null,
+          "name": "Twin Productions",
+          "origin_country": "US"
         },
         {
-          "id": 155990,
-          "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
-          "name": "RAI Cinema",
-          "origin_country": "IT"
+          "id": 175863,
+          "logo_path": "/ktbhyc2ueDnZi26OS33wftWk2yI.png",
+          "name": "Screen Capital",
+          "origin_country": "CL"
+        },
+        {
+          "id": 143532,
+          "logo_path": "/uhx7zwjSesHR4WskNH2jcExikNE.png",
+          "name": "Tribune Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 270786,
+          "logo_path": null,
+          "name": "ITHOD Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 274396,
+          "logo_path": null,
+          "name": "Getaway Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 299972,
+          "logo_path": null,
+          "name": "ArtOfficial Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 222774,
+          "logo_path": null,
+          "name": "World Vision Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 299973,
+          "logo_path": null,
+          "name": "Rock Films",
+          "origin_country": ""
+        },
+        {
+          "id": 299974,
+          "logo_path": null,
+          "name": "Valor Capital",
+          "origin_country": ""
+        },
+        {
+          "id": 157114,
+          "logo_path": null,
+          "name": "Exemplary Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 135844,
+          "logo_path": "/hTgNzDrNZnsWuFjV8ZtXoP00V28.png",
+          "name": "Mad Gene Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 299975,
+          "logo_path": null,
+          "name": "Green Dragon",
+          "origin_country": ""
         }
       ],
       "production_countries": [
+        {
+          "iso_3166_1": "CL",
+          "name": "Chile"
+        },
         {
           "iso_3166_1": "IT",
           "name": "Italy"
         },
         {
-          "iso_3166_1": "DE",
-          "name": "Germany"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 98,
+      "runtime": 150,
       "spoken_languages": [
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
         {
           "english_name": "Italian",
           "iso_639_1": "it",
@@ -74,132 +166,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/e40FMjHg2RoypsjxygoTFB5jLUd.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1168719,
-      "original_language": "de",
-      "original_title": "Silent Friend",
-      "overview": "В 1908 году в Марбургский университет поступает первая студентка, в 1972 году застенчивый студент безнадёжно влюбляется в однокурсницу, а в 2020 году гонконгский нейробиолог не может покинуть кампус из-за пандемии. Действие разворачивается в ботаническом саду и охватывает три эпохи. Их объединяет один безмолвный свидетель — величественное дерево гинкго билоба.",
-      "popularity": 3.3271,
-      "poster_path": "/aIHFsmrNi2aJGvEFKZ7S7XwqHeJ.jpg",
-      "release_date": "2026-01-15",
-      "title": "Молчаливый друг",
-      "video": false,
-      "vote_average": 8.3,
-      "vote_count": 9,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27811632",
-      "origin_country": [
-        "FR",
-        "DE",
-        "HU"
-      ],
-      "production_companies": [
-        {
-          "id": 140,
-          "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
-          "name": "Pandora Film",
-          "origin_country": "DE"
-        },
-        {
-          "id": 793,
-          "logo_path": "/10DhIXAmAixQvBOsjZ1MOeSRyUC.png",
-          "name": "Galatée Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 11008,
-          "logo_path": "/ygmbJsCJjgzIIYrJSj9grhDCYFu.png",
-          "name": "Inforg-M&M Film",
-          "origin_country": "HU"
-        },
-        {
-          "id": 127914,
-          "logo_path": "/xaPfwbAnv2ULcCil5x6dPFmFs8z.png",
-          "name": "Rediance",
-          "origin_country": "CN"
-        },
-        {
-          "id": 11237,
-          "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
-          "name": "ZDF/Arte",
-          "origin_country": "DE"
-        },
-        {
-          "id": 94,
-          "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
-          "name": "ARTE France Cinéma",
-          "origin_country": "FR"
-        },
-        {
-          "id": 274902,
-          "logo_path": null,
-          "name": "Allons Voir",
-          "origin_country": "BE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "HU",
-          "name": "Hungary"
-        },
-        {
-          "iso_3166_1": "CN",
-          "name": "China"
-        },
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 147,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Cantonese",
-          "iso_639_1": "cn",
-          "name": "广州话 / 廣州話"
-        },
-        {
-          "english_name": "German",
-          "iso_639_1": "de",
-          "name": "Deutsch"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -380,6 +347,78 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1264805,
+      "title": "Что, если мы...",
+      "original_language": "ko",
+      "original_title": "만약에 우리",
+      "overview": "Сеул, 2008 год. В автобусе по пути в родной город судьба сводит Ын Хо и Чон Вон, зарождая неожиданную дружбу. Сражаясь с суматошной и утомительной городской жизнью, они обнаруживают, что разделяют возвышенные мечты и любовь, которая кажется необыкновенной. Но в конце концов суровая реальность жизни заставляет их расстаться. Спустя более десяти лет после разлуки они неожиданно воссоединяются во время обратного рейса в Корею, где вспоминают о потерянном времени.",
+      "popularity": 3.055,
+      "poster_path": "/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
+      "release_date": "2025-12-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 18,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt37764737",
+      "origin_country": [
+        "KR"
+      ],
+      "production_companies": [
+        {
+          "id": 170305,
+          "logo_path": null,
+          "name": "Covenant Pictures",
+          "origin_country": "KR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "KR",
+          "name": "South Korea"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 115,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/az1Okg0lODJSmGbk0nRxu2Ut0ol.jpg",
       "genre_ids": [
         18,
@@ -464,66 +503,61 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
+      "backdrop_path": "/nUMclZJRRwREfeP8liJ7LOddjnY.jpg",
       "genre_ids": [
-        10749,
-        18
+        28,
+        53
       ],
-      "id": 1264805,
-      "title": "Что, если мы...",
-      "original_language": "ko",
-      "original_title": "만약에 우리",
-      "overview": "Сеул, 2008 год. В автобусе по пути в родной город судьба сводит Ын Хо и Чон Вон, зарождая неожиданную дружбу. Сражаясь с суматошной и утомительной городской жизнью, они обнаруживают, что разделяют возвышенные мечты и любовь, которая кажется необыкновенной. Но в конце концов суровая реальность жизни заставляет их расстаться. Спустя более десяти лет после разлуки они неожиданно воссоединяются во время обратного рейса в Корею, где вспоминают о потерянном времени.",
-      "popularity": 3.055,
-      "poster_path": "/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
-      "release_date": "2025-12-31",
+      "id": 1617852,
+      "title": "Форсаж. На пределе скорости",
+      "original_language": "en",
+      "original_title": "Speed Faster",
+      "overview": "Эйс и его команда уличных гонщиков думали, что опасность может подстерегать лишь на трассе. Но когда таинственная организация начинает угрожать их близким, им приходится подчиниться. Они вынуждены работать на Церковь убийц, выполняя задание, от которого невозможно отказаться. Каждое испытание приближает их к разгадке: их не собирались отпускать живыми. Провал был частью плана с самого начала. Теперь Эйсу и его команде предстоит не только завершить миссию, но и выяснить, кто на самом деле стоит за всем этим. Предательство, скорость и борьба за выживание сливаются в одной гонке, где ставка - не победа, а жизнь.",
+      "popularity": 2.2464,
+      "poster_path": "/dKYp9uUlDufvL0gWHve8nuzePdk.jpg",
+      "release_date": "2026-01-23",
       "softcore": false,
       "video": false,
-      "vote_average": 7.5,
-      "vote_count": 18,
-      "belongs_to_collection": null,
+      "vote_average": 6.4,
+      "vote_count": 6,
+      "belongs_to_collection": {
+        "id": 1622273,
+        "name": "The Ace Collection",
+        "poster_path": "/taI6lmRAXFbHMEeBg6NFppAOJHG.jpg",
+        "backdrop_path": null
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 28,
+          "name": "боевик"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt37764737",
+      "imdb_id": "tt33987666",
       "origin_country": [
-        "KR"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 170305,
+          "id": 150736,
           "logo_path": null,
-          "name": "Covenant Pictures",
-          "origin_country": "KR"
+          "name": "Quiver Entertainment",
+          "origin_country": ""
         }
       ],
-      "production_countries": [
-        {
-          "iso_3166_1": "KR",
-          "name": "South Korea"
-        }
-      ],
+      "production_countries": [],
       "revenue": 0,
-      "runtime": 115,
+      "runtime": 87,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
         }
       ],
       "status": "Released",
@@ -591,141 +625,6 @@
           "english_name": "Italian",
           "iso_639_1": "it",
           "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jwRbJMGO3OZCwFLoJXn8tEbatJ2.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1375831,
-      "title": "Оно. Первое пришествие",
-      "original_language": "en",
-      "original_title": "Diabolic",
-      "overview": "Десять лет назад Элиз была изгнана из мормонской общины после участия в пугающем обряде. С тех пор она живёт обычной жизнью, но её преследуют провалы в памяти, жестокие приступы безумия и чувство, что за ней кто-то наблюдает. Врачи разводят руками. В отчаянии она соглашается на предложение друзей вернуться в лоно церкви и пройти ритуал очищения. Но всё идёт не по плану. Вместо исцеления Элиз впускает в мир древнее зло, которое жаждет вселиться в её тело.",
-      "popularity": 6.5361,
-      "poster_path": "/mtKzF9JHKpTyaRHztu1fQM54vNh.jpg",
-      "release_date": "2025-11-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.3,
-      "vote_count": 50,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt17348060",
-      "origin_country": [
-        "AU"
-      ],
-      "production_companies": [
-        {
-          "id": 106364,
-          "logo_path": null,
-          "name": "Sunjive Studios",
-          "origin_country": "AU"
-        },
-        {
-          "id": 242650,
-          "logo_path": null,
-          "name": "Empire Road Pictures",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nUMclZJRRwREfeP8liJ7LOddjnY.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1617852,
-      "title": "Форсаж. На пределе скорости",
-      "original_language": "en",
-      "original_title": "Speed Faster",
-      "overview": "Эйс и его команда уличных гонщиков думали, что опасность может подстерегать лишь на трассе. Но когда таинственная организация начинает угрожать их близким, им приходится подчиниться. Они вынуждены работать на Церковь убийц, выполняя задание, от которого невозможно отказаться. Каждое испытание приближает их к разгадке: их не собирались отпускать живыми. Провал был частью плана с самого начала. Теперь Эйсу и его команде предстоит не только завершить миссию, но и выяснить, кто на самом деле стоит за всем этим. Предательство, скорость и борьба за выживание сливаются в одной гонке, где ставка - не победа, а жизнь.",
-      "popularity": 2.2464,
-      "poster_path": "/dKYp9uUlDufvL0gWHve8nuzePdk.jpg",
-      "release_date": "2026-01-23",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 6,
-      "belongs_to_collection": {
-        "id": 1622273,
-        "name": "The Ace Collection",
-        "poster_path": "/taI6lmRAXFbHMEeBg6NFppAOJHG.jpg",
-        "backdrop_path": null
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33987666",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 150736,
-          "logo_path": null,
-          "name": "Quiver Entertainment",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 87,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
         }
       ],
       "status": "Released",
@@ -1045,152 +944,62 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+      "backdrop_path": "/jwRbJMGO3OZCwFLoJXn8tEbatJ2.jpg",
       "genre_ids": [
-        35,
-        18
+        27
       ],
-      "id": 1314481,
-      "title": "Дьявол носит Prada 2",
+      "id": 1375831,
+      "title": "Оно. Первое пришествие",
       "original_language": "en",
-      "original_title": "The Devil Wears Prada 2",
-      "overview": "Редактор модного журнала Миранда Пристли борется со своей бывшей помощницей Эмили Чарлтон, ныне руководительницей конкурирующего издания, за рекламные контракты. Пока печатные СМИ переживают кризис, Миранда готовится уйти на пенсию.",
-      "popularity": 75.1301,
-      "poster_path": "/rszWffz3SMz42OLvA6ks1pizRRY.jpg",
-      "release_date": "2026-04-29",
+      "original_title": "Diabolic",
+      "overview": "Десять лет назад Элиз была изгнана из мормонской общины после участия в пугающем обряде. С тех пор она живёт обычной жизнью, но её преследуют провалы в памяти, жестокие приступы безумия и чувство, что за ней кто-то наблюдает. Врачи разводят руками. В отчаянии она соглашается на предложение друзей вернуться в лоно церкви и пройти ритуал очищения. Но всё идёт не по плану. Вместо исцеления Элиз впускает в мир древнее зло, которое жаждет вселиться в её тело.",
+      "popularity": 6.5361,
+      "poster_path": "/mtKzF9JHKpTyaRHztu1fQM54vNh.jpg",
+      "release_date": "2025-11-20",
       "softcore": false,
       "video": false,
-      "vote_average": 6.7,
-      "vote_count": 579,
-      "belongs_to_collection": {
-        "id": 1314623,
-        "name": "Дьявол носит Prada (Коллекция)",
-        "poster_path": "/1W7vD9TYOIkNbDXx0hwGmNSAjW7.jpg",
-        "backdrop_path": "/h3EaoLd3ZyYyx5ME9dWTXcmTMCM.jpg"
-      },
-      "budget": 100000000,
+      "vote_average": 6.3,
+      "vote_count": 50,
+      "belongs_to_collection": null,
+      "budget": 0,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
+          "id": 27,
+          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt33612209",
+      "imdb_id": "tt17348060",
       "origin_country": [
-        "US"
+        "AU"
       ],
       "production_companies": [
         {
-          "id": 127928,
-          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-          "name": "20th Century Studios",
-          "origin_country": "US"
+          "id": 106364,
+          "logo_path": null,
+          "name": "Sunjive Studios",
+          "origin_country": "AU"
         },
         {
-          "id": 412,
+          "id": 242650,
           "logo_path": null,
-          "name": "Wendy Finerman Productions",
-          "origin_country": "US"
+          "name": "Empire Road Pictures",
+          "origin_country": ""
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "AU",
+          "name": "Australia"
         }
       ],
-      "revenue": 546200000,
-      "runtime": 119,
+      "revenue": 0,
+      "runtime": 95,
       "spoken_languages": [
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Иконы правят вечно»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kskuAryLOhMTtsb8QIngE1H4XmJ.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1369243,
-      "title": "(Без)контроля",
-      "original_language": "pt",
-      "original_title": "(Des)controle",
-      "overview": "В неспокойный период своей жизни и карьеры писательница, испытывающая творческий кризис, возвращается к алкоголю после 15 лет трезвости, но вместо того, чтобы ограничиться бокалом вина, теряет контроль над собой.",
-      "popularity": 1.5454,
-      "poster_path": "/qHwHEgBiJNgYrTYHtEWN2yiXyy7.jpg",
-      "release_date": "2026-02-05",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 5,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33825630",
-      "origin_country": [
-        "BR"
-      ],
-      "production_companies": [
-        {
-          "id": 54386,
-          "logo_path": "/pqbhVbxp2qLqILbJf1XMxt6Cmq9.png",
-          "name": "Migdal Filmes",
-          "origin_country": "BR"
-        },
-        {
-          "id": 191676,
-          "logo_path": "/Nx5iRM489D20CjxZ3zKMaz7Jdq.png",
-          "name": "Elo Studios",
-          "origin_country": "BR"
-        },
-        {
-          "id": 63520,
-          "logo_path": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
-          "name": "Sony Pictures International Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 40994,
-          "logo_path": "/kyl2LrS9dGnBcJRLx6ST2Qsaxan.png",
-          "name": "RioFilme",
-          "origin_country": "BR"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "BR",
-          "name": "Brazil"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "Portuguese",
-          "iso_639_1": "pt",
-          "name": "Português"
         }
       ],
       "status": "Released",
@@ -1530,6 +1339,164 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1314481,
+      "title": "Дьявол носит Prada 2",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada 2",
+      "overview": "Редактор модного журнала Миранда Пристли борется со своей бывшей помощницей Эмили Чарлтон, ныне руководительницей конкурирующего издания, за рекламные контракты. Пока печатные СМИ переживают кризис, Миранда готовится уйти на пенсию.",
+      "popularity": 75.1301,
+      "poster_path": "/rszWffz3SMz42OLvA6ks1pizRRY.jpg",
+      "release_date": "2026-04-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 579,
+      "belongs_to_collection": {
+        "id": 1314623,
+        "name": "Дьявол носит Prada (Коллекция)",
+        "poster_path": "/1W7vD9TYOIkNbDXx0hwGmNSAjW7.jpg",
+        "backdrop_path": "/h3EaoLd3ZyYyx5ME9dWTXcmTMCM.jpg"
+      },
+      "budget": 100000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33612209",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 127928,
+          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+          "name": "20th Century Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 412,
+          "logo_path": null,
+          "name": "Wendy Finerman Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 546200000,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Иконы правят вечно»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kskuAryLOhMTtsb8QIngE1H4XmJ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1369243,
+      "title": "(Без)контроля",
+      "original_language": "pt",
+      "original_title": "(Des)controle",
+      "overview": "В неспокойный период своей жизни и карьеры писательница, испытывающая творческий кризис, возвращается к алкоголю после 15 лет трезвости, но вместо того, чтобы ограничиться бокалом вина, теряет контроль над собой.",
+      "popularity": 1.5454,
+      "poster_path": "/qHwHEgBiJNgYrTYHtEWN2yiXyy7.jpg",
+      "release_date": "2026-02-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33825630",
+      "origin_country": [
+        "BR"
+      ],
+      "production_companies": [
+        {
+          "id": 54386,
+          "logo_path": "/pqbhVbxp2qLqILbJf1XMxt6Cmq9.png",
+          "name": "Migdal Filmes",
+          "origin_country": "BR"
+        },
+        {
+          "id": 191676,
+          "logo_path": "/Nx5iRM489D20CjxZ3zKMaz7Jdq.png",
+          "name": "Elo Studios",
+          "origin_country": "BR"
+        },
+        {
+          "id": 63520,
+          "logo_path": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
+          "name": "Sony Pictures International Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 40994,
+          "logo_path": "/kyl2LrS9dGnBcJRLx6ST2Qsaxan.png",
+          "name": "RioFilme",
+          "origin_country": "BR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BR",
+          "name": "Brazil"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/fPSFcnG6onc8NGb246PWcASIlGz.jpg",
       "genre_ids": [
         18,
@@ -1609,6 +1576,73 @@
       ],
       "revenue": 0,
       "runtime": 102,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uUst6D5uksVXcz5a3GYLT9oDVwF.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1458180,
+      "title": "Таинственный лес. Родовое проклятие",
+      "original_language": "en",
+      "original_title": "The Arborist",
+      "overview": "После гибели мужа ландшафтный архитектор Элли пытается свести концы с концами и достойно воспитать сына Уайатта. Когда эксцентричный затворник Артур предлагает ей щедрый гонорар за вырубку деревьев на территории его отдалённого поместья, она хватается за этот шанс, не подозревая о тёмной истории этих мест. По мере того как они углубляются в чащу, становится ясно: этот лес хранит самые разные тайны. И, похоже, с каждым спиленным деревом зло всё больше просачивается в реальность.",
+      "popularity": 0.6949,
+      "poster_path": "/qIgxBrdlggAmwXkLZ4NbKj92l64.jpg",
+      "release_date": "2025-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.958,
+      "vote_count": 12,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt15366276",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 258288,
+          "logo_path": null,
+          "name": "Black Kettle Films",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
       "spoken_languages": [
         {
           "english_name": "English",

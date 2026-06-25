@@ -9,29 +9,34 @@
   "items": [
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/aNl3C4dEIZSHR8uAlWj9DDjrjbt.jpg",
       "genre_ids": [
-        53,
+        18,
+        35,
         27
       ],
-      "id": 919345,
-      "title": "Кольцо желания",
+      "id": 1422120,
+      "title": "Русалка",
       "original_language": "en",
-      "original_title": "Ring of Desire",
-      "overview": "Древнее кольцо, дарующее власть над теми, кто его носит, вернулось, чтобы сеять хаос в маленьком городке. К счастью, потомок первой владелицы этого артефакта осознает его силу и помогает отдыхающей паре вернуть кольцо туда, откуда оно появилось.",
-      "popularity": 0.3907,
-      "poster_path": "/24YKUWqtmbW70Ojz0SSynYcMgNs.jpg",
-      "release_date": "2021-11-09",
+      "original_title": "Mermaid",
+      "overview": "Даг — погрязший в долгах и зависимостях неудачник из Флориды, которого только что уволили с работы. В момент полного отчаяния он находит на побережье раненую русалку. Спрятав существо в своём полуразвалившемся доме, Даг начинает выхаживать её, но забота быстро перерастает в опасную одержимость. Когда о русалке узнают жестокие дельцы, Дагу приходится пойти на всё, чтобы защитить свою жуткую тайну.",
+      "popularity": 14.9279,
+      "poster_path": "/ndGA7b7b81a32HQCAVRZ5RWyfJ1.jpg",
+      "release_date": "2026-04-08",
       "softcore": false,
       "video": false,
-      "vote_average": 2.3,
-      "vote_count": 3,
+      "vote_average": 5.5,
+      "vote_count": 4,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 27,
@@ -39,21 +44,27 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt10555544",
+      "imdb_id": "tt34435532",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 123310,
+          "id": 188565,
+          "logo_path": "/u2S01tvRVRyrBS5L5FEBrjNnoFC.png",
+          "name": "Bad Grey",
+          "origin_country": "US"
+        },
+        {
+          "id": 291304,
           "logo_path": null,
-          "name": "Patel Films",
+          "name": "Candy Pictures",
           "origin_country": ""
         },
         {
-          "id": 103474,
-          "logo_path": null,
-          "name": "Summer Hill Films",
+          "id": 291305,
+          "logo_path": "/vnEwLwwx7MxkBUdFhfwAuXKpDY3.png",
+          "name": "Pilot Moon",
           "origin_country": "US"
         }
       ],
@@ -64,7 +75,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 86,
+      "runtime": 106,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -75,156 +86,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6nvf7s9KmZ52eJXwHBdDldExfdV.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 39222,
-      "title": "Поцелуй вампира",
-      "original_language": "en",
-      "original_title": "The Kiss of the Vampire",
-      "overview": "Недавно поженившиеся Джеральд и Марианна путешествуют по южной Европе. В одном из маленьких поселков у них кончается бензин, и молодожёнам приходится остаться в этом месте на несколько дней. Здесь они встречаются с доктором Равной, который, поражённый красотой Марианны, приглашает их в свой замок. Парочка принимает приглашение, не подозревая, что доктор на самом деле является лидером древнего вампирского культа.",
-      "popularity": 0.7964,
-      "poster_path": "/4RHWz6frLuTxuRW3Kh0YosOhdir.jpg",
-      "release_date": "1963-09-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 114,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0057226",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 1314,
-          "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
-          "name": "Hammer Film Productions",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 89,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Latin",
-          "iso_639_1": "la",
-          "name": "Latin"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5df2SlPsS3qy2ingji1Wf1sCMO.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 210947,
-      "title": "Поражённый",
-      "original_language": "en",
-      "original_title": "Afflicted",
-      "overview": "Лучшие друзья Клифф и Дерек в поисках приключений отправляются в кругосветное путешествие. После загадочного знакомства с таинственной незнакомкой, Дерек переживает трансформацию и превращается в кровожадное создание. Наводящее ужас путешествие приводит друзей на край света…",
-      "popularity": 1.6354,
-      "poster_path": "/qsucjQrcsVYYWeXsM2fu5nPp4p0.jpg",
-      "release_date": "2014-04-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 619,
-      "belongs_to_collection": null,
-      "budget": 318000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2309961",
-      "origin_country": [
-        "CA"
-      ],
-      "production_companies": [
-        {
-          "id": 806,
-          "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
-          "name": "Téléfilm Canada",
-          "origin_country": "CA"
-        },
-        {
-          "id": 85465,
-          "logo_path": "/oxx1bmXDQxeBsvYZmCxMtfJ5wa3.png",
-          "name": "Oddfellows Entertainment",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        }
-      ],
-      "revenue": 121179,
-      "runtime": 85,
-      "spoken_languages": [
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
@@ -1133,6 +994,79 @@
     },
     {
       "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 919345,
+      "title": "Кольцо желания",
+      "original_language": "en",
+      "original_title": "Ring of Desire",
+      "overview": "Древнее кольцо, дарующее власть над теми, кто его носит, вернулось, чтобы сеять хаос в маленьком городке. К счастью, потомок первой владелицы этого артефакта осознает его силу и помогает отдыхающей паре вернуть кольцо туда, откуда оно появилось.",
+      "popularity": 0.3907,
+      "poster_path": "/24YKUWqtmbW70Ojz0SSynYcMgNs.jpg",
+      "release_date": "2021-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.3,
+      "vote_count": 3,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt10555544",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 123310,
+          "logo_path": null,
+          "name": "Patel Films",
+          "origin_country": ""
+        },
+        {
+          "id": 103474,
+          "logo_path": null,
+          "name": "Summer Hill Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/bWF5ImUscXXYia8owpm8coadR4m.jpg",
       "genre_ids": [
         28,
@@ -1187,6 +1121,107 @@
       ],
       "revenue": 217753,
       "runtime": 133,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5nXkgjQ1TqhqSWut8TNoIGogId9.jpg",
+      "genre_ids": [
+        53,
+        18,
+        27
+      ],
+      "id": 3511,
+      "title": "Отражение",
+      "original_language": "en",
+      "original_title": "The Broken",
+      "overview": "Когда за праздничным ужином разбилось старое зеркало, привычный мир Джины рухнул. Возвращаясь на следующий день домой, она вдруг увидела себя в своей машине. Потрясенная этим, она следует за загадочной незнакомкой до её дома… С этого момента вся жизнь Джины поставлена под сомнение. Мир, в который она попадает, намного страшнее ночных кошмаров.",
+      "popularity": 2.2606,
+      "poster_path": "/9NHxlbWzeRVhUTo2u4GRBpnjwxB.jpg",
+      "release_date": "2008-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 221,
+      "belongs_to_collection": null,
+      "budget": 6700000,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0906734",
+      "origin_country": [
+        "US",
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 1435,
+          "logo_path": null,
+          "name": "Left Turn Films",
+          "origin_country": ""
+        },
+        {
+          "id": 1436,
+          "logo_path": "/3VRz5vPmsObDLAYFMmRaSA6swkj.png",
+          "name": "Ugly Duckling Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 9,
+          "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+          "name": "Gaumont",
+          "origin_country": "FR"
+        },
+        {
+          "id": 23611,
+          "logo_path": null,
+          "name": "Thriller",
+          "origin_country": ""
+        },
+        {
+          "id": 7961,
+          "logo_path": null,
+          "name": "Gaumont International",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 93,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1343,336 +1378,152 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/a7VEgrESjAnoAUgonPEDXkzol2f.jpg",
+      "backdrop_path": "/xnShZK7y4lupUmXghz75HRSooW9.jpg",
       "genre_ids": [
-        27,
-        878
+        27
       ],
-      "id": 1339210,
-      "title": "Привязанность",
+      "id": 9373,
+      "title": "Техасская резня бензопилой",
       "original_language": "en",
-      "original_title": "Affection",
-      "overview": "Элли сталкивается с тревожным состоянием, которое отнимает у нее память, из-за чего героиня не узнаёт мужа и дочь. Каждый провал в памяти дезориентирует её, оставляя после себя мучительные воспоминания о незнакомой жизни.",
-      "popularity": 8.4037,
-      "poster_path": "/epcmOEeDi3Jb4cOVE7tXk818zb1.jpg",
-      "release_date": "2026-05-08",
+      "original_title": "The Texas Chainsaw Massacre",
+      "overview": "В штате Техас на ферме обычного работника скотобойни Томаса Хьюитта полиция обнаружила 33 изувеченных человеческих тела. Ужасающее открытие шокировало людей, и было названо самым жутким массовым убийством за все время. Газеты писали: «Дом террора национального масштаба. Бойня в Техасе». Пресса окрестила убийцу как «Человек с лицом из кожи».  Местные власти застрелили человека, носившего на лице кожаную маску. Дело было закрыто. Но в последующие годы, множество убийств показало, что полиция нашла не того преступника. Случайно уцелевший свидетель рассказал настоящую историю того, что на самом деле произошло на заброшенном техасском шоссе, когда пятеро подростков оказались в ловушке у безумного человека с бензопилой…",
+      "popularity": 9.0381,
+      "poster_path": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+      "release_date": "2003-05-21",
       "softcore": false,
       "video": false,
-      "vote_average": 6.25,
-      "vote_count": 8,
-      "belongs_to_collection": null,
+      "vote_average": 6.303,
+      "vote_count": 2912,
+      "belongs_to_collection": {
+        "id": 425175,
+        "name": "Техасская резня бензопилой (Перезапуск) | (Коллекция)",
+        "poster_path": "/jfdKA3QK5kxdOKsolXvK0roYb27.jpg",
+        "backdrop_path": "/9z2HzirMPY51IBrBTFlt21JX3iP.jpg"
+      },
+      "budget": 9500000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0324216",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1633,
+          "logo_path": null,
+          "name": "Next Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 2481,
+          "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+          "name": "Platinum Dunes",
+          "origin_country": "US"
+        },
+        {
+          "id": 350,
+          "logo_path": "/bW7Ew27756PFKI3ucLFDIKEkFc0.png",
+          "name": "Radar Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 12,
+          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+          "name": "New Line Cinema",
+          "origin_country": "US"
+        },
+        {
+          "id": 10146,
+          "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+          "name": "Focus Features",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 107385515,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Узнай, как рождается страх»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e3IPovVj7wiLoBVftaHz4oafWxQ.jpg",
+      "genre_ids": [
+        14,
+        27,
+        53
+      ],
+      "id": 28529,
+      "original_language": "en",
+      "original_title": "Sorceress",
+      "overview": "Жизнь Ларри просто прекрасна. У него есть высокооплачиваемая работа в процветающей юридической фирме и красавица жена Эрика, готовая пойти на все ради счастья мужа, даже на убийство его конкурентов с помощью черной магии.\r После неудачной попытки покушения на Говарда, коллегу Ларри, способного помешать его карьере, Эрика навлекает на себя гнев жены Говарда Амелии, настоящей современной колдуньи. Используя всю свою дьявольскую силу, Амелия окружает Эрику и Ларри пеленой чар черной магии, вырваться из которой практически невозможно.",
+      "popularity": 1.3986,
+      "poster_path": "/4yTPpffXf0WA33rgweZ1Y7PUe0L.jpg",
+      "release_date": "1995-01-04",
+      "title": "Любовь и магия 2: Колдунья",
+      "video": false,
+      "vote_average": 4.907,
+      "vote_count": 43,
+      "belongs_to_collection": {
+        "id": 979262,
+        "name": "Sorceress Collection",
+        "poster_path": "/v17VSLeAF7tduathoDLSyMTIAC6.jpg",
+        "backdrop_path": "/AamTArFn1fHCiPIqr326T4zhUyb.jpg"
+      },
       "budget": 0,
       "genres": [
         {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33249097",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 237316,
-          "logo_path": null,
-          "name": "Superconductive",
-          "origin_country": ""
-        },
-        {
-          "id": 59031,
-          "logo_path": "/tsuWPN5YdahhDmXkndvXGkikwCV.png",
-          "name": "Minutehand Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 63690,
-          "logo_path": null,
-          "name": "Circa 1888",
-          "origin_country": ""
-        },
-        {
-          "id": 11658,
-          "logo_path": "/hDKTXUEj1BR3Istbh2Zu5GOYvej.png",
-          "name": "Brainstorm Media",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
-      "spoken_languages": [],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4JwThVCKvaUITU9QYUhRaabNM1Y.jpg",
-      "genre_ids": [
-        35,
-        27,
-        80
-      ],
-      "id": 1464013,
-      "title": "Лотерея штата Массачусетс",
-      "original_language": "en",
-      "original_title": "Mass State Lottery",
-      "overview": "Детектив, потерявший контроль над собственной головой, расследует серию жестоких преступлений, не замечая, как сам становится частью этой истории. Реальность трескается, личности смешиваются, а финал оказывается куда ближе и опаснее, чем он думал.",
-      "popularity": 0.1151,
-      "poster_path": "/4O2eq8kQGUGjl0tFliPnfAsi2Rv.jpg",
-      "release_date": "2025-08-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 9.5,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 7000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
+          "id": 14,
+          "name": "фэнтези"
         },
         {
           "id": 27,
           "name": "ужасы"
         },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt12781876",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 231982,
-          "logo_path": null,
-          "name": "Forgotten Genres",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 114,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kUpD6EnpnQBi3mjYxmiM4xvuh8g.jpg",
-      "genre_ids": [
-        27,
-        878,
-        35
-      ],
-      "id": 9035,
-      "title": "Слизняк",
-      "original_language": "en",
-      "original_title": "Slither",
-      "overview": "Грант Грант, житель маленького городка Уилси, обнаруживает в лесу упавший метеорит. Из этого космического тела исторгается некая субстанция, которая тут же поселяется в груди Гранта. После этого с ним начинают происходить странные метаморфозы.\r Он постоянно испытывает сильный голод, а его тело подвергается трансформациям. Когда же Грант осознает свое новое предназначение, он бросается превращать других жителей городка в таких же, как и он, ненасытных зомби. Первым делом Грант хочет проделать это с собственной женой Старлой, однако местный шериф Билл Парди делает все, чтобы защитить ее и весь город от космической чумы…",
-      "popularity": 5.6471,
-      "poster_path": "/5z6ROKVsawr9RPB2IztkuHBz7gV.jpg",
-      "release_date": "2006-03-31",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.546,
-      "vote_count": 1723,
-      "belongs_to_collection": null,
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0439815",
-      "origin_country": [
-        "CA"
-      ],
-      "production_companies": [
-        {
-          "id": 655,
-          "logo_path": null,
-          "name": "Strike Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 122531,
-          "logo_path": null,
-          "name": "Slither Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 12026,
-          "logo_path": "/l1Y8SRH3EaElU2niZQLT3I8tOFp.png",
-          "name": "Gold Circle Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 1063,
-          "logo_path": "/fpVBhNnopOZwGuF0gg99oBHp1ht.png",
-          "name": "Brightlight Pictures",
-          "origin_country": "CA"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 12834936,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_horror"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5nXkgjQ1TqhqSWut8TNoIGogId9.jpg",
-      "genre_ids": [
-        53,
-        18,
-        27
-      ],
-      "id": 3511,
-      "title": "Отражение",
-      "original_language": "en",
-      "original_title": "The Broken",
-      "overview": "Когда за праздничным ужином разбилось старое зеркало, привычный мир Джины рухнул. Возвращаясь на следующий день домой, она вдруг увидела себя в своей машине. Потрясенная этим, она следует за загадочной незнакомкой до её дома… С этого момента вся жизнь Джины поставлена под сомнение. Мир, в который она попадает, намного страшнее ночных кошмаров.",
-      "popularity": 2.2606,
-      "poster_path": "/9NHxlbWzeRVhUTo2u4GRBpnjwxB.jpg",
-      "release_date": "2008-11-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.4,
-      "vote_count": 221,
-      "belongs_to_collection": null,
-      "budget": 6700000,
-      "genres": [
         {
           "id": 53,
           "name": "триллер"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0906734",
+      "imdb_id": "tt0111244",
       "origin_country": [
-        "US",
-        "GB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 1435,
+          "id": 4825,
           "logo_path": null,
-          "name": "Left Turn Films",
+          "name": "Win-Tone Productions",
           "origin_country": ""
-        },
-        {
-          "id": 1436,
-          "logo_path": "/3VRz5vPmsObDLAYFMmRaSA6swkj.png",
-          "name": "Ugly Duckling Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 9,
-          "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
-          "name": "Gaumont",
-          "origin_country": "FR"
-        },
-        {
-          "id": 23611,
-          "logo_path": null,
-          "name": "Thriller",
-          "origin_country": ""
-        },
-        {
-          "id": 7961,
-          "logo_path": null,
-          "name": "Gaumont International",
-          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
@@ -1686,7 +1537,195 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "1080p",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dHkKPuiPSw9BbfAt1zdEZCuAzTX.jpg",
+      "genre_ids": [
+        14,
+        27,
+        10749
+      ],
+      "id": 11979,
+      "title": "Королева проклятых",
+      "original_language": "en",
+      "original_title": "Queen of the Damned",
+      "overview": "Легендарный вампир Лестат пробудился после долгих лет сна и решил выйти в свет. Теперь он имеет возможность перемещаться среди смертных в образе некой рок-звезды. Его опьяняющая музыка — приманка популярна во всем мире, и в конечном счете, доходит до ушей дремлющей Королевы Акаши в ее склепе во льдах Арктики.Мать всех вампиров, Акаша отдыхала несколько столетий, ожидая подходящее время для того, чтобы подняться и вновь захватить власть по всему миру. Музыка Лестата — открытие, которого она ожидала…",
+      "popularity": 3.149,
+      "poster_path": "/2AcJlgzxjBXYXjjF4mFlpAsHmbZ.jpg",
+      "release_date": "2002-02-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.095,
+      "vote_count": 1174,
+      "belongs_to_collection": {
+        "id": 217704,
+        "name": "Хроники вампиров (Коллекция)",
+        "poster_path": "/dNKDOa3lQdEmv7fgaxjSLuPC5KQ.jpg",
+        "backdrop_path": "/fe3jiMgJ4X06lEubyD00TzZjeYD.jpg"
+      },
+      "budget": 35000000,
+      "genres": [
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0238546",
+      "origin_country": [
+        "US",
+        "AU"
+      ],
+      "production_companies": [
+        {
+          "id": 67988,
+          "logo_path": null,
+          "name": "WV Films LLC",
+          "origin_country": ""
+        },
+        {
+          "id": 79,
+          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+          "name": "Village Roadshow Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 172,
+          "logo_path": null,
+          "name": "NPV Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 67989,
+          "logo_path": null,
+          "name": "Material",
+          "origin_country": ""
+        },
+        {
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 45479110,
+      "runtime": 101,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«This time there are no interviews.»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_horror"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 397243,
+      "original_language": "en",
+      "original_title": "The Autopsy of Jane Doe",
+      "overview": "Патологоанатомы маленького городка получают обнаруженное при странных обстоятельствах и хорошо сохранившееся тело молодой красивой девушки без видимой причины смерти. Они пытаются выяснить, кто она и как умерла, обнаруживая все более причудливые подсказки, которые ведут к тайнам её жизни и смерти.",
+      "popularity": 4.3271,
+      "poster_path": "/3xOfFiGZ8PK8PxRvVc7kjqyMqZU.jpg",
+      "release_date": "2016-12-21",
+      "title": "Демон внутри",
+      "video": false,
+      "vote_average": 6.832,
+      "vote_count": 4613,
+      "belongs_to_collection": null,
+      "budget": 4000000,
+      "genres": [
+        {
+          "id": 27,
+          "name": "ужасы"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt3289956",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 7437,
+          "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
+          "name": "IM Global",
+          "origin_country": "US"
+        },
+        {
+          "id": 53247,
+          "logo_path": null,
+          "name": "Impostor Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 84988,
+          "logo_path": "/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png",
+          "name": "42",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 6170043,
+      "runtime": 86,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Есть вещи страшнее смерти",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_horror"
