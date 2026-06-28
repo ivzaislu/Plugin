@@ -818,82 +818,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/bXSypDyknTtYmwjJl66QKHbGNW5.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
-      "id": 187938,
-      "original_language": "it",
-      "original_title": "Ponzio Pilato",
-      "overview": "Фильм начинается с суда над Понтием Пилатом. Пилат изображается как человек, желавший мира и процветания народу, которым его назначили управлять. Несмотря на сопротивление Синедриона, он строит акведук, дороги, а склоки и распри верхушки иудейского общества ему мешают, что становится для него настоящей трагедией. Варрава - разбойник, выполняющий за деньги любые приказания, показан…",
-      "popularity": 0.4834,
-      "poster_path": "/tOx5rxZPoxnqbjZxJyr0vCCJFvw.jpg",
-      "release_date": "1962-02-15",
-      "title": "Понтий Пилат",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 5,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0056358",
-      "origin_country": [
-        "IT"
-      ],
-      "production_companies": [
-        {
-          "id": 12243,
-          "logo_path": "/hztlrOaMK77kKdErDwogso0m2YS.png",
-          "name": "Lux Compagnie Cinématographique de France",
-          "origin_country": "FR"
-        },
-        {
-          "id": 8939,
-          "logo_path": null,
-          "name": "Glomer Film",
-          "origin_country": "IT"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "IT",
-          "name": "Italy"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_historical"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/oP79fXClGr3Qb51DBIEuJAOwgGp.jpg",
       "genre_ids": [
         36,
@@ -1559,6 +1483,88 @@
           "english_name": "French",
           "iso_639_1": "fr",
           "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_historical"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6srA1KSWjnysZivKIFZmROTzZuI.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10749
+      ],
+      "id": 20537,
+      "original_language": "en",
+      "original_title": "Caravaggio",
+      "overview": "Влиятельный итальянский артист Караваджо вспоминает перед смертью события своей жизни, начиная с детства и первых неудач в качестве художника и заканчивая триумфами и сложными личными отношениями.",
+      "popularity": 3.2347,
+      "poster_path": "/4TsayIEhoId7iahurgpKSNdSdEo.jpg",
+      "release_date": "1986-08-29",
+      "title": "Караваджо",
+      "video": false,
+      "vote_average": 6.11,
+      "vote_count": 155,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0090798",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 7281,
+          "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+          "name": "BFI",
+          "origin_country": "GB"
+        },
+        {
+          "id": 5778,
+          "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+          "name": "Channel 4 Television",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 93,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
