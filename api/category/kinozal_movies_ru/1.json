@@ -5,7 +5,7 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 240,
+  "total": 237,
   "items": [
     {
       "adult": false,
@@ -187,6 +187,181 @@
       "categories": [
         "kinozal_movies_ru",
         "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fofhDhWZfaKTGNqscYeaIiquVTp.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 265095,
+      "title": "Анна Павлова",
+      "original_language": "ru",
+      "original_title": "Анна Павлова",
+      "overview": "История жизни легендарной русской балерины: ее становления, триумфов и скитаний, самоотверженного служения искусству и личной драмы.",
+      "popularity": 1.3,
+      "poster_path": "/Agc5JiKMTZBKCIMFqtEFE5snLcR.jpg",
+      "release_date": "1983-08-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.75,
+      "vote_count": 8,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0086089",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 32054,
+          "logo_path": "/AbVNCbh21hLwbVHCeOazhsiitd9.png",
+          "name": "Sovinfilm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 57582,
+          "logo_path": null,
+          "name": "Poseidon Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        },
+        {
+          "id": 602,
+          "logo_path": "/pVsXRFbYVDe5BhsATCAh1rt5F0k.png",
+          "name": "DEFA-Studio für Spielfilme",
+          "origin_country": "XG"
+        },
+        {
+          "id": 5175,
+          "logo_path": "/685bT26uK9vuaCwf2Hylufdb4yI.png",
+          "name": "ICAIC",
+          "origin_country": "CU"
+        },
+        {
+          "id": 66332,
+          "logo_path": null,
+          "name": "Cosmos Film",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CU",
+          "name": "Cuba"
+        },
+        {
+          "iso_3166_1": "XG",
+          "name": "East Germany"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 146,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i5LtDEQZVX2SEGLtKnHUZfjH9bv.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 549272,
+      "title": "Високосный год",
+      "original_language": "ru",
+      "original_title": "Високосный год",
+      "overview": "Готовясь к встрече Нового года, никто из героев не предполагал, какие драматические события обрушатся на них, как сложно и неожиданно переплетутся судьбы трех семей, как нелегко будет оправиться от пережитого…",
+      "popularity": 0.5494,
+      "poster_path": "/wR2T5CNmGp6ZvCa2iyO2IHnAY7Y.jpg",
+      "release_date": "1961-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10,
+      "vote_count": 1,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0153576",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 94,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
       ]
     },
     {
@@ -441,31 +616,26 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/mu0G8tE9eCUNyTqDgsd2x2Iw1aB.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        35,
         18,
         36
       ],
-      "id": 37175,
-      "title": "О бедном гусаре замолвите слово",
+      "id": 1524045,
+      "title": "Залп «Авроры»",
       "original_language": "ru",
-      "original_title": "О бедном гусаре замолвите слово",
-      "overview": "Небольшой городок взбудоражен вступлением гусарского полка. Любовь, вспыхнувшая между корнетом и юной актрисой, неожиданно сталкивается с интригой, которую плетет петербургский чиновник. Вовлеченный им в коварную игру, погибает отец героини... Но зло в конце концов будет побеждено благородством, верностью и любовью.",
-      "popularity": 1.0411,
-      "poster_path": "/jlUvdZBN4n7h7NXID7ZkYlpi0IA.jpg",
-      "release_date": "1980-01-01",
+      "original_title": "Залп «Авроры»",
+      "overview": "Петроград, октябрь 1917 года. На заседании ЦК Ленин ставит вопрос о вооружённом восстании. Зиновьев выступает против восстания. Тогда Свердлов ставит предложение Ленина на голосование, и большинство членов ЦК голосуют за резолюцию Ленина. Временное правительство поспешно стягивает войска к Зимнему дворцу, готовясь к разгрому восстания. Командир Авроры Эриксон получает приказ о выходе в море. Однако председатель судового комитета Авроры Белышев отменяет этот приказ. Тем временем иностранный посол советует Керенскому сдать город немцам, чтобы задушить восстание...",
+      "popularity": 0.2148,
+      "poster_path": "/kxH49ZAxyrDABEfWAvzwEY2wqQD.jpg",
+      "release_date": "1965-10-29",
       "softcore": false,
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 38,
+      "vote_average": 9,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
         {
           "id": 18,
           "name": "драма"
@@ -476,15 +646,15 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0081256",
+      "imdb_id": "tt0197111",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
+          "id": 10845,
+          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+          "name": "Lenfilm",
           "origin_country": "SU"
         }
       ],
@@ -495,7 +665,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 167,
+      "runtime": 84,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -695,22 +865,22 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fofhDhWZfaKTGNqscYeaIiquVTp.jpg",
+      "backdrop_path": "/sdM9wmDMhD3nmIuSSdVFsJHbR5f.jpg",
       "genre_ids": [
         18
       ],
-      "id": 265095,
-      "title": "Анна Павлова",
+      "id": 94691,
+      "title": "Дом, в котором я живу",
       "original_language": "ru",
-      "original_title": "Анна Павлова",
-      "overview": "История жизни легендарной русской балерины: ее становления, триумфов и скитаний, самоотверженного служения искусству и личной драмы.",
-      "popularity": 1.3,
-      "poster_path": "/Agc5JiKMTZBKCIMFqtEFE5snLcR.jpg",
-      "release_date": "1983-08-01",
+      "original_title": "Дом, в котором я живу",
+      "overview": "1935 год. Новый дом на окраине Москвы заселяется новоселами. С этого начинается простой сюжет о судьбах людей разных профессий и увлечений. Впереди - страшные годы всеобщей немоты, на смену которым приходит война, а вместе с ней горечь утрат, холод, голод, расставания. Конец войны возвращает радость жизни. По-прежнему светит в окна солнце, летит тополиный пух и, как когда-то, дети бегут в школу.",
+      "popularity": 0.6259,
+      "poster_path": "/bHQfQsAOoOBq613ODKrPF1jgEgj.jpg",
+      "release_date": "1957-12-23",
       "softcore": false,
       "video": false,
-      "vote_average": 4.75,
-      "vote_count": 8,
+      "vote_average": 6.167,
+      "vote_count": 12,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -720,72 +890,26 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0086089",
+      "imdb_id": "tt0167900",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 32054,
-          "logo_path": "/AbVNCbh21hLwbVHCeOazhsiitd9.png",
-          "name": "Sovinfilm",
+          "id": 21978,
+          "logo_path": "/3EP1gJYMGlEt7j17naPMg5e2LH2.png",
+          "name": "Gorky Film Studios",
           "origin_country": "SU"
-        },
-        {
-          "id": 57582,
-          "logo_path": null,
-          "name": "Poseidon Productions",
-          "origin_country": ""
-        },
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        },
-        {
-          "id": 602,
-          "logo_path": "/pVsXRFbYVDe5BhsATCAh1rt5F0k.png",
-          "name": "DEFA-Studio für Spielfilme",
-          "origin_country": "XG"
-        },
-        {
-          "id": 5175,
-          "logo_path": "/685bT26uK9vuaCwf2Hylufdb4yI.png",
-          "name": "ICAIC",
-          "origin_country": "CU"
-        },
-        {
-          "id": 66332,
-          "logo_path": null,
-          "name": "Cosmos Film",
-          "origin_country": "FR"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "CU",
-          "name": "Cuba"
-        },
-        {
-          "iso_3166_1": "XG",
-          "name": "East Germany"
-        },
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
           "iso_3166_1": "SU",
           "name": "Soviet Union"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
         }
       ],
       "revenue": 0,
-      "runtime": 146,
+      "runtime": 100,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -795,7 +919,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "2160p",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
@@ -803,19 +927,19 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/i5LtDEQZVX2SEGLtKnHUZfjH9bv.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        80,
-        18
+        18,
+        12
       ],
-      "id": 549272,
-      "title": "Високосный год",
+      "id": 833623,
+      "title": "Десятый шаг",
       "original_language": "ru",
-      "original_title": "Високосный год",
-      "overview": "Готовясь к встрече Нового года, никто из героев не предполагал, какие драматические события обрушатся на них, как сложно и неожиданно переплетутся судьбы трех семей, как нелегко будет оправиться от пережитого…",
-      "popularity": 0.5494,
-      "poster_path": "/wR2T5CNmGp6ZvCa2iyO2IHnAY7Y.jpg",
-      "release_date": "1961-12-25",
+      "original_title": "Десятый шаг",
+      "overview": "После окончания Гражданской войны медсестра и разведчица Анна Дзюба вместе с мужем-комиссаром возвращается в родной город. Здесь ей предстоит сделать трудный выбор между идейными соратниками, устанавливающими советскую власть, и друзьями детства, связанными с антисоветским подпольем.",
+      "popularity": 0.349,
+      "poster_path": "/UjpTMK7IWffvVrlfHvRJdAygm.jpg",
+      "release_date": "1967-07-14",
       "softcore": false,
       "video": false,
       "vote_average": 10,
@@ -824,24 +948,24 @@
       "budget": 0,
       "genres": [
         {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
           "id": 18,
           "name": "драма"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0153576",
+      "imdb_id": "tt0403977",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
+          "id": 4581,
+          "logo_path": "/p858ADU9O67a7ageVEjsk18jqak.png",
+          "name": "Dovzhenko Film Studios",
           "origin_country": "SU"
         }
       ],
@@ -852,7 +976,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 94,
+      "runtime": 97,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1153,45 +1277,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/7LkqO75tH9zypUyXfICGZzcqoI0.jpg",
       "genre_ids": [
-        18,
-        36
+        35,
+        10749
       ],
-      "id": 1524045,
-      "title": "Залп «Авроры»",
+      "id": 65142,
+      "title": "Самая обаятельная и привлекательная",
       "original_language": "ru",
-      "original_title": "Залп «Авроры»",
-      "overview": "Петроград, октябрь 1917 года. На заседании ЦК Ленин ставит вопрос о вооружённом восстании. Зиновьев выступает против восстания. Тогда Свердлов ставит предложение Ленина на голосование, и большинство членов ЦК голосуют за резолюцию Ленина. Временное правительство поспешно стягивает войска к Зимнему дворцу, готовясь к разгрому восстания. Командир Авроры Эриксон получает приказ о выходе в море. Однако председатель судового комитета Авроры Белышев отменяет этот приказ. Тем временем иностранный посол советует Керенскому сдать город немцам, чтобы задушить восстание...",
-      "popularity": 0.2148,
-      "poster_path": "/kxH49ZAxyrDABEfWAvzwEY2wqQD.jpg",
-      "release_date": "1965-10-29",
+      "original_title": "Самая обаятельная и привлекательная",
+      "overview": "У инженера Нади Клюевой максимум общественной, но минимум личной жизни. Всё меняется, когда она случайно встречает в автобусе свою старую знакомую, школьную одноклассницу Сусанну, ныне работающую социологом на заводе бытовых кондиционеров. Сусанна решает наладить личную жизнь своей подруги, используя научный метод.",
+      "popularity": 1.1382,
+      "poster_path": "/phy8a5Gja6avjQFialfRMNXKqNA.jpg",
+      "release_date": "1985-11-10",
       "softcore": false,
       "video": false,
-      "vote_average": 9,
-      "vote_count": 1,
+      "vote_average": 7.028,
+      "vote_count": 72,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
         },
         {
-          "id": 36,
-          "name": "история"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0197111",
+      "imdb_id": "tt0089957",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 10845,
-          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
-          "name": "Lenfilm",
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
           "origin_country": "SU"
         }
       ],
@@ -1202,7 +1326,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 84,
+      "runtime": 89,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1269,140 +1393,6 @@
       ],
       "revenue": 0,
       "runtime": 137,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        53,
-        10752,
-        18
-      ],
-      "id": 384701,
-      "title": "Софья Грушко",
-      "original_language": "ru",
-      "original_title": "Софья Грушко",
-      "overview": "Во время Великой Отечественной войны, ведя подпольную работу в оккупированном Киеве, медсестра Софья Грушко вынуждена пойти на службу к фашистам, стрелять в пленного советского офицера Семена Лихолая, которого потом сама же спасла и выходила после ранения.",
-      "popularity": 0.2468,
-      "poster_path": "/zy4Bs5GmcjylufscM3GlE704usB.jpg",
-      "release_date": "1972-06-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt4709976",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 4581,
-          "logo_path": "/p858ADU9O67a7ageVEjsk18jqak.png",
-          "name": "Dovzhenko Film Studios",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        18
-      ],
-      "id": 536043,
-      "title": "Падающий иней",
-      "original_language": "ru",
-      "original_title": "Падающий иней",
-      "overview": "Больного моряка Ганса, не имеющего документов, капитан иностранного судна высаживает на одном из островов Средиземного моря. Его находит рыбачка Сильвана и оказывает приют в своем доме. Ганс окреп и, подружившись с ее сыном, стал выходить в море на рыбный промысел. Моряк после тяжелой болезни забыл свое прошлое — и все считали его немцем. Ему было хорошо в доме Сильваны. Но однажды, заболев, Ганс в бреду стал кричать по-русски. После выздоровления Сильвана не смогла помешать его отъезду на родину…",
-      "popularity": 0.2381,
-      "poster_path": "/kFqwXZ6LkUN94A7QJhkSlyQxC89.jpg",
-      "release_date": "1969-08-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3141450",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 4581,
-          "logo_path": "/p858ADU9O67a7ageVEjsk18jqak.png",
-          "name": "Dovzhenko Film Studios",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 90,
       "spoken_languages": [
         {
           "english_name": "Russian",
