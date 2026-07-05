@@ -5,43 +5,49 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 228,
+  "total": 225,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/kOrl6WQ7bQRTfgRtPwINItDvgBd.jpg",
+      "backdrop_path": null,
       "genre_ids": [
+        36,
         18
       ],
-      "id": 921273,
+      "id": 881972,
+      "title": "Соловей",
       "original_language": "ru",
-      "original_title": "Мелодия на два голоса",
-      "overview": "Просто и без особых проблем складывается жизнь Кирилла Воробьева: окончив школу и отслужив армию, он работает на заводе слесарем. Но однажды он встречает Алену, студентку одного из московских вузов. И впервые, Кирилл начинает чувствовать себя скованно и неуютно в обществе понравившейся интеллигентной девушки.",
-      "popularity": 0.3239,
-      "poster_path": "/AcxOu7N3CwbRQvE5ZBWJ68ibXjg.jpg",
-      "release_date": "1980-05-18",
-      "title": "Мелодия на два голоса",
+      "original_title": "Соловей",
+      "overview": "О борьбе белорусских крестьян против гнета польских панов в годы царствования Павла I.",
+      "popularity": 0.1458,
+      "poster_path": null,
+      "release_date": "1937-11-05",
+      "softcore": false,
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 9,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
         {
           "id": 18,
           "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0230515",
+      "imdb_id": "tt0250741",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 6608,
-          "logo_path": "/eALlDyTQSw5rLU1IJvYps4himcU.png",
-          "name": "Ekran",
+          "id": 68613,
+          "logo_path": null,
+          "name": "Belgoskino",
           "origin_country": "SU"
         }
       ],
@@ -52,7 +58,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 139,
+      "runtime": 64,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -62,7 +68,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_movies_ru"
@@ -70,40 +76,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/aYguEaEEoNkcrCuL791uZwRZMOF.jpg",
+      "backdrop_path": "/wjkD59xXm7fI4b46QDvM9G83neJ.jpg",
       "genre_ids": [
-        10751
+        10749,
+        18
       ],
-      "id": 463650,
-      "title": "Мальчишки народ хороший",
+      "id": 48623,
+      "title": "Сто дней после детства",
       "original_language": "ru",
-      "original_title": "Мальчишки народ хороший",
-      "overview": "Роман, самолюбивый и вспыльчивый девятиклассник, успешно занимается боксом и во всех проведенных им боях выходит победителем. Но в одном бою Роман наносит удар противнику уже после гонга. Тренер на время отстраняет его от матчей. Обиженный Роман покидает ринг. Он, конечно, вернется и, конечно, поймет, что честность и благородство — необходимые качества настоящего спортсмена.",
-      "popularity": 0.0917,
-      "poster_path": "/smUmuhohpahFoWkieenCM3TE7wX.jpg",
-      "release_date": "1972-06-27",
+      "original_title": "Сто дней после детства",
+      "overview": "Это лето в пионерском лагере запомнится Мите Лопухину надолго. Оно стало последним летом детства. Оно одарило Митю дружбой с прекрасным человеком, который открыл подростку смысл и величие искусства. А главное — он узнал радость и горечь первой любви…",
+      "popularity": 0.3579,
+      "poster_path": "/1z3ZnRLsvkAjEjxPL70SPiCx3Qe.jpg",
+      "release_date": "1975-12-01",
       "softcore": false,
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 6.345,
+      "vote_count": 29,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 10751,
-          "name": "семейный"
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1883257",
+      "imdb_id": "tt0072208",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 176512,
-          "logo_path": "/ySEbF7126oYwK7WDEMVV4ItOaY4.png",
-          "name": "Moldova-Film",
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
           "origin_country": "SU"
         }
       ],
@@ -114,7 +125,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 63,
+      "runtime": 89,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -265,140 +276,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 397627,
-      "title": "Человек в футляре",
-      "original_language": "ru",
-      "original_title": "Человек в футляре",
-      "overview": "Учитель греческого языка Беликов, работающий в сельской гимназии, любил держать вещи в футлярчиках, всего боялся и сам жил, словно в футляре, по принципу: «как бы чего не вышло». Этим принципом он буквально «терроризировал» гимназию и жителей села. Надежда появилась, когда в село приехала Варенька — «не девица, а мармелад», хотя уже и в возрасте, и «не прочь была замуж, хотя бы и за учителя греческого языка».",
-      "popularity": 0.3793,
-      "poster_path": "/mvEcN18mwqtEWuGUerN3NvcuFYt.jpg",
-      "release_date": "1939-05-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 4.3,
-      "vote_count": 5,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0252315",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 68613,
-          "logo_path": null,
-          "name": "Belgoskino",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 84,
-      "spoken_languages": [
-        {
-          "english_name": "No Language",
-          "iso_639_1": "xx",
-          "name": "No Language"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wjkD59xXm7fI4b46QDvM9G83neJ.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 48623,
-      "title": "Сто дней после детства",
-      "original_language": "ru",
-      "original_title": "Сто дней после детства",
-      "overview": "Это лето в пионерском лагере запомнится Мите Лопухину надолго. Оно стало последним летом детства. Оно одарило Митю дружбой с прекрасным человеком, который открыл подростку смысл и величие искусства. А главное — он узнал радость и горечь первой любви…",
-      "popularity": 0.3579,
-      "poster_path": "/1z3ZnRLsvkAjEjxPL70SPiCx3Qe.jpg",
-      "release_date": "1975-12-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.345,
-      "vote_count": 29,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0072208",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 89,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/qqDLakGlg3aRhsSYqTsOAxkfUpR.jpg",
       "genre_ids": [
         18,
@@ -466,45 +343,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": null,
+      "backdrop_path": "/ghGgytdaC1KETUpGLOhq1wOF5Qu.jpg",
       "genre_ids": [
-        36,
-        18
+        10751,
+        10749
       ],
-      "id": 881972,
-      "title": "Соловей",
+      "id": 637167,
+      "title": "Лесные качели",
       "original_language": "ru",
-      "original_title": "Соловей",
-      "overview": "О борьбе белорусских крестьян против гнета польских панов в годы царствования Павла I.",
-      "popularity": 0.1458,
-      "poster_path": null,
-      "release_date": "1937-11-05",
+      "original_title": "Лесные качели",
+      "overview": "Пятнадцатилетние Настя и Зуев свое последнее лето детства проводят в пионерском лагере. Это лето подарило героям первую любовь и нежную дружбу. Известно, что детям больше всего мешают взрослые. Взрослые и помешали, а их поддержало и большинство ребят. Настя не поняла, почему ей нельзя дружить с мальчиком, Зуев устыдился. Не готовый отстаивать свои чувства по-взрослому и не подумав о Насте, пацан выбрал самый простой способ решения конфликта — убежал из лагеря.",
+      "popularity": 0.1272,
+      "poster_path": "/mpIhA1fbgHIizX7aDzUo6KDHhBh.jpg",
+      "release_date": "1975-07-12",
       "softcore": false,
       "video": false,
-      "vote_average": 9,
-      "vote_count": 1,
+      "vote_average": 0,
+      "vote_count": 0,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 36,
-          "name": "история"
+          "id": 10751,
+          "name": "семейный"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0250741",
+      "imdb_id": "tt3172248",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 68613,
-          "logo_path": null,
-          "name": "Belgoskino",
+          "id": 12617,
+          "logo_path": "/9Wf5DFTvzxo0pSqDp8MQWW3d01.png",
+          "name": "Belarusfilm",
           "origin_country": "SU"
         }
       ],
@@ -515,7 +392,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 64,
+      "runtime": 60,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -525,6 +402,139 @@
       ],
       "status": "Released",
       "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cYeXsaxGv6378pZATBZiDYRqJhi.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        36
+      ],
+      "id": 75390,
+      "original_language": "ru",
+      "original_title": "Сказ про то, как царь Пётр арапа женил",
+      "overview": "Однажды царю Петру был подарен маленький чернокожий принц — добрый и смышленый мальчуган. Быстро усвоив от Петра все науки, он был отправлен во Францию для получения более глубоких знаний и изысканных манер. Вернувшись из Парижа, на одном из балов арап влюбился в дочь богатого дворянина Наташу. Это явилось событием, которое изменило отношение к нему всего окружения Петра и самого царя. Но немилость только повод для поиска истины. Поэтому наградой за благородство и мужество стала арапу Наташина любовь, новое внимание света и Петра...",
+      "popularity": 0.2876,
+      "poster_path": "/1UNJaIjJNImLy9XikPiXau5UFPW.jpg",
+      "release_date": "1976-06-06",
+      "title": "Сказ про то, как царь Пётр арапа женил",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 17,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0075225",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 344,
+          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+          "name": "Mosfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4CeZKJRlJaVovXu5pt568l2dBqf.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 537274,
+      "title": "Предел возможного",
+      "original_language": "ru",
+      "original_title": "Предел возможного",
+      "overview": "Герой фильма — Игнат Матвеевич Ремез — прошел путь от молодого специалиста в годы Великой Отечественной войны до руководителя крупного промышленного предприятия в мирное время.",
+      "popularity": 0.2594,
+      "poster_path": "/91RSlMKd6whIbS6TwyiP3mXAjiV.jpg",
+      "release_date": "1984-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0086784",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 6608,
+          "logo_path": "/9Y6JQEzZefmsx60VjidZD7cHsOF.png",
+          "name": "Ekran",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 380,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "По роману И.Герасимова.",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -777,116 +787,49 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ghGgytdaC1KETUpGLOhq1wOF5Qu.jpg",
+      "backdrop_path": "/qfAuPOTbVjCFLA75tLGBS1Gajen.jpg",
       "genre_ids": [
-        10751,
-        10749
-      ],
-      "id": 637167,
-      "title": "Лесные качели",
-      "original_language": "ru",
-      "original_title": "Лесные качели",
-      "overview": "Пятнадцатилетние Настя и Зуев свое последнее лето детства проводят в пионерском лагере. Это лето подарило героям первую любовь и нежную дружбу. Известно, что детям больше всего мешают взрослые. Взрослые и помешали, а их поддержало и большинство ребят. Настя не поняла, почему ей нельзя дружить с мальчиком, Зуев устыдился. Не готовый отстаивать свои чувства по-взрослому и не подумав о Насте, пацан выбрал самый простой способ решения конфликта — убежал из лагеря.",
-      "popularity": 0.1272,
-      "poster_path": "/mpIhA1fbgHIizX7aDzUo6KDHhBh.jpg",
-      "release_date": "1975-07-12",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3172248",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 12617,
-          "logo_path": "/9Wf5DFTvzxo0pSqDp8MQWW3d01.png",
-          "name": "Belarusfilm",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 60,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cYeXsaxGv6378pZATBZiDYRqJhi.jpg",
-      "genre_ids": [
-        10749,
+        28,
         35,
-        36
+        12
       ],
-      "id": 75390,
+      "id": 533483,
       "original_language": "ru",
-      "original_title": "Сказ про то, как царь Пётр арапа женил",
-      "overview": "Однажды царю Петру был подарен маленький чернокожий принц — добрый и смышленый мальчуган. Быстро усвоив от Петра все науки, он был отправлен во Францию для получения более глубоких знаний и изысканных манер. Вернувшись из Парижа, на одном из балов арап влюбился в дочь богатого дворянина Наташу. Это явилось событием, которое изменило отношение к нему всего окружения Петра и самого царя. Но немилость только повод для поиска истины. Поэтому наградой за благородство и мужество стала арапу Наташина любовь, новое внимание света и Петра...",
-      "popularity": 0.2876,
-      "poster_path": "/1UNJaIjJNImLy9XikPiXau5UFPW.jpg",
-      "release_date": "1976-06-06",
-      "title": "Сказ про то, как царь Пётр арапа женил",
+      "original_title": "Клад",
+      "overview": "Во время полевых работ шоферы находят клад из золотых монет. Они хотят сдать клад государству, но все должностные лица, к которым обращаются герои фильма, не желают брать на себя ответственность за его сохранность...",
+      "popularity": 0.5684,
+      "poster_path": "/zgm0Wspsyp7XCHYkErecil2btIv.jpg",
+      "release_date": "1988-12-22",
+      "title": "Клад",
       "video": false,
-      "vote_average": 5.5,
-      "vote_count": 17,
+      "vote_average": 6,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 10749,
-          "name": "мелодрама"
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 35,
           "name": "комедия"
         },
         {
-          "id": 36,
-          "name": "история"
+          "id": 12,
+          "name": "приключения"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0075225",
+      "imdb_id": "tt0307061",
       "origin_country": [
         "SU"
       ],
       "production_companies": [
         {
-          "id": 344,
-          "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
-          "name": "Mosfilm",
+          "id": 6608,
+          "logo_path": "/9Y6JQEzZefmsx60VjidZD7cHsOF.png",
+          "name": "Ekran",
           "origin_country": "SU"
         }
       ],
@@ -897,7 +840,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 100,
+      "runtime": 136,
       "spoken_languages": [
         {
           "english_name": "Russian",
@@ -1160,68 +1103,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/4CeZKJRlJaVovXu5pt568l2dBqf.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 537274,
-      "title": "Предел возможного",
-      "original_language": "ru",
-      "original_title": "Предел возможного",
-      "overview": "Герой фильма — Игнат Матвеевич Ремез — прошел путь от молодого специалиста в годы Великой Отечественной войны до руководителя крупного промышленного предприятия в мирное время.",
-      "popularity": 0.2594,
-      "poster_path": "/91RSlMKd6whIbS6TwyiP3mXAjiV.jpg",
-      "release_date": "1984-11-12",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0086784",
-      "origin_country": [
-        "SU"
-      ],
-      "production_companies": [
-        {
-          "id": 6608,
-          "logo_path": "/9Y6JQEzZefmsx60VjidZD7cHsOF.png",
-          "name": "Ekran",
-          "origin_country": "SU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SU",
-          "name": "Soviet Union"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 380,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "По роману И.Герасимова.",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_movies_ru"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/zbMbPWsAbg6RymdUxktpFBybLK2.jpg",
       "genre_ids": [
         35
@@ -1267,6 +1148,136 @@
       ],
       "revenue": 0,
       "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        36
+      ],
+      "id": 290614,
+      "title": "Трехсотлетие царствующего дома Романовых",
+      "original_language": "ru",
+      "original_title": "Трёхсотлетие царствования дома Романовых (1613—1913)",
+      "overview": "Начиная с избрания на Царство Михаила Фёдоровича Романова и заканчивая торжествами 1913 года, проходит перед глазами зрителя вся история Великой Царской России времен Богоутвержденной Царской Династии.",
+      "popularity": 0.137,
+      "poster_path": "/lZ3IJ4VCC1LZ9cMzjjWwn1Sg4b7.jpg",
+      "release_date": "1913-02-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0207169",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 201322,
+          "logo_path": null,
+          "name": "Drankov and Taldykin",
+          "origin_country": ""
+        },
+        {
+          "id": 240943,
+          "logo_path": null,
+          "name": "A. Taldykin & Co",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 44,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_movies_ru"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xle7endpIVNTZM0EU0PCI1MA3E0.jpg",
+      "genre_ids": [
+        10749
+      ],
+      "id": 195514,
+      "title": "Впервые замужем",
+      "original_language": "ru",
+      "original_title": "Впервые замужем",
+      "overview": "В 20 лет Тося родила дочку - одна, без мужа. В 30 - личное счастье стало недостижимой мечтой. Всю себя она посвятила любимой дочери. Знала бы она, что наступит время, когда та станет тяготиться ею и фактически выживать ее из дома. Но вот в 40 лет жизнь будто сделала круг и вернулась в исходную точку. Терять уже нечего - а значит, можно рискнуть, начать все с начала. Мама - впервые замужем, и эгоистичной дочери с этим трудно смириться...",
+      "popularity": 0.3292,
+      "poster_path": "/my1YD68gWaU2atqmXKDGpjPLRkd.jpg",
+      "release_date": "1979-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 6,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0171902",
+      "origin_country": [
+        "SU"
+      ],
+      "production_companies": [
+        {
+          "id": 10845,
+          "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+          "name": "Lenfilm",
+          "origin_country": "SU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "SU",
+          "name": "Soviet Union"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 99,
       "spoken_languages": [
         {
           "english_name": "Russian",

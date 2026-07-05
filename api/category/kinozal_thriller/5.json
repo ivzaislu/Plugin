@@ -5,27 +5,28 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 139,
+  "total": 137,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/d8IOOWTdSr6zgpfa6satceEcfTM.jpg",
+      "backdrop_path": "/54upLqnMOkkmsh8KC1WirJrar0B.jpg",
       "genre_ids": [
         80,
-        18
+        9648,
+        35
       ],
-      "id": 19335,
-      "title": "Джонни О'Клок",
-      "original_language": "en",
-      "original_title": "Johnny O'Clock",
-      "overview": "История менеджера игорного клуба в Нью-Йорке, который после двух связанных с клубом убийств оказывается в центре сложной интриги с участием своего криминального босса, полицейского инспектора и двух влюблённых в него женщин.",
-      "popularity": 0.2571,
-      "poster_path": "/9lT7qfwSKI30rnp108uA75txQUj.jpg",
-      "release_date": "1947-01-07",
+      "id": 57310,
+      "title": "Воскресная женщина",
+      "original_language": "it",
+      "original_title": "La donna della domenica",
+      "overview": "Комиссар Сантамария расследует убийство архитектора Гарроне. Вскоре расследование заводит его в высшие круги туринского общества. Комиссар подозревает некую Анну Карлу, в которую он влюбляется…",
+      "popularity": 0.3699,
+      "poster_path": "/qXtHhPjJZUFlluiF6bu9cahOd4h.jpg",
+      "release_date": "1975-12-23",
       "softcore": false,
       "video": false,
-      "vote_average": 6.27,
-      "vote_count": 50,
+      "vote_average": 6.475,
+      "vote_count": 81,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -34,37 +35,119 @@
           "name": "криминал"
         },
         {
-          "id": 18,
-          "name": "драма"
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0039515",
+      "imdb_id": "tt0074423",
       "origin_country": [
-        "US"
+        "IT",
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 14404,
+          "id": 1602,
           "logo_path": null,
-          "name": "J.E.M. Productions",
-          "origin_country": ""
+          "name": "Les Productions Fox Europa",
+          "origin_country": "FR"
         },
         {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
-          "origin_country": "US"
+          "id": 5081,
+          "logo_path": null,
+          "name": "Primex",
+          "origin_country": "IT"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
         }
       ],
-      "revenue": 1750000,
-      "runtime": 95,
+      "revenue": 0,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r6NNj4pBibkn1onHj3mduMCt2vn.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 35852,
+      "title": "Наваждение",
+      "original_language": "en",
+      "original_title": "Obsession",
+      "overview": "Устав от бесконечных измен супруги, врач решает отыграться на ее последнем любовнике. Несколько месяцев он держит его взаперти в заброшенном подвале и наведывается к нему раз в день, принося еду и наполняя потихонечку серной кислотой ванну, в которой он собирается растворить его тело после убийства.",
+      "popularity": 0.9655,
+      "poster_path": "/7BlzTHGLBxxCiqY0fTvPqaE2hcX.jpg",
+      "release_date": "1949-08-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 56,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0041460",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 5577,
+          "logo_path": null,
+          "name": "Independent Sovereign Films",
+          "origin_country": ""
+        },
+        {
+          "id": 14377,
+          "logo_path": null,
+          "name": "J. Arthur Rank Organisation",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 96,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -75,78 +158,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/baa8BwCJblUiVRmCEyo6Sw7yyfS.jpg",
-      "genre_ids": [
-        80,
-        18,
-        53
-      ],
-      "id": 17221,
-      "title": "Там, где кончается тротуар",
-      "original_language": "en",
-      "original_title": "Where the Sidewalk Ends",
-      "overview": "Марк Диксон, полицейский, случайно убивает подозреваемого в убийстве. Он решает скрыть это, обвинив рэкетира, которого Марк ненавидит, зная, что тот совершил множество преступлений...",
-      "popularity": 0.8758,
-      "poster_path": "/27Q0i6ZjmRnjfvegksunixnLxuG.jpg",
-      "release_date": "1950-07-07",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 205,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0043132",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Только женское сердце могло потянуться к такому мужчине!»",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -232,137 +243,74 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/7WnlhFb4v20YtIQ88CACU2fBwXn.jpg",
+      "backdrop_path": "/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
       "genre_ids": [
-        53,
-        80
+        9648,
+        53
       ],
-      "id": 365265,
-      "title": "Точка разрыва",
+      "id": 840705,
+      "title": "Подай знак",
       "original_language": "en",
-      "original_title": "Raw Nerve",
-      "overview": "Он — из тех крутых парней, которых лучше иметь на своей стороне. Однажды Блэйр и его напарник Итан попали в жестокую перестрелку. В решающий момент у Итана сдали нервы, но Блэйр прикрыл его и спас его жизнь и репутацию. Прошло девять лет. Итан ушел из полиции и стал адвокатом.  Блэйр остался на службе и с помощью разных махинаций сколотил себе приличное состояние. Но его темные дела становятся объектом внимания службы внутренних раследований, и он обращается за помощью к Итану. Тот соглашается помочь бывшему напарнику, который когда — то был его кумиром. Но Блэйр начинает терять контроль над собой и становится смертельно опасным даже для старых друзей.",
-      "popularity": 0.6235,
-      "poster_path": "/gF4vGKgFlsdr24dwQqU2T4Bhv51.jpg",
-      "release_date": "1999-09-16",
+      "original_title": "Blink Twice",
+      "overview": "Молодой официантке Фриде из Лос-Анджелеса, удается попасть в окружение филантропа и IT-магната Слейтера Кинга. Девушка посещает вечеринки и знакомится с новыми людьми на частном острове бизнесмена, однако со временем понимает, что здесь творится что-то неладное.",
+      "popularity": 6.7765,
+      "poster_path": "/7bIXHZLZoBvo5EbeIdAnL2wCCla.jpg",
+      "release_date": "2024-08-21",
       "softcore": false,
       "video": false,
-      "vote_average": 4.714,
-      "vote_count": 7,
+      "vote_average": 6.688,
+      "vote_count": 1914,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 20000000,
       "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
         {
           "id": 53,
           "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0192512",
+      "imdb_id": "tt14858658",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 28277,
+          "id": 57743,
+          "logo_path": "/fon2TaTj6WU8kVfAmlHsvpPdt2p.png",
+          "name": "Free Association",
+          "origin_country": "US"
+        },
+        {
+          "id": 175566,
           "logo_path": null,
-          "name": "Spectacor Films",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vbVe8HhnR1hJ6I5k49E6cqCajYX.jpg",
-      "genre_ids": [
-        18,
-        53,
-        10749
-      ],
-      "id": 2149,
-      "original_language": "en",
-      "original_title": "Body of Evidence",
-      "overview": "Влюбившись в свою подзащитную, обвиняемую в убийстве, адвокат Фрэнк Дилэйн так умело строит речь в суде, что ему удается убедить присяжных вынести оправдательный вердикт. А через день Фрэнк становится невольным свидетелем разговора своей подзащитной с человеком, который помог ей совершить убийство.",
-      "popularity": 3.3284,
-      "poster_path": "/iP2fvxF8FJ5nCTjyqHGbM7RIawG.jpg",
-      "release_date": "1993-01-15",
-      "title": "Тело как улика",
-      "video": false,
-      "vote_average": 5.007,
-      "vote_count": 335,
-      "belongs_to_collection": null,
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
+          "name": "This Is Important",
+          "origin_country": "US"
         },
         {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0106453",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 47,
-          "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
-          "name": "Constantin Film",
-          "origin_country": "DE"
-        },
-        {
-          "id": 19737,
+          "id": 226970,
           "logo_path": null,
-          "name": "Dino de Laurentiis Communications",
+          "name": "Bold Choices",
+          "origin_country": "US"
+        },
+        {
+          "id": 210099,
+          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+          "name": "Amazon MGM Studios",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 38000000,
-      "runtime": 99,
+      "revenue": 46393906,
+      "runtime": 103,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -371,8 +319,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Это орудие убийства. Ее зовут Ребекка»",
-      "release_quality": "1080p",
+      "tagline": "«Ты хорошо проводишь время?»",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -543,6 +491,282 @@
       "status": "Released",
       "tagline": "«Сегодня наследник, завтра - нет»",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zrorHYxfdql7XX0bABNot55Aibk.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 339692,
+      "title": "Выстрел в пустоту",
+      "original_language": "en",
+      "original_title": "Shot Caller",
+      "overview": "Роковая случайность, смертельная трагедия, и вся его жизнь летит под откос... Оказавшись за решеткой, он должен научиться жить по новым законам. Ты должен стать борцом, авторитетом или окажешься жертвой. Какую цену придется заплатить, чтобы выжить в этом аду, из которого нет дороги назад?..",
+      "popularity": 5.3878,
+      "poster_path": "/j8rSB5PhquNufrNwU6cepUmI6bV.jpg",
+      "release_date": "2017-07-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.96,
+      "vote_count": 2240,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt4633690",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 34625,
+          "logo_path": "/ib6KkJ2zcTlKDAcyegY7UYJ7019.png",
+          "name": "DirecTV",
+          "origin_country": "US"
+        },
+        {
+          "id": 2266,
+          "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
+          "name": "Bold Films",
+          "origin_country": "US"
+        },
+        {
+          "id": 6735,
+          "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+          "name": "Participant",
+          "origin_country": "US"
+        },
+        {
+          "id": 7295,
+          "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+          "name": "Relativity Media",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 121,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "\"Цена свободы\"",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dC15RaDX4mmPB0omILrjTKMGy6W.jpg",
+      "genre_ids": [
+        53,
+        37
+      ],
+      "id": 1200320,
+      "original_language": "en",
+      "original_title": "Killing Faith",
+      "overview": "1849 год. Маленькая девочка Фэйт убивает все, к чему прикасается. Ее мать уверена, что Фэйт одержима демонами, и нанимает врача, чтобы он поехал с ними через весь Запад к знаменитому целителю.",
+      "popularity": 8.3358,
+      "poster_path": "/lVtv2tTNWYEY7UpfHveNquSk6Ks.jpg",
+      "release_date": "2025-10-03",
+      "title": "Грехи запада",
+      "video": false,
+      "vote_average": 5.293,
+      "vote_count": 29,
+      "belongs_to_collection": null,
+      "budget": 7000000,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 37,
+          "name": "вестерн"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt29101725",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 100121,
+          "logo_path": null,
+          "name": "Film Bridge International",
+          "origin_country": "US"
+        },
+        {
+          "id": 159674,
+          "logo_path": "/2NAHsquI5QpycL3RnnxlESGgS7C.png",
+          "name": "Filmology Finance",
+          "origin_country": "AU"
+        },
+        {
+          "id": 121204,
+          "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+          "name": "BondIt Media Capital",
+          "origin_country": "US"
+        },
+        {
+          "id": 50166,
+          "logo_path": "/7quALDl2QahHagPBSmTtwOM0Fw2.png",
+          "name": "Choice Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 105,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Присмотрись. Дьявол кроется в деталях»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rFpf81V4Zxkhyd0hsIGr7TIj50s.jpg",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "id": 832262,
+      "title": "Город тайн: Исчезнувшая",
+      "original_language": "en",
+      "original_title": "Force of Nature: The Dry 2",
+      "overview": "Пять девушек отправляются на корпоративный тимбилдинг в горы. В ходе квеста бесследно исчезает одна из них, а другие участники похода явно что-то скрывают. На помощь местному следствию приезжает федеральный агент Аарон Фальк. Однако чем больше он углубляется в дело, тем больше прозрений у него возникает. Ведь каждая из вернувшихся рассказывает свою версию произошедшего, а местной полиции совершенно неясно, что тут делает федерал и зачем ему звонила пропавшая перед своим исчезновением.",
+      "popularity": 1.3752,
+      "poster_path": "/ez9LtVmvfbWjX9Spx4DrNEFVErx.jpg",
+      "release_date": "2024-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.317,
+      "vote_count": 279,
+      "belongs_to_collection": {
+        "id": 989391,
+        "name": "The Dry Collection",
+        "poster_path": "/jfhdbOHdA6sD25IZBnd4hmslMd1.jpg",
+        "backdrop_path": "/lUasKuef60hosl1fGjoKkwMMw23.jpg"
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt20256448",
+      "origin_country": [
+        "AU"
+      ],
+      "production_companies": [
+        {
+          "id": 100610,
+          "logo_path": "/81WtvTYVr4WsWm2ZLfwR48TrDBT.png",
+          "name": "Made Up Stories",
+          "origin_country": "US"
+        },
+        {
+          "id": 154858,
+          "logo_path": null,
+          "name": "Pick Up Truck Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 15780,
+          "logo_path": "/bdQFj7E5yNsir5pMgacux2SoLGQ.png",
+          "name": "Arenamedia",
+          "origin_country": "AU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 5786313,
+      "runtime": 112,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -1194,252 +1418,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/NqqLef2ITlK8olXT4iFuUXFwSh.jpg",
-      "genre_ids": [
-        9648,
-        53
-      ],
-      "id": 840705,
-      "title": "Подай знак",
-      "original_language": "en",
-      "original_title": "Blink Twice",
-      "overview": "Молодой официантке Фриде из Лос-Анджелеса, удается попасть в окружение филантропа и IT-магната Слейтера Кинга. Девушка посещает вечеринки и знакомится с новыми людьми на частном острове бизнесмена, однако со временем понимает, что здесь творится что-то неладное.",
-      "popularity": 6.7765,
-      "poster_path": "/7bIXHZLZoBvo5EbeIdAnL2wCCla.jpg",
-      "release_date": "2024-08-21",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.688,
-      "vote_count": 1914,
-      "belongs_to_collection": null,
-      "budget": 20000000,
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt14858658",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 57743,
-          "logo_path": "/fon2TaTj6WU8kVfAmlHsvpPdt2p.png",
-          "name": "Free Association",
-          "origin_country": "US"
-        },
-        {
-          "id": 175566,
-          "logo_path": null,
-          "name": "This Is Important",
-          "origin_country": "US"
-        },
-        {
-          "id": 226970,
-          "logo_path": null,
-          "name": "Bold Choices",
-          "origin_country": "US"
-        },
-        {
-          "id": 210099,
-          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-          "name": "Amazon MGM Studios",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 46393906,
-      "runtime": 103,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Ты хорошо проводишь время?»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/r6NNj4pBibkn1onHj3mduMCt2vn.jpg",
-      "genre_ids": [
-        53,
-        80
-      ],
-      "id": 35852,
-      "title": "Наваждение",
-      "original_language": "en",
-      "original_title": "Obsession",
-      "overview": "Устав от бесконечных измен супруги, врач решает отыграться на ее последнем любовнике. Несколько месяцев он держит его взаперти в заброшенном подвале и наведывается к нему раз в день, принося еду и наполняя потихонечку серной кислотой ванну, в которой он собирается растворить его тело после убийства.",
-      "popularity": 0.9655,
-      "poster_path": "/7BlzTHGLBxxCiqY0fTvPqaE2hcX.jpg",
-      "release_date": "1949-08-03",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 56,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0041460",
-      "origin_country": [
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 5577,
-          "logo_path": null,
-          "name": "Independent Sovereign Films",
-          "origin_country": ""
-        },
-        {
-          "id": 14377,
-          "logo_path": null,
-          "name": "J. Arthur Rank Organisation",
-          "origin_country": "GB"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/rFpf81V4Zxkhyd0hsIGr7TIj50s.jpg",
-      "genre_ids": [
-        9648,
-        53
-      ],
-      "id": 832262,
-      "title": "Город тайн: Исчезнувшая",
-      "original_language": "en",
-      "original_title": "Force of Nature: The Dry 2",
-      "overview": "Пять девушек отправляются на корпоративный тимбилдинг в горы. В ходе квеста бесследно исчезает одна из них, а другие участники похода явно что-то скрывают. На помощь местному следствию приезжает федеральный агент Аарон Фальк. Однако чем больше он углубляется в дело, тем больше прозрений у него возникает. Ведь каждая из вернувшихся рассказывает свою версию произошедшего, а местной полиции совершенно неясно, что тут делает федерал и зачем ему звонила пропавшая перед своим исчезновением.",
-      "popularity": 1.3752,
-      "poster_path": "/ez9LtVmvfbWjX9Spx4DrNEFVErx.jpg",
-      "release_date": "2024-02-08",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.317,
-      "vote_count": 279,
-      "belongs_to_collection": {
-        "id": 989391,
-        "name": "The Dry Collection",
-        "poster_path": "/jfhdbOHdA6sD25IZBnd4hmslMd1.jpg",
-        "backdrop_path": "/lUasKuef60hosl1fGjoKkwMMw23.jpg"
-      },
-      "budget": 0,
-      "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt20256448",
-      "origin_country": [
-        "AU"
-      ],
-      "production_companies": [
-        {
-          "id": 100610,
-          "logo_path": "/81WtvTYVr4WsWm2ZLfwR48TrDBT.png",
-          "name": "Made Up Stories",
-          "origin_country": "US"
-        },
-        {
-          "id": 154858,
-          "logo_path": null,
-          "name": "Pick Up Truck Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 15780,
-          "logo_path": "/bdQFj7E5yNsir5pMgacux2SoLGQ.png",
-          "name": "Arenamedia",
-          "origin_country": "AU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "AU",
-          "name": "Australia"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 5786313,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/lx3FzYqKah9xIxrPmLbTEE0aRXb.jpg",
       "genre_ids": [
         18,
@@ -1523,27 +1501,124 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/zrorHYxfdql7XX0bABNot55Aibk.jpg",
+      "backdrop_path": "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "genre_ids": [
-        80,
-        18,
-        53
+        53,
+        36,
+        10752
       ],
-      "id": 339692,
-      "title": "Выстрел в пустоту",
+      "id": 1318413,
+      "title": "Давление",
       "original_language": "en",
-      "original_title": "Shot Caller",
-      "overview": "Роковая случайность, смертельная трагедия, и вся его жизнь летит под откос... Оказавшись за решеткой, он должен научиться жить по новым законам. Ты должен стать борцом, авторитетом или окажешься жертвой. Какую цену придется заплатить, чтобы выжить в этом аду, из которого нет дороги назад?..",
-      "popularity": 5.3878,
-      "poster_path": "/j8rSB5PhquNufrNwU6cepUmI6bV.jpg",
-      "release_date": "2017-07-07",
+      "original_title": "Pressure",
+      "overview": "Июнь 1944 года. Высадка в Нормандии, крупнейшая в истории морская десантная операция, уже подготовлена, и любая задержка грозит тем, что немецкая разведка раскроет планы союзников. Главному метеорологу Великобритании Джеймсу Стэггу предстоит убедить все командование союзных сил во главе с генералом Дуайтом Эйзенхауэром довериться его нестандартным методам и изменить планы операции. У ученых остается лишь 72 часа на точный прогноз сразу двух надвигающихся штормов, но от этого зависит судьба всего Западного фронта.",
+      "popularity": 53.8353,
+      "poster_path": "/xYLbAshji6VK0vQjtLZg2E9bea.jpg",
+      "release_date": "2026-05-25",
       "softcore": false,
       "video": false,
-      "vote_average": 6.96,
-      "vote_count": 2240,
+      "vote_average": 8.419,
+      "vote_count": 31,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 80000000,
       "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32547691",
+      "origin_country": [
+        "GB"
+      ],
+      "production_companies": [
+        {
+          "id": 10163,
+          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+          "name": "Working Title Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 113521,
+          "logo_path": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+          "name": "StudioCanal UK",
+          "origin_country": "GB"
+        },
+        {
+          "id": 694,
+          "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+          "name": "StudioCanal",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 11301450,
+      "runtime": 104,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Один прогноз изменит мир»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/smK3ud9IKSLVuRXdKauJ9p0DwNB.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 2322,
+      "title": "Тихушники",
+      "original_language": "en",
+      "original_title": "Sneakers",
+      "overview": "Веселая компания «шутников» занимается тем, что разъезжает из города в город и тестирует компьютерные системы безопасности на возможность «взлома», и далеко не всегда — с разрешения владельцев этих систем.Это настоящие виртуозы программирования, их изобретательность в том, как обмануть защиту и похитить информацию, не знает границ.Но дело приобретает серьезный оборот, когда двое правительственных агентов начинают шантажировать их, чтобы заставить участвовать в неких тайных операциях.",
+      "popularity": 5.3216,
+      "poster_path": "/yKpjIegevobPBkw8bwVgauR0We6.jpg",
+      "release_date": "1992-09-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 1058,
+      "belongs_to_collection": null,
+      "budget": 23000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
         {
           "id": 80,
           "name": "криминал"
@@ -1551,40 +1626,18 @@
         {
           "id": 18,
           "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt4633690",
+      "imdb_id": "tt0105435",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 34625,
-          "logo_path": "/ib6KkJ2zcTlKDAcyegY7UYJ7019.png",
-          "name": "DirecTV",
-          "origin_country": "US"
-        },
-        {
-          "id": 2266,
-          "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
-          "name": "Bold Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 6735,
-          "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
-          "name": "Participant",
-          "origin_country": "US"
-        },
-        {
-          "id": 7295,
-          "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
-          "name": "Relativity Media",
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
           "origin_country": "US"
         }
       ],
@@ -1594,22 +1647,37 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 0,
-      "runtime": 121,
+      "revenue": 105232691,
+      "runtime": 126,
       "spoken_languages": [
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
         {
           "english_name": "English",
           "iso_639_1": "en",
           "name": "English"
+        },
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "Mandarin",
+          "iso_639_1": "zh",
+          "name": "普通话"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
-      "tagline": "\"Цена свободы\"",
+      "tagline": "",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -1618,62 +1686,79 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/dC15RaDX4mmPB0omILrjTKMGy6W.jpg",
+      "backdrop_path": "/5c3RpVjkNzrguLUBHqOG1kFI5Kb.jpg",
       "genre_ids": [
+        18,
+        28,
         53,
-        37
+        80
       ],
-      "id": 1200320,
+      "id": 7461,
+      "title": "Точка обстрела",
       "original_language": "en",
-      "original_title": "Killing Faith",
-      "overview": "1849 год. Маленькая девочка Фэйт убивает все, к чему прикасается. Ее мать уверена, что Фэйт одержима демонами, и нанимает врача, чтобы он поехал с ними через весь Запад к знаменитому целителю.",
-      "popularity": 8.3358,
-      "poster_path": "/lVtv2tTNWYEY7UpfHveNquSk6Ks.jpg",
-      "release_date": "2025-10-03",
-      "title": "Грехи запада",
+      "original_title": "Vantage Point",
+      "overview": "Во время публичного выступления на антитеррористическом форуме в Саламанке, Испания от рук экстремистов погибает президент США — так, по-крайней мере, событие выглядит на первый взгляд. Вслед за этим мощный взрыв убивает сотни людей. Случившееся показано с разных точки зрения: сотрудников спецслужб, случайных прохожих, террориста-фанатика. Только проследив за происходящим через призму восприятия каждого из этих людей, можно приблизиться к пониманию истиной сути событий, связанных с покушением.",
+      "popularity": 5.0976,
+      "poster_path": "/L8AqrsxmChiYIqtXURaWp2f066.jpg",
+      "release_date": "2008-02-01",
+      "softcore": false,
       "video": false,
-      "vote_average": 5.293,
-      "vote_count": 29,
+      "vote_average": 6.417,
+      "vote_count": 2193,
       "belongs_to_collection": null,
-      "budget": 7000000,
+      "budget": 40000000,
       "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
         {
           "id": 53,
           "name": "триллер"
         },
         {
-          "id": 37,
-          "name": "вестерн"
+          "id": 80,
+          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt29101725",
+      "imdb_id": "tt0443274",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 100121,
+          "id": 4169,
           "logo_path": null,
-          "name": "Film Bridge International",
+          "name": "KanZaman Productions",
+          "origin_country": "ES"
+        },
+        {
+          "id": 7295,
+          "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+          "name": "Relativity Media",
           "origin_country": "US"
         },
         {
-          "id": 159674,
-          "logo_path": "/2NAHsquI5QpycL3RnnxlESGgS7C.png",
-          "name": "Filmology Finance",
-          "origin_country": "AU"
-        },
-        {
-          "id": 121204,
-          "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
-          "name": "BondIt Media Capital",
+          "id": 333,
+          "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+          "name": "Original Film",
           "origin_country": "US"
         },
         {
-          "id": 50166,
-          "logo_path": "/7quALDl2QahHagPBSmTtwOM0Fw2.png",
-          "name": "Choice Films",
+          "id": 31604,
+          "logo_path": null,
+          "name": "Art In Motion",
+          "origin_country": ""
+        },
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
           "origin_country": "US"
         }
       ],
@@ -1683,26 +1768,30 @@
           "name": "United States of America"
         },
         {
-          "iso_3166_1": "AU",
-          "name": "Australia"
+          "iso_3166_1": "MX",
+          "name": "Mexico"
+        },
+        {
+          "iso_3166_1": "ES",
+          "name": "Spain"
         }
       ],
-      "revenue": 0,
-      "runtime": 105,
+      "revenue": 152039882,
+      "runtime": 90,
       "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
         {
           "english_name": "Spanish",
           "iso_639_1": "es",
           "name": "Español"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
-      "tagline": "«Присмотрись. Дьявол кроется в деталях»",
+      "tagline": "Всё не так как кажется",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
