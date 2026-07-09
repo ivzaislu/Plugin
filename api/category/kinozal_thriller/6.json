@@ -5,87 +5,144 @@
   },
   "page": 6,
   "limit": 20,
-  "total": 135,
+  "total": 137,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/xGPb3wI8lhBxAvUbIM2hRtm8S6b.jpg",
+      "backdrop_path": null,
+      "genre_ids": [
+        53,
+        878
+      ],
+      "id": 1724190,
+      "title": "Бункер X09",
+      "original_language": "ru",
+      "original_title": "Бункер X09",
+      "overview": "2029 год. Цивилизация разрушена после эпидемии неизвестного вируса. В специальном изолированном от внешнего мира бункере, в блоке номер девять, двое учёных — Алексей и Влад — работают над созданием вакцины, которая может спасти от гибели оставшихся в живых людей. В редкие свободные от научной деятельности моменты они пытаются отвлечься от страшной реальности, поют песни под гитару и ведут беседы. В ходе исследования Влад решает выйти наружу, чтобы добыть образцы зараженной вирусом материи, и это становится для него роковой ошибкой. Алексей остаётся один, и теперь ему предстоит сделать выбор: рискнуть покинуть бункер, чтобы продолжить разработку лекарства и узнать, что стало с внешним миром, или остаться внутри и положиться на судьбу.",
+      "popularity": 0,
+      "poster_path": "/ox7oVIuCCK3pPlfGiF1QiFLNNkt.jpg",
+      "release_date": "2026-07-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt39783847",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [],
+      "production_countries": [],
+      "revenue": 0,
+      "runtime": 92,
+      "spoken_languages": [],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
       "genre_ids": [
         80,
-        53
+        18,
+        10749
       ],
-      "id": 1171145,
+      "id": 1329471,
+      "title": "Каролина Кэролайн",
       "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Детектив Лу Любник выслеживает похитителя драгоценностей и придерживается правил «Преступления 101» - строгого набора рекомендаций для идеального ограбления.",
-      "popularity": 38.9362,
-      "poster_path": "/iGQTevT976QrQZ8te1SdtDojubA.jpg",
-      "release_date": "2026-02-11",
-      "title": "Ограбление в Лос-Анджелесе",
+      "original_title": "Carolina Caroline",
+      "overview": "Молодая женщина присоединяется к обаятельному мошеннику, находящемуся в бегах, оставляя за собой след преступления и страсти, когда они спешат по Юго-востоку в поисках её матери, с которой она рассталась.",
+      "popularity": 21.5138,
+      "poster_path": "/61Dam4eJTY43R8ikC38iv2Vuit8.jpg",
+      "release_date": "2026-06-05",
+      "softcore": false,
       "video": false,
-      "vote_average": 6.992,
-      "vote_count": 126,
+      "vote_average": 7.3,
+      "vote_count": 6,
       "belongs_to_collection": null,
-      "budget": 90000000,
+      "budget": 0,
       "genres": [
         {
           "id": 80,
           "name": "криминал"
         },
         {
-          "id": 53,
-          "name": "триллер"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
-      "homepage": "https://www.sonypictures.co.uk/movies/crime-101",
-      "imdb_id": "tt32430579",
+      "homepage": "",
+      "imdb_id": "tt33365126",
       "origin_country": [
-        "GB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 10163,
-          "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
-          "name": "Working Title Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 122772,
+          "id": 85815,
           "logo_path": null,
-          "name": "The Story Factory",
+          "name": "Bee-Hive Productions",
           "origin_country": "US"
         },
         {
-          "id": 23949,
-          "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
-          "name": "RAW",
-          "origin_country": "GB"
-        },
-        {
-          "id": 210099,
-          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-          "name": "Amazon MGM Studios",
+          "id": 27497,
+          "logo_path": "/F8mSKEBTORPIYJ3XNvSFb5FEUD.png",
+          "name": "Star Thrower Entertainment",
           "origin_country": "US"
         },
         {
-          "id": 183787,
-          "logo_path": "/8G6CbTenzORJdoep1AaghtSEQrY.png",
-          "name": "Wild State",
+          "id": 182008,
+          "logo_path": null,
+          "name": "Create & Complete Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 197680,
+          "logo_path": null,
+          "name": "The Wonder Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 173946,
+          "logo_path": "/As69t46gOyxtUzcQ3fdz5XAVzE2.png",
+          "name": "MacPac Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 7493,
+          "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+          "name": "FilmNation Entertainment",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
           "iso_3166_1": "US",
           "name": "United States of America"
         }
       ],
-      "revenue": 59128962,
-      "runtime": 141,
+      "revenue": 0,
+      "runtime": 105,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -94,7 +151,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Все они связаны одним ограблением»",
+      "tagline": "",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -103,24 +160,168 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/xSbG71YzxW6cTySgyEEoQvXqwsB.jpg",
+      "backdrop_path": "/vXrZ7pyHHQGBSyfXC791b62Ouxv.jpg",
+      "genre_ids": [
+        80,
+        53,
+        28
+      ],
+      "id": 22171,
+      "title": "Ангел мщения",
+      "original_language": "en",
+      "original_title": "Ms .45",
+      "overview": "Тана, красивая немая девушка, по дороге с работы домой подвергается сексуальному насилию дважды за один вечер. Этот кошмар повредил её рассудок, и она решила взять дело отмщения в свои руки. С тех пор каждый вечер вызывающе одетая красотка в одиночестве бродит по улицам города, провоцируя нападения и убивая любого, кто решает «воспользоваться» ею, из пистолета 45-го калибра. Но постепенно её ночная жизнь начинает проникать в повседневную.",
+      "popularity": 3.1381,
+      "poster_path": "/um8MFEYcyolJHWzgts02cFnnIp4.jpg",
+      "release_date": "1981-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.715,
+      "vote_count": 407,
+      "belongs_to_collection": null,
+      "budget": 62000,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0082776",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 20858,
+          "logo_path": null,
+          "name": "Navaron Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Преступность больше не будет разгуливать по улицам»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8d6kHxFAIE2P54WpxAssgpm5W0Z.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 178,
+      "original_language": "en",
+      "original_title": "Blown Away",
+      "overview": "Работающий в полиции сапер собирается жениться на прекрасной женщине, у которой есть замечательная дочка. Но его будущая жена не знает о прошлом своего мужа. А тот в молодости был ирландским террористом, специализирующимся на взрывах.  Когда-то он предотвратил взрыв, в результате которого могли погибнуть сотни людей, но невольно стал причиной гибели своих товарищей и любимой девушки, дочери человека, который увлек его ложным героизмом этой жестокой борьбы и научил всему, что можно знать о бомбах.  Сбежав из тюрьмы, учитель находит неблагодарного ученика и начинает мстить за предательство, убивая его коллег по работе, а в конце планируя убить его новую семью.",
+      "popularity": 3.3361,
+      "poster_path": "/2A4U8NXXYXMleNdr8VmEha2OjKt.jpg",
+      "release_date": "1994-07-01",
+      "title": "Подрывники",
+      "video": false,
+      "vote_average": 6.208,
+      "vote_count": 602,
+      "belongs_to_collection": null,
+      "budget": 28000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0109303",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 2231,
+          "logo_path": "/zJBTkTxy0UiQETGRynEqxiFbmL8.png",
+          "name": "Trilogy Entertainment Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 30156002,
+      "runtime": 121,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Irish",
+          "iso_639_1": "ga",
+          "name": "Gaeilge"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3azMKdylHiKKYzRBn8Elu4w0VQq.jpg",
       "genre_ids": [
         9648,
         53,
-        80
+        10749
       ],
-      "id": 108387,
-      "title": "Горе невинным",
+      "id": 1311672,
+      "title": "Карма. Смерть в Латиго-Спрингз",
       "original_language": "en",
-      "original_title": "Ordeal by Innocence",
-      "overview": "«Джек Аргайл, ваш приятель, казнён за убийство собственной матери», - услышал доктор Артур Калгэри, едва ступив на порог неприветливого дома Аргайлов. Новость шокирующая, но доктор убеждён в невиновности своего друга и, вооружившись записной книжкой Джека, карандашом и собственной смекалкой, намеревается отыскать настоящего преступника. И, самое главное, оправдать бедного Джека. Пусть и посмертно.",
-      "popularity": 0.7286,
-      "poster_path": "/ruhfpARtqGezKEQKB5oMuCzSIiM.jpg",
-      "release_date": "1984-06-22",
+      "original_title": "Karma: Death at Latigo Springs",
+      "overview": "Чарли Стивенс переезжает в место, где прошло детство ее недавно умершей матери. Возвращение к корням быстро превращается в кошмар. Сразу после приезда ее начинают преследовать странные и крайне реалистичные видения. Кошмары намекают на некое событие, произошедшее в Латиго-Спрингз много лет назад, и проливают свет на истинные причины, по которым ее мать в свое время поспешно покинула родные края. В попытках докопаться до истины она понимает, что некоторые секреты должны были остаться похороненными навсегда.",
+      "popularity": 0.5245,
+      "poster_path": "/2RbfTKQoMD9ZmsUytPY0nfsOiql.jpg",
+      "release_date": "2024-05-01",
       "softcore": false,
       "video": false,
-      "vote_average": 5.069,
-      "vote_count": 36,
+      "vote_average": 9,
+      "vote_count": 1,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
@@ -133,43 +334,38 @@
           "name": "триллер"
         },
         {
-          "id": 80,
-          "name": "криминал"
+          "id": 10749,
+          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0087852",
+      "imdb_id": "tt22167790",
       "origin_country": [
-        "GB"
+        "US"
       ],
       "production_companies": [
         {
-          "id": 6231,
-          "logo_path": null,
-          "name": "London-Cannon Films",
+          "id": 69347,
+          "logo_path": "/s5ctDrB6DlRDhIBsrTi4zdt445k.png",
+          "name": "ITN Distribution",
           "origin_country": "GB"
         },
         {
-          "id": 1444,
-          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
-          "name": "The Cannon Group",
+          "id": 177499,
+          "logo_path": "/9fCtPsxhpASvHIrzju2PAdg2F35.png",
+          "name": "Latigo Films",
           "origin_country": "US"
         },
         {
-          "id": 13549,
+          "id": 126426,
           "logo_path": null,
-          "name": "Golan-Globus Productions",
-          "origin_country": "US"
+          "name": "Mother and Daughter Entertainment",
+          "origin_country": ""
         }
       ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
+      "production_countries": [],
       "revenue": 0,
-      "runtime": 87,
+      "runtime": 89,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -178,8 +374,251 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Как только убийство было разрешено, началась настоящая тайна ...»",
+      "tagline": "",
       "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dFqXUmxiZCYOLKZ6hCLxbX6gllu.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "id": 1723758,
+      "title": "Заложники страха",
+      "original_language": "ru",
+      "original_title": "Заложники страха",
+      "overview": "Триллер по мотивам романа Жоржа Сименона \"Жёлтый пес\". Комиссар Мегрэ расследует серию убийств, происшедших в провинциальном городке. Каждый раз накануне гибели очередной жертвы свидетели видели огромную черную собаку. Городские жители оказались заложниками мистического страха.",
+      "popularity": 0.0571,
+      "poster_path": "/8gTQmF19hAccIWmIoZxstTID90q.jpg",
+      "release_date": "1994-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0401902",
+      "origin_country": [
+        "UA"
+      ],
+      "production_companies": [
+        {
+          "id": 172406,
+          "logo_path": "/72ksLKV8hHwhKUmYpwmEB1bnYnt.png",
+          "name": "«Ch» Studio",
+          "origin_country": "UA"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "UA",
+          "name": "Ukraine"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 78,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHvfO2YuiznAbdOXNcCzVMLqV8Z.jpg",
+      "genre_ids": [
+        12,
+        80,
+        53
+      ],
+      "id": 45226,
+      "title": "Преследование Д. Б. Купера",
+      "original_language": "en",
+      "original_title": "The Pursuit of D.B. Cooper",
+      "overview": "Талантливый авантюрист по прозвищу Д. Б. Купер умудряется претворить в жизнь хитроумный и необычный план ограбления на борту «Боинга-727». Однако его бывший армейский «сослуживец», а ныне — агент страховой компании Билл Гриен догадывается, кто на самом деле скрывается под личиной Купера, и отправляется на его поимки. Подобные догадки озаряют светлую голову еще одного армейского «товарища» Купера — Рэмсона, который также присоединяется к веселой, полной приключений и курьезов погоне!",
+      "popularity": 1.0645,
+      "poster_path": "/4uDT9RF7JlZf1T0bn0p68DRVmNv.jpg",
+      "release_date": "1981-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.219,
+      "vote_count": 32,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0082958",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 100,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Кто сказал, что его нельзя взять с собой?»",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_thriller"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dpHoPHMSMkFZWt44FGkpEZ61Ptd.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10402,
+        53
+      ],
+      "id": 1340206,
+      "title": "Настройщик",
+      "original_language": "en",
+      "original_title": "Tuner",
+      "overview": "Жизнь талантливого настройщика фортепиано переворачивается с ног на голову, когда он обнаруживает, что его отточённые навыки настройки фортепиано можно с тем же успехом применять для взлома сейфов.",
+      "popularity": 63.3833,
+      "poster_path": "/wLdcMUsKepVXXxFVZYTEc5JGc21.jpg",
+      "release_date": "2026-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.129,
+      "vote_count": 97,
+      "belongs_to_collection": null,
+      "budget": 7000000,
+      "genres": [
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10402,
+          "name": "музыка"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33296751",
+      "origin_country": [
+        "CA",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 22146,
+          "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+          "name": "Black Bear Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 82552,
+          "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+          "name": "Elevation Pictures",
+          "origin_country": "CA"
+        },
+        {
+          "id": 272916,
+          "logo_path": null,
+          "name": "English Breakfast Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 1896557,
+      "runtime": 108,
+      "spoken_languages": [
+        {
+          "english_name": "Hebrew",
+          "iso_639_1": "he",
+          "name": "עִבְרִית"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«У каждого есть какой‑то скрытый талант»",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -868,68 +1307,70 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/3azMKdylHiKKYzRBn8Elu4w0VQq.jpg",
+      "backdrop_path": "/8KbWuuthHkS7U1wntWCrgo36igG.jpg",
       "genre_ids": [
-        9648,
         53,
-        10749
+        80,
+        10749,
+        18
       ],
-      "id": 1311672,
-      "title": "Карма. Смерть в Латиго-Спрингз",
+      "id": 25284,
       "original_language": "en",
-      "original_title": "Karma: Death at Latigo Springs",
-      "overview": "Чарли Стивенс переезжает в место, где прошло детство ее недавно умершей матери. Возвращение к корням быстро превращается в кошмар. Сразу после приезда ее начинают преследовать странные и крайне реалистичные видения. Кошмары намекают на некое событие, произошедшее в Латиго-Спрингз много лет назад, и проливают свет на истинные причины, по которым ее мать в свое время поспешно покинула родные края. В попытках докопаться до истины она понимает, что некоторые секреты должны были остаться похороненными навсегда.",
-      "popularity": 0.5245,
-      "poster_path": "/2RbfTKQoMD9ZmsUytPY0nfsOiql.jpg",
-      "release_date": "2024-05-01",
-      "softcore": false,
+      "original_title": "The Last Seduction",
+      "overview": "Бриджит Грегори, роковая женщина и социопатка, крадёт деньги, принадлежащие кредиторам её мужа, и прячется в пригороде Буффало, штат Нью-Йорк. Там она знакомится с Майком и пытается склонить его к бурному роману. Майк, будучи неопытным молодым человеком, без ума от Бриджит: он никогда не встречал столь интересную и обворожительную женщину.  Новая знакомая ничего не рассказывает о прошлом и ничего не обещает на будущее. Но у неё есть хитроумный план, как можно быстро заработать, и на этот план согласен Майк. А тем временем брошенный муж желает любыми средствами вернуть деньги кредиторам; но Бриджит не собирается сдаваться. Придётся решать, кому попасть на кладбище или в тюрьму, а кому сильно разбогатеть…",
+      "popularity": 3.244,
+      "poster_path": "/kK8IiJDkz2Tv6DwaK60vJVHKH85.jpg",
+      "release_date": "1994-05-26",
+      "title": "Последнее соблазнение",
       "video": false,
-      "vote_average": 9,
-      "vote_count": 1,
-      "belongs_to_collection": null,
-      "budget": 0,
+      "vote_average": 6.762,
+      "vote_count": 412,
+      "belongs_to_collection": {
+        "id": 1154497,
+        "name": "The Last Seduction Collection",
+        "poster_path": "/86wI1BNj2CmgisolHUZVTDOyTFI.jpg",
+        "backdrop_path": null
+      },
+      "budget": 2500000,
       "genres": [
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
         {
           "id": 53,
           "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
         },
         {
           "id": 10749,
           "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt22167790",
+      "imdb_id": "tt0110308",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 69347,
-          "logo_path": "/s5ctDrB6DlRDhIBsrTi4zdt445k.png",
-          "name": "ITN Distribution",
+          "id": 1155,
+          "logo_path": "/rKTzFu5woCo8k0u9ML7mWeLY541.png",
+          "name": "ITC Entertainment",
           "origin_country": "GB"
-        },
-        {
-          "id": 177499,
-          "logo_path": "/9fCtPsxhpASvHIrzju2PAdg2F35.png",
-          "name": "Latigo Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 126426,
-          "logo_path": null,
-          "name": "Mother and Daughter Entertainment",
-          "origin_country": ""
         }
       ],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 89,
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 5842603,
+      "runtime": 110,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -947,66 +1388,68 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/dFqXUmxiZCYOLKZ6hCLxbX6gllu.jpg",
+      "backdrop_path": "/6xOQkM621sqORs19n581ifw0Ek4.jpg",
       "genre_ids": [
-        80,
-        9648,
-        18
+        53
       ],
-      "id": 1723758,
-      "title": "Заложники страха",
-      "original_language": "ru",
-      "original_title": "Заложники страха",
-      "overview": "Триллер по мотивам романа Жоржа Сименона \"Жёлтый пес\". Комиссар Мегрэ расследует серию убийств, происшедших в провинциальном городке. Каждый раз накануне гибели очередной жертвы свидетели видели огромную черную собаку. Городские жители оказались заложниками мистического страха.",
-      "popularity": 0.0571,
-      "poster_path": "/8gTQmF19hAccIWmIoZxstTID90q.jpg",
-      "release_date": "1994-06-30",
+      "id": 1250620,
+      "title": "Клеймо убийцы",
+      "original_language": "it",
+      "original_title": "La coda del diavolo",
+      "overview": "Сардиния. Санте Морас, бывший полицейский, а ныне тюремный охранник, обвиняется в убийстве, которого не совершал: виновный в жестоком убийстве девушки, найден мёртвым во время его дежурства. Санте, которого теперь преследует комиссар Томмазо Лаго, понимает, что единственный способ спастись от приговора - это самому раскрыть правду. Благодаря журналистке Фабиане Лаи, которая занимается этим делом, он узнаёт шокирующие факты.",
+      "popularity": 0.5585,
+      "poster_path": "/lc59jGDtB8KVnsZk76C7RwZnWkJ.jpg",
+      "release_date": "2024-07-25",
       "softcore": false,
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
+      "vote_average": 5.813,
+      "vote_count": 56,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 18,
-          "name": "драма"
+          "id": 53,
+          "name": "триллер"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0401902",
+      "imdb_id": "tt28372167",
       "origin_country": [
-        "UA"
+        "IT"
       ],
       "production_companies": [
         {
-          "id": 172406,
-          "logo_path": "/72ksLKV8hHwhKUmYpwmEB1bnYnt.png",
-          "name": "«Ch» Studio",
-          "origin_country": "UA"
+          "id": 115535,
+          "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+          "name": "Vision Distribution",
+          "origin_country": "IT"
+        },
+        {
+          "id": 86177,
+          "logo_path": "/3AKkfIbKVXiMUBx5RRaU4T7Y9d8.png",
+          "name": "Groenlandia",
+          "origin_country": "IT"
+        },
+        {
+          "id": 19079,
+          "logo_path": "/3hskOJPppWrWq7gZaBJzP7aFB9.png",
+          "name": "Sky",
+          "origin_country": "IT"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "UA",
-          "name": "Ukraine"
+          "iso_3166_1": "IT",
+          "name": "Italy"
         }
       ],
       "revenue": 0,
-      "runtime": 78,
+      "runtime": 0,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
         }
       ],
       "status": "Released",
@@ -1019,326 +1462,68 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/vHvfO2YuiznAbdOXNcCzVMLqV8Z.jpg",
+      "backdrop_path": "/3usrJIle0Mso1wI5VQCHrr8XlOT.jpg",
       "genre_ids": [
-        12,
-        80,
-        53
+        35,
+        27
       ],
-      "id": 45226,
-      "title": "Преследование Д. Б. Купера",
+      "id": 28498,
+      "title": "Театр крови",
       "original_language": "en",
-      "original_title": "The Pursuit of D.B. Cooper",
-      "overview": "Талантливый авантюрист по прозвищу Д. Б. Купер умудряется претворить в жизнь хитроумный и необычный план ограбления на борту «Боинга-727». Однако его бывший армейский «сослуживец», а ныне — агент страховой компании Билл Гриен догадывается, кто на самом деле скрывается под личиной Купера, и отправляется на его поимки. Подобные догадки озаряют светлую голову еще одного армейского «товарища» Купера — Рэмсона, который также присоединяется к веселой, полной приключений и курьезов погоне!",
-      "popularity": 1.0645,
-      "poster_path": "/4uDT9RF7JlZf1T0bn0p68DRVmNv.jpg",
-      "release_date": "1981-11-13",
+      "original_title": "Theatre of Blood",
+      "overview": "В Лондоне объявляется оригинальный убийца — его жертвами становятся театральные критики, а сами убийства выглядят словно сошедшими со страниц Уильяма Шекспира. Полицейские начинают подозревать в преступлениях некоего Эдварда Лайонхарта, эгоцентричного актёра, недавно совершившего самоубийство из-за того, что очередная награда обошла его стороной. У подозрений полиции есть все основания, ведь тело Лайонхарта так и не было найдено.",
+      "popularity": 1.6825,
+      "poster_path": "/jh2AYlIAeWyqgTPSqBeO8DleR3J.jpg",
+      "release_date": "1973-03-16",
       "softcore": false,
       "video": false,
-      "vote_average": 5.219,
-      "vote_count": 32,
+      "vote_average": 6.717,
+      "vote_count": 251,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0082958",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 100,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Кто сказал, что его нельзя взять с собой?»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/dpHoPHMSMkFZWt44FGkpEZ61Ptd.jpg",
-      "genre_ids": [
-        80,
-        18,
-        10402,
-        53
-      ],
-      "id": 1340206,
-      "title": "Настройщик",
-      "original_language": "en",
-      "original_title": "Tuner",
-      "overview": "Жизнь талантливого настройщика фортепиано переворачивается с ног на голову, когда он обнаруживает, что его отточённые навыки настройки фортепиано можно с тем же успехом применять для взлома сейфов.",
-      "popularity": 63.3833,
-      "poster_path": "/wLdcMUsKepVXXxFVZYTEc5JGc21.jpg",
-      "release_date": "2026-05-21",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.129,
-      "vote_count": 97,
-      "belongs_to_collection": null,
-      "budget": 7000000,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10402,
-          "name": "музыка"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33296751",
-      "origin_country": [
-        "CA",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 22146,
-          "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
-          "name": "Black Bear Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 82552,
-          "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
-          "name": "Elevation Pictures",
-          "origin_country": "CA"
-        },
-        {
-          "id": 272916,
-          "logo_path": null,
-          "name": "English Breakfast Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "CA",
-          "name": "Canada"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1896557,
-      "runtime": 108,
-      "spoken_languages": [
-        {
-          "english_name": "Hebrew",
-          "iso_639_1": "he",
-          "name": "עִבְרִית"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«У каждого есть какой‑то скрытый талант»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg",
-      "genre_ids": [
-        18,
-        9648,
-        37
-      ],
-      "id": 273248,
-      "original_language": "en",
-      "original_title": "The Hateful Eight",
-      "overview": "США после Гражданской войны. Легендарный охотник за головами Джон Рут по кличке Вешатель конвоирует заключенную. По пути к ним прибивается еще один охотник. Снежная буря вынуждает всех троих искать укрытие в лавке на отшибе, где уже расположилась весьма пестрая компания: генерал, шериф, мексиканец, француз и ковбой… И один из них — не тот, за кого себя выдает.",
-      "popularity": 10.1393,
-      "poster_path": "/oum699CFFl34Z0ZyIUBmkFRVjfT.jpg",
-      "release_date": "2015-12-25",
-      "title": "Омерзительная восьмёрка",
-      "video": false,
-      "vote_average": 7.755,
-      "vote_count": 15027,
-      "belongs_to_collection": null,
-      "budget": 44000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        },
-        {
-          "id": 37,
-          "name": "вестерн"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt3460252",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 308,
-          "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
-          "name": "The Weinstein Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 215,
-          "logo_path": "/tQyeqkCj24krhY2W8qeAztcOS37.png",
-          "name": "Double Feature Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 1811,
-          "logo_path": "/3yDJuCucOl41d9z3712l5gER0Md.png",
-          "name": "FilmColony",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 155760117,
-      "runtime": 167,
-      "spoken_languages": [
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Без хорошей причины сюда не лезут",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zQM01PhOwJY9ePnWPQ8L0YeKf8c.jpg",
-      "genre_ids": [
-        18,
-        27,
-        9648
-      ],
-      "id": 2637,
-      "title": "Человек-мотылек",
-      "original_language": "en",
-      "original_title": "The Mothman Prophecies",
-      "overview": "Спустя два года после трагической гибели жены талантливый журналист Джон Клайн оказывается в маленьком городке в Западной Вирджинии. Он не знает, как он попал сюда и что он здесь делает, но удивительные рассказы местных жителей, видевших странное существо, похожее на гигантского человека-мотылька, вынуждают его начать собственное расследование, которое дает совершенно неожиданные результаты: страшное создание с огненными глазами, внезапно являющееся людям в сумраке ночи, всегда становится предвестником чудовищных трагедий.  Оставляя людям свои жуткие пророчества, оно, кажется, хочет спасти их, но Клайн должен во что бы то ни стало выяснить истинные цели неуловимого призрака, ведь незадолго до своей смерти его жена тоже видела призрачную фигуру ужасного человека-мотылька…",
-      "popularity": 3.8453,
-      "poster_path": "/ovL8vOFADeyb0waIAqfChwlWSov.jpg",
-      "release_date": "2002-01-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 1256,
-      "belongs_to_collection": null,
-      "budget": 32000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
+          "id": 35,
+          "name": "комедия"
         },
         {
           "id": 27,
           "name": "ужасы"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0265349",
+      "imdb_id": "tt0070791",
       "origin_country": [
-        "US"
+        "GB"
       ],
       "production_companies": [
         {
-          "id": 3287,
-          "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-          "name": "Screen Gems",
-          "origin_country": "US"
+          "id": 4819,
+          "logo_path": null,
+          "name": "Cineman Productions",
+          "origin_country": "IN"
         },
         {
-          "id": 126,
-          "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
-          "name": "Lakeshore Entertainment",
+          "id": 23846,
+          "logo_path": null,
+          "name": "Harbour Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 60,
+          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+          "name": "United Artists",
           "origin_country": "US"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
         }
       ],
-      "revenue": 55305279,
-      "runtime": 119,
+      "revenue": 1000000,
+      "runtime": 104,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1347,8 +1532,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
+      "tagline": "«На свой страх и риск»",
+      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
@@ -1356,84 +1541,63 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/2etSwBHCTcyFp9XOjZR4yYxqCC9.jpg",
+      "backdrop_path": "/oBxslht0UsJURwFfpPN1arURnJ8.jpg",
       "genre_ids": [
-        36,
-        18,
         53,
-        80,
-        9648
+        27
       ],
-      "id": 6973,
+      "id": 766220,
       "original_language": "en",
-      "original_title": "In the Valley of Elah",
-      "overview": "Фильм повествует об офицере, чей сын-солдат немотивированно отправляется в самоволку вскоре после возвращения в Штаты из Ирака, и исчезает без следа. Местный полицейский детектив берется помочь офицеру в расследовании...",
-      "popularity": 1.6616,
-      "poster_path": "/xQD0s9YLsVwxiZ1Hbmz2nUy0JBB.jpg",
-      "release_date": "2007-09-14",
-      "title": "В долине Эла",
+      "original_title": "Old Man",
+      "overview": "Странный старик живёт в одиноком домике в лесной глуши. Однажды к нему забредает заблудившийся любитель пеших походов и сразу же вызывает у хозяина дома подозрения. Старик наставляет на незваного гостя ружьё и начинает расспрашивать.",
+      "popularity": 5.4516,
+      "poster_path": "/mZdCqH1Ppql5TCBHk1BFM7Iu7fr.jpg",
+      "release_date": "2022-10-14",
+      "title": "Не дыши: Начало",
       "video": false,
-      "vote_average": 6.786,
-      "vote_count": 1055,
+      "vote_average": 5.757,
+      "vote_count": 136,
       "belongs_to_collection": null,
-      "budget": 23000000,
+      "budget": 0,
       "genres": [
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
         {
           "id": 53,
           "name": "триллер"
         },
         {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
+          "id": 27,
+          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0478134",
+      "imdb_id": "tt13456976",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 11509,
-          "logo_path": "/iL23YdqxvCCkGIOw7Q7ob21bDdB.png",
-          "name": "Warner Independent Pictures",
+          "id": 89269,
+          "logo_path": "/pKWk2XfT9xoHYdGKW1Bac7hFvrz.png",
+          "name": "Paper Street Pictures",
           "origin_country": "US"
         },
         {
-          "id": 2088,
-          "logo_path": "/AoCD5EcqTAuLkxwsKAXYG2VARPP.png",
-          "name": "NALA Films",
+          "id": 7539,
+          "logo_path": "/4uYXEWiKUAy3jpzxvfMX2vtoDp8.png",
+          "name": "Blood Oath",
           "origin_country": "US"
         },
         {
-          "id": 491,
-          "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
-          "name": "Summit Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 2089,
+          "id": 188006,
           "logo_path": null,
-          "name": "Samuels Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 2087,
-          "logo_path": null,
-          "name": "Blackfriars Bridge Films",
+          "name": "Rubicon Entertainment",
           "origin_country": ""
+        },
+        {
+          "id": 41813,
+          "logo_path": "/pqoPwhsmo0f0V3r6yKouspsuFaF.png",
+          "name": "Title Media",
+          "origin_country": "BE"
         }
       ],
       "production_countries": [
@@ -1442,8 +1606,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 29541790,
-      "runtime": 121,
+      "revenue": 0,
+      "runtime": 97,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1452,231 +1616,8 @@
         }
       ],
       "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        53,
-        878
-      ],
-      "id": 1724190,
-      "title": "Бункер X09",
-      "original_language": "ru",
-      "original_title": "Бункер X09",
-      "overview": "2029 год. Цивилизация разрушена после эпидемии неизвестного вируса. В специальном изолированном от внешнего мира бункере, в блоке номер девять, двое учёных — Алексей и Влад — работают над созданием вакцины, которая может спасти от гибели оставшихся в живых людей. В редкие свободные от научной деятельности моменты они пытаются отвлечься от страшной реальности, поют песни под гитару и ведут беседы. В ходе исследования Влад решает выйти наружу, чтобы добыть образцы зараженной вирусом материи, и это становится для него роковой ошибкой. Алексей остаётся один, и теперь ему предстоит сделать выбор: рискнуть покинуть бункер, чтобы продолжить разработку лекарства и узнать, что стало с внешним миром, или остаться внутри и положиться на судьбу.",
-      "popularity": 0,
-      "poster_path": "/ox7oVIuCCK3pPlfGiF1QiFLNNkt.jpg",
-      "release_date": "2026-07-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt39783847",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [],
-      "production_countries": [],
-      "revenue": 0,
-      "runtime": 92,
-      "spoken_languages": [],
-      "status": "Released",
-      "tagline": "",
+      "tagline": "У страха есть глаза",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
-      "genre_ids": [
-        80,
-        18,
-        10749
-      ],
-      "id": 1329471,
-      "title": "Каролина Кэролайн",
-      "original_language": "en",
-      "original_title": "Carolina Caroline",
-      "overview": "Молодая женщина присоединяется к обаятельному мошеннику, находящемуся в бегах, оставляя за собой след преступления и страсти, когда они спешат по Юго-востоку в поисках её матери, с которой она рассталась.",
-      "popularity": 21.5138,
-      "poster_path": "/61Dam4eJTY43R8ikC38iv2Vuit8.jpg",
-      "release_date": "2026-06-05",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.3,
-      "vote_count": 6,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33365126",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 85815,
-          "logo_path": null,
-          "name": "Bee-Hive Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 27497,
-          "logo_path": "/F8mSKEBTORPIYJ3XNvSFb5FEUD.png",
-          "name": "Star Thrower Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 182008,
-          "logo_path": null,
-          "name": "Create & Complete Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 197680,
-          "logo_path": null,
-          "name": "The Wonder Company",
-          "origin_country": "US"
-        },
-        {
-          "id": 173946,
-          "logo_path": "/As69t46gOyxtUzcQ3fdz5XAVzE2.png",
-          "name": "MacPac Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 7493,
-          "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
-          "name": "FilmNation Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_thriller"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vXrZ7pyHHQGBSyfXC791b62Ouxv.jpg",
-      "genre_ids": [
-        80,
-        53,
-        28
-      ],
-      "id": 22171,
-      "title": "Ангел мщения",
-      "original_language": "en",
-      "original_title": "Ms .45",
-      "overview": "Тана, красивая немая девушка, по дороге с работы домой подвергается сексуальному насилию дважды за один вечер. Этот кошмар повредил её рассудок, и она решила взять дело отмщения в свои руки. С тех пор каждый вечер вызывающе одетая красотка в одиночестве бродит по улицам города, провоцируя нападения и убивая любого, кто решает «воспользоваться» ею, из пистолета 45-го калибра. Но постепенно её ночная жизнь начинает проникать в повседневную.",
-      "popularity": 3.1381,
-      "poster_path": "/um8MFEYcyolJHWzgts02cFnnIp4.jpg",
-      "release_date": "1981-04-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.715,
-      "vote_count": 407,
-      "belongs_to_collection": null,
-      "budget": 62000,
-      "genres": [
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0082776",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 20858,
-          "logo_path": null,
-          "name": "Navaron Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 80,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Преступность больше не будет разгуливать по улицам»",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_thriller"
