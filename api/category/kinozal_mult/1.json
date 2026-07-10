@@ -5,7 +5,7 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 56,
+  "total": 58,
   "items": [
     {
       "adult": false,
@@ -529,68 +529,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/t6omkkWxQoHCs9tiZGHrQVMrDvg.jpg",
-      "genre_ids": [
-        16
-      ],
-      "id": 1033327,
-      "title": "Ванлав",
-      "original_language": "ru",
-      "original_title": "Ванлав",
-      "overview": "В дом к молодой паре приходят незнакомцы. Нежданные гости, пользуясь гостеприимством дома, провоцируют пару на необдуманные поступки, что ведет к разрушению устоявшегося порядка и гармонии внутри семьи.",
-      "popularity": 0.0071,
-      "poster_path": "/tPLSqxOwDWhGcZiPRPA4TOOHMQ1.jpg",
-      "release_date": "2022-08-09",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt28314577",
-      "origin_country": [
-        "RU"
-      ],
-      "production_companies": [
-        {
-          "id": 16858,
-          "logo_path": "/z95wNMtKgSoY4DD13mAiZXrN49T.png",
-          "name": "Shar Studio",
-          "origin_country": "RU"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "RU",
-          "name": "Russia"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 10,
-      "spoken_languages": [
-        {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
       "backdrop_path": "/xe4IIhJ0r3QjrKNPNEjVu3UtcZh.jpg",
       "genre_ids": [
         16,
@@ -809,33 +747,139 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
+      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        12,
+        14,
+        16
+      ],
+      "id": 1226863,
+      "original_language": "en",
+      "original_title": "The Super Mario Galaxy Movie",
+      "overview": "Сиквел анимационного хита «Братья Супер Марио в кино» возвращает любимых героев — Марио, Луиджи, Принцессу Пич и Браузера. На этот раз братьям предстоит отправиться в новые миры, встретить неожиданных союзников и противников и вновь доказать, что даже самые маленькие герои могут изменить судьбу целого королевства.",
+      "popularity": 227.6338,
+      "poster_path": "/3NaiRtILh0UV8e64IzTALnqT7hr.jpg",
+      "release_date": "2026-04-01",
+      "title": "Супер Марио: Галактическое кино",
+      "video": false,
+      "vote_average": 6.939,
+      "vote_count": 338,
+      "belongs_to_collection": {
+        "id": 1434561,
+        "name": "Супер Марио (коллекция)",
+        "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
+        "backdrop_path": "/oZSRam2yEhScla7Z37UsODgIOwB.jpg"
+      },
+      "budget": 110000000,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 16,
+          "name": "мультфильм"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt28650488",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 6704,
+          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+          "name": "Illumination",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 12288,
+          "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+          "name": "Nintendo",
+          "origin_country": "JP"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 429011034,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Космическое приключение»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "genre_ids": [
         16,
         10751,
+        35,
         12,
-        18,
-        35
+        14
       ],
-      "id": 150540,
-      "title": "Головоломка",
+      "id": 991494,
       "original_language": "en",
-      "original_title": "Inside Out",
-      "overview": "Это история про обычную девочку, которую зовут Райли. Она, как и все другие дети или взрослые, имеет 5 основных видов эмоций, это — Страх, Гнев, Радость, Печаль и Брезгливость. Они помогают девочке разобраться в определённых ситуациях, в общем, руководят ею полностью, и, как правило действуют гармонично. Однажды родители героини решили переехать из маленького города в большой. Вот здесь-то гармония кардинально нарушается. Каждая эмоция считает, что для приспособления к новой среде должна действовать именно она. Но ничего из того не выйдет, пока взаимопонимание не восстановится между ними. Получится ли у них это сделать?",
-      "popularity": 24.4459,
-      "poster_path": "/8wukxopBFO2Vrf50jlLpbrfj4OB.jpg",
-      "release_date": "2015-06-17",
-      "softcore": false,
+      "original_title": "The SpongeBob Movie: Search for SquarePants",
+      "overview": "Губка Боб отправляется вместе с Патриком в самые глубины океана, чтобы встретиться с призраком Летучего Голландца. На пути его ждут захватывающие испытания, загадочные морские тайны и новые открытия в подводном мире. Тем временем мистер Крабс и Сквидвард идут по следу Губки Боба и пытаются его спасти.",
+      "popularity": 63.5265,
+      "poster_path": "/3KF5PshdiCNfgn3aUtdH1aUTe6h.jpg",
+      "release_date": "2025-12-16",
+      "title": "Губка Боб: В поисках квадратных штанов",
       "video": false,
-      "vote_average": 7.909,
-      "vote_count": 23484,
+      "vote_average": 6.721,
+      "vote_count": 188,
       "belongs_to_collection": {
-        "id": 1022790,
-        "name": "Головоломка (Коллекция)",
-        "poster_path": "/kvJqs0vm29U0xJa373wlzHb3FRh.jpg",
-        "backdrop_path": "/7hYG0v6BEErqqwnU7vWJjWgYJJp.jpg"
+        "id": 275402,
+        "name": "Губка Боб (Коллекция)",
+        "poster_path": "/caA0tTR0ye1DEnCAUIolrWajmfO.jpg",
+        "backdrop_path": "/82aBKm6QfMzNYl7jk9VG4mMPOYu.jpg"
       },
-      "budget": 175000000,
+      "budget": 64000000,
       "genres": [
         {
           "id": 16,
@@ -846,28 +890,40 @@
           "name": "семейный"
         },
         {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
           "id": 12,
           "name": "приключения"
         },
         {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
+          "id": 14,
+          "name": "фэнтези"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt2096673",
+      "imdb_id": "tt23572848",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 3,
-          "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
-          "name": "Pixar",
+          "id": 24955,
+          "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+          "name": "Paramount Animation",
+          "origin_country": "US"
+        },
+        {
+          "id": 2348,
+          "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+          "name": "Nickelodeon Movies",
+          "origin_country": "US"
+        },
+        {
+          "id": 216687,
+          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+          "name": "Domain Entertainment",
           "origin_country": "US"
         }
       ],
@@ -877,8 +933,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 857611174,
-      "runtime": 95,
+      "revenue": 163197450,
+      "runtime": 96,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -887,80 +943,7 @@
         }
       ],
       "status": "Released",
-      "tagline": "Нет слов, одни эмоции",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_mult"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bldgj2IeKr7poONE7h2wHhomPBA.jpg",
-      "genre_ids": [
-        28,
-        16
-      ],
-      "id": 117369,
-      "title": "Арджуна",
-      "original_language": "hi",
-      "original_title": "Arjun: The Warrior Prince",
-      "overview": "Давным-давно, когда Индия еще была поделена на множество королевств и за каждое шла отчаянная борьба, жили-были братья Пандавы: Юдхиштхир, Бхим, Арджун, Накул и Сахдэв. Не просто братья, но принцы крови, племянники действующего короля Хастинапура. И, подрастая, они составляют серьезную конкуренцию своим кузенам Кауравам, чтобы однажды сойтись с ними в решающем поединке. Противостояние Пандавов и Кауравов легло в основу индийского эпоса «Махабхарата».",
-      "popularity": 0.376,
-      "poster_path": "/oKItRQ3sp96BGHYS7pV45DfUgq9.jpg",
-      "release_date": "2012-05-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.355,
-      "vote_count": 38,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 16,
-          "name": "мультфильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt2404027",
-      "origin_country": [
-        "IN"
-      ],
-      "production_companies": [
-        {
-          "id": 2320,
-          "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
-          "name": "UTV Motion Pictures",
-          "origin_country": "IN"
-        },
-        {
-          "id": 89347,
-          "logo_path": null,
-          "name": "Disney World Cinema",
-          "origin_country": "IN"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "IN",
-          "name": "India"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "Hindi",
-          "iso_639_1": "hi",
-          "name": "हिन्दी"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
+      "tagline": "«Вы готовы?»",
       "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
@@ -1497,48 +1480,116 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "backdrop_path": "/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
       "genre_ids": [
+        16,
         10751,
-        35,
         12,
-        14,
-        16
+        18,
+        35
       ],
-      "id": 1226863,
+      "id": 150540,
+      "title": "Головоломка",
       "original_language": "en",
-      "original_title": "The Super Mario Galaxy Movie",
-      "overview": "Сиквел анимационного хита «Братья Супер Марио в кино» возвращает любимых героев — Марио, Луиджи, Принцессу Пич и Браузера. На этот раз братьям предстоит отправиться в новые миры, встретить неожиданных союзников и противников и вновь доказать, что даже самые маленькие герои могут изменить судьбу целого королевства.",
-      "popularity": 227.6338,
-      "poster_path": "/3NaiRtILh0UV8e64IzTALnqT7hr.jpg",
-      "release_date": "2026-04-01",
-      "title": "Супер Марио: Галактическое кино",
+      "original_title": "Inside Out",
+      "overview": "Это история про обычную девочку, которую зовут Райли. Она, как и все другие дети или взрослые, имеет 5 основных видов эмоций, это — Страх, Гнев, Радость, Печаль и Брезгливость. Они помогают девочке разобраться в определённых ситуациях, в общем, руководят ею полностью, и, как правило действуют гармонично. Однажды родители героини решили переехать из маленького города в большой. Вот здесь-то гармония кардинально нарушается. Каждая эмоция считает, что для приспособления к новой среде должна действовать именно она. Но ничего из того не выйдет, пока взаимопонимание не восстановится между ними. Получится ли у них это сделать?",
+      "popularity": 24.4459,
+      "poster_path": "/8wukxopBFO2Vrf50jlLpbrfj4OB.jpg",
+      "release_date": "2015-06-17",
+      "softcore": false,
       "video": false,
-      "vote_average": 6.939,
-      "vote_count": 338,
+      "vote_average": 7.909,
+      "vote_count": 23484,
       "belongs_to_collection": {
-        "id": 1434561,
-        "name": "Супер Марио (коллекция)",
-        "poster_path": "/8wVpJ4DCEVP6Ima1MgKgymZbYcz.jpg",
-        "backdrop_path": "/oZSRam2yEhScla7Z37UsODgIOwB.jpg"
+        "id": 1022790,
+        "name": "Головоломка (Коллекция)",
+        "poster_path": "/kvJqs0vm29U0xJa373wlzHb3FRh.jpg",
+        "backdrop_path": "/7hYG0v6BEErqqwnU7vWJjWgYJJp.jpg"
       },
-      "budget": 110000000,
+      "budget": 175000000,
       "genres": [
+        {
+          "id": 16,
+          "name": "мультфильм"
+        },
         {
           "id": 10751,
           "name": "семейный"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
         },
         {
           "id": 12,
           "name": "приключения"
         },
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt2096673",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 3,
+          "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+          "name": "Pixar",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 857611174,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Нет слов, одни эмоции",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_mult"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bldgj2IeKr7poONE7h2wHhomPBA.jpg",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "id": 117369,
+      "title": "Арджуна",
+      "original_language": "hi",
+      "original_title": "Arjun: The Warrior Prince",
+      "overview": "Давным-давно, когда Индия еще была поделена на множество королевств и за каждое шла отчаянная борьба, жили-были братья Пандавы: Юдхиштхир, Бхим, Арджун, Накул и Сахдэв. Не просто братья, но принцы крови, племянники действующего короля Хастинапура. И, подрастая, они составляют серьезную конкуренцию своим кузенам Кауравам, чтобы однажды сойтись с ними в решающем поединке. Противостояние Пандавов и Кауравов легло в основу индийского эпоса «Махабхарата».",
+      "popularity": 0.376,
+      "poster_path": "/oKItRQ3sp96BGHYS7pV45DfUgq9.jpg",
+      "release_date": "2012-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.355,
+      "vote_count": 38,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
         },
         {
           "id": 16,
@@ -1546,57 +1597,42 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt28650488",
+      "imdb_id": "tt2404027",
       "origin_country": [
-        "US"
+        "IN"
       ],
       "production_companies": [
         {
-          "id": 6704,
-          "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
-          "name": "Illumination",
-          "origin_country": "US"
+          "id": 2320,
+          "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+          "name": "UTV Motion Pictures",
+          "origin_country": "IN"
         },
         {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 12288,
-          "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
-          "name": "Nintendo",
-          "origin_country": "JP"
+          "id": 89347,
+          "logo_path": null,
+          "name": "Disney World Cinema",
+          "origin_country": "IN"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "JP",
-          "name": "Japan"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
+          "iso_3166_1": "IN",
+          "name": "India"
         }
       ],
-      "revenue": 429011034,
-      "runtime": 98,
+      "revenue": 0,
+      "runtime": 96,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
+          "english_name": "Hindi",
+          "iso_639_1": "hi",
+          "name": "हिन्दी"
         }
       ],
       "status": "Released",
-      "tagline": "«Космическое приключение»",
-      "release_quality": "2160p",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_mult"
