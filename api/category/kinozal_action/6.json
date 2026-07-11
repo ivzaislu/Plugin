@@ -5,30 +5,33 @@
   },
   "page": 6,
   "limit": 20,
-  "total": 132,
+  "total": 133,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/bxwKC4qAbceMgHU1xCCTBK1eYdn.jpg",
+      "backdrop_path": "/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
       "genre_ids": [
         28,
-        53,
-        80
+        53
       ],
-      "id": 5492,
-      "title": "Стрелок",
+      "id": 1007734,
       "original_language": "en",
-      "original_title": "Gunner",
-      "overview": "Почетный герой войны в отставке отправляется в горы со своими сыновьями и случайно становится свидетелем крупной наркосделки. Нарушив планы и крупных наркодилеров, и агентов под прикрытием, он вынужден снова взяться за оружие, чтобы любой ценой защитить свою семью.",
-      "popularity": 3.2955,
-      "poster_path": "/oPW25RL1AnFYhxoVVXQMzqksoo3.jpg",
-      "release_date": "2024-08-16",
-      "softcore": false,
+      "original_title": "Nobody 2",
+      "overview": "Хатч Мэнселл, семьянин из пригорода и бывший профессиональный убийца, больше не может скрываться от своего опасного прошлого после предотвращения нападения дома. Постепенно раскрываются секреты не только Хатча, но и его жены Бекки.",
+      "popularity": 29.8995,
+      "poster_path": "/744AMzuqzCxVWhjQEZVHxUIhzd.jpg",
+      "release_date": "2025-08-13",
+      "title": "Никто 2",
       "video": false,
-      "vote_average": 5.275,
-      "vote_count": 238,
-      "belongs_to_collection": null,
-      "budget": 20000000,
+      "vote_average": 7.026,
+      "vote_count": 1143,
+      "belongs_to_collection": {
+        "id": 1129084,
+        "name": "Никто (Коллекция)",
+        "poster_path": "/zwELreUw3SvkzWbPGxFReaGBPzo.jpg",
+        "backdrop_path": "/jNxcPaz5OT3A3PqTgQevwe8pVh8.jpg"
+      },
+      "budget": 25000000,
       "genres": [
         {
           "id": 28,
@@ -37,34 +40,36 @@
         {
           "id": 53,
           "name": "триллер"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt12598606",
+      "imdb_id": "tt28996126",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 193150,
-          "logo_path": "/pZJxKrKZEFYCpHfy1oprLgq7bLS.png",
-          "name": "magiCity Studios",
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
           "origin_country": "US"
         },
         {
-          "id": 5113,
-          "logo_path": "/qd5ru3vUvGb6dhXSzkHn7EQoX2D.png",
-          "name": "120dB Films",
+          "id": 121470,
+          "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+          "name": "87North Productions",
           "origin_country": "US"
         },
         {
-          "id": 141998,
+          "id": 86647,
+          "logo_path": "/jefZmEJlxUAkuuwkH9CHQchgmJX.png",
+          "name": "OPE Partners",
+          "origin_country": "US"
+        },
+        {
+          "id": 123230,
           "logo_path": null,
-          "name": "Acme Rocket Fuel",
+          "name": "Eighty Two Films",
           "origin_country": "US"
         }
       ],
@@ -74,8 +79,273 @@
           "name": "United States of America"
         }
       ],
+      "revenue": 41618135,
+      "runtime": 89,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Никто не испортит его отпуск»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eMlCmmgQUFIykBsf7AdTI1q0ZkL.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 9972,
+      "title": "Тюряга",
+      "original_language": "en",
+      "original_title": "Lock Up",
+      "overview": "Сильвестр Сталлоне нажил себе много врагов в свое время, когда был Рембо и Рокки. Но никто не желал ему столько неприятностей, как начальник тюрьмы Драмгул. Примерный зэк Фрэнк Леоне становится мишенью жестокого и изобретательного Драмгула, мечтающего сгноить его в тюряге.",
+      "popularity": 3.1756,
+      "poster_path": "/2Ta61DiVPhtnLJLIi4jAGNJZu01.jpg",
+      "release_date": "1989-08-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1330,
+      "belongs_to_collection": null,
+      "budget": 24000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0097770",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 275,
+          "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+          "name": "Carolco Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 21919,
+          "logo_path": null,
+          "name": "White Eagle",
+          "origin_country": "US"
+        },
+        {
+          "id": 1073,
+          "logo_path": null,
+          "name": "Gordon Company",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 22099847,
+      "runtime": 109,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Сколько может выдержать человек?..прежде чем он вернется?",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hkRvqzBR1lzUxUFCXxQGN0dbzwS.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1825,
+      "original_language": "en",
+      "original_title": "Over the Top",
+      "overview": "Водитель грузовика Линкольн Хоук, по прозвищу Ястреб, едет в Лас-Вегас на чемпионат мира по армреслингу. У него много забот: надо встретиться и поговорить с бывшей женой, умирающей от странной болезни сердца; проведать, сломав ворота и разобравшись с телохранителями, любимого тестя и любой ценой заполучить сына, брошенного 10 лет назад. Сын, в начале принявший отца в штыки, станет опорой Ястреба и поможет ему выиграть чемпионат.",
+      "popularity": 5.2544,
+      "poster_path": "/3xT9PZFGW0SrojliEPQhzbIe2yu.jpg",
+      "release_date": "1987-02-13",
+      "title": "Изо всех сил",
+      "video": false,
+      "vote_average": 6.449,
+      "vote_count": 1808,
+      "belongs_to_collection": null,
+      "budget": 25000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0093692",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1444,
+          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+          "name": "The Cannon Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 13549,
+          "logo_path": null,
+          "name": "Golan-Globus Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 16057580,
+      "runtime": 94,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Некоторые дерутся за деньги... Некоторые сражаются за славу... Он борется за любовь своего сына.",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Ckkdh0VTcFPwpBJ6jMAS3qIkgJ.jpg",
+      "genre_ids": [
+        53,
+        28,
+        80
+      ],
+      "id": 1413976,
+      "title": "Гражданин-мститель",
+      "original_language": "en",
+      "original_title": "Citizen Vigilante",
+      "overview": "В центре истории - Сандерс, самопровозглашённый мститель. Он разочарован в официальной системе правосудия и решает вершить его сам: охотится на преступников и коррумпированных чиновников. Свои действия он записывает, публикует в соцсетях (при этом лица жертв размывает) и произносит манифесты о несостоятельности институтов. В результате его «подвиги» делают Сандерса звездой интернета - у него появляется публичная поддержка.",
+      "popularity": 83.3073,
+      "poster_path": "/ik0ITJFzYdXuBOKKe5U9uACGKVn.jpg",
+      "release_date": "2026-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.833,
+      "vote_count": 60,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt35309713",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 22793,
+          "logo_path": null,
+          "name": "Event Film Distribution",
+          "origin_country": "US"
+        },
+        {
+          "id": 15127,
+          "logo_path": null,
+          "name": "Boll KG",
+          "origin_country": "DE"
+        },
+        {
+          "id": 273199,
+          "logo_path": null,
+          "name": "Borvel Film",
+          "origin_country": "HR"
+        },
+        {
+          "id": 302573,
+          "logo_path": null,
+          "name": "Bolu",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "HR",
+          "name": "Croatia"
+        },
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
       "revenue": 0,
-      "runtime": 90,
+      "runtime": 89,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -93,73 +363,155 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+      "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
       "genre_ids": [
-        28,
-        12,
-        9648
+        18,
+        10752
       ],
-      "id": 335787,
-      "title": "Анчартед: На картах не значится",
+      "id": 600,
+      "title": "Цельнометаллическая оболочка",
       "original_language": "en",
-      "original_title": "Uncharted",
-      "overview": "Нейтан Дрейк и Виктор «Салли» Салливан, два искателя приключений, отправляются на поиски величайшего сокровища мира. Кроме того, они надеются найти улики, которые приведут их к давно потерянному брату Нейтана.",
-      "popularity": 9.4637,
-      "poster_path": "/gCeTyPG6g03DGsSvNOjEIAjmC9j.jpg",
-      "release_date": "2022-02-10",
+      "original_title": "Full Metal Jacket",
+      "overview": "Американская база подготовки новобранцев корпуса морской пехоты. Жесточайшая, бесчеловечная система призвана превратить домашних мальчишек в натренированных хладнокровных убийц. Их готовят к войне во Вьетнаме, где им придется часто задавать себе вопрос «Разве война - это не ад?», а иначе просто невозможно убивать каждый день, не понимая, для чего это?",
+      "popularity": 13.4423,
+      "poster_path": "/qaMwQ0j4A0QGkis4tE6ODUbC4Nz.jpg",
+      "release_date": "1987-06-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.884,
-      "vote_count": 6916,
+      "vote_average": 8.116,
+      "vote_count": 11530,
+      "belongs_to_collection": null,
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "https://www.warnerbros.com/movies/full-metal-jacket",
+      "imdb_id": "tt0093058",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 50819,
+          "logo_path": null,
+          "name": "Natant",
+          "origin_country": "US"
+        },
+        {
+          "id": 385,
+          "logo_path": null,
+          "name": "Stanley Kubrick Productions",
+          "origin_country": "GB"
+        },
+        {
+          "id": 174,
+          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 46357676,
+      "runtime": 116,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Vietnamese",
+          "iso_639_1": "vi",
+          "name": "Tiếng Việt"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Рожденный убивать»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/teCZlGivejMw4rVzyxBSYQNr6XI.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 1368,
+      "title": "Рэмбо: Первая кровь",
+      "original_language": "en",
+      "original_title": "First Blood",
+      "overview": "Он — эксперт. Эксперт по оружию, ножам и собственному телу. Он человек, специально обученный не замечать боль и погодные условия. Во Вьетнаме его задание было уничтожать вражеский личный состав. Много убивать. Истощать силы врага до полной победы. Рэмбо был лучший. На войне он был героем, а на родине, во имя которой поливалась кровь, он никому не нужен. Не способный приспособиться к мирной жизни Рэмбо путешествует автостопом по городам Америки, встречаясь с однополчанами. Путешествие прекращает провинциальный шериф, ненавидящий бродяг. Попавший в тюрьму по ложному обвинению, вкусивший унижений со стороны администрации, Рэмбо объявляет войну. Войну существующему отношению к ветеранам, беспределу официальных структур и главе местной полиции лично. Совершив фантастический побег из тюрьмы, Джон начинает партизанскую войну в местных лесах. Очень скоро ситуация выходит из под контроля властей и в маленький город вводят части регулярной армии.",
+      "popularity": 16.5572,
+      "poster_path": "/6J0PejIiR8d4CGsRbWBHMisgjOf.jpg",
+      "release_date": "1982-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.511,
+      "vote_count": 6936,
       "belongs_to_collection": {
-        "id": 1216426,
-        "name": "Анчартед (Коллекция)",
-        "poster_path": "/8k3BvQSOC6Y1p2raqRZQPSqEAr8.jpg",
-        "backdrop_path": "/hMZjdhejSvs8NJpkiLBVOYbWKzP.jpg"
+        "id": 5039,
+        "name": "Рэмбо (Коллекция)",
+        "poster_path": "/lg2RphAHEUU5hGCuundEjL2MAyr.jpg",
+        "backdrop_path": "/ecvVwlK75evrAlsEE96V14KN6MN.jpg"
       },
-      "budget": 120000000,
+      "budget": 15000000,
       "genres": [
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 53,
+          "name": "триллер"
         },
         {
-          "id": 9648,
-          "name": "детектив"
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt1464335",
+      "imdb_id": "tt0083944",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 5,
-          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-          "name": "Columbia Pictures",
+          "id": 275,
+          "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+          "name": "Carolco Pictures",
           "origin_country": "US"
         },
         {
-          "id": 507,
-          "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
-          "name": "Atlas Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 125281,
-          "logo_path": "/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png",
-          "name": "PlayStation Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 14439,
+          "id": 52941,
           "logo_path": null,
-          "name": "Arad Productions",
+          "name": "Anabasis",
+          "origin_country": "AN"
+        },
+        {
+          "id": 52940,
+          "logo_path": null,
+          "name": "Elcajo Productions",
           "origin_country": "US"
         }
       ],
@@ -167,16 +519,15 @@
         {
           "iso_3166_1": "US",
           "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "AN",
+          "name": "Netherlands Antilles"
         }
       ],
-      "revenue": 407141258,
-      "runtime": 115,
+      "revenue": 125212904,
+      "runtime": 93,
       "spoken_languages": [
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        },
         {
           "english_name": "English",
           "iso_639_1": "en",
@@ -184,7 +535,177 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Величайшее Приключение»",
+      "tagline": "На этот раз он борется за свою жизнь.",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/joqEPQ9O4bCxDVEse55rtmS9ENf.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        10752
+      ],
+      "id": 21666,
+      "title": "Янки",
+      "original_language": "en",
+      "original_title": "Yanks",
+      "overview": "Действие фильма происходит во время Второй мировой войны в Великобритании незадолго до операции в Нормандии. Американские солдаты ожидают в небольшом английском городке начала операции. Местные же насмешливо называют американцев «янки».  Главные герои фильма — три американских солдата, которые влюбляются в местных английских женщин. Один из них — молодой мужчина из Аризоны сержант Мэтт Дайсон который встречается с молодой Джин Моретон. Другая пара — капитан Джон и Элен.",
+      "popularity": 1.515,
+      "poster_path": "/zsTyD3U9iiFDYGWW3Xix4Q2Opuf.jpg",
+      "release_date": "1979-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.884,
+      "vote_count": 63,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0080157",
+      "origin_country": [
+        "GB",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 14309,
+          "logo_path": null,
+          "name": "CIP Filmproduktion GmbH",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "DE",
+          "name": "Germany"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 138,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1122573,
+      "title": "Грязные деньги",
+      "original_language": "en",
+      "original_title": "In the Grey",
+      "overview": "Когда безжалостный магнат Салазар присваивает себе миллиард долларов, отряд элитных агентов под управлением проницательной Рэйчел получает задание вернуть деньги любой ценой. Сид, Бронко и их соратники начинают воплощать стратегию давления на афериста, а затем отправляются на остров Салазара, где проявляют все свои навыки обращения с оружием и взрывчаткой. Однако внезапно ситуация выходит из-под контроля.",
+      "popularity": 146.5599,
+      "poster_path": "/eX68co76w7wunCRunji7kyglqTG.jpg",
+      "release_date": "2026-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 113,
+      "belongs_to_collection": null,
+      "budget": 70000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt27681354",
+      "origin_country": [
+        "GB",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 184518,
+          "logo_path": "/lOouI8ibBzhLI4qvku74FPUVT8t.png",
+          "name": "C2 Motion Picture Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 2900,
+          "logo_path": "/9LbR5s0UDvDKvDJWXeq3zeukzEP.png",
+          "name": "Toff Guy Films",
+          "origin_country": "GB"
+        },
+        {
+          "id": 22146,
+          "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+          "name": "Black Bear Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 13478954,
+      "runtime": 98,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Когда крадут миллиарды, только эти парни могут украсть их обратно»",
       "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
@@ -193,66 +714,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/eu5FAFKhbr0Y4A24QnNjeac5P8g.jpg",
+      "backdrop_path": "/sYxcSFV3bOGU7t0mj8y5U3TmVHZ.jpg",
       "genre_ids": [
-        28,
-        35,
-        18,
-        53,
-        10749
+        80,
+        53
       ],
-      "id": 42160,
-      "title": "Трюкач",
+      "id": 72447,
+      "title": "Последняя гонка",
       "original_language": "en",
-      "original_title": "The Stunt Man",
-      "overview": "Скрываясь от полиции, Кеймерон попадает на съемочную площадку фильма о Первой мировой войне. Жестокому режиссеру Кроссу нужен человек, который заменил бы погибшего каскадера. Кеймерон получает укрытие, но он должен заменить каскадера.  Прошедший ужасы вьетнамской войны, Кеймерон в роли американского летчика демонстрирует фантастическое мужество.",
-      "popularity": 1.0681,
-      "poster_path": "/yk7sVvXxAOO2oncDkjaon4C7ErX.jpg",
-      "release_date": "1980-06-27",
+      "original_title": "The Last Run",
+      "overview": "Гарри Гармс, некогда связанный с преступным миром Чикаго, живет один в португальской рыбацкой деревушке. После 9 лет бездействия он решает выполнить последний контракт, чтобы самому себе доказать, что он еще на это способен. Он должен сопроводить из Испании во Францию человека по имени Поль Рикар, сбежавшего из тюрьмы…",
+      "popularity": 0.8327,
+      "poster_path": "/kMluQNsrUHAoUWwKccF1grYAOfb.jpg",
+      "release_date": "1971-07-07",
       "softcore": false,
       "video": false,
-      "vote_average": 6.607,
-      "vote_count": 168,
+      "vote_average": 6.6,
+      "vote_count": 39,
       "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
+          "id": 80,
+          "name": "криминал"
         },
         {
           "id": 53,
           "name": "триллер"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0081568",
+      "imdb_id": "tt0067329",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 25,
-          "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-          "name": "20th Century Fox",
-          "origin_country": "US"
-        },
-        {
-          "id": 2124,
-          "logo_path": null,
-          "name": "Melvin Simon Productions",
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
           "origin_country": "US"
         }
       ],
@@ -263,7 +763,194 @@
         }
       ],
       "revenue": 0,
-      "runtime": 131,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        },
+        {
+          "english_name": "Spanish",
+          "iso_639_1": "es",
+          "name": "Español"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 1226406,
+      "title": "Любовь - Боль",
+      "original_language": "en",
+      "original_title": "Love Hurts",
+      "overview": "Марвин Гейбл ведёт успешную жизнь риэлтора в респектабельном пригороде Милуоки. Однажды он получает загадочный конверт от женщины по имени Роуз, которую он когда-то бросил на верную смерть. Она сообщает, что Марвина разыскивает его брат Наклз, криминальный авторитет. Оказывается, за улыбкой и хорошими манерами преуспевающего агента по продаже недвижимости скрывается тёмное преступное прошлое.",
+      "popularity": 3.9248,
+      "poster_path": "/350Cvt8tlGZeBUUgvbpJzFwz1Wm.jpg",
+      "release_date": "2025-02-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.645,
+      "vote_count": 383,
+      "belongs_to_collection": null,
+      "budget": 18000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt30788842",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 121470,
+          "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+          "name": "87North Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 33,
+          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+          "name": "Universal Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "JP",
+          "name": "Japan"
+        }
+      ],
+      "revenue": 17669913,
+      "runtime": 83,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Полюбите себя настоящего»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Ag3rEep1yl0a9Zn0dGvFeJNjWCw.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 31618,
+      "title": "Преданный",
+      "original_language": "en",
+      "original_title": "Betrayed",
+      "overview": "В Чикаго убит ведущий популярного радиошоу еврей Сэм Краус. Его труп находят в гараже вместе с надписью ZOG (Сионистское оккупационное правительство). В своей передаче Сэм затрагивал острые социальные проблемы, и неонацисты решили ему отомстить. ФБР внедряет своего агента, Кэтрин Филлипс, в сельский район, где проживают подозреваемые в убийстве.",
+      "popularity": 1.2043,
+      "poster_path": "/eilzKLdafTPGZTq9BhHlsjM70JG.jpg",
+      "release_date": "1988-08-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.079,
+      "vote_count": 140,
+      "belongs_to_collection": null,
+      "budget": 19000000,
+      "genres": [
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0094731",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 32793,
+          "logo_path": null,
+          "name": "CST Telecommunications",
+          "origin_country": ""
+        },
+        {
+          "id": 60,
+          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+          "name": "United Artists",
+          "origin_country": "US"
+        },
+        {
+          "id": 21,
+          "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+          "name": "Metro-Goldwyn-Mayer",
+          "origin_country": "US"
+        },
+        {
+          "id": 8880,
+          "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+          "name": "Winkler Films",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 127,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -272,8 +959,310 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Бог был бы счастлив, если бы Он мог делать то, что можем мы . . .»",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 11690,
+      "original_language": "en",
+      "original_title": "Bloodsport",
+      "overview": "В Гонконге должны состояться подпольные соревнования по восточным единоборствам, к которым готовится и один из американских военнослужащих. В свое время, будучи ребенком, он стал приемным сыном японца- учителя каратэ, достиг совершенства путем упорных тренировок и в знак успеха получил священный японский меч.Он самовольно оставляет воинскую часть и отправляется в Гонконг на «Кумите». По следам молодого человека идет ФБР. Несмотря на все преграды, возникающие на пути каратиста, ему удается добиться победы и вступить в Братство Черного Дракона…",
+      "popularity": 5.9271,
+      "poster_path": "/35elF2MksE18K6GynGeGj0XNQOg.jpg",
+      "release_date": "1988-02-26",
+      "title": "Кровавый спорт",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 2038,
+      "belongs_to_collection": {
+        "id": 36694,
+        "name": "Кровавый спорт (Коллекция)",
+        "poster_path": "/uGbwSsHkvw2I0NMkrI8sSN3P8da.jpg",
+        "backdrop_path": "/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg"
+      },
+      "budget": 1500000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0092675",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1444,
+          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+          "name": "The Cannon Group",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "HK",
+          "name": "Hong Kong"
+        }
+      ],
+      "revenue": 63500000,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "Cantonese",
+          "iso_639_1": "cn",
+          "name": "广州话 / 廣州話"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Правдивая история Американского ниндзя",
       "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hvqNAz3cq48sh9GKxu4lPiogfBo.jpg",
+      "genre_ids": [
+        28,
+        80,
+        9648,
+        53
+      ],
+      "id": 996154,
+      "title": "Чёрный лотос",
+      "original_language": "en",
+      "original_title": "Black Lotus",
+      "overview": "Офицер спецназа Маттео Доннер пытается справиться с чувством вины после гибели лучшего друга в ходе совместного задания. После скитаний по миру он возвращается в Амстердам, где его вовлекают в противостояние городских банд. Доннер должен спасти похищенную дочь своего погибшего товарища.",
+      "popularity": 2.8368,
+      "poster_path": "/b3CUOlctkNgqPHZJgvjt7uCTfu3.jpg",
+      "release_date": "2023-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.399,
+      "vote_count": 198,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 80,
+          "name": "криминал"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt15895490",
+      "origin_country": [
+        "NL",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 154063,
+          "logo_path": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+          "name": "Capstone Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 144980,
+          "logo_path": null,
+          "name": "Interstellar Pictures",
+          "origin_country": "NL"
+        },
+        {
+          "id": 23011,
+          "logo_path": null,
+          "name": "Tom de Mol Productions",
+          "origin_country": "NL"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "BG",
+          "name": "Bulgaria"
+        },
+        {
+          "iso_3166_1": "NL",
+          "name": "Netherlands"
+        },
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Когда есть за что сражаться»",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_action"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        53,
+        36
+      ],
+      "id": 1328803,
+      "original_language": "en",
+      "original_title": "Prisoner of War",
+      "overview": "Джеймс Райт, офицер британского спецназа SAS, захвачен японцами и содержится в филиппинском лагере для военнопленных. Чтобы развлечь тюремщиков, перед отправкой на печально известный Батаанский марш смерти пленных заставляют участвовать в жестоких смертельных боях. Оказавшись в отчаянной ситуации, Райт становится последней надеждой для своих товарищей.",
+      "popularity": 17.8497,
+      "poster_path": "/qwxU3i186IwqIMJdI7gXl6eknkK.jpg",
+      "release_date": "2025-09-19",
+      "title": "Военнопленный",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 129,
+      "belongs_to_collection": null,
+      "budget": 2000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 36,
+          "name": "история"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt33057137",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 238345,
+          "logo_path": null,
+          "name": "Brand in Motion",
+          "origin_country": ""
+        },
+        {
+          "id": 238346,
+          "logo_path": null,
+          "name": "Myriad Entertainment Corp.",
+          "origin_country": ""
+        },
+        {
+          "id": 3835,
+          "logo_path": "/4gD398zUF6VaBti3sVjJkr0sDUX.png",
+          "name": "Odyssey Motion Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 238347,
+          "logo_path": null,
+          "name": "Reality RR Studios",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "PH",
+          "name": "Philippines"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 94700000,
+      "runtime": 113,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Japanese",
+          "iso_639_1": "ja",
+          "name": "日本語"
+        },
+        {
+          "english_name": "German",
+          "iso_639_1": "de",
+          "name": "Deutsch"
+        },
+        {
+          "english_name": "Portuguese",
+          "iso_639_1": "pt",
+          "name": "Português"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_action"
@@ -790,1013 +1779,6 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
-      "genre_ids": [
-        53,
-        28,
-        12,
-        18,
-        14
-      ],
-      "id": 1401778,
-      "original_language": "en",
-      "original_title": "Turbulence",
-      "overview": "Молодая супружеская пара Зак и Эмми, чтобы вновь разжечь искру в отношениях, решают отправиться в полёт на воздушном шаре над величественными Доломитовыми Альпами в Италии. Но перед полётом к ним и опытному инструктору Гарри неожиданно присоединяется попутчица Джулия. На высоте 5 тысяч метров, где воздух разряжён, а земля кажется далёкой игрушкой, всё выходит из-под контроля. То, что задумывалось как романтическое приключение всей жизни, оборачивается настоящей борьбой за выживание.",
-      "popularity": 5.3164,
-      "poster_path": "/uTXgSkZdHeNIDfveUgxjlDaqAd1.jpg",
-      "release_date": "2025-11-26",
-      "title": "Турбулентность",
-      "video": false,
-      "vote_average": 5.538,
-      "vote_count": 40,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33009027",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 85170,
-          "logo_path": "/iy4CaQI06wU1XjuC2sPtxr40VRt.png",
-          "name": "Altitude Film Sales",
-          "origin_country": "GB"
-        },
-        {
-          "id": 5056,
-          "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
-          "name": "Head Gear Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 25954,
-          "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
-          "name": "Metrol Technology",
-          "origin_country": "GB"
-        },
-        {
-          "id": 19638,
-          "logo_path": "/ueSsb3nJfvu8utNO1linVypm2mv.png",
-          "name": "Altitude Film Entertainment",
-          "origin_country": "GB"
-        },
-        {
-          "id": 21608,
-          "logo_path": "/8T1IRxvzcTr7NWhobIKXBMCkUiY.png",
-          "name": "Enderby Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 107513,
-          "logo_path": "/tRArb3RvrssbYCST9R0A8NKyDKV.png",
-          "name": "Phiphen Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 95,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Страх уносит жизни»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/b93N6Mb08NhFhobB8KrR5GBaPP5.jpg",
-      "genre_ids": [
-        878,
-        27,
-        10770
-      ],
-      "id": 969686,
-      "title": "Четыре всадника: Апокалипсис",
-      "original_language": "en",
-      "original_title": "4 Horsemen: Apocalypse",
-      "overview": "Группа ученых должна остановить череду глобальных катастроф, способных привести к концу света.",
-      "popularity": 0.9351,
-      "poster_path": "/epVoJPkBCAemef9WXo7eQJ93Jbp.jpg",
-      "release_date": "2022-04-29",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.004,
-      "vote_count": 134,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 878,
-          "name": "фантастика"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        },
-        {
-          "id": 10770,
-          "name": "телевизионный фильм"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt19766560",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1311,
-          "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
-          "name": "The Asylum",
-          "origin_country": "US"
-        },
-        {
-          "id": 185065,
-          "logo_path": "/jOB4ZZVEepRbkIxSyWfy3pW50pi.png",
-          "name": "Emerald City Films",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 86,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Конец настал»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-      "genre_ids": [
-        12,
-        18,
-        53,
-        28
-      ],
-      "id": 1284465,
-      "title": "Смерть Робин Гуда",
-      "original_language": "en",
-      "original_title": "The Death of Robin Hood",
-      "overview": "Постаревший Робин Гуд сталкивается с осознанием, что его прошлое полно убийств и преступлений. Однажды он получает серьёзное ранение и получает шанс на спасение, попав в руки таинственной женщины.",
-      "popularity": 37.6792,
-      "poster_path": "/bv3ResPWfXVEOeDUwTW7XoC04Yh.jpg",
-      "release_date": "2026-06-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 41,
-      "belongs_to_collection": null,
-      "budget": 25000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32273171",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 180839,
-          "logo_path": "/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png",
-          "name": "Lyrical Media",
-          "origin_country": "US"
-        },
-        {
-          "id": 172841,
-          "logo_path": "/MKTZVUIIWMjwpF58tGtAx8UXFs.png",
-          "name": "Ryder Picture Company",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 3200000,
-      "runtime": 123,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 2636,
-      "original_language": "en",
-      "original_title": "The Specialist",
-      "overview": "Мэй - красотка с роковым прошлым. Она поклялась отомстить гангстерам, убившим ее родителей, и уже выбрала способ, как с ними расправиться, и нашла человека, который это сделает: внешне невозмутимый бывший эксперт - подрывник ЦРУ Рэй.\r Майами, курорт для сверхбогачей, превращается в охотничью территорию, где Мэй заманивает и соблазняет убийц, а Рэй мастерски взрывает их, превращая в пепел.",
-      "popularity": 3.5376,
-      "poster_path": "/qU65wAyBEMhjzUHdCJS0lFIuX1D.jpg",
-      "release_date": "1994-10-07",
-      "title": "Специалист",
-      "video": false,
-      "vote_average": 5.932,
-      "vote_count": 1403,
-      "belongs_to_collection": null,
-      "budget": 45000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0111255",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 2596,
-          "logo_path": "/755EAcJW7MqKFpCPgbWicsb2QV6.png",
-          "name": "Jerry Weintraub Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 11134,
-          "logo_path": null,
-          "name": "Iguana Producciones",
-          "origin_country": "PE"
-        },
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 170362582,
-      "runtime": 110,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Правительство научило его убивать. Теперь он использует свои навыки, чтобы помочь женщине отомстить преступному миру Майами.»",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
-      "genre_ids": [
-        28,
-        35,
-        53
-      ],
-      "id": 1390300,
-      "title": "Опасные отношения",
-      "original_language": "en",
-      "original_title": "Over Your Dead Body",
-      "overview": "Семейная пара приезжает на уикенд в коттедж у живописного озера, чтобы наладить натянутые отношения. Но планы портят непрошеные и очень опасные гости, которые проникают в их дом. Чтобы выжить, ребятам придется не просто найти общий язык, но и впервые по-настоящему узнать друг друга.",
-      "popularity": 89.0469,
-      "poster_path": "/sKeUDlzJTPjOqzQ8KzLDGzfDnUn.jpg",
-      "release_date": "2026-04-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.4,
-      "vote_count": 30,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt34685692",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 121470,
-          "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
-          "name": "87North Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 12142,
-          "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
-          "name": "XYZ Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 98438,
-          "logo_path": "/cjkuW0QeX3hcUUBkZFFCiYmZvcr.png",
-          "name": "74 Entertainment",
-          "origin_country": "NO"
-        },
-        {
-          "id": 142269,
-          "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
-          "name": "IPR.VC",
-          "origin_country": "FI"
-        },
-        {
-          "id": 289751,
-          "logo_path": null,
-          "name": "The Trip Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "NO",
-          "name": "Norway"
-        },
-        {
-          "iso_3166_1": "FI",
-          "name": "Finland"
-        }
-      ],
-      "revenue": 2055131,
-      "runtime": 105,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Чтобы спасти отношения, нужны гости... Опасные гости»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
-      "genre_ids": [
-        28,
-        36,
-        10752
-      ],
-      "id": 10590,
-      "original_language": "en",
-      "original_title": "We Were Soldiers",
-      "overview": "Рассказ о героях и их героизме, которых незаслуженно забыли при сражении под Ай Дрэнгом. В первом крупном сражении между американскими и вьетконговскими войсками 395 американцев оказалось в окружении, причем враг значительно превосходил их по численности. События происходили с 23 октября по 26 ноября 1965 года.",
-      "popularity": 6.1401,
-      "poster_path": "/dtZQjRLnVTf09gnnk6O2bifj7kS.jpg",
-      "release_date": "2002-03-01",
-      "title": "Мы были солдатами",
-      "video": false,
-      "vote_average": 7.146,
-      "vote_count": 2188,
-      "belongs_to_collection": null,
-      "budget": 75000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 36,
-          "name": "история"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0277434",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 53005,
-          "logo_path": null,
-          "name": "Wheelhouse Entertainment",
-          "origin_country": "US"
-        },
-        {
-          "id": 53006,
-          "logo_path": null,
-          "name": "Motion Picture Production GmbH & Co. Erste KG",
-          "origin_country": "DE"
-        },
-        {
-          "id": 4,
-          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-          "name": "Paramount Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 152,
-          "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
-          "name": "Icon Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 114660784,
-      "runtime": 138,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Vietnamese",
-          "iso_639_1": "vi",
-          "name": "Tiếng Việt"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/eMlCmmgQUFIykBsf7AdTI1q0ZkL.jpg",
-      "genre_ids": [
-        28,
-        80,
-        18,
-        53
-      ],
-      "id": 9972,
-      "title": "Тюряга",
-      "original_language": "en",
-      "original_title": "Lock Up",
-      "overview": "Сильвестр Сталлоне нажил себе много врагов в свое время, когда был Рембо и Рокки. Но никто не желал ему столько неприятностей, как начальник тюрьмы Драмгул. Примерный зэк Фрэнк Леоне становится мишенью жестокого и изобретательного Драмгула, мечтающего сгноить его в тюряге.",
-      "popularity": 3.1756,
-      "poster_path": "/2Ta61DiVPhtnLJLIi4jAGNJZu01.jpg",
-      "release_date": "1989-08-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 1330,
-      "belongs_to_collection": null,
-      "budget": 24000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0097770",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 275,
-          "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
-          "name": "Carolco Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 21919,
-          "logo_path": null,
-          "name": "White Eagle",
-          "origin_country": "US"
-        },
-        {
-          "id": 1073,
-          "logo_path": null,
-          "name": "Gordon Company",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 22099847,
-      "runtime": 109,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Сколько может выдержать человек?..прежде чем он вернется?",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hkRvqzBR1lzUxUFCXxQGN0dbzwS.jpg",
-      "genre_ids": [
-        28,
-        18
-      ],
-      "id": 1825,
-      "original_language": "en",
-      "original_title": "Over the Top",
-      "overview": "Водитель грузовика Линкольн Хоук, по прозвищу Ястреб, едет в Лас-Вегас на чемпионат мира по армреслингу. У него много забот: надо встретиться и поговорить с бывшей женой, умирающей от странной болезни сердца; проведать, сломав ворота и разобравшись с телохранителями, любимого тестя и любой ценой заполучить сына, брошенного 10 лет назад. Сын, в начале принявший отца в штыки, станет опорой Ястреба и поможет ему выиграть чемпионат.",
-      "popularity": 5.2544,
-      "poster_path": "/3xT9PZFGW0SrojliEPQhzbIe2yu.jpg",
-      "release_date": "1987-02-13",
-      "title": "Изо всех сил",
-      "video": false,
-      "vote_average": 6.449,
-      "vote_count": 1808,
-      "belongs_to_collection": null,
-      "budget": 25000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0093692",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1444,
-          "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
-          "name": "The Cannon Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 174,
-          "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 13549,
-          "logo_path": null,
-          "name": "Golan-Globus Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 16057580,
-      "runtime": 94,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Некоторые дерутся за деньги... Некоторые сражаются за славу... Он борется за любовь своего сына.",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3Ckkdh0VTcFPwpBJ6jMAS3qIkgJ.jpg",
-      "genre_ids": [
-        53,
-        28,
-        80
-      ],
-      "id": 1413976,
-      "title": "Гражданин-мститель",
-      "original_language": "en",
-      "original_title": "Citizen Vigilante",
-      "overview": "В центре истории - Сандерс, самопровозглашённый мститель. Он разочарован в официальной системе правосудия и решает вершить его сам: охотится на преступников и коррумпированных чиновников. Свои действия он записывает, публикует в соцсетях (при этом лица жертв размывает) и произносит манифесты о несостоятельности институтов. В результате его «подвиги» делают Сандерса звездой интернета - у него появляется публичная поддержка.",
-      "popularity": 83.3073,
-      "poster_path": "/ik0ITJFzYdXuBOKKe5U9uACGKVn.jpg",
-      "release_date": "2026-06-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.833,
-      "vote_count": 60,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 80,
-          "name": "криминал"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt35309713",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 22793,
-          "logo_path": null,
-          "name": "Event Film Distribution",
-          "origin_country": "US"
-        },
-        {
-          "id": 15127,
-          "logo_path": null,
-          "name": "Boll KG",
-          "origin_country": "DE"
-        },
-        {
-          "id": 273199,
-          "logo_path": null,
-          "name": "Borvel Film",
-          "origin_country": "HR"
-        },
-        {
-          "id": 302573,
-          "logo_path": null,
-          "name": "Bolu",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "HR",
-          "name": "Croatia"
-        },
-        {
-          "iso_3166_1": "DE",
-          "name": "Germany"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 89,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
-      "genre_ids": [
-        18,
-        10752
-      ],
-      "id": 600,
-      "title": "Цельнометаллическая оболочка",
-      "original_language": "en",
-      "original_title": "Full Metal Jacket",
-      "overview": "Американская база подготовки новобранцев корпуса морской пехоты. Жесточайшая, бесчеловечная система призвана превратить домашних мальчишек в натренированных хладнокровных убийц. Их готовят к войне во Вьетнаме, где им придется часто задавать себе вопрос «Разве война - это не ад?», а иначе просто невозможно убивать каждый день, не понимая, для чего это?",
-      "popularity": 13.4423,
-      "poster_path": "/qaMwQ0j4A0QGkis4tE6ODUbC4Nz.jpg",
-      "release_date": "1987-06-26",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.116,
-      "vote_count": 11530,
-      "belongs_to_collection": null,
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
-        }
-      ],
-      "homepage": "https://www.warnerbros.com/movies/full-metal-jacket",
-      "imdb_id": "tt0093058",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 50819,
-          "logo_path": null,
-          "name": "Natant",
-          "origin_country": "US"
-        },
-        {
-          "id": 385,
-          "logo_path": null,
-          "name": "Stanley Kubrick Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 174,
-          "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-          "name": "Warner Bros. Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 46357676,
-      "runtime": 116,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Vietnamese",
-          "iso_639_1": "vi",
-          "name": "Tiếng Việt"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Рожденный убивать»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_action"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/teCZlGivejMw4rVzyxBSYQNr6XI.jpg",
-      "genre_ids": [
-        28,
-        53,
-        18
-      ],
-      "id": 1368,
-      "title": "Рэмбо: Первая кровь",
-      "original_language": "en",
-      "original_title": "First Blood",
-      "overview": "Он — эксперт. Эксперт по оружию, ножам и собственному телу. Он человек, специально обученный не замечать боль и погодные условия. Во Вьетнаме его задание было уничтожать вражеский личный состав. Много убивать. Истощать силы врага до полной победы. Рэмбо был лучший. На войне он был героем, а на родине, во имя которой поливалась кровь, он никому не нужен. Не способный приспособиться к мирной жизни Рэмбо путешествует автостопом по городам Америки, встречаясь с однополчанами. Путешествие прекращает провинциальный шериф, ненавидящий бродяг. Попавший в тюрьму по ложному обвинению, вкусивший унижений со стороны администрации, Рэмбо объявляет войну. Войну существующему отношению к ветеранам, беспределу официальных структур и главе местной полиции лично. Совершив фантастический побег из тюрьмы, Джон начинает партизанскую войну в местных лесах. Очень скоро ситуация выходит из под контроля властей и в маленький город вводят части регулярной армии.",
-      "popularity": 16.5572,
-      "poster_path": "/6J0PejIiR8d4CGsRbWBHMisgjOf.jpg",
-      "release_date": "1982-10-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.511,
-      "vote_count": 6936,
-      "belongs_to_collection": {
-        "id": 5039,
-        "name": "Рэмбо (Коллекция)",
-        "poster_path": "/lg2RphAHEUU5hGCuundEjL2MAyr.jpg",
-        "backdrop_path": "/ecvVwlK75evrAlsEE96V14KN6MN.jpg"
-      },
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0083944",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 275,
-          "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
-          "name": "Carolco Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 52941,
-          "logo_path": null,
-          "name": "Anabasis",
-          "origin_country": "AN"
-        },
-        {
-          "id": 52940,
-          "logo_path": null,
-          "name": "Elcajo Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "AN",
-          "name": "Netherlands Antilles"
-        }
-      ],
-      "revenue": 125212904,
-      "runtime": 93,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "На этот раз он борется за свою жизнь.",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
