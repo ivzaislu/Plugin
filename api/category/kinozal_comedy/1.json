@@ -5,70 +5,134 @@
   },
   "page": 1,
   "limit": 20,
-  "total": 149,
+  "total": 148,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/jnIBbQimxl0hRnEtxhHXnITROZh.jpg",
+      "backdrop_path": "/zLwnREvYKyG5XY1gqDWmfziXbhr.jpg",
       "genre_ids": [
-        35,
-        10752
+        35
       ],
-      "id": 32110,
-      "title": "Так держать, сержант!",
-      "original_language": "en",
-      "original_title": "Carry On Sergeant",
-      "overview": "Фильм об армейской жизни, в которой очень полно раскрыта тема доброго обращения с солдатами.",
-      "popularity": 1.0186,
-      "poster_path": "/5nb596JUBIugTkBFugD9Ek6TKJl.jpg",
-      "release_date": "1958-08-31",
+      "id": 1313211,
+      "title": "Убийственная вечеринка",
+      "original_language": "fr",
+      "original_title": "Classe moyenne",
+      "overview": "По приглашению подружки молодой юрист Мехди решает провести лето на роскошной вилле её родственников. Но внезапно между членами семьи и смотрителями особняка вспыхивает конфликт. Мехди убеждён, что сможет переломить ситуацию и примирить враждующих, но его действия только всё усугубляют, а ситуация окончательно выходит из-под контроля.",
+      "popularity": 1.2774,
+      "poster_path": "/m1Yp0oP1ffM8UbqJySpvaQJF5jX.jpg",
+      "release_date": "2025-09-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.404,
-      "vote_count": 73,
-      "belongs_to_collection": {
-        "id": 918027,
-        "name": "Carry On Collection",
-        "poster_path": "/yabeL7PLxqEI9W5VSnqEf51YJHR.jpg",
-        "backdrop_path": "/cJ6ttL2vDNc0ADJIJIuaUPj31ih.jpg"
-      },
+      "vote_average": 6,
+      "vote_count": 70,
+      "belongs_to_collection": null,
       "budget": 0,
       "genres": [
         {
           "id": 35,
           "name": "комедия"
-        },
-        {
-          "id": 10752,
-          "name": "военный"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0051453",
+      "imdb_id": "tt32916648",
       "origin_country": [
-        "GB"
+        "BE",
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 10265,
-          "logo_path": null,
-          "name": "Peter Rogers Productions",
-          "origin_country": ""
+          "id": 178908,
+          "logo_path": "/qzt3zYa0nrQQJy1VJCmbbHfOGAm.png",
+          "name": "Cheyenne Federation",
+          "origin_country": "FR"
+        },
+        {
+          "id": 19037,
+          "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+          "name": "uMedia",
+          "origin_country": "BE"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
+          "iso_3166_1": "FR",
+          "name": "France"
         }
       ],
       "revenue": 0,
-      "runtime": 84,
+      "runtime": 95,
       "spoken_languages": [
         {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p1xyCWH3rzFID0EAHBo28VAnuwU.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 39978,
+      "original_language": "fr",
+      "original_title": "Le Jumeau",
+      "overview": "Проигравшись в карты, Ришар приезжает к другу в курортное местечко, где знакомится с красивой блондинкой-американкой, наследницей огромного состояния, Лиз Кернер.  У Лиз оказалась сестра-близнец, Бетти, а Ришар после любви зачем-то брякнул, что у него тоже есть брат-близнец. Будучи игроком по натуре, он продолжил игру и после того, как стал любовником обеих сестричек. Сложности начинаются тогда, когда обе сестры заявили, что хотят выйти за него замуж, чтобы вступить в права наследства. А в это время адвокат Вольпинекс делает всё, чтобы расстроить их планы.  Неожиданно Вольпинекс погибает при пожаре, а Ришар выдаёт погибшего за своего брата...",
+      "popularity": 1.2238,
+      "poster_path": "/jMypFeKZCBq2xKGY2RIvD7IuraD.jpg",
+      "release_date": "1984-10-10",
+      "title": "Близнец",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 66,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0087520",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 17873,
+          "logo_path": null,
+          "name": "Les Productions de la Guéville",
+          "origin_country": "FR"
+        },
+        {
+          "id": 13192,
+          "logo_path": null,
+          "name": "Fideline Films",
+          "origin_country": "FR"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 105,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
         }
       ],
       "status": "Released",
@@ -163,330 +227,6 @@
       ],
       "status": "Released",
       "tagline": "«Все дороги ведут в Рим»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/odVjFjXWbwLUnnxvEP8pHqSQAzG.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 1372178,
-      "title": "Плохие соседи",
-      "original_language": "sv",
-      "original_title": "Grannfejden",
-      "overview": "После скандала в соцсетях инфлюэнсер Ханна возвращается в родную деревушку, где ей приходится выбирать сторону в противостоянии бывшего премьер-министра и его эксцентричного соседа.",
-      "popularity": 1.5773,
-      "poster_path": "/2HJ9Q9fygrbin9HYQ0iXkKhazj5.jpg",
-      "release_date": "2026-02-20",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.5,
-      "vote_count": 2,
-      "belongs_to_collection": null,
-      "budget": 0,
-      "genres": [
-        {
-          "id": 18,
-          "name": "драма"
-        },
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt35623371",
-      "origin_country": [
-        "SE"
-      ],
-      "production_companies": [
-        {
-          "id": 169296,
-          "logo_path": null,
-          "name": "Scandinavian Content Group",
-          "origin_country": "SE"
-        },
-        {
-          "id": 153340,
-          "logo_path": null,
-          "name": "Bright Moving Pictures Sweden AB",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "SE",
-          "name": "Sweden"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 112,
-      "spoken_languages": [
-        {
-          "english_name": "Swedish",
-          "iso_639_1": "sv",
-          "name": "svenska"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8qPG3AjLtletf1K4g8iGhKwHQSc.jpg",
-      "genre_ids": [
-        35,
-        9648
-      ],
-      "id": 512,
-      "title": "Сенсация",
-      "original_language": "en",
-      "original_title": "Scoop",
-      "overview": "Погибшего британского журналиста Джо Стромбела оплакивают его друзья и коллеги, но даже в чистилище Джо не покидают мысли о работе, ведь он только что узнал сенсационную новость об убийце, орудующем в Лондоне. Как же ему теперь сделать работу, которая требует столько беготни? С помощью вполне живой Сондры Прански. Сондра — американская студентка, изучающая журналистику, приезжает к друзьям в Лондон. Во время выступления американского мага Сида Вотермана, Сондра видит и слышит Джо. Он рассказывает ей о сенсационной новости, которая станет величайшим репортажем в ее жизни, убеждая отправиться на ее поиски. Сондра бросается в погоню за сенсацией…",
-      "popularity": 3.7321,
-      "poster_path": "/l9mGBUbJwPCtgFfX8Q8CjWj7uoY.jpg",
-      "release_date": "2006-07-27",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.603,
-      "vote_count": 1746,
-      "belongs_to_collection": null,
-      "budget": 4000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 9648,
-          "name": "детектив"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0457513",
-      "origin_country": [
-        "US",
-        "GB"
-      ],
-      "production_companies": [
-        {
-          "id": 288,
-          "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
-          "name": "BBC Film",
-          "origin_country": "GB"
-        },
-        {
-          "id": 290,
-          "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
-          "name": "Ingenious Media",
-          "origin_country": "GB"
-        },
-        {
-          "id": 7316,
-          "logo_path": null,
-          "name": "Phoenix Wiley Productions",
-          "origin_country": "GB"
-        },
-        {
-          "id": 136057,
-          "logo_path": null,
-          "name": "Jelly Roll Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 39220946,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Идеальный мужчина. Идеальная история. Идеальное убийство.",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/a6yjJ8NvEeV90UV3zHrWFXsl8Hc.jpg",
-      "genre_ids": [
-        35
-      ],
-      "id": 14367,
-      "original_language": "en",
-      "original_title": "Adventures in Babysitting",
-      "overview": "Девушка по имени Крис Паркер даже не подозревала о том, что ей придется стать няней. Но пережив ссору со своим другом, Крис решила хоть как-то отвлечься и заодно заработать.  В первый же вечер, вооружившись журналами мод, записной книжкой и грудой косметики, она приготовилась поскучать. Но то, что произошло дальше с няней и ее тремя подопечными, не поддается описанию. Во всяком случае, скучно им не было.",
-      "popularity": 3.5755,
-      "poster_path": "/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg",
-      "release_date": "1987-07-01",
-      "title": "Приключения няни",
-      "video": false,
-      "vote_average": 6.859,
-      "vote_count": 731,
-      "belongs_to_collection": null,
-      "budget": 7000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0092513",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 554,
-          "logo_path": "/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png",
-          "name": "Silver Screen Partners III",
-          "origin_country": "US"
-        },
-        {
-          "id": 9195,
-          "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
-          "name": "Touchstone Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 34368475,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hgzoUvscb0iQ2M3xaNiBzxG8Ors.jpg",
-      "genre_ids": [
-        35,
-        28,
-        12,
-        10749
-      ],
-      "id": 6068,
-      "original_language": "en",
-      "original_title": "Six Days Seven Nights",
-      "overview": "Небольшой самолет терпит катастрофу на необитаемом острове. Отважный летчик и его очаровательная пассажирка оказались совершенно одни среди дикой природы. Они отчаянно пытаются сообщить о себе, но не знают, что их уже давно перестали искать. Наконец, впервые за эти дни на пустынном горизонте показался странный корабль, который причалил к затерянному острову. Но вместо того, чтобы улыбнуться невезучей парочке, судьба снова посмеялась над ними. Вооруженные до зубов пираты так не похожи на долгожданных спасителей! Пилот и его спутница так стремились оказаться в веселой компании. Теперь они хотят снова остаться наедине…",
-      "popularity": 3.5991,
-      "poster_path": "/A3dvuDT0mVlr1J8H5oLt5EPjBmR.jpg",
-      "release_date": "1998-06-12",
-      "title": "Шесть дней, семь ночей",
-      "video": false,
-      "vote_average": 6.094,
-      "vote_count": 1592,
-      "belongs_to_collection": null,
-      "budget": 70000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0120828",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 961,
-          "logo_path": null,
-          "name": "Roger Birnbaum Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 175,
-          "logo_path": "/Aruhqf13whJ0bNSgtv1gt3xclT6.png",
-          "name": "Caravan Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 9195,
-          "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
-          "name": "Touchstone Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 8816,
-          "logo_path": "/r5Kmkdz8rp2EXdP5bcyxmW1X3tE.png",
-          "name": "Northern Lights Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 164839294,
-      "runtime": 102,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
       "release_quality": "",
       "media_type": "movie",
       "categories": [
@@ -814,72 +554,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_comedy"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/g6jT5XdfDN72THwXI01WtCSTA35.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 24405,
-      "original_language": "en",
-      "original_title": "Chasers",
-      "overview": "Офицер берегового патруля военно-морских сил Рок Рилли думал, что его уже ничем не удивишь. Его свежеиспеченному напарнику Эдди Дивейну тоже все осточертело, и он подумывает об увольнении из армии.\r Но удивляться им все-таки пришлось, они почувствовали себя настоящими юнцами, когда повстречались с лейтенантом ВМС Тони Джонсон, красивой и вздорной особой, которая и была тем заключенным, кого они должны были доставить на базу.\r Доставка должна проходить согласно заведенному порядку. Однако Тони намерена во что бы то ни стало вырваться на свободу...",
-      "popularity": 2.0428,
-      "poster_path": "/wfJ6juLGsYVATLE9NpnlcZnGRf.jpg",
-      "release_date": "1994-04-22",
-      "title": "Конвоиры",
-      "video": false,
-      "vote_average": 5.398,
-      "vote_count": 166,
-      "belongs_to_collection": null,
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 10749,
-          "name": "мелодрама"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0109403",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 10210,
-          "logo_path": "/fmFmUxBijh8764GNSSIiwXYD83K.png",
-          "name": "Morgan Creek Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 1596687,
-      "runtime": 101,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Это было бы обычное задание до первого ареста... будь это обычный арест»",
-      "release_quality": "",
       "media_type": "movie",
       "categories": [
         "kinozal_comedy"
@@ -1608,6 +1282,332 @@
       ],
       "revenue": 0,
       "runtime": 121,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pxr3jWnyCkT1PbB1uHdCUxLYy6M.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 29450,
+      "title": "Марафонцы бегут круг почета",
+      "original_language": "sr",
+      "original_title": "Маратонци трче почасни круг",
+      "overview": "Действие картины разворачивается в промежутке между двумя Мировыми Войнами. В семье Топаловичей, состоящей из пяти поколений мужчин, младшему из которых 25 лет, а старшему — 120, назревает конфликт в результате того, что младший член семейства отказывается заниматься семейным бизнесом — продавать гробы. Он считает, что в мире есть более достойные и честные занятия, в чем его поддерживает девушка Кристина и лучший друг Дзенька, владелец небольшого кинотеатра.  Отец Кристины, Билли Питон, поставляющий гробы семейству Топаловичей, требует повышения оплаты за свои труды. Таким образом, конфликт возникает и между этими семьями. Для решающего поединка подойдут любые средства.",
+      "popularity": 0.6886,
+      "poster_path": "/areHIloTHM5Es8hD4DgQgsjRhr9.jpg",
+      "release_date": "1982-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 102,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0084302",
+      "origin_country": [
+        "YU"
+      ],
+      "production_companies": [
+        {
+          "id": 15165,
+          "logo_path": null,
+          "name": "Centar film",
+          "origin_country": "RS"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "YU",
+          "name": "Yugoslavia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "Serbian",
+          "iso_639_1": "sr",
+          "name": "Srpski"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jkKqQk33eq8iGtoY4wLPh70YHsH.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 44617,
+      "title": "Арлетт",
+      "original_language": "fr",
+      "original_title": "Arlette",
+      "overview": "Официантка придорожной забегаловки «Сороконожка» в глубинке Франции, Арлетт живёт простой провинциальной жизнью, без каких-либо неожиданностей или приключений. Она мечтает о браке со своим парнем Виктором, водителем грузовика, который жениться вовсе не собирается. Но она не в курсе, что её умерший отец, владелец сети крупных казино, оставил ей наследство, из-за которого она стала мишенью для мафии. Воротилы игорного бизнеса не желают выпускать деньги из своих лап и начинают «операцию» по выдаче Арлетт замуж за подставного альфонса. Наивная официантка искренне привязывается к профессиональному обольстителю благодаря его изысканным ухаживаниям. Посланец и впрямь, изо всех сил старается быть очаровательным — иначе его убьют. Но естественное и, одновременно, эксцентричное поведение Арлетт также не оставляет его равнодушным...",
+      "popularity": 1.5889,
+      "poster_path": "/vZLuCbrcjh4zoW6J6CfZunuhGPl.jpg",
+      "release_date": "1997-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.397,
+      "vote_count": 39,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0115567",
+      "origin_country": [
+        "FR"
+      ],
+      "production_companies": [
+        {
+          "id": 22370,
+          "logo_path": null,
+          "name": "Katharina",
+          "origin_country": "FR"
+        },
+        {
+          "id": 82,
+          "logo_path": null,
+          "name": "Renn Productions",
+          "origin_country": "FR"
+        },
+        {
+          "id": 356,
+          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+          "name": "TF1 Films Production",
+          "origin_country": "FR"
+        },
+        {
+          "id": 1614,
+          "logo_path": null,
+          "name": "Les Films Flam",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "FR",
+          "name": "France"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 95,
+      "spoken_languages": [
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/irejIt5Uu0xbUYQ6XAGamEjpRoX.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 25560,
+      "title": "Укрощение строптивой",
+      "original_language": "en",
+      "original_title": "The Taming of the Shrew",
+      "overview": "Италия, XVI век. У богатого торговца две дочери на выданье. За младшей дочерью многие ухаживают, но по традиции ее не могут выдать замуж вперед старшей сестры. Охотников жениться на своенравной Катарине не находится. И вот в город приезжает незнакомец по имени Петруччио и решает во что бы то ни стало укротить строптивую девицу.",
+      "popularity": 1.9045,
+      "poster_path": "/gToC8neCN5oBtw8yH0OSq57o2PQ.jpg",
+      "release_date": "1967-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.942,
+      "vote_count": 182,
+      "belongs_to_collection": null,
+      "budget": 4000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 10749,
+          "name": "мелодрама"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0061407",
+      "origin_country": [
+        "IT",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 5,
+          "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+          "name": "Columbia Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 156610,
+          "logo_path": null,
+          "name": "Royal Films International",
+          "origin_country": "US"
+        },
+        {
+          "id": 156611,
+          "logo_path": null,
+          "name": "FAI",
+          "origin_country": "IT"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "IT",
+          "name": "Italy"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 117,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Latin",
+          "iso_639_1": "la",
+          "name": "Latin"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_comedy"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Fv8cqHc0nHL7JitiqmKgwdqJ67.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        9648,
+        35
+      ],
+      "id": 1129104,
+      "title": "Флавия. Юный детектив",
+      "original_language": "en",
+      "original_title": "Flavia",
+      "overview": "Флавия де Люс — юная любительница детективов с талантом замечать то, что ускользает от взрослых. Когда в родовом поместье происходит убийство и под подозрение попадает ее отец, Флавия берет расследование в свои руки. В поисках улик девочка начинает распутывать загадки и раскрывать семейные тайны.",
+      "popularity": 4.991,
+      "poster_path": "/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg",
+      "release_date": "2026-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 5,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 10751,
+          "name": "семейный"
+        },
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 9648,
+          "name": "детектив"
+        },
+        {
+          "id": 35,
+          "name": "комедия"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt11662534",
+      "origin_country": [
+        "GB",
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 20277,
+          "logo_path": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png",
+          "name": "Protagonist Pictures",
+          "origin_country": "GB"
+        },
+        {
+          "id": 69686,
+          "logo_path": null,
+          "name": "The Mazur Kaplan Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 200512,
+          "logo_path": null,
+          "name": "Mystic Point",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "GB",
+          "name": "United Kingdom"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 92,
       "spoken_languages": [
         {
           "english_name": "English",
