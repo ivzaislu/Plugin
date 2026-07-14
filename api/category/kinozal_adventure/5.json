@@ -5,7 +5,7 @@
   },
   "page": 5,
   "limit": 20,
-  "total": 143,
+  "total": 142,
   "items": [
     {
       "adult": false,
@@ -259,73 +259,352 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/sCFZamvCGUm7JiEddJG2MA6xcN2.jpg",
+      "backdrop_path": "/fvzLL73L2WeQZ7n20sOtk3Mjv5J.jpg",
       "genre_ids": [
-        10751,
-        12
+        12,
+        18
       ],
-      "id": 1538316,
-      "title": "Дополнительное время",
-      "original_language": "ru",
-      "original_title": "Дополнительное время",
-      "overview": "Сводные братья Женька и Тёма недолюбливают друг друга, несмотря на игру в одной хоккейной команде и жизнь под одной крышей. Профессор Максим Муромцев, он же отец Тёмы, работает над машиной времени. Оказавшись в его лаборатории, ребята случайно переносятся в 1999 год, где встречают 12-летнего Вадима Шипачёва — будущего звёздного хоккеиста и главного кумира Женьки. Теперь ребята должны успеть помочь Вадиму поверить в себя и следовать мечте до того, как они смогут вернуться в настоящее, чтобы привести свою команду к победе.",
-      "popularity": 1.0442,
-      "poster_path": "/zPfxIHCtea9pSmrCb9BTPcLSd2E.jpg",
-      "release_date": "2026-02-19",
+      "id": 332794,
+      "title": "Одиссея",
+      "original_language": "fr",
+      "original_title": "L'Odyssée",
+      "overview": "Есть пути, которые не отыщешь на картах. Есть цели, которые укажет только любовь. «Одиссея» — самый масштабный приключенческий проект современного французского кино. История героя, открывшего человечеству «второй космос». Его экспедиции вдохновили миллионы. Его главное путешествие осталось тайной.  Первопроходец. Мечтатель. Бунтарь. Легендарный Жак-Ив Кусто: его корабль, его открытия, его настоящая Одиссея.",
+      "popularity": 1.4941,
+      "poster_path": "/n7MYm8aO20jw9rd0i88IHicVh2h.jpg",
+      "release_date": "2016-10-12",
       "softcore": false,
       "video": false,
-      "vote_average": 6,
-      "vote_count": 1,
+      "vote_average": 6.631,
+      "vote_count": 432,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 20000000,
       "genres": [
-        {
-          "id": 10751,
-          "name": "семейный"
-        },
         {
           "id": 12,
           "name": "приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt37849978",
+      "imdb_id": "tt1659619",
       "origin_country": [
-        "RU"
+        "FR"
       ],
       "production_companies": [
         {
-          "id": 46939,
-          "logo_path": "/ui0aY1K8PqGL97loUiFpo33KvZc.png",
-          "name": "Nashe Kino",
-          "origin_country": "RU"
+          "id": 6750,
+          "logo_path": "/j3Ccn4vzMKwWZJWA6adGqDrL8OU.png",
+          "name": "Pan-Européenne",
+          "origin_country": "FR"
         },
         {
-          "id": 204195,
+          "id": 147,
           "logo_path": null,
-          "name": "AP Entertainment",
-          "origin_country": "RU"
+          "name": "Fidélité Productions",
+          "origin_country": "FR"
         },
         {
-          "id": 15755,
-          "logo_path": "/cZDbkvJPOnzHlmu2CDx05DcEnaf.png",
-          "name": "Ministry of Culture of the Russian Federation",
-          "origin_country": "RU"
+          "id": 77552,
+          "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
+          "name": "Curiosa Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 77550,
+          "logo_path": "/ewSUQIJIWTAXxqjZOBdNz6MDqPf.png",
+          "name": "Moana Films",
+          "origin_country": "FR"
+        },
+        {
+          "id": 856,
+          "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+          "name": "Wild Bunch",
+          "origin_country": "FR"
+        },
+        {
+          "id": 356,
+          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+          "name": "TF1 Films Production",
+          "origin_country": "FR"
+        },
+        {
+          "id": 294969,
+          "logo_path": null,
+          "name": "Casa Production",
+          "origin_country": ""
+        },
+        {
+          "id": 3040,
+          "logo_path": "/aZww3B7RCFAMV1qrDZDrdeB8qcI.png",
+          "name": "Versus Production",
+          "origin_country": "BE"
+        },
+        {
+          "id": 11797,
+          "logo_path": "/oeBCBsLLlIj2UNQBZZkhlPdDOJG.png",
+          "name": "VOO",
+          "origin_country": "BE"
+        },
+        {
+          "id": 24430,
+          "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+          "name": "BeTV",
+          "origin_country": "BE"
         }
       ],
       "production_countries": [
         {
-          "iso_3166_1": "RU",
-          "name": "Russia"
+          "iso_3166_1": "FR",
+          "name": "France"
+        },
+        {
+          "iso_3166_1": "BE",
+          "name": "Belgium"
+        }
+      ],
+      "revenue": 9722918,
+      "runtime": 122,
+      "spoken_languages": [
+        {
+          "english_name": "Italian",
+          "iso_639_1": "it",
+          "name": "Italiano"
+        },
+        {
+          "english_name": "French",
+          "iso_639_1": "fr",
+          "name": "Français"
+        },
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_adventure"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tQ7sY2dY8GRCRaFGkWwoUD0W0CC.jpg",
+      "genre_ids": [
+        12,
+        28,
+        18
+      ],
+      "id": 49327,
+      "title": "Город на морском дне",
+      "original_language": "en",
+      "original_title": "City Beneath the Sea",
+      "overview": "В 1692 году подводное землетрясение отправило на дно город Порт-Ройял, что на Ямайке, в нижней части Карибского моря. Спустя триста пятьдесят лет водолазы Брэд Карлтон и Тони Бартлетт погружаются на территории, где затонул Порт-Ройяль, в надежде вернуть золотые слитки на миллион долларов, которые были потеряны во время современного катаклизма. Но Брэд и Тони не знают, что их работодатель, судовой магнат Дуайт Тревор, на самом деле не заинтересован в поиске золота. Тревор затевает крупную мохинацию в целях получить страховку, и морально готов даже на убийство водолазов, если оно поможет заполучить то, чего он хочет.",
+      "popularity": 1.2872,
+      "poster_path": "/h5nRcZ1HO4T8oNNZmXgBD0kRr9x.jpg",
+      "release_date": "1953-04-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.048,
+      "vote_count": 21,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0045630",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 10330,
+          "logo_path": "/vevakirICdmHxRPeZUdbjFqcFLM.png",
+          "name": "Universal International Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
         }
       ],
       "revenue": 0,
-      "runtime": 102,
+      "runtime": 87,
       "spoken_languages": [
         {
-          "english_name": "Russian",
-          "iso_639_1": "ru",
-          "name": "Pусский"
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_adventure"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pcaKMLcrREPn8Frb7lvlp3FWG2b.jpg",
+      "genre_ids": [
+        35,
+        37
+      ],
+      "id": 11574,
+      "title": "Поддержите своего шерифа!",
+      "original_language": "en",
+      "original_title": "Support Your Local Sheriff!",
+      "overview": "Джейсон МакКаллоф неожиданно получает освободившуюся должность шерифа в городке, охваченном золотой лихорадкой. МакКаллоф усмиряет нечистых на руку жителей с помощью меткой стрельбы и остроумия, и между делом наводит в городе порядок.",
+      "popularity": 2.1554,
+      "poster_path": "/uDfmFVA4nyqD3FijIYORNgYPex9.jpg",
+      "release_date": "1969-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.973,
+      "vote_count": 200,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 37,
+          "name": "вестерн"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0065051",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 76358,
+          "logo_path": null,
+          "name": "Three Pictures",
+          "origin_country": ""
+        },
+        {
+          "id": 2418,
+          "logo_path": null,
+          "name": "Cherokee Productions",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 92,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "kinozal_adventure"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        12,
+        27
+      ],
+      "id": 1301336,
+      "title": "Одинокая звезда. Акула 2",
+      "original_language": "en",
+      "original_title": "Lone Star Shark 2",
+      "overview": "Поссорившись с парнем, Кайла берёт каяк и отправляется на озеро по соседству. Она не знает, что под водой обитает кровожадная акула, а её саму выбрали для участия в жестоком шоу на выживание. Около воды она встречает женщину по имени Джессика, которая предупреждает девушку о надвигающейся опасности. Поначалу Кайла не верит ей, ведь они находятся в Чикаго, вдали от моря. Когда акула неожиданно атакует Джессику на воде, Кайла понимает, что выбраться отсюда живой будет не так-то просто.",
+      "popularity": 0.4211,
+      "poster_path": "/lsEeoiPatPFSGmvDGEtMqQJfhiH.jpg",
+      "release_date": "2025-07-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 2,
+      "belongs_to_collection": {
+        "id": 1463705,
+        "name": "Lone Star Shark Collection",
+        "poster_path": null,
+        "backdrop_path": null
+      },
+      "budget": 0,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32242715",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 141842,
+          "logo_path": null,
+          "name": "B22 Films",
+          "origin_country": ""
+        },
+        {
+          "id": 148176,
+          "logo_path": null,
+          "name": "ITN Studios",
+          "origin_country": "GB"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 65,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
         }
       ],
       "status": "Released",
@@ -1243,161 +1522,24 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/fvzLL73L2WeQZ7n20sOtk3Mjv5J.jpg",
+      "backdrop_path": "/jeVion38tN3JVaAB44EhiBSbXC1.jpg",
       "genre_ids": [
         12,
-        18
+        28
       ],
-      "id": 332794,
-      "title": "Одиссея",
-      "original_language": "fr",
-      "original_title": "L'Odyssée",
-      "overview": "Есть пути, которые не отыщешь на картах. Есть цели, которые укажет только любовь. «Одиссея» — самый масштабный приключенческий проект современного французского кино. История героя, открывшего человечеству «второй космос». Его экспедиции вдохновили миллионы. Его главное путешествие осталось тайной.  Первопроходец. Мечтатель. Бунтарь. Легендарный Жак-Ив Кусто: его корабль, его открытия, его настоящая Одиссея.",
-      "popularity": 1.4941,
-      "poster_path": "/n7MYm8aO20jw9rd0i88IHicVh2h.jpg",
-      "release_date": "2016-10-12",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.631,
-      "vote_count": 432,
-      "belongs_to_collection": null,
-      "budget": 20000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt1659619",
-      "origin_country": [
-        "FR"
-      ],
-      "production_companies": [
-        {
-          "id": 6750,
-          "logo_path": "/j3Ccn4vzMKwWZJWA6adGqDrL8OU.png",
-          "name": "Pan-Européenne",
-          "origin_country": "FR"
-        },
-        {
-          "id": 147,
-          "logo_path": null,
-          "name": "Fidélité Productions",
-          "origin_country": "FR"
-        },
-        {
-          "id": 77552,
-          "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
-          "name": "Curiosa Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 77550,
-          "logo_path": "/ewSUQIJIWTAXxqjZOBdNz6MDqPf.png",
-          "name": "Moana Films",
-          "origin_country": "FR"
-        },
-        {
-          "id": 856,
-          "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
-          "name": "Wild Bunch",
-          "origin_country": "FR"
-        },
-        {
-          "id": 356,
-          "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
-          "name": "TF1 Films Production",
-          "origin_country": "FR"
-        },
-        {
-          "id": 294969,
-          "logo_path": null,
-          "name": "Casa Production",
-          "origin_country": ""
-        },
-        {
-          "id": 3040,
-          "logo_path": "/aZww3B7RCFAMV1qrDZDrdeB8qcI.png",
-          "name": "Versus Production",
-          "origin_country": "BE"
-        },
-        {
-          "id": 11797,
-          "logo_path": "/oeBCBsLLlIj2UNQBZZkhlPdDOJG.png",
-          "name": "VOO",
-          "origin_country": "BE"
-        },
-        {
-          "id": 24430,
-          "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
-          "name": "BeTV",
-          "origin_country": "BE"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "FR",
-          "name": "France"
-        },
-        {
-          "iso_3166_1": "BE",
-          "name": "Belgium"
-        }
-      ],
-      "revenue": 9722918,
-      "runtime": 122,
-      "spoken_languages": [
-        {
-          "english_name": "Italian",
-          "iso_639_1": "it",
-          "name": "Italiano"
-        },
-        {
-          "english_name": "French",
-          "iso_639_1": "fr",
-          "name": "Français"
-        },
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_adventure"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tQ7sY2dY8GRCRaFGkWwoUD0W0CC.jpg",
-      "genre_ids": [
-        12,
-        28,
-        18
-      ],
-      "id": 49327,
-      "title": "Город на морском дне",
+      "id": 9826,
       "original_language": "en",
-      "original_title": "City Beneath the Sea",
-      "overview": "В 1692 году подводное землетрясение отправило на дно город Порт-Ройял, что на Ямайке, в нижней части Карибского моря. Спустя триста пятьдесят лет водолазы Брэд Карлтон и Тони Бартлетт погружаются на территории, где затонул Порт-Ройяль, в надежде вернуть золотые слитки на миллион долларов, которые были потеряны во время современного катаклизма. Но Брэд и Тони не знают, что их работодатель, судовой магнат Дуайт Тревор, на самом деле не заинтересован в поиске золота. Тревор затевает крупную мохинацию в целях получить страховку, и морально готов даже на убийство водолазов, если оно поможет заполучить то, чего он хочет.",
-      "popularity": 1.2872,
-      "poster_path": "/h5nRcZ1HO4T8oNNZmXgBD0kRr9x.jpg",
-      "release_date": "1953-04-21",
-      "softcore": false,
+      "original_title": "The Phantom",
+      "overview": "Приключенческий боевик, в основу которого легли подвиги популярного персонажа комиксов Фантома. В старинной легенде говорится о магических черепах Туганды, дающих разрушительную силу тому, кто завладеет ими.  Хранитель тайны, благородный «герой в маске» Кид Уокер противостоит злодею Дрэксу, одержимому идеей безграничной власти над человечеством. Фантому предстоит справиться с гангстерами и пиратами, обрести любовь красавицы Дайан и спасти мир.",
+      "popularity": 3.4261,
+      "poster_path": "/bGRnwmN6WKdjIvN115eYLRVNajN.jpg",
+      "release_date": "1996-06-06",
+      "title": "Фантом",
       "video": false,
-      "vote_average": 5.048,
-      "vote_count": 21,
+      "vote_average": 5.3,
+      "vote_count": 606,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 45000000,
       "genres": [
         {
           "id": 12,
@@ -1406,22 +1548,36 @@
         {
           "id": 28,
           "name": "боевик"
-        },
-        {
-          "id": 18,
-          "name": "драма"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0045630",
+      "imdb_id": "tt0117331",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 10330,
-          "logo_path": "/vevakirICdmHxRPeZUdbjFqcFLM.png",
-          "name": "Universal International Pictures",
+          "id": 4,
+          "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+          "name": "Paramount Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 94856,
+          "logo_path": null,
+          "name": "Robert Evans Productions",
+          "origin_country": "US"
+        },
+        {
+          "id": 7965,
+          "logo_path": "/eZ6DeFO1mhHtzxB1aACcEzKqQ7L.png",
+          "name": "The Ladd Company",
+          "origin_country": "US"
+        },
+        {
+          "id": 79,
+          "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+          "name": "Village Roadshow Pictures",
           "origin_country": "US"
         }
       ],
@@ -1429,10 +1585,14 @@
         {
           "iso_3166_1": "US",
           "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "AU",
+          "name": "Australia"
         }
       ],
-      "revenue": 0,
-      "runtime": 87,
+      "revenue": 17323326,
+      "runtime": 100,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1442,7 +1602,7 @@
       ],
       "status": "Released",
       "tagline": "",
-      "release_quality": "",
+      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "kinozal_adventure"
@@ -1450,130 +1610,51 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/pcaKMLcrREPn8Frb7lvlp3FWG2b.jpg",
+      "backdrop_path": "/jJBE42tMCbXj5GqY1lqA8CqC5f5.jpg",
       "genre_ids": [
-        35,
-        37
+        36,
+        12
       ],
-      "id": 11574,
-      "title": "Поддержите своего шерифа!",
+      "id": 80027,
       "original_language": "en",
-      "original_title": "Support Your Local Sheriff!",
-      "overview": "Джейсон МакКаллоф неожиданно получает освободившуюся должность шерифа в городке, охваченном золотой лихорадкой. МакКаллоф усмиряет нечистых на руку жителей с помощью меткой стрельбы и остроумия, и между делом наводит в городе порядок.",
-      "popularity": 2.1554,
-      "poster_path": "/uDfmFVA4nyqD3FijIYORNgYPex9.jpg",
-      "release_date": "1969-03-26",
-      "softcore": false,
+      "original_title": "Kings of the Sun",
+      "overview": "Индейцы из племени майя во главе с молодым королем Баламом решают перебраться через Мексиканский залив и осесть на североамериканских землях. На новой земле они сталкиваются с племенем коренных американцев, предводителем которых является вождь по имени Черный Орел. Конфликт двух племен осложняется еще и тем, что и король Балам, и Черный Орел влюбляются в прекрасную принцессу майя.",
+      "popularity": 0.8374,
+      "poster_path": "/luWboioLUipYdlcfolprXoMi2Fm.jpg",
+      "release_date": "1963-12-18",
+      "title": "Короли Солнца",
       "video": false,
-      "vote_average": 6.973,
-      "vote_count": 200,
+      "vote_average": 6.1,
+      "vote_count": 45,
       "belongs_to_collection": null,
-      "budget": 0,
+      "budget": 4000000,
       "genres": [
         {
-          "id": 35,
-          "name": "комедия"
+          "id": 36,
+          "name": "история"
         },
-        {
-          "id": 37,
-          "name": "вестерн"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0065051",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 76358,
-          "logo_path": null,
-          "name": "Three Pictures",
-          "origin_country": ""
-        },
-        {
-          "id": 2418,
-          "logo_path": null,
-          "name": "Cherokee Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 0,
-      "runtime": 92,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_adventure"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        12,
-        27
-      ],
-      "id": 1301336,
-      "title": "Одинокая звезда. Акула 2",
-      "original_language": "en",
-      "original_title": "Lone Star Shark 2",
-      "overview": "Поссорившись с парнем, Кайла берёт каяк и отправляется на озеро по соседству. Она не знает, что под водой обитает кровожадная акула, а её саму выбрали для участия в жестоком шоу на выживание. Около воды она встречает женщину по имени Джессика, которая предупреждает девушку о надвигающейся опасности. Поначалу Кайла не верит ей, ведь они находятся в Чикаго, вдали от моря. Когда акула неожиданно атакует Джессику на воде, Кайла понимает, что выбраться отсюда живой будет не так-то просто.",
-      "popularity": 0.4211,
-      "poster_path": "/lsEeoiPatPFSGmvDGEtMqQJfhiH.jpg",
-      "release_date": "2025-07-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.5,
-      "vote_count": 2,
-      "belongs_to_collection": {
-        "id": 1463705,
-        "name": "Lone Star Shark Collection",
-        "poster_path": null,
-        "backdrop_path": null
-      },
-      "budget": 0,
-      "genres": [
         {
           "id": 12,
           "name": "приключения"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
         }
       ],
       "homepage": "",
-      "imdb_id": "tt32242715",
+      "imdb_id": "tt0057225",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 141842,
+          "id": 219,
           "logo_path": null,
-          "name": "B22 Films",
-          "origin_country": ""
+          "name": "The Mirisch Company",
+          "origin_country": "US"
         },
         {
-          "id": 148176,
-          "logo_path": null,
-          "name": "ITN Studios",
-          "origin_country": "GB"
+          "id": 60,
+          "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+          "name": "United Artists",
+          "origin_country": "US"
         }
       ],
       "production_countries": [
@@ -1583,7 +1664,7 @@
         }
       ],
       "revenue": 0,
-      "runtime": 65,
+      "runtime": 108,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -1677,104 +1758,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "",
-      "media_type": "movie",
-      "categories": [
-        "kinozal_adventure"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
-      "genre_ids": [
-        12,
-        28,
-        14
-      ],
-      "id": 1734,
-      "title": "Мумия возвращается",
-      "original_language": "en",
-      "original_title": "The Mummy Returns",
-      "overview": "Прошло 10 лет... Наш отважный герой, искатель приключений Рик, теперь богат, счастливо женат на прекрасной Эвелин и воспитывает своего 8-летнего сына Алекса. Но злой рок не даёт очаровательной семье насладиться спокойной жизнью. Зловещий жрец Имхотеп снова восстал из мертвых! Теперь у Рика, Эвелин и малютки Алекса есть всего 7 дней, чтобы спасти мир...",
-      "popularity": 13.1759,
-      "poster_path": "/xvr0yOUvymowA6bIhSxny737Chp.jpg",
-      "release_date": "2001-05-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.398,
-      "vote_count": 7630,
-      "belongs_to_collection": {
-        "id": 1733,
-        "name": "Мумия (Коллекция)",
-        "poster_path": "/cw9qwvbLfseMMIxScrNEk4WPKYH.jpg",
-        "backdrop_path": "/nm2pU4RJ2vR61vYh93QmqeMPpr1.jpg"
-      },
-      "budget": 98000000,
-      "genres": [
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt0209163",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 33,
-          "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-          "name": "Universal Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 11462,
-          "logo_path": "/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png",
-          "name": "Alphaville Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 20242,
-          "logo_path": null,
-          "name": "Imhotep Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        },
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        }
-      ],
-      "revenue": 443280904,
-      "runtime": 130,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Arabic",
-          "iso_639_1": "ar",
-          "name": "العربية"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Зло воскресло вновь»",
-      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "kinozal_adventure"
