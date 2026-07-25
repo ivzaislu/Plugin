@@ -1,38 +1,43 @@
 {
   "page": 1,
   "limit": 20,
-  "total": 65,
+  "total": 68,
   "items": [
     {
       "adult": false,
-      "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "genre_ids": [
-        28,
-        12,
+        27,
+        9648,
         878
       ],
-      "id": 1228710,
-      "title": "Мандалорец и Грогу",
+      "id": 1083381,
+      "title": "Закулисье реальности",
       "original_language": "en",
-      "original_title": "The Mandalorian and Grogu",
-      "overview": "Империя пала, но её военачальники всё ещё держат под своим контролем части галактики. Зарождающаяся Новая Республика пытается защитить идеалы, за которые сражались повстанцы, и нанимает для задания мандалорца Дина Джарина, известного охотника за головами, и его юного ученика Грогу.",
-      "popularity": 212.2515,
-      "poster_path": "/yWPrjlrV9R0eXwBrCvbM95oiepd.jpg",
-      "release_date": "2026-05-20",
+      "original_title": "Backrooms",
+      "overview": "Когда неудачливый продавец мебели Кларк обнаруживает скрытый портал в другое измерение в подвале своего магазина, он оказывается в бесконечном лабиринте извилистых жёлтых коридоров. В этом мире время и пространство не подчиняются логике, а нечто жуткое может скрываться за каждым углом.",
+      "popularity": 337.4138,
+      "poster_path": "/oBY8IQb9NpzbkCo0xzpz7Q1DCu.jpg",
+      "release_date": "2026-05-27",
       "softcore": false,
       "video": false,
-      "vote_average": 6.7,
-      "vote_count": 493,
-      "belongs_to_collection": null,
-      "budget": 165000000,
+      "vote_average": 6.867,
+      "vote_count": 1033,
+      "belongs_to_collection": {
+        "id": 1729058,
+        "name": "Backrooms Collection",
+        "poster_path": "/uxvG1PdO7NdctFOsShAbvqC5Xey.jpg",
+        "backdrop_path": "/dSWrHwaRBsyApomFR7pqDzSEKLt.jpg"
+      },
+      "budget": 10000000,
       "genres": [
         {
-          "id": 28,
-          "name": "боевик"
+          "id": 27,
+          "name": "ужасы"
         },
         {
-          "id": 12,
-          "name": "приключения"
+          "id": 9648,
+          "name": "детектив"
         },
         {
           "id": 878,
@@ -40,21 +45,220 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt30825738",
+      "imdb_id": "tt26657236",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 1,
-          "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
-          "name": "Lucasfilm Ltd.",
+          "id": 76907,
+          "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+          "name": "Atomic Monster",
           "origin_country": "US"
         },
         {
-          "id": 7297,
-          "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
-          "name": "Fairview Entertainment",
+          "id": 2575,
+          "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+          "name": "21 Laps Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 41077,
+          "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+          "name": "A24",
+          "origin_country": "US"
+        },
+        {
+          "id": 262307,
+          "logo_path": "/Yt9QqQjZzvdZCRLN5vGoi3dc8n.png",
+          "name": "Phobos",
+          "origin_country": "CA"
+        },
+        {
+          "id": 251729,
+          "logo_path": "/lKT1JrDNMwC9M3HvQQCofbiYtRr.png",
+          "name": "The North Road Company",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        }
+      ],
+      "revenue": 367909547,
+      "runtime": 110,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Вам здесь не место»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+      "genre_ids": [
+        36,
+        10752,
+        28,
+        18
+      ],
+      "id": 898704,
+      "title": "Повелитель пустыни",
+      "original_language": "en",
+      "original_title": "Desert Warrior",
+      "overview": "Аравия, 7. век. Отказавшись стать наложницей могущественного властителя, принцесса Хинд вместе со своим отцом вынуждена бежать в пустыню. Там они знакомятся с загадочным разбойником Ханзалой, безупречно владеющим многими видами боевых искусств. Вместе им удается объединить аравийские племена и повести их на битву с персами.",
+      "popularity": 9.1906,
+      "poster_path": "/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
+      "release_date": "2026-04-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 21,
+      "belongs_to_collection": null,
+      "budget": 150000000,
+      "genres": [
+        {
+          "id": 36,
+          "name": "история"
+        },
+        {
+          "id": 10752,
+          "name": "военный"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt13570066",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 145428,
+          "logo_path": "/dgUV94AxFEumfIICKEg5UdCCU3k.png",
+          "name": "MBC Studios",
+          "origin_country": "SA"
+        },
+        {
+          "id": 124233,
+          "logo_path": null,
+          "name": "JB Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 110799,
+          "logo_path": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
+          "name": "AGC Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 299933,
+          "logo_path": null,
+          "name": "Studio Mechanical",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        },
+        {
+          "iso_3166_1": "SA",
+          "name": "Saudi Arabia"
+        }
+      ],
+      "revenue": 742066,
+      "runtime": 127,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Кто правит песками, правит востоком.",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 1273221,
+      "title": "Очень страшное кино",
+      "original_language": "en",
+      "original_title": "Scary Movie",
+      "overview": "Двое друзей снова оказываются втянутыми в хаос, в котором участвуют убийцы, монстры и сверхъестественные существа.",
+      "popularity": 55.9817,
+      "poster_path": "/mHggwMptRO9dzmaLlYdxlh1eXpj.jpg",
+      "release_date": "2026-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.516,
+      "vote_count": 339,
+      "belongs_to_collection": {
+        "id": 4246,
+        "name": "Очень страшное кино (Коллекция)",
+        "poster_path": "/3OXEbla8wST1ikiX5CmGPNH6KVu.jpg",
+        "backdrop_path": "/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
+      },
+      "budget": 30000000,
+      "genres": [
+        {
+          "id": 35,
+          "name": "комедия"
+        },
+        {
+          "id": 27,
+          "name": "ужасы"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32093575",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 14,
+          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+          "name": "Miramax",
+          "origin_country": "US"
+        },
+        {
+          "id": 1608,
+          "logo_path": null,
+          "name": "Wayans Bros. Entertainment",
           "origin_country": "US"
         }
       ],
@@ -64,8 +268,96 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 315100000,
-      "runtime": 132,
+      "revenue": 202519753,
+      "runtime": 96,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        },
+        {
+          "english_name": "Korean",
+          "iso_639_1": "ko",
+          "name": "한국어/조선말"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Он вернулся. Никто не удивлён»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+      "genre_ids": [
+        12,
+        18,
+        53,
+        28
+      ],
+      "id": 1284465,
+      "title": "Смерть Робин Гуда",
+      "original_language": "en",
+      "original_title": "The Death of Robin Hood",
+      "overview": "Постаревший Робин Гуд сталкивается с осознанием, что его прошлое полно убийств и преступлений. Однажды он получает серьёзное ранение и получает шанс на спасение, попав в руки таинственной женщины.",
+      "popularity": 37.6792,
+      "poster_path": "/bv3ResPWfXVEOeDUwTW7XoC04Yh.jpg",
+      "release_date": "2026-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 41,
+      "belongs_to_collection": null,
+      "budget": 25000000,
+      "genres": [
+        {
+          "id": 12,
+          "name": "приключения"
+        },
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        },
+        {
+          "id": 28,
+          "name": "боевик"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt32273171",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 180839,
+          "logo_path": "/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png",
+          "name": "Lyrical Media",
+          "origin_country": "US"
+        },
+        {
+          "id": 172841,
+          "logo_path": "/MKTZVUIIWMjwpF58tGtAx8UXFs.png",
+          "name": "Ryder Picture Company",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 3200000,
+      "runtime": 123,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -74,8 +366,137 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Таков путь»",
-      "release_quality": "2160p",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oMIJpE1JLeIeQCt2bkB28G9zSd9.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 1542847,
+      "title": "Пропасть",
+      "original_language": "ru",
+      "original_title": "Пропасть",
+      "overview": "Даша и Саша — счастливые молодожёны. Свадебное путешествие и прыжок с парашютом над предгорьем Эльбруса должны стать началом их новой жизни. Но судьба вносит свои коррективы. Пилотом оказывается Артём — бывший Даши, о котором она не хотела даже вспоминать. Когда самолёт терпит крушение, троим приходится прыгать без подготовки. Стропы путаются. Они чудом остаются в живых — но оказываются подвешены над горной пропастью посреди бушующих лесных пожаров. Даша оказывается между двумя мужчинами, с каждым из которых связана её жизнь. Один — настоящее. Другой — незажившее прошлое.",
+      "popularity": 1.77,
+      "poster_path": "/4KPlGs4JflyOG79ZYf9UX4n0qYN.jpg",
+      "release_date": "2026-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        },
+        {
+          "id": 53,
+          "name": "триллер"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt38454793",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 100821,
+          "logo_path": "/qBnzozNLi8gHHqwyN0ycGy8seZm.png",
+          "name": "Vodorod Film Company",
+          "origin_country": "RU"
+        },
+        {
+          "id": 3451,
+          "logo_path": "/53lT8VOQ9JDiPGYLvjgO42Av58I.png",
+          "name": "Art Pictures Studio",
+          "origin_country": "RU"
+        },
+        {
+          "id": 76049,
+          "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+          "name": "Cinema Foundation of Russia",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 80,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/10glxhuqILwU81vKiPCDPTcBvqg.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 1448036,
+      "title": "Беги",
+      "original_language": "ru",
+      "original_title": "Беги",
+      "overview": "Вор-медвежатник Саша проникает в дом, где становится свидетелем преступления: хозяин дома Чернов убил свою жену. Чернов начинает преследовать сбежавшего свидетеля. А Саше тем временем надо успеть приехать на утренник к сыну, ведь от этого зависит будущее его брака, который он всеми силами пытается спасти.",
+      "popularity": 1.0992,
+      "poster_path": "/iknbKYBJALgsoAZ4dOVKNZtnA8v.jpg",
+      "release_date": "2025-09-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3,
+      "vote_count": 2,
+      "release_quality": "1080p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/60UD1Oy48RJqGo7sN5disLZgkKx.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 1677955,
+      "title": "Альфа: Мужская ярость",
+      "original_language": "kn",
+      "original_title": "ಆಲ್ಫಾ",
+      "overview": "Арджун - пылкий и решительный молодой человек. Его отец Шакти - честный инспектор полиции и пример для Арджуна; Шакти мечтает увидеть, как его сын станет офицером Индийской полицейской службы. Затем действие фильма переносится в другой мир.",
+      "popularity": 1.6563,
+      "poster_path": "/regaXmZTKJluyLm3DL2Qnc31AwO.jpg",
+      "release_date": "2026-02-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 1,
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -172,34 +593,34 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "genre_ids": [
         28,
-        14,
+        12,
         878
       ],
-      "id": 454639,
-      "title": "Властелины вселенной",
+      "id": 1228710,
+      "title": "Мандалорец и Грогу",
       "original_language": "en",
-      "original_title": "Masters of the Universe",
-      "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
-      "popularity": 121.6616,
-      "poster_path": "/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
-      "release_date": "2026-06-03",
+      "original_title": "The Mandalorian and Grogu",
+      "overview": "Империя пала, но её военачальники всё ещё держат под своим контролем части галактики. Зарождающаяся Новая Республика пытается защитить идеалы, за которые сражались повстанцы, и нанимает для задания мандалорца Дина Джарина, известного охотника за головами, и его юного ученика Грогу.",
+      "popularity": 212.2515,
+      "poster_path": "/yWPrjlrV9R0eXwBrCvbM95oiepd.jpg",
+      "release_date": "2026-05-20",
       "softcore": false,
       "video": false,
-      "vote_average": 7.234,
-      "vote_count": 248,
+      "vote_average": 6.7,
+      "vote_count": 493,
       "belongs_to_collection": null,
-      "budget": 200000000,
+      "budget": 165000000,
       "genres": [
         {
           "id": 28,
           "name": "боевик"
         },
         {
-          "id": 14,
-          "name": "фэнтези"
+          "id": 12,
+          "name": "приключения"
         },
         {
           "id": 878,
@@ -207,27 +628,21 @@
         }
       ],
       "homepage": "",
-      "imdb_id": "tt0427340",
+      "imdb_id": "tt30825738",
       "origin_country": [
         "US"
       ],
       "production_companies": [
         {
-          "id": 1423,
-          "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
-          "name": "Escape Artists",
+          "id": 1,
+          "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+          "name": "Lucasfilm Ltd.",
           "origin_country": "US"
         },
         {
-          "id": 168848,
-          "logo_path": "/omEguKifcJixMvKWq85sUp4lFdT.png",
-          "name": "Mattel Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 210099,
-          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-          "name": "Amazon MGM Studios",
+          "id": 7297,
+          "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
+          "name": "Fairview Entertainment",
           "origin_country": "US"
         }
       ],
@@ -237,8 +652,8 @@
           "name": "United States of America"
         }
       ],
-      "revenue": 86387310,
-      "runtime": 141,
+      "revenue": 315100000,
+      "runtime": 132,
       "spoken_languages": [
         {
           "english_name": "English",
@@ -247,8 +662,70 @@
         }
       ],
       "status": "Released",
-      "tagline": "«Только один может обладать силой...»",
+      "tagline": "«Таков путь»",
       "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9ofvwHX4feDqjNmctesVyq4JK6w.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1545884,
+      "title": "Фейерверки днём",
+      "original_language": "ru",
+      "original_title": "Фейерверки днём",
+      "overview": "Китайский предприниматель Вэйхонг приезжает в Россию к задолжавшему ему бизнес-партнеру Виктору. Вэйхонг пытается навести порядок в делах: уволить неэффективных сотрудников, наладить продажи. Но вскоре становится ясно, что великую русскую тоску ему не победить, и Виктор не в силах ему помочь. Тогда Вэйхонг решает забрать дом Виктора в счет долга. Виктор готов расстаться с домом, но он сталкивается с отчаянным сопротивлением своих взрослых дочерей — Ольги, Лены и Томы. Конфликт дорастает до катастрофы, которая может и семью разрушить, и даже убить.",
+      "popularity": 1.1023,
+      "poster_path": "/nnl6G8iZ2vkh9RcQt7md738pY24.jpg",
+      "release_date": "2026-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "belongs_to_collection": null,
+      "budget": 0,
+      "genres": [
+        {
+          "id": 18,
+          "name": "драма"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt39118363",
+      "origin_country": [
+        "RU"
+      ],
+      "production_companies": [
+        {
+          "id": 274097,
+          "logo_path": null,
+          "name": "Gonzo Film",
+          "origin_country": "RU"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "RU",
+          "name": "Russia"
+        }
+      ],
+      "revenue": 0,
+      "runtime": 90,
+      "spoken_languages": [
+        {
+          "english_name": "Russian",
+          "iso_639_1": "ru",
+          "name": "Pусский"
+        }
+      ],
+      "status": "Released",
+      "tagline": "",
+      "release_quality": "1080p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -374,6 +851,90 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "genre_ids": [
+        28,
+        14,
+        878
+      ],
+      "id": 454639,
+      "title": "Властелины вселенной",
+      "original_language": "en",
+      "original_title": "Masters of the Universe",
+      "overview": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной.",
+      "popularity": 121.6616,
+      "poster_path": "/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
+      "release_date": "2026-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.234,
+      "vote_count": 248,
+      "belongs_to_collection": null,
+      "budget": 200000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "боевик"
+        },
+        {
+          "id": 14,
+          "name": "фэнтези"
+        },
+        {
+          "id": 878,
+          "name": "фантастика"
+        }
+      ],
+      "homepage": "",
+      "imdb_id": "tt0427340",
+      "origin_country": [
+        "US"
+      ],
+      "production_companies": [
+        {
+          "id": 1423,
+          "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+          "name": "Escape Artists",
+          "origin_country": "US"
+        },
+        {
+          "id": 168848,
+          "logo_path": "/omEguKifcJixMvKWq85sUp4lFdT.png",
+          "name": "Mattel Studios",
+          "origin_country": "US"
+        },
+        {
+          "id": 210099,
+          "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+          "name": "Amazon MGM Studios",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "revenue": 86387310,
+      "runtime": 141,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "«Только один может обладать силой...»",
+      "release_quality": "2160p",
+      "media_type": "movie",
+      "categories": [
+        "movies"
+      ]
+    },
+    {
+      "adult": false,
       "backdrop_path": "/b6mLOBT3GZ0dY04sCgSLWTF2uYJ.jpg",
       "genre_ids": [
         10770,
@@ -469,89 +1030,6 @@
       "status": "Released",
       "tagline": "",
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
-      "genre_ids": [
-        35,
-        27
-      ],
-      "id": 1273221,
-      "title": "Очень страшное кино",
-      "original_language": "en",
-      "original_title": "Scary Movie",
-      "overview": "Двое друзей снова оказываются втянутыми в хаос, в котором участвуют убийцы, монстры и сверхъестественные существа.",
-      "popularity": 55.9817,
-      "poster_path": "/mHggwMptRO9dzmaLlYdxlh1eXpj.jpg",
-      "release_date": "2026-06-03",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.516,
-      "vote_count": 339,
-      "belongs_to_collection": {
-        "id": 4246,
-        "name": "Очень страшное кино (Коллекция)",
-        "poster_path": "/3OXEbla8wST1ikiX5CmGPNH6KVu.jpg",
-        "backdrop_path": "/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
-      },
-      "budget": 30000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 27,
-          "name": "ужасы"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt32093575",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 14,
-          "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-          "name": "Miramax",
-          "origin_country": "US"
-        },
-        {
-          "id": 1608,
-          "logo_path": null,
-          "name": "Wayans Bros. Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 202519753,
-      "runtime": 96,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Korean",
-          "iso_639_1": "ko",
-          "name": "한국어/조선말"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Он вернулся. Никто не удивлён»",
-      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "movies"
@@ -792,463 +1270,6 @@
       "vote_average": 7.8,
       "vote_count": 76,
       "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3fZ5HvkrjaS34sZERshWm9koXdF.jpg",
-      "genre_ids": [
-        80,
-        9648
-      ],
-      "id": 1290432,
-      "original_language": "fr",
-      "original_title": "Vie privée",
-      "overview": "Когда известный психиатр Лилиан Штайнер узнает о смерти одного из своих пациентов, она глубоко встревожена. Убежденная, что это было убийство, она решает провести расследование…",
-      "popularity": 16.6155,
-      "poster_path": "/djdvlPfichq5QIfnMxDkRNbJjX7.jpg",
-      "release_date": "2026-03-19",
-      "title": "Частная жизнь",
-      "video": false,
-      "vote_average": 5.795,
-      "vote_count": 89,
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8TQu0UMl7Lq85L7rkoFvcUV4SwT.jpg",
-      "genre_ids": [
-        28,
-        18,
-        53
-      ],
-      "id": 1441528,
-      "title": "Бригада скорой помощи Токио. Миссия Нанкай",
-      "original_language": "ja",
-      "original_title": "劇場版TOKYO MER～走る緊急救命室～南海ミッション",
-      "overview": "В 2025 году «Nankai MER» — мобильное отделение экстренной помощи на базе парома — сталкивается с самым серьёзным испытанием: мощное извержение вулкана отрезает 79 человек на острове Суваносэдзима. Когда эвакуация на вертолётах невозможна, доктор Китами и его команда спешат спасти всех до единого.",
-      "popularity": 1.7494,
-      "poster_path": "/wZgUKPdqbOPotUIKIZpn2CyCol4.jpg",
-      "release_date": "2025-08-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0,
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1122573,
-      "title": "Грязные деньги",
-      "original_language": "en",
-      "original_title": "In the Grey",
-      "overview": "Когда безжалостный магнат Салазар присваивает себе миллиард долларов, отряд элитных агентов под управлением проницательной Рэйчел получает задание вернуть деньги любой ценой. Сид, Бронко и их соратники начинают воплощать стратегию давления на афериста, а затем отправляются на остров Салазара, где проявляют все свои навыки обращения с оружием и взрывчаткой. Однако внезапно ситуация выходит из-под контроля.",
-      "popularity": 146.5599,
-      "poster_path": "/eX68co76w7wunCRunji7kyglqTG.jpg",
-      "release_date": "2026-05-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 113,
-      "belongs_to_collection": null,
-      "budget": 70000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt27681354",
-      "origin_country": [
-        "GB",
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 184518,
-          "logo_path": "/lOouI8ibBzhLI4qvku74FPUVT8t.png",
-          "name": "C2 Motion Picture Group",
-          "origin_country": "US"
-        },
-        {
-          "id": 2900,
-          "logo_path": "/9LbR5s0UDvDKvDJWXeq3zeukzEP.png",
-          "name": "Toff Guy Films",
-          "origin_country": "GB"
-        },
-        {
-          "id": 22146,
-          "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
-          "name": "Black Bear Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 13478954,
-      "runtime": 98,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        },
-        {
-          "english_name": "Spanish",
-          "iso_639_1": "es",
-          "name": "Español"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Когда крадут миллиарды, только эти парни могут украсть их обратно»",
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1656220,
-      "title": "23 000 жизней",
-      "original_language": "de",
-      "original_title": "23 000 Leben",
-      "overview": "Группа молодых людей выходит в Средиземное море, чтобы спасти жизни беженцев — и эта миссия испытывает на прочность их представления о законе и справедливости.",
-      "popularity": 62.5505,
-      "poster_path": "/6K6AOzltCpLPj5P2JjWWbfw2gvO.jpg",
-      "release_date": "2026-07-02",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.1,
-      "vote_count": 44,
-      "release_quality": "1080p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "genre_ids": [
-        28,
-        14,
-        12
-      ],
-      "id": 931285,
-      "title": "Мортал Комбат 2",
-      "original_language": "en",
-      "original_title": "Mortal Kombat II",
-      "overview": "Чемпионы Земного царства вместе с Джонни Кейджем вступают в схватку друг с другом, чтобы предотвратить тёмное правление Шао Кана.",
-      "popularity": 149.8611,
-      "poster_path": "/4WgJ5Dk0JhPdCdJkwHNVyJyQYdH.jpg",
-      "release_date": "2026-05-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.013,
-      "vote_count": 200,
-      "belongs_to_collection": {
-        "id": 931431,
-        "name": "Мортал Комбат (Перезапуск) | (Коллекция)",
-        "poster_path": "/fzMBv3Bu8sWdsCQJbtF0XhY4Q2X.jpg",
-        "backdrop_path": "/mI8xgtdaKDwnfaZ6CahOaYKdfSU.jpg"
-      },
-      "budget": 80000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 14,
-          "name": "фэнтези"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt17490712",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 12,
-          "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-          "name": "New Line Cinema",
-          "origin_country": "US"
-        },
-        {
-          "id": 76907,
-          "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
-          "name": "Atomic Monster",
-          "origin_country": "US"
-        },
-        {
-          "id": 8000,
-          "logo_path": "/f8NwLg72BByt3eav7lX1lcJfe60.png",
-          "name": "Broken Road Productions",
-          "origin_country": "US"
-        },
-        {
-          "id": 252367,
-          "logo_path": null,
-          "name": "Fireside Films",
-          "origin_country": "US"
-        },
-        {
-          "id": 216687,
-          "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-          "name": "Domain Entertainment",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 101233000,
-      "runtime": 116,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Приготовьтесь к новому уровню»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1314481,
-      "title": "Дьявол носит Prada 2",
-      "original_language": "en",
-      "original_title": "The Devil Wears Prada 2",
-      "overview": "Редактор модного журнала Миранда Пристли борется со своей бывшей помощницей Эмили Чарлтон, ныне руководительницей конкурирующего издания, за рекламные контракты. Пока печатные СМИ переживают кризис, Миранда готовится уйти на пенсию.",
-      "popularity": 75.1301,
-      "poster_path": "/rszWffz3SMz42OLvA6ks1pizRRY.jpg",
-      "release_date": "2026-04-29",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 579,
-      "belongs_to_collection": {
-        "id": 1314623,
-        "name": "Дьявол носит Prada (Коллекция)",
-        "poster_path": "/1W7vD9TYOIkNbDXx0hwGmNSAjW7.jpg",
-        "backdrop_path": "/h3EaoLd3ZyYyx5ME9dWTXcmTMCM.jpg"
-      },
-      "budget": 100000000,
-      "genres": [
-        {
-          "id": 35,
-          "name": "комедия"
-        },
-        {
-          "id": 18,
-          "name": "драма"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt33612209",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 127928,
-          "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-          "name": "20th Century Studios",
-          "origin_country": "US"
-        },
-        {
-          "id": 412,
-          "logo_path": null,
-          "name": "Wendy Finerman Productions",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 546200000,
-      "runtime": 119,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Иконы правят вечно»",
-      "release_quality": "2160p",
-      "media_type": "movie",
-      "categories": [
-        "movies"
-      ]
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
-      "genre_ids": [
-        28,
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Найдя безопасный бункер в Гренландии после того, как комета уничтожила Землю, семья Гаррити теперь должна рискнуть всем и отправиться в опасное путешествие по пустошам Европы, чтобы найти новый дом.",
-      "popularity": 38.173,
-      "poster_path": "/uhV90l00klYLwCFo96JAVFGVU8v.jpg",
-      "release_date": "2026-01-07",
-      "title": "Гренландия 2: Миграция",
-      "video": false,
-      "vote_average": 6.5,
-      "vote_count": 86,
-      "belongs_to_collection": {
-        "id": 840465,
-        "name": "Гренландия (Коллекция)",
-        "poster_path": "/5QTauXmuWWLn9wIpEHwHKmfqFSc.jpg",
-        "backdrop_path": "/bmfsqt3VZgXE0KRGxalFa9NpBYO.jpg"
-      },
-      "budget": 90000000,
-      "genres": [
-        {
-          "id": 28,
-          "name": "боевик"
-        },
-        {
-          "id": 12,
-          "name": "приключения"
-        },
-        {
-          "id": 53,
-          "name": "триллер"
-        },
-        {
-          "id": 878,
-          "name": "фантастика"
-        }
-      ],
-      "homepage": "",
-      "imdb_id": "tt14850054",
-      "origin_country": [
-        "US"
-      ],
-      "production_companies": [
-        {
-          "id": 1632,
-          "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-          "name": "Lionsgate",
-          "origin_country": "US"
-        },
-        {
-          "id": 47729,
-          "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
-          "name": "STXfilms",
-          "origin_country": "US"
-        },
-        {
-          "id": 138743,
-          "logo_path": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
-          "name": "Anton",
-          "origin_country": "GB"
-        },
-        {
-          "id": 3528,
-          "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
-          "name": "Thunder Road",
-          "origin_country": "US"
-        },
-        {
-          "id": 103331,
-          "logo_path": "/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png",
-          "name": "G-BASE",
-          "origin_country": "US"
-        },
-        {
-          "id": 253186,
-          "logo_path": null,
-          "name": "CineMachine",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "revenue": 11416907,
-      "runtime": 98,
-      "spoken_languages": [
-        {
-          "english_name": "English",
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "«Надежда – неизведанная территория»",
-      "release_quality": "2160p",
       "media_type": "movie",
       "categories": [
         "movies"
