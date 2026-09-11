@@ -6,7 +6,7 @@
   "scripts": {
     "check": "node --check builder/build-index.js && node --check test/builder.test.js",
     "test": "node --test test/*.test.js",
-    "build:index": "node builder/build-index.js --pages 120 --yearPages 3 --yearAltPages 1 --fromYear 1900 --max 20000 --delay 100"
+    "build:index": "node builder/build-index.js --pages 180 --yearPages 2 --yearAltPages 0 --fromYear 1978 --max 3500 --delay 100 --voteCountGte 100 --yearVoteCountGte 25"
   },
   "keywords": [],
   "author": "",
