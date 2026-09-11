@@ -34,7 +34,7 @@ jobs:
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
           TMDB_LANG: ru-RU
-        run: node builder/build-index.js --pages 180 --yearPages 2 --yearAltPages 0 --fromYear 1978 --max 3500 --delay 100 --voteCountGte 100 --yearVoteCountGte 25 --minPartVoteCount 10 --minQualifiedParts 2
+        run: node builder/build-index.js --pages 180 --yearPages 2 --yearAltPages 0 --fromYear 1978 --max 3500 --delay 100 --voteCountGte 200 --yearVoteCountGte 25 --minPartVoteCount 10 --minQualifiedParts 2
 
       - name: Commit & push if changed
         run: |
