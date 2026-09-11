@@ -1,0 +1,60 @@
+name: Build TMDB collections index (daily)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "builder/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/daily-index.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tmdb-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build index
+        env:
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+          TMDB_LANG: ru-RU
+        run: node builder/build-index.js --pages 120 --yearPages 3 --yearAltPages 1 --fromYear 1900 --max 20000 --delay 100
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/collectionsIndex.json
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Update collections index"
+          git push
