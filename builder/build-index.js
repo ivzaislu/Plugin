@@ -6,19 +6,21 @@
  * Стратегия обнаружения:
  *   1) глобальный popularity-срез;
  *   2) отдельный popularity-срез для каждого года;
- *   3) небольшой vote_average-срез для каждого года, чтобы находить менее популярные фильмы.
+ *   3) rating-срез поддерживается опционально, но по умолчанию выключен.
  *
  * data/collectionsIndex.json остаётся в корне репозитория.
  * Для тестов путь можно переопределить через COLLECTIONS_DATA_DIR.
  *
  * Запуск:
  *   TMDB_KEY=xxxx node builder/build-index.js \
- *     --pages 120 \
- *     --yearPages 3 \
- *     --yearAltPages 1 \
- *     --fromYear 1900 \
- *     --max 20000 \
- *     --delay 100
+ *     --pages 180 \
+ *     --yearPages 2 \
+ *     --yearAltPages 0 \
+ *     --fromYear 1978 \
+ *     --max 3500 \
+ *     --delay 100 \
+ *     --voteCountGte 100 \
+ *     --yearVoteCountGte 25
  *
  * ENV:
  *   TMDB_KEY (required)
@@ -26,8 +28,8 @@
  *   TMDB_BASE_URL (default https://api.themoviedb.org/3; useful for tests)
  *   COLLECTIONS_DATA_DIR (optional; tests only, defaults to ../data)
  *   TMDB_DISCOVER_SORT (default popularity.desc)
- *   TMDB_VOTE_COUNT_GTE (default 50)
- *   TMDB_YEAR_VOTE_COUNT_GTE (default 3)
+ *   TMDB_VOTE_COUNT_GTE (default 100)
+ *   TMDB_YEAR_VOTE_COUNT_GTE (default 25)
  *   TMDB_INCLUDE_ADULT (default false)
  *   TMDB_MAX_RETRIES (default 5)
  */
@@ -69,24 +71,24 @@ function envInt(name, def) {
 
 const currentYear = new Date().getUTCFullYear();
 
-const globalPages = clamp(argInt('pages', 120), 0, 500);
-const yearPages = clamp(argInt('yearPages', 3), 0, 50);
-const yearAltPages = clamp(argInt('yearAltPages', 1), 0, 20);
-const fromYear = clamp(argInt('fromYear', 1900), 1870, currentYear + 1);
+const globalPages = clamp(argInt('pages', 180), 0, 500);
+const yearPages = clamp(argInt('yearPages', 2), 0, 50);
+const yearAltPages = clamp(argInt('yearAltPages', 0), 0, 20);
+const fromYear = clamp(argInt('fromYear', 1978), 1870, currentYear + 1);
 const toYear = clamp(argInt('toYear', currentYear + 1), fromYear, currentYear + 3);
 
-const maxCollections = clamp(argInt('max', 20000), 1, 50000);
+const maxCollections = clamp(argInt('max', 3500), 1, 50000);
 const delayMs = clamp(argInt('delay', 100), 0, 5000);
 const checkpointEvery = clamp(argInt('checkpointEvery', 25), 1, 1000);
 
 const discoverSort = process.env.TMDB_DISCOVER_SORT || 'popularity.desc';
 const voteCountGte = Math.max(
   0,
-  envInt('TMDB_VOTE_COUNT_GTE', argInt('voteCountGte', 50))
+  envInt('TMDB_VOTE_COUNT_GTE', argInt('voteCountGte', 100))
 );
 const yearVoteCountGte = Math.max(
   0,
-  envInt('TMDB_YEAR_VOTE_COUNT_GTE', argInt('yearVoteCountGte', 3))
+  envInt('TMDB_YEAR_VOTE_COUNT_GTE', argInt('yearVoteCountGte', 25))
 );
 const includeAdult =
   (process.env.TMDB_INCLUDE_ADULT || 'false').toLowerCase() === 'true';
