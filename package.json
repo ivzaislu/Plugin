@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "check": "node --check builder/build-index.js && node --check test/builder.test.js",
+    "test": "node --test test/*.test.js",
     "build:index": "node builder/build-index.js --pages 120 --yearPages 3 --yearAltPages 1 --fromYear 1900 --max 20000 --delay 100"
   },
   "keywords": [],

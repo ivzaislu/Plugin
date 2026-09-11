@@ -9,6 +9,7 @@
  *   3) небольшой vote_average-срез для каждого года, чтобы находить менее популярные фильмы.
  *
  * data/collectionsIndex.json остаётся в корне репозитория.
+ * Для тестов путь можно переопределить через COLLECTIONS_DATA_DIR.
  *
  * Запуск:
  *   TMDB_KEY=xxxx node builder/build-index.js \
@@ -22,6 +23,8 @@
  * ENV:
  *   TMDB_KEY (required)
  *   TMDB_LANG (default ru-RU)
+ *   TMDB_BASE_URL (default https://api.themoviedb.org/3; useful for tests)
+ *   COLLECTIONS_DATA_DIR (optional; tests only, defaults to ../data)
  *   TMDB_DISCOVER_SORT (default popularity.desc)
  *   TMDB_VOTE_COUNT_GTE (default 50)
  *   TMDB_YEAR_VOTE_COUNT_GTE (default 3)
@@ -32,13 +35,18 @@
 const fs = require('fs');
 const path = require('path');
 
-const fetch = (...args) =>
-  import('node-fetch').then(({ default: fetchImpl }) => fetchImpl(...args));
+const fetchRequest = (...args) => {
+  if (typeof globalThis.fetch === 'function') return globalThis.fetch(...args);
+  return import('node-fetch').then(({ default: fetchImpl }) => fetchImpl(...args));
+};
 
 const TMDB_KEY = process.env.TMDB_KEY;
 const LANG = process.env.TMDB_LANG || 'ru-RU';
+const TMDB_BASE_URL = (process.env.TMDB_BASE_URL || 'https://api.themoviedb.org/3').replace(/\/+$/, '');
 
-const DATA_DIR = path.join(__dirname, '..', 'data');
+const DATA_DIR = process.env.COLLECTIONS_DATA_DIR
+  ? path.resolve(process.env.COLLECTIONS_DATA_DIR)
+  : path.join(__dirname, '..', 'data');
 const OUT_FILE = path.join(DATA_DIR, 'collectionsIndex.json');
 
 function argInt(name, def) {
@@ -114,7 +122,7 @@ function saveIndex(obj) {
 }
 
 function buildTmdbUrl(endpoint, params = {}) {
-  const url = new URL(`https://api.themoviedb.org/3/${endpoint}`);
+  const url = new URL(`${TMDB_BASE_URL}/${String(endpoint).replace(/^\/+/, '')}`);
   url.searchParams.set('api_key', TMDB_KEY);
 
   for (const [key, value] of Object.entries(params)) {
@@ -130,13 +138,14 @@ async function tmdbGet(endpoint, params = {}, stats) {
 
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
-      const response = await fetch(buildTmdbUrl(endpoint, params), {
+      const response = await fetchRequest(buildTmdbUrl(endpoint, params), {
         headers: { Accept: 'application/json' },
       });
 
+      stats.api_requests++;
+
       if (response.ok) {
         const data = await response.json();
-        stats.api_requests++;
         if (delayMs > 0) await sleep(delayMs);
         return data;
       }
@@ -147,7 +156,6 @@ async function tmdbGet(endpoint, params = {}, stats) {
       );
       error.status = response.status;
       lastError = error;
-      stats.api_requests++;
 
       const retryable = response.status === 429 || response.status >= 500;
       if (!retryable || attempt === maxRetries) throw error;
@@ -174,8 +182,10 @@ async function tmdbGet(endpoint, params = {}, stats) {
 
       if (attempt === maxRetries) throw error;
 
-      stats.retries++;
-      await sleep(Math.min(1000 * 2 ** (attempt - 1), 10000));
+      if (!(error && typeof error.status === 'number')) {
+        stats.retries++;
+        await sleep(Math.min(1000 * 2 ** (attempt - 1), 10000));
+      }
     }
   }
 
@@ -421,22 +431,33 @@ async function buildIndex() {
   return finalObj;
 }
 
-buildIndex()
-  .then((out) => {
-    console.log(
-      '\nOK:',
-      new Date(out.updated_at).toISOString(),
-      'total=',
-      out.total,
-      'added_now=',
-      out.meta.added_now,
-      'movies_checked=',
-      out.meta.unique_movies_checked,
-      'api_requests=',
-      out.meta.api_requests
-    );
-  })
-  .catch((error) => {
-    console.error('ERROR:', error.message);
-    process.exit(1);
-  });
+if (require.main === module) {
+  buildIndex()
+    .then((out) => {
+      console.log(
+        '\nOK:',
+        new Date(out.updated_at).toISOString(),
+        'total=',
+        out.total,
+        'added_now=',
+        out.meta.added_now,
+        'movies_checked=',
+        out.meta.unique_movies_checked,
+        'api_requests=',
+        out.meta.api_requests
+      );
+    })
+    .catch((error) => {
+      console.error('ERROR:', error.message);
+      process.exit(1);
+    });
+}
+
+module.exports = {
+  DATA_DIR,
+  OUT_FILE,
+  normalizeName,
+  buildTmdbUrl,
+  makeOutput,
+  buildIndex,
+};
