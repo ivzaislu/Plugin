@@ -1,4 +1,5 @@
 name: Build TMDB collections index (daily)
+# Clean-history restart: 2026-09-11
 
 on:
   workflow_dispatch:
