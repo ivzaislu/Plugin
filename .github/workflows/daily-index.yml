@@ -1,18 +1,9 @@
 name: Build TMDB collections index (daily)
-# Clean-history restart: 2026-09-11
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "30 3 * * *"
-  push:
-    branches:
-      - main
-    paths:
-      - "builder/**"
-      - "package.json"
-      - "package-lock.json"
-      - ".github/workflows/daily-index.yml"
 
 permissions:
   contents: write
@@ -25,36 +16,27 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Cancel marker
-        if: github.event_name == 'push' && github.event.head_commit.message == 'Force cancel long build'
-        run: echo "Cancelling previous TMDB index run; no builder execution in this run."
-
       - name: Checkout
-        if: github.event_name != 'push' || github.event.head_commit.message != 'Force cancel long build'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Node
-        if: github.event_name != 'push' || github.event.head_commit.message != 'Force cancel long build'
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
 
       - name: Install deps
-        if: github.event_name != 'push' || github.event.head_commit.message != 'Force cancel long build'
         run: npm ci
 
       - name: Build index
-        if: github.event_name != 'push' || github.event.head_commit.message != 'Force cancel long build'
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
           TMDB_LANG: ru-RU
-        run: node builder/build-index.js --pages 120 --yearPages 3 --yearAltPages 1 --fromYear 1900 --max 20000 --delay 100
+        run: node builder/build-index.js --pages 180 --yearPages 2 --yearAltPages 0 --fromYear 1978 --max 3500 --delay 100 --voteCountGte 100 --yearVoteCountGte 25
 
       - name: Commit & push if changed
-        if: github.event_name != 'push' || github.event.head_commit.message != 'Force cancel long build'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
