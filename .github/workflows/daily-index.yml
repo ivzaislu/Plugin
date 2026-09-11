@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "30 3 * * *"
-  push:
 
 permissions:
   contents: write
@@ -15,7 +14,6 @@ concurrency:
 
 jobs:
   build:
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -52,72 +50,3 @@ jobs:
 
           git commit -m "Update collections index"
           git push
-
-  diagnostic-dry-run:
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: npm
-
-      - name: Install deps
-        run: npm ci
-
-      - name: Full diagnostic dry run
-        env:
-          TMDB_KEY: ${{ secrets.TMDB_KEY }}
-          TMDB_LANG: ru-RU
-          COLLECTIONS_DATA_DIR: /tmp/tmdb-dryrun
-        run: |
-          mkdir -p /tmp/tmdb-dryrun
-          cp data/collectionsIndex.json /tmp/tmdb-dryrun/collectionsIndex.json
-          node builder/build-index.js --pages 180 --yearPages 0 --yearAltPages 0 --max 3500 --delay 100 --voteCountGte 200 --minPartVoteCount 10 --minQualifiedParts 2
-
-      - name: Show new collection films and votes
-        env:
-          TMDB_KEY: ${{ secrets.TMDB_KEY }}
-        run: |
-          node - <<'NODE'
-          const fs = require('fs');
-          const base = JSON.parse(fs.readFileSync('data/collectionsIndex.json', 'utf8'));
-          const dry = JSON.parse(fs.readFileSync('/tmp/tmdb-dryrun/collectionsIndex.json', 'utf8'));
-          const existing = new Set((base.items || []).map(x => Number(x.id)));
-          const added = (dry.items || []).filter(x => !existing.has(Number(x.id)));
-
-          console.log(`DIAG_ADDED=${added.length}`);
-          console.log(`DIAG_TOTAL=${dry.total}`);
-
-          (async () => {
-            for (const item of added) {
-              const url = new URL(`https://api.themoviedb.org/3/collection/${item.id}`);
-              url.searchParams.set('api_key', process.env.TMDB_KEY);
-              url.searchParams.set('language', 'ru-RU');
-              const response = await fetch(url);
-              if (!response.ok) throw new Error(`collection/${item.id}: ${response.status}`);
-              const collection = await response.json();
-              const parts = (collection.parts || []).map(p => ({
-                id: p.id,
-                title: p.title,
-                original_title: p.original_title,
-                release_date: p.release_date,
-                vote_count: p.vote_count,
-                vote_average: p.vote_average,
-                adult: p.adult
-              }));
-              console.log('COLLECTION_DETAIL=' + JSON.stringify({
-                id: item.id,
-                name: item.name,
-                parts
-              }));
-            }
-          })().catch(err => {
-            console.error(err);
-            process.exit(1);
-          });
-          NODE
