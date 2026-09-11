@@ -6,7 +6,9 @@
  * Стратегия обнаружения:
  *   1) глобальный popularity-срез;
  *   2) отдельный popularity-срез для каждого года;
- *   3) rating-срез поддерживается опционально, но по умолчанию выключен.
+ *   3) rating-срез поддерживается опционально, но по умолчанию выключен;
+ *   4) новая коллекция проходит консервативный quality gate: минимум два
+ *      не-adult фильма в коллекции должны иметь хотя бы 10 голосов TMDB.
  *
  * data/collectionsIndex.json остаётся в корне репозитория.
  * Для тестов путь можно переопределить через COLLECTIONS_DATA_DIR.
@@ -20,7 +22,9 @@
  *     --max 3500 \
  *     --delay 100 \
  *     --voteCountGte 100 \
- *     --yearVoteCountGte 25
+ *     --yearVoteCountGte 25 \
+ *     --minPartVoteCount 10 \
+ *     --minQualifiedParts 2
  *
  * ENV:
  *   TMDB_KEY (required)
@@ -30,6 +34,8 @@
  *   TMDB_DISCOVER_SORT (default popularity.desc)
  *   TMDB_VOTE_COUNT_GTE (default 100)
  *   TMDB_YEAR_VOTE_COUNT_GTE (default 25)
+ *   TMDB_MIN_PART_VOTE_COUNT (default 10)
+ *   TMDB_MIN_QUALIFIED_PARTS (default 2)
  *   TMDB_INCLUDE_ADULT (default false)
  *   TMDB_MAX_RETRIES (default 5)
  */
@@ -90,6 +96,15 @@ const yearVoteCountGte = Math.max(
   0,
   envInt('TMDB_YEAR_VOTE_COUNT_GTE', argInt('yearVoteCountGte', 25))
 );
+const minPartVoteCount = Math.max(
+  0,
+  envInt('TMDB_MIN_PART_VOTE_COUNT', argInt('minPartVoteCount', 10))
+);
+const minQualifiedParts = clamp(
+  envInt('TMDB_MIN_QUALIFIED_PARTS', argInt('minQualifiedParts', 2)),
+  1,
+  20
+);
 const includeAdult =
   (process.env.TMDB_INCLUDE_ADULT || 'false').toLowerCase() === 'true';
 const maxRetries = clamp(envInt('TMDB_MAX_RETRIES', 5), 1, 10);
@@ -104,6 +119,14 @@ function normalizeName(name) {
     .replace(/\s*\(коллекция\)\s*$/i, '')
     .replace(/\s*collection\s*$/i, '')
     .trim();
+}
+
+function countQualifiedParts(parts, minVotes = minPartVoteCount) {
+  if (!Array.isArray(parts)) return 0;
+  return parts.filter((part) => {
+    if (!part || part.adult === true) return false;
+    return Number(part.vote_count || 0) >= minVotes;
+  }).length;
 }
 
 function loadExistingIndex() {
@@ -207,6 +230,7 @@ function makeOutput(seenCollections, stats, config, inProgress) {
       existing_collections_seen: stats.existing_collections_seen,
       collection_requests: stats.collection_requests,
       collections_rejected_single_part: stats.collections_rejected_single_part,
+      collections_rejected_low_quality: stats.collections_rejected_low_quality,
       added_now: stats.added_now,
       api_requests: stats.api_requests,
       retries: stats.retries,
@@ -242,6 +266,7 @@ async function buildIndex() {
     existing_collections_seen: 0,
     collection_requests: 0,
     collections_rejected_single_part: 0,
+    collections_rejected_low_quality: 0,
     added_now: 0,
     api_requests: 0,
     retries: 0,
@@ -255,6 +280,8 @@ async function buildIndex() {
     year_pages: yearPages,
     year_alt_pages: yearAltPages,
     year_vote_count_gte: yearVoteCountGte,
+    min_part_vote_count: minPartVoteCount,
+    min_qualified_parts: minQualifiedParts,
     from_year: fromYear,
     to_year: toYear,
     include_adult: includeAdult,
@@ -321,6 +348,16 @@ async function buildIndex() {
     const parts = Array.isArray(collection.parts) ? collection.parts : [];
     if (parts.length < 2) {
       stats.collections_rejected_single_part++;
+      return false;
+    }
+
+    const qualifiedParts = countQualifiedParts(parts);
+    if (qualifiedParts < minQualifiedParts) {
+      stats.collections_rejected_low_quality++;
+      console.log(
+        `SKIP collection/${belongs.id}: quality gate ${qualifiedParts}/${minQualifiedParts} ` +
+          `parts with vote_count >= ${minPartVoteCount}`
+      );
       return false;
     }
 
@@ -459,6 +496,7 @@ module.exports = {
   DATA_DIR,
   OUT_FILE,
   normalizeName,
+  countQualifiedParts,
   buildTmdbUrl,
   makeOutput,
   buildIndex,
