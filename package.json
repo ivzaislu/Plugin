@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:index": "node build-index.js --pages 120 --max 5000 --delay 120"
+    "build:index": "node builder/build-index.js --pages 120 --yearPages 3 --yearAltPages 1 --fromYear 1900 --max 20000 --delay 100"
   },
   "keywords": [],
   "author": "",

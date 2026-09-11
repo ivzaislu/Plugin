@@ -1,61 +1,91 @@
 /**
- * build-index.js
- * Генерирует data/collections_index.json (и опционально data/collectionsIndex.json) для GitHub Pages / Raw.
- * Запуск локально:
- *   TMDB_KEY=xxxx node builder/build-index.js --pages 120 --max 5000 --delay 120
+ * builder/build-index.js
+ *
+ * Расширенный сборщик индекса коллекций TMDB.
+ *
+ * Стратегия обнаружения:
+ *   1) глобальный popularity-срез;
+ *   2) отдельный popularity-срез для каждого года;
+ *   3) небольшой vote_average-срез для каждого года, чтобы находить менее популярные фильмы.
+ *
+ * data/collectionsIndex.json остаётся в корне репозитория.
+ *
+ * Запуск:
+ *   TMDB_KEY=xxxx node builder/build-index.js \
+ *     --pages 120 \
+ *     --yearPages 3 \
+ *     --yearAltPages 1 \
+ *     --fromYear 1900 \
+ *     --max 20000 \
+ *     --delay 100
  *
  * ENV:
- *  TMDB_KEY (required)
- *  TMDB_LANG (default ru-RU)
- *  TMDB_DISCOVER_SORT (default popularity.desc)
- *  TMDB_VOTE_COUNT_GTE (default 200)
- *  TMDB_INCLUDE_ADULT (default false)
+ *   TMDB_KEY (required)
+ *   TMDB_LANG (default ru-RU)
+ *   TMDB_DISCOVER_SORT (default popularity.desc)
+ *   TMDB_VOTE_COUNT_GTE (default 50)
+ *   TMDB_YEAR_VOTE_COUNT_GTE (default 3)
+ *   TMDB_INCLUDE_ADULT (default false)
+ *   TMDB_MAX_RETRIES (default 5)
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// node-fetch v3 ESM
-const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
+const fetch = (...args) =>
+  import('node-fetch').then(({ default: fetchImpl }) => fetchImpl(...args));
 
 const TMDB_KEY = process.env.TMDB_KEY;
 const LANG = process.env.TMDB_LANG || 'ru-RU';
 
-// data остаётся в корне репозитория
 const DATA_DIR = path.join(__dirname, '..', 'data');
-
-// основной файл (как у тебя исторически)
 const OUT_FILE = path.join(DATA_DIR, 'collectionsIndex.json');
 
 function argInt(name, def) {
   const i = process.argv.indexOf(`--${name}`);
   if (i >= 0 && process.argv[i + 1]) {
-    const v = parseInt(process.argv[i + 1], 10);
-    if (!Number.isNaN(v)) return v;
+    const value = parseInt(process.argv[i + 1], 10);
+    if (!Number.isNaN(value)) return value;
   }
   return def;
 }
 
-const pages = Math.max(1, Math.min(argInt('pages', 120), 500));
-const maxCollections = Math.max(500, Math.min(argInt('max', 5000), 20000));
-const delayMs = Math.max(0, Math.min(argInt('delay', 120), 2000));
-const discoverSort = process.env.TMDB_DISCOVER_SORT || 'popularity.desc';
-const voteCountGte = Math.max(0, parseInt(process.env.TMDB_VOTE_COUNT_GTE || String(argInt('voteCountGte', 200)), 10) || 200);
-const includeAdult = (process.env.TMDB_INCLUDE_ADULT || 'false').toLowerCase() === 'true';
-
-function sleep(ms) {
-  return new Promise((r) => setTimeout(r, ms));
+function clamp(value, min, max) {
+  return Math.max(min, Math.min(value, max));
 }
 
-async function tmdbGet(url) {
-  const r = await fetch('https://api.themoviedb.org/3/' + url, { headers: { Accept: 'application/json' } });
-  if (!r.ok) {
-    const txt = await r.text().catch(() => '');
-    const err = new Error(`TMDB ${r.status}: ${txt.slice(0, 200)}`);
-    err.status = r.status;
-    throw err;
-  }
-  return r.json();
+function envInt(name, def) {
+  const value = parseInt(process.env[name] || '', 10);
+  return Number.isNaN(value) ? def : value;
+}
+
+const currentYear = new Date().getUTCFullYear();
+
+const globalPages = clamp(argInt('pages', 120), 0, 500);
+const yearPages = clamp(argInt('yearPages', 3), 0, 50);
+const yearAltPages = clamp(argInt('yearAltPages', 1), 0, 20);
+const fromYear = clamp(argInt('fromYear', 1900), 1870, currentYear + 1);
+const toYear = clamp(argInt('toYear', currentYear + 1), fromYear, currentYear + 3);
+
+const maxCollections = clamp(argInt('max', 20000), 1, 50000);
+const delayMs = clamp(argInt('delay', 100), 0, 5000);
+const checkpointEvery = clamp(argInt('checkpointEvery', 25), 1, 1000);
+
+const discoverSort = process.env.TMDB_DISCOVER_SORT || 'popularity.desc';
+const voteCountGte = Math.max(
+  0,
+  envInt('TMDB_VOTE_COUNT_GTE', argInt('voteCountGte', 50))
+);
+const yearVoteCountGte = Math.max(
+  0,
+  envInt('TMDB_YEAR_VOTE_COUNT_GTE', argInt('yearVoteCountGte', 3))
+);
+const includeAdult =
+  (process.env.TMDB_INCLUDE_ADULT || 'false').toLowerCase() === 'true';
+const maxRetries = clamp(envInt('TMDB_MAX_RETRIES', 5), 1, 10);
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function normalizeName(name) {
@@ -68,136 +98,345 @@ function normalizeName(name) {
 
 function loadExistingIndex() {
   try {
-    if (fs.existsSync(OUT_FILE)) {
-      const raw = fs.readFileSync(OUT_FILE, 'utf8');
-      const obj = JSON.parse(raw);
-      if (obj && Array.isArray(obj.items)) return obj;
+    if (!fs.existsSync(OUT_FILE)) return null;
+    const raw = fs.readFileSync(OUT_FILE, 'utf8');
+    const obj = JSON.parse(raw);
+    return obj && Array.isArray(obj.items) ? obj : null;
+  } catch (error) {
+    console.warn('WARN: failed to read existing index:', error.message);
+    return null;
+  }
+}
+
+function saveIndex(obj) {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+  fs.writeFileSync(OUT_FILE, JSON.stringify(obj, null, 2), 'utf8');
+}
+
+function buildTmdbUrl(endpoint, params = {}) {
+  const url = new URL(`https://api.themoviedb.org/3/${endpoint}`);
+  url.searchParams.set('api_key', TMDB_KEY);
+
+  for (const [key, value] of Object.entries(params)) {
+    if (value === undefined || value === null || value === '') continue;
+    url.searchParams.set(key, String(value));
+  }
+
+  return url;
+}
+
+async function tmdbGet(endpoint, params = {}, stats) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await fetch(buildTmdbUrl(endpoint, params), {
+        headers: { Accept: 'application/json' },
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        stats.api_requests++;
+        if (delayMs > 0) await sleep(delayMs);
+        return data;
+      }
+
+      const text = await response.text().catch(() => '');
+      const error = new Error(
+        `TMDB ${response.status}: ${text.slice(0, 200)}`
+      );
+      error.status = response.status;
+      lastError = error;
+      stats.api_requests++;
+
+      const retryable = response.status === 429 || response.status >= 500;
+      if (!retryable || attempt === maxRetries) throw error;
+
+      stats.retries++;
+      const retryAfter = Number(response.headers.get('retry-after'));
+      const retryDelay =
+        Number.isFinite(retryAfter) && retryAfter > 0
+          ? retryAfter * 1000
+          : Math.min(1000 * 2 ** (attempt - 1), 10000);
+
+      await sleep(retryDelay);
+    } catch (error) {
+      lastError = error;
+
+      if (
+        error &&
+        typeof error.status === 'number' &&
+        error.status !== 429 &&
+        error.status < 500
+      ) {
+        throw error;
+      }
+
+      if (attempt === maxRetries) throw error;
+
+      stats.retries++;
+      await sleep(Math.min(1000 * 2 ** (attempt - 1), 10000));
     }
-  } catch (e) {}
-  return null;
+  }
+
+  throw lastError || new Error('Unknown TMDB request error');
 }
 
-function saveIndex(obj) {
-  fs.mkdirSync(DATA_DIR, { recursive: true });
-  fs.writeFileSync(OUT_FILE, JSON.stringify(obj, null, 2), 'utf8');
+function makeOutput(seenCollections, stats, config, inProgress) {
+  return {
+    updated_at: Date.now(),
+    total: seenCollections.size,
+    meta: {
+      in_progress: inProgress,
+      discovery_pages_scanned: stats.discovery_pages_scanned,
+      discovery_rows_seen: stats.discovery_rows_seen,
+      unique_movies_checked: stats.unique_movies_checked,
+      duplicate_movies_skipped: stats.duplicate_movies_skipped,
+      existing_collections_seen: stats.existing_collections_seen,
+      collection_requests: stats.collection_requests,
+      collections_rejected_single_part: stats.collections_rejected_single_part,
+      added_now: stats.added_now,
+      api_requests: stats.api_requests,
+      retries: stats.retries,
+      request_errors: stats.request_errors,
+      config,
+    },
+    items: Array.from(seenCollections.values()),
+  };
 }
-
-
-function saveIndex(obj) {
-  fs.mkdirSync(DATA_DIR, { recursive: true });
-  fs.writeFileSync(OUT_FILE, JSON.stringify(obj, null, 2), 'utf8');
-}
-
 
 async function buildIndex() {
-  if (!TMDB_KEY) throw new Error('TMDB_KEY env is required (add it as GitHub Actions secret)');
+  if (!TMDB_KEY) {
+    throw new Error(
+      'TMDB_KEY env is required (add it as GitHub Actions secret)'
+    );
+  }
 
   const existing = loadExistingIndex();
   const seenCollections = new Map();
+  const seenMovieIds = new Set();
 
   if (existing && Array.isArray(existing.items)) {
-    for (const it of existing.items) {
-      if (it && it.id) seenCollections.set(it.id, it);
+    for (const item of existing.items) {
+      if (item && item.id) seenCollections.set(item.id, item);
     }
   }
 
-  let scanned = 0;
-  let added = 0;
-
-  for (let page = 1; page <= pages; page++) {
-    const discoverUrl =
-      `discover/movie?api_key=${TMDB_KEY}` +
-      `&language=${encodeURIComponent(LANG)}` +
-      `&sort_by=${encodeURIComponent(discoverSort)}` +
-      `&vote_count.gte=${voteCountGte}` +
-      `&include_adult=${includeAdult ? 'true' : 'false'}` +
-      `&page=${page}`;
-
-    let discover;
-    try {
-      discover = await tmdbGet(discoverUrl);
-    } catch (e) {
-      if (e.status === 429) {
-        await sleep(1500);
-        page--;
-        continue;
-      }
-      throw e;
-    }
-
-    const results = Array.isArray(discover.results) ? discover.results : [];
-    for (const movie of results) {
-      scanned++;
-      const id = movie && movie.id;
-      if (!id) continue;
-
-      let details;
-      try {
-        details = await tmdbGet(`movie/${id}?api_key=${TMDB_KEY}&language=${encodeURIComponent(LANG)}`);
-      } catch (e) {
-        if (e.status === 429) {
-          await sleep(1500);
-          continue;
-        }
-        await sleep(delayMs);
-        continue;
-      }
-      await sleep(delayMs);
-
-      const b = details && details.belongs_to_collection;
-      if (!b || !b.id) continue;
-
-      if (seenCollections.has(b.id)) continue;
-
-      let col;
-      try {
-        col = await tmdbGet(`collection/${b.id}?api_key=${TMDB_KEY}&language=${encodeURIComponent(LANG)}`);
-      } catch (e) {
-        if (e.status === 429) {
-          await sleep(1500);
-          continue;
-        }
-        await sleep(delayMs);
-        continue;
-      }
-      await sleep(delayMs);
-
-      const parts = Array.isArray(col.parts) ? col.parts : [];
-      if (parts.length < 2) continue;
-
-      const item = {
-        id: b.id,
-        name: normalizeName(col.name || b.name),
-        poster_path: col.poster_path || b.poster_path || null,
-        backdrop_path: col.backdrop_path || b.backdrop_path || null,
-        parts_count: parts.length,
-      };
-
-      seenCollections.set(b.id, item);
-      added++;
-
-      if (seenCollections.size >= maxCollections) break;
-    }
-
-    if (seenCollections.size >= maxCollections) break;
-  }
-
-  const finalObj = {
-    updated_at: Date.now(),
-    total: seenCollections.size,
-    meta: { pages_scanned: pages, movies_scanned: scanned, added_now: added },
-    items: Array.from(seenCollections.values()),
+  const stats = {
+    discovery_pages_scanned: 0,
+    discovery_rows_seen: 0,
+    unique_movies_checked: 0,
+    duplicate_movies_skipped: 0,
+    existing_collections_seen: 0,
+    collection_requests: 0,
+    collections_rejected_single_part: 0,
+    added_now: 0,
+    api_requests: 0,
+    retries: 0,
+    request_errors: 0,
   };
 
+  const config = {
+    global_pages: globalPages,
+    global_sort: discoverSort,
+    global_vote_count_gte: voteCountGte,
+    year_pages: yearPages,
+    year_alt_pages: yearAltPages,
+    year_vote_count_gte: yearVoteCountGte,
+    from_year: fromYear,
+    to_year: toYear,
+    include_adult: includeAdult,
+    max_collections: maxCollections,
+    delay_ms: delayMs,
+    max_retries: maxRetries,
+  };
+
+  let additionsSinceCheckpoint = 0;
+
+  function checkpoint(force = false) {
+    if (!force && additionsSinceCheckpoint < checkpointEvery) return;
+    saveIndex(makeOutput(seenCollections, stats, config, true));
+    additionsSinceCheckpoint = 0;
+  }
+
+  async function inspectMovie(movie) {
+    const movieId = movie && movie.id;
+    if (!movieId) return false;
+
+    if (seenMovieIds.has(movieId)) {
+      stats.duplicate_movies_skipped++;
+      return false;
+    }
+
+    seenMovieIds.add(movieId);
+    stats.unique_movies_checked++;
+
+    let details;
+    try {
+      details = await tmdbGet(
+        `movie/${movieId}`,
+        { language: LANG },
+        stats
+      );
+    } catch (error) {
+      stats.request_errors++;
+      console.warn(`WARN: movie/${movieId}:`, error.message);
+      return false;
+    }
+
+    const belongs = details && details.belongs_to_collection;
+    if (!belongs || !belongs.id) return false;
+
+    if (seenCollections.has(belongs.id)) {
+      stats.existing_collections_seen++;
+      return false;
+    }
+
+    let collection;
+    try {
+      stats.collection_requests++;
+      collection = await tmdbGet(
+        `collection/${belongs.id}`,
+        { language: LANG },
+        stats
+      );
+    } catch (error) {
+      stats.request_errors++;
+      console.warn(`WARN: collection/${belongs.id}:`, error.message);
+      return false;
+    }
+
+    const parts = Array.isArray(collection.parts) ? collection.parts : [];
+    if (parts.length < 2) {
+      stats.collections_rejected_single_part++;
+      return false;
+    }
+
+    const item = {
+      id: belongs.id,
+      name: normalizeName(collection.name || belongs.name),
+      poster_path: collection.poster_path || belongs.poster_path || null,
+      backdrop_path: collection.backdrop_path || belongs.backdrop_path || null,
+      parts_count: parts.length,
+    };
+
+    seenCollections.set(belongs.id, item);
+    stats.added_now++;
+    additionsSinceCheckpoint++;
+
+    console.log(
+      `ADD #${seenCollections.size}: ${item.name} (${item.parts_count} parts)`
+    );
+
+    checkpoint();
+
+    return seenCollections.size >= maxCollections;
+  }
+
+  async function scanSlice(label, requestedPages, extraParams) {
+    if (requestedPages <= 0 || seenCollections.size >= maxCollections) return true;
+
+    console.log(`\nSCAN ${label}: up to ${requestedPages} pages`);
+
+    for (let page = 1; page <= requestedPages; page++) {
+      let discover;
+
+      try {
+        discover = await tmdbGet(
+          'discover/movie',
+          {
+            language: LANG,
+            include_adult: includeAdult ? 'true' : 'false',
+            page,
+            ...extraParams,
+          },
+          stats
+        );
+      } catch (error) {
+        stats.request_errors++;
+        console.warn(`WARN: ${label} page ${page}:`, error.message);
+        continue;
+      }
+
+      stats.discovery_pages_scanned++;
+
+      const results = Array.isArray(discover.results) ? discover.results : [];
+      stats.discovery_rows_seen += results.length;
+
+      for (const movie of results) {
+        if (await inspectMovie(movie)) return true;
+      }
+
+      const totalPages = Math.min(
+        Number(discover.total_pages) || requestedPages,
+        500
+      );
+
+      console.log(
+        `  page ${page}/${Math.min(requestedPages, totalPages)} | ` +
+          `movies=${stats.unique_movies_checked} | ` +
+          `collections=${seenCollections.size} | added=${stats.added_now}`
+      );
+
+      if (page >= totalPages) break;
+    }
+
+    return seenCollections.size >= maxCollections;
+  }
+
+  if (seenCollections.size >= maxCollections) {
+    console.log(
+      `Existing index already has ${seenCollections.size} collections, ` +
+        `which is >= --max ${maxCollections}.`
+    );
+  } else {
+    await scanSlice('global popularity', globalPages, {
+      sort_by: discoverSort,
+      'vote_count.gte': voteCountGte,
+    });
+
+    for (
+      let year = toYear;
+      year >= fromYear && seenCollections.size < maxCollections;
+      year--
+    ) {
+      await scanSlice(`year ${year} popularity`, yearPages, {
+        sort_by: 'popularity.desc',
+        primary_release_year: year,
+        'vote_count.gte': yearVoteCountGte,
+      });
+
+      if (seenCollections.size >= maxCollections) break;
+
+      await scanSlice(`year ${year} rating`, yearAltPages, {
+        sort_by: 'vote_average.desc',
+        primary_release_year: year,
+        'vote_count.gte': yearVoteCountGte,
+      });
+    }
+  }
+
+  const finalObj = makeOutput(seenCollections, stats, config, false);
   saveIndex(finalObj);
   return finalObj;
 }
 
 buildIndex()
   .then((out) => {
-    console.log('OK:', new Date(out.updated_at).toISOString(), 'total=', out.total, 'added_now=', out.meta.added_now);
+    console.log(
+      '\nOK:',
+      new Date(out.updated_at).toISOString(),
+      'total=',
+      out.total,
+      'added_now=',
+      out.meta.added_now,
+      'movies_checked=',
+      out.meta.unique_movies_checked,
+      'api_requests=',
+      out.meta.api_requests
+    );
   })
-  .catch((e) => {
-    console.error('ERROR:', e.message);
+  .catch((error) => {
+    console.error('ERROR:', error.message);
     process.exit(1);
   });
