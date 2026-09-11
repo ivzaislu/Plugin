@@ -21,7 +21,7 @@
  *     --fromYear 1978 \
  *     --max 3500 \
  *     --delay 100 \
- *     --voteCountGte 100 \
+ *     --voteCountGte 200 \
  *     --yearVoteCountGte 25 \
  *     --minPartVoteCount 10 \
  *     --minQualifiedParts 2
@@ -32,7 +32,7 @@
  *   TMDB_BASE_URL (default https://api.themoviedb.org/3; useful for tests)
  *   COLLECTIONS_DATA_DIR (optional; tests only, defaults to ../data)
  *   TMDB_DISCOVER_SORT (default popularity.desc)
- *   TMDB_VOTE_COUNT_GTE (default 100)
+ *   TMDB_VOTE_COUNT_GTE (default 200)
  *   TMDB_YEAR_VOTE_COUNT_GTE (default 25)
  *   TMDB_MIN_PART_VOTE_COUNT (default 10)
  *   TMDB_MIN_QUALIFIED_PARTS (default 2)
@@ -90,7 +90,7 @@ const checkpointEvery = clamp(argInt('checkpointEvery', 25), 1, 1000);
 const discoverSort = process.env.TMDB_DISCOVER_SORT || 'popularity.desc';
 const voteCountGte = Math.max(
   0,
-  envInt('TMDB_VOTE_COUNT_GTE', argInt('voteCountGte', 100))
+  envInt('TMDB_VOTE_COUNT_GTE', argInt('voteCountGte', 200))
 );
 const yearVoteCountGte = Math.max(
   0,
