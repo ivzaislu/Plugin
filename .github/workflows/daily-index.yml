@@ -1,6 +1,10 @@
 name: Build TMDB collections index (daily)
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/daily-index.yml'
   workflow_dispatch:
   schedule:
     - cron: "30 3 * * *"
@@ -14,6 +18,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -50,3 +55,37 @@ jobs:
 
           git commit -m "Update collections index"
           git push
+
+  dry-run:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Short 200-vote dry run
+        env:
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+          TMDB_LANG: ru-RU
+        run: node builder/build-index.js --pages 10 --yearPages 0 --yearAltPages 0 --max 3500 --delay 100 --voteCountGte 200 --minPartVoteCount 10 --minQualifiedParts 2
+
+      - name: Show dry-run totals
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+          const d = JSON.parse(fs.readFileSync('data/collectionsIndex.json', 'utf8'));
+          console.log(`DRY_RUN_TOTAL=${d.total}`);
+          console.log(`DRY_RUN_ADDED=${d.meta?.added_now ?? 'n/a'}`);
+          console.log(`DRY_RUN_REJECTED_LOW_QUALITY=${d.meta?.collections_rejected_low_quality ?? 'n/a'}`);
+          console.log(`DRY_RUN_MOVIES=${d.meta?.unique_movies_checked ?? 'n/a'}`);
+          console.log(`DRY_RUN_PAGES=${d.meta?.discovery_pages_scanned ?? 'n/a'}`);
+          NODE
