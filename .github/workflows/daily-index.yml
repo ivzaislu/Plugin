@@ -19,10 +19,11 @@ permissions:
 
 concurrency:
   group: tmdb-index
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
+    if: github.event_name != 'push' || github.event.head_commit.message != 'Stop long collection build'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
