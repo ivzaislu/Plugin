@@ -2,7 +2,7 @@
  * build-index.js
  * Генерирует data/collections_index.json (и опционально data/collectionsIndex.json) для GitHub Pages / Raw.
  * Запуск локально:
- *   TMDB_KEY=xxxx node build-index.js --pages 120 --max 5000 --delay 120
+ *   TMDB_KEY=xxxx node builder/build-index.js --pages 120 --max 5000 --delay 120
  *
  * ENV:
  *  TMDB_KEY (required)
@@ -21,8 +21,8 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 const TMDB_KEY = process.env.TMDB_KEY;
 const LANG = process.env.TMDB_LANG || 'ru-RU';
 
-// работаем ТОЛЬКО с data
-const DATA_DIR = path.join(__dirname, 'data');
+// data остаётся в корне репозитория
+const DATA_DIR = path.join(__dirname, '..', 'data');
 
 // основной файл (как у тебя исторически)
 const OUT_FILE = path.join(DATA_DIR, 'collectionsIndex.json');
