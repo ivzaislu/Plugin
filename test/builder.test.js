@@ -8,6 +8,7 @@ const { spawn } = require('node:child_process');
 
 const repoRoot = path.resolve(__dirname, '..');
 const builderPath = path.join(repoRoot, 'builder', 'build-index.js');
+const { countQualifiedParts } = require(builderPath);
 
 function runBuilder(args, env = {}) {
   return new Promise((resolve, reject) => {
@@ -39,6 +40,19 @@ function close(server) {
   });
 }
 
+test('quality filter counts only non-adult parts that meet the vote threshold', () => {
+  assert.equal(
+    countQualifiedParts([
+      { vote_count: 100, adult: false },
+      { vote_count: 10, adult: false },
+      { vote_count: 9, adult: false },
+      { vote_count: 1000, adult: true },
+      {},
+    ], 10),
+    2
+  );
+});
+
 test('builder fails cleanly when TMDB_KEY is missing', async () => {
   const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'collections-builder-no-key-'));
   const result = await runBuilder(
@@ -53,7 +67,7 @@ test('builder fails cleanly when TMDB_KEY is missing', async () => {
   assert.match(result.stderr, /TMDB_KEY env is required/);
 });
 
-test('builder discovers collections, preserves existing data, deduplicates movies and retries 429', async (t) => {
+test('builder discovers quality collections, preserves existing data, deduplicates movies and retries 429', async (t) => {
   const tempRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'collections-builder-'));
   const dataDir = path.join(tempRoot, 'data');
   fs.mkdirSync(dataDir, { recursive: true });
@@ -104,7 +118,7 @@ test('builder discovers collections, preserves existing data, deduplicates movie
         return;
       }
       if (year === '2024') {
-        json(200, { page: 1, total_pages: 1, results: [{ id: 2 }, { id: 3 }, { id: 4 }] });
+        json(200, { page: 1, total_pages: 1, results: [{ id: 2 }, { id: 3 }, { id: 4 }, { id: 5 }] });
         return;
       }
       json(200, { page: 1, total_pages: 1, results: [] });
@@ -127,6 +141,10 @@ test('builder discovers collections, preserves existing data, deduplicates movie
       json(200, { id: 4, belongs_to_collection: { id: 300, name: 'Single Collection' } });
       return;
     }
+    if (url.pathname === '/3/movie/5') {
+      json(200, { id: 5, belongs_to_collection: { id: 400, name: 'Low Quality Collection' } });
+      return;
+    }
 
     if (url.pathname === '/3/collection/100') {
       collection100Requested = true;
@@ -145,7 +163,11 @@ test('builder discovers collections, preserves existing data, deduplicates movie
         name: 'Beta (коллекция)',
         poster_path: '/beta.jpg',
         backdrop_path: '/beta-bg.jpg',
-        parts: [{ id: 21 }, { id: 22 }, { id: 23 }],
+        parts: [
+          { id: 21, vote_count: 80, adult: false },
+          { id: 22, vote_count: 12, adult: false },
+          { id: 23, vote_count: 2, adult: false },
+        ],
       });
       return;
     }
@@ -156,7 +178,22 @@ test('builder discovers collections, preserves existing data, deduplicates movie
         name: 'Single Collection',
         poster_path: null,
         backdrop_path: null,
-        parts: [{ id: 31 }],
+        parts: [{ id: 31, vote_count: 100, adult: false }],
+      });
+      return;
+    }
+
+    if (url.pathname === '/3/collection/400') {
+      json(200, {
+        id: 400,
+        name: 'Low Quality Collection',
+        poster_path: null,
+        backdrop_path: null,
+        parts: [
+          { id: 41, vote_count: 25, adult: false },
+          { id: 42, vote_count: 3, adult: false },
+          { id: 43, vote_count: 500, adult: true },
+        ],
       });
       return;
     }
@@ -179,6 +216,8 @@ test('builder discovers collections, preserves existing data, deduplicates movie
       '--checkpointEvery', '1',
       '--voteCountGte', '0',
       '--yearVoteCountGte', '0',
+      '--minPartVoteCount', '10',
+      '--minQualifiedParts', '2',
     ],
     {
       TMDB_KEY: 'test-key',
@@ -193,6 +232,7 @@ test('builder discovers collections, preserves existing data, deduplicates movie
   assert.equal(collection100Requested, false);
   assert.equal(collection200Attempts, 2);
   assert.match(result.stdout, /OK:/);
+  assert.match(result.stdout, /quality gate/);
 
   const output = JSON.parse(
     fs.readFileSync(path.join(dataDir, 'collectionsIndex.json'), 'utf8')
@@ -201,15 +241,18 @@ test('builder discovers collections, preserves existing data, deduplicates movie
   assert.equal(output.total, 2);
   assert.equal(output.meta.in_progress, false);
   assert.equal(output.meta.discovery_pages_scanned, 2);
-  assert.equal(output.meta.discovery_rows_seen, 5);
-  assert.equal(output.meta.unique_movies_checked, 4);
+  assert.equal(output.meta.discovery_rows_seen, 6);
+  assert.equal(output.meta.unique_movies_checked, 5);
   assert.equal(output.meta.duplicate_movies_skipped, 1);
   assert.equal(output.meta.existing_collections_seen, 1);
-  assert.equal(output.meta.collection_requests, 2);
+  assert.equal(output.meta.collection_requests, 3);
   assert.equal(output.meta.collections_rejected_single_part, 1);
+  assert.equal(output.meta.collections_rejected_low_quality, 1);
   assert.equal(output.meta.added_now, 1);
   assert.equal(output.meta.retries, 1);
   assert.equal(output.meta.request_errors, 0);
+  assert.equal(output.meta.config.min_part_vote_count, 10);
+  assert.equal(output.meta.config.min_qualified_parts, 2);
 
   const existingAfter = output.items.find((item) => item.id === 100);
   assert.deepEqual(existingAfter, existing.items[0]);
@@ -224,4 +267,5 @@ test('builder discovers collections, preserves existing data, deduplicates movie
   });
 
   assert.equal(output.items.some((item) => item.id === 300), false);
+  assert.equal(output.items.some((item) => item.id === 400), false);
 });
