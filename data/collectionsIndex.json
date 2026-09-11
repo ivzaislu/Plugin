@@ -1,10 +1,36 @@
 {
-  "updated_at": 1786940801716,
-  "total": 1429,
+  "updated_at": 1789144548873,
+  "total": 1438,
   "meta": {
-    "pages_scanned": 120,
-    "movies_scanned": 2400,
-    "added_now": 1
+    "in_progress": false,
+    "discovery_pages_scanned": 180,
+    "discovery_rows_seen": 3600,
+    "unique_movies_checked": 3597,
+    "duplicate_movies_skipped": 3,
+    "existing_collections_seen": 1293,
+    "collection_requests": 12,
+    "collections_rejected_single_part": 0,
+    "collections_rejected_low_quality": 3,
+    "added_now": 9,
+    "api_requests": 3789,
+    "retries": 0,
+    "request_errors": 0,
+    "config": {
+      "global_pages": 180,
+      "global_sort": "popularity.desc",
+      "global_vote_count_gte": 200,
+      "year_pages": 0,
+      "year_alt_pages": 0,
+      "year_vote_count_gte": 25,
+      "min_part_vote_count": 10,
+      "min_qualified_parts": 2,
+      "from_year": 1978,
+      "to_year": 2027,
+      "include_adult": false,
+      "max_collections": 3500,
+      "delay_ms": 100,
+      "max_retries": 5
+    }
   },
   "items": [
     {
@@ -10009,6 +10035,69 @@
       "poster_path": "/EV0EVTw3nJ0Zw9rugnlid3Gv2u.jpg",
       "backdrop_path": "/uUzIGnYPja6rnzNw81105KVpr8S.jpg",
       "parts_count": 4
+    },
+    {
+      "id": 1285493,
+      "name": "It Came from Outer Space",
+      "poster_path": "/eBptQp99cmbffdcH6atn8BHfGJ4.jpg",
+      "backdrop_path": "/o48bwxACaXDruAB8Gh7d4CRirH5.jpg",
+      "parts_count": 2
+    },
+    {
+      "id": 170452,
+      "name": "Патруль времени",
+      "poster_path": "/wCgmGu3CKxmQdW4sWqYtHu4ZkWd.jpg",
+      "backdrop_path": "/mIqsp7AFmyTYjJ4N9qv3FhAUz60.jpg",
+      "parts_count": 2
+    },
+    {
+      "id": 1762706,
+      "name": "The Thundermans",
+      "poster_path": null,
+      "backdrop_path": null,
+      "parts_count": 2
+    },
+    {
+      "id": 1755848,
+      "name": "Game of Death",
+      "poster_path": "/4jM69iQ7aR3lJeZl74i2hntNFTd.jpg",
+      "backdrop_path": "/4nwtnqpDpa8LtuMjUtQLyjPQQVA.jpg",
+      "parts_count": 2
+    },
+    {
+      "id": 421904,
+      "name": "Бэтмен: Анимационная вселенная DC",
+      "poster_path": "/4fDffWkGuIt62GQVAUTUgRoZxT2.jpg",
+      "backdrop_path": "/l0udVVfpZ1LzeH5IxC3U2UI5EiI.jpg",
+      "parts_count": 3
+    },
+    {
+      "id": 1755843,
+      "name": "Bullet Train",
+      "poster_path": null,
+      "backdrop_path": null,
+      "parts_count": 2
+    },
+    {
+      "id": 499270,
+      "name": "Коллекция Оверлорда",
+      "poster_path": "/somzsO70gDrSNmg1yLvTOxRhGfM.jpg",
+      "backdrop_path": "/lMdci6AXv6fHtTowisqMPlQN8Nw.jpg",
+      "parts_count": 3
+    },
+    {
+      "id": 492969,
+      "name": "Приключения Тэда Джонса",
+      "poster_path": "/mEXDCS3FdEEWGlPmewKK6mKuYT5.jpg",
+      "backdrop_path": "/9iTuTyvEu9TnbbPTVmuswPwZrP.jpg",
+      "parts_count": 3
+    },
+    {
+      "id": 1473079,
+      "name": "Chickenhare",
+      "poster_path": "/yAGImVeUMmQAFEUEKzvKPiltsGt.jpg",
+      "backdrop_path": null,
+      "parts_count": 2
     }
   ]
 }
