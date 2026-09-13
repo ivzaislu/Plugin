@@ -1,18 +1,18 @@
 {
-  "updated_at": 1789200827510,
-  "total": 1438,
+  "updated_at": 1789288725742,
+  "total": 1439,
   "meta": {
     "in_progress": false,
     "discovery_pages_scanned": 180,
     "discovery_rows_seen": 3600,
-    "unique_movies_checked": 3600,
-    "duplicate_movies_skipped": 0,
-    "existing_collections_seen": 1304,
-    "collection_requests": 3,
+    "unique_movies_checked": 3599,
+    "duplicate_movies_skipped": 1,
+    "existing_collections_seen": 1308,
+    "collection_requests": 5,
     "collections_rejected_single_part": 0,
-    "collections_rejected_low_quality": 3,
-    "added_now": 0,
-    "api_requests": 3783,
+    "collections_rejected_low_quality": 4,
+    "added_now": 1,
+    "api_requests": 3784,
     "retries": 0,
     "request_errors": 0,
     "config": {
@@ -10097,6 +10097,13 @@
       "name": "Chickenhare",
       "poster_path": "/yAGImVeUMmQAFEUEKzvKPiltsGt.jpg",
       "backdrop_path": null,
+      "parts_count": 2
+    },
+    {
+      "id": 1727431,
+      "name": "Mickey's… Upon a Christmas",
+      "poster_path": "/PtfMu9gDzbzZrwwpF5g8aSluCV.jpg",
+      "backdrop_path": "/d2lMRiuZFd0axT6nKpM4rZX44Fs.jpg",
       "parts_count": 2
     }
   ]
