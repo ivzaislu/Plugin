@@ -1,16 +1,16 @@
 {
-  "updated_at": 1790762557572,
-  "total": 1453,
+  "updated_at": 1790850401652,
+  "total": 1454,
   "meta": {
     "in_progress": false,
     "discovery_pages_scanned": 180,
     "discovery_rows_seen": 3600,
-    "unique_movies_checked": 3600,
-    "duplicate_movies_skipped": 0,
-    "existing_collections_seen": 1309,
-    "collection_requests": 6,
+    "unique_movies_checked": 3599,
+    "duplicate_movies_skipped": 1,
+    "existing_collections_seen": 1310,
+    "collection_requests": 7,
     "collections_rejected_single_part": 0,
-    "collections_rejected_low_quality": 5,
+    "collections_rejected_low_quality": 6,
     "added_now": 1,
     "api_requests": 3786,
     "retries": 0,
@@ -10203,6 +10203,13 @@
       "poster_path": "/5VTpP03x8gPf14z9XXFvq0S30ct.jpg",
       "backdrop_path": null,
       "parts_count": 13
+    },
+    {
+      "id": 525711,
+      "name": "Большой толстый лгун",
+      "poster_path": "/a5Ht0GGyXWwf1SabBVLcXFGEiQ.jpg",
+      "backdrop_path": "/vZQ0BxmRD5gUTtJak4R3Q81VteG.jpg",
+      "parts_count": 2
     }
   ]
 }
