@@ -1,18 +1,18 @@
 {
-  "updated_at": 1791369512812,
-  "total": 1461,
+  "updated_at": 1791456931295,
+  "total": 1462,
   "meta": {
     "in_progress": false,
     "discovery_pages_scanned": 180,
     "discovery_rows_seen": 3600,
-    "unique_movies_checked": 3600,
-    "duplicate_movies_skipped": 0,
-    "existing_collections_seen": 1325,
+    "unique_movies_checked": 3599,
+    "duplicate_movies_skipped": 1,
+    "existing_collections_seen": 1335,
     "collection_requests": 8,
-    "collections_rejected_single_part": 0,
+    "collections_rejected_single_part": 1,
     "collections_rejected_low_quality": 6,
-    "added_now": 2,
-    "api_requests": 3788,
+    "added_now": 1,
+    "api_requests": 3787,
     "retries": 0,
     "request_errors": 0,
     "config": {
@@ -10258,6 +10258,13 @@
       "name": "Buddy Games",
       "poster_path": "/j1kcRX3pEcyRUnEbPXZvH6sWxjl.jpg",
       "backdrop_path": "/bGQIPzeJzpRoBIvooXQbiMHAy5h.jpg",
+      "parts_count": 2
+    },
+    {
+      "id": 205029,
+      "name": "Риф",
+      "poster_path": "/ly1JJzxHvMDWQBvFTI7MPZS8eAB.jpg",
+      "backdrop_path": "/1PO4lCAjzBgLtKrMCynVXldC0e7.jpg",
       "parts_count": 2
     }
   ]
