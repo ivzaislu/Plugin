@@ -95,7 +95,7 @@ class NinePesoCatalogTests(unittest.TestCase):
         self.assertEqual(updated["progress"]["tv_series"], 7)
         self.assertTrue({"1", "2", "3", "6", "7"} <= set(updated["movies"]))
         self.assertTrue({"1", "3", "4", "6"} <= set(updated["tv_series"]))
-        self.assertIn("movies_tail", updated["progress"])
+        self.assertIn("tv_series_tail", updated["progress"])
         self.assertIn("tv_series_holes", updated["progress"])
         self.assertIn("movies_recheck", updated["progress"])
         self.assertIn("OK:", result.stdout)
