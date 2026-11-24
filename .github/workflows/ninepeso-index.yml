@@ -3,7 +3,7 @@ name: Maintain 9peso catalog (every 3 hours)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "17 */1 * * *"
 
 permissions:
   contents: write
