@@ -1,0 +1,54 @@
+name: Maintain 9peso catalog (every 3 hours)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: 9peso-catalog
+  cancel-in-progress: false
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - name: Checkout with history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test parser without network access
+        run: python -m unittest discover -s test -p "test_ninepeso*.py" -v
+
+      - name: Update existing 9peso catalog
+        env:
+          NINEPESO_PROXY: ${{ secrets.NINEPESO_PROXY }}
+        run: |
+          python builder/ninepeso_catalog.py \
+            --catalog data/9peso.json \
+            --forward 20 --tail 50 --holes 20 --refresh 10 \
+            --delay-ms 1000 --timeout 35 --retries 3
+
+      - name: Commit valid updated catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/9peso.json
+          if git diff --cached --quiet; then
+            echo "No catalog changes"
+            exit 0
+          fi
+          git commit -m "Update 9peso catalog"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
