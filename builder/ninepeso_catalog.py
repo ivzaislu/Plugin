@@ -39,6 +39,22 @@ def load_catalog(path):
     return db
 
 
+def load_state(path, db):
+    if not path.exists():
+        return
+    with path.open(encoding="utf-8") as stream:
+        state = json.load(stream)
+    if not isinstance(state, dict) or state.get("version") != 1 or             not isinstance(state.get("progress"), dict):
+        raise ValueError("Invalid maintenance progress file")
+    for key, value in state["progress"].items():
+        if type(value) is not int or value < 0:
+            raise ValueError("Invalid maintenance progress value")
+        if key in ("movies", "tv_series"):
+            db["progress"][key] = max(db["progress"][key], value)
+        elif key.endswith(("_tail", "_holes", "_refresh")):
+            db["progress"][key] = value
+
+
 def metadata_record(data, expected):
     if not isinstance(data, dict) or type(data.get("id")) is not int \
             or data["id"] != expected:
@@ -211,16 +227,24 @@ def main():
         parser.error("timeout must be positive; retries must be 1-5")
 
     db = load_catalog(args.catalog)
+    state_path = args.catalog.with_name("9peso-maintenance.json")
+    load_state(state_path, db)
     counts = {kind: len(db[kind]) for kind, _ in KINDS}
+    changed = 0
     client = Client(args.api_base, os.getenv("NINEPESO_PROXY", ""),
                     args.delay_ms, args.timeout, args.retries)
     for kind, endpoint in KINDS:
         stats = scan_kind(db, kind, endpoint, client, args)
+        changed += stats["added"] + stats["changed"]
         print(f"{kind}: {stats}; total={len(db[kind])}, progress={db['progress'][kind]}", flush=True)
     if any(len(db[kind]) < counts[kind] for kind, _ in KINDS):
         raise ValueError("Refusing catalog shrinkage")
-    save_atomic(args.catalog, db)
-    print(f"OK: {client.requests} requests, saved {args.catalog.name}", flush=True)
+    # Avoid a new 16-MB Git blob every three hours when no titles change.
+    # Progress still survives the next runner in the tiny sidecar file.
+    if changed > 0:
+        save_atomic(args.catalog, db)
+    save_atomic(state_path, {"version": 1, "progress": db["progress"]})
+    print(f"OK: {client.requests} requests; metadata_changes={changed}", flush=True)
 
 
 if __name__ == "__main__":

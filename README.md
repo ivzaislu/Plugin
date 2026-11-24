@@ -15,13 +15,17 @@ https://raw.githubusercontent.com/ivzaislu/Plugin/main/data/9peso.json
 GitHub Actions maintains the catalog every three hours, or on manual dispatch.
 The standard-library Python parser checks up to 20 forward IDs, 50 tail IDs,
 20 historical gaps and 10 known records PER TYPE on each run. Independent
-progress cursors are saved in the existing version-1 Lampac JSON schema.
+progress cursors are stored in a small data/9peso-maintenance.json sidecar.
+The published data/9peso.json retains the existing version-1 Lampac schema.
+The large catalog is committed only when actual records change, preventing
+unnecessary multi-megabyte Git history growth every three hours.
 
 Safety rules:
 - Never start from empty data: require existing nonempty movies and tv_series.
 - Preserve every known record, including on an individual HTTP 404/410.
 - Abort without publishing on API transport failures, bad JSON or invalid IDs.
 - Write atomically; publish only completed successful runs.
+- Commit only the small progress sidecar on cycles with no metadata changes.
 - Do not keep streams, signed URLs, seasons or episode metadata in the index.
 
 If the API is unreachable from GitHub-hosted runners, add a repository Actions

@@ -75,7 +75,7 @@ class NinePesoCatalogTests(unittest.TestCase):
         self.thread.join(timeout=3)
         self.tmp.cleanup()
 
-    def run_indexer(self):
+    def run_indexer(self, extra=()):
         env = dict(os.environ, NINEPESO_PROXY="",
                    HTTP_PROXY="", HTTPS_PROXY="", http_proxy="", https_proxy="")
         return subprocess.run([
@@ -83,7 +83,7 @@ class NinePesoCatalogTests(unittest.TestCase):
             "--api-base", f"http://127.0.0.1:{self.server.server_port}",
             "--forward", "2", "--tail", "2", "--holes", "2",
             "--refresh", "1", "--delay-ms", "0",
-            "--timeout", "2", "--retries", "1",
+            "--timeout", "2", "--retries", "1", *extra,
         ], capture_output=True, text=True, env=env, timeout=15)
 
     def test_incremental_new_and_backfilled_ids(self):
@@ -99,6 +99,18 @@ class NinePesoCatalogTests(unittest.TestCase):
         self.assertIn("tv_series_holes", updated["progress"])
         self.assertIn("movies_recheck", updated["progress"])
         self.assertIn("OK:", result.stdout)
+        state = json.loads((self.db.parent / "9peso-maintenance.json").read_text())
+        self.assertEqual(state["progress"]["movies"], 8)
+
+    def test_empty_cycle_only_updates_small_progress_file(self):
+        before = self.db.read_bytes()
+        result = self.run_indexer(("--forward", "0", "--tail", "0",
+                                   "--holes", "0", "--refresh", "0"))
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual(self.db.read_bytes(), before)
+        state_path = self.db.parent / "9peso-maintenance.json"
+        self.assertTrue(state_path.exists())
+        self.assertEqual(json.loads(state_path.read_text())["version"], 1)
 
     def test_api_failure_never_modifies_existing_catalog(self):
         before = self.db.read_bytes()

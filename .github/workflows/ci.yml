@@ -45,3 +45,6 @@ jobs:
         with:
           python-version: "3.12"
       - run: python -m unittest discover -s test -p "test_ninepeso*.py" -v
+      - name: Validate the imported large 9peso catalog
+        run: |
+          python -c "from builder.ninepeso_catalog import load_catalog, CATALOG; db=load_catalog(CATALOG); print('movies', len(db['movies']), 'series', len(db['tv_series']))"
